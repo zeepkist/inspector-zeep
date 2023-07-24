@@ -1,19 +1,13 @@
 import { mkdir } from 'node:fs/promises'
 
-import { gray, green, red, yellow } from 'colorette'
-import { Client, Events, GatewayIntentBits, italic } from 'discord.js'
+import { blue, gray, green, red, yellow } from 'colorette'
+import { Client, Events, GatewayIntentBits, User } from 'discord.js'
 import { config } from 'dotenv'
 import { rimraf } from 'rimraf'
 
-import {
-  BLOCK_LIMIT,
-  checkLevelIsValid,
-  LEVELS,
-  MAXIMUM_TIME,
-  MINIMUM_CHECKPOINTS,
-  MINIMUM_TIME
-} from './checkLevelIsValid.js'
+import { checkLevelIsValid } from './checkLevelIsValid.js'
 import { getAllMessages } from './getAllMessages.js'
+import { sendMessage } from './sendMessage.js'
 import { download } from './steamcmd.js'
 
 config()
@@ -23,8 +17,25 @@ const DOWNLOAD_DIR = './downloads/'
 const SUBMISSION_CHANNEL_ID = '1127296166401417256' // 50 Block Challenge
 const DISCUSSION_CHANNEL_ID = '1127296735904022621' // 50 Block Challenge
 
+const submissions = new Map<string, User>()
+
+let processedSubmissions = 0
+
 await rimraf(DOWNLOAD_DIR)
 await mkdir(DOWNLOAD_DIR)
+
+/*
+function* chunks(items: [string, User][]) {
+  let index = 0
+  const count = 2
+  for (; index < items.length; index++) {
+    yield items.slice(index, index + count)
+    index += count - 1
+  }
+
+  return []
+}
+*/
 
 const client = new Client({
   intents: [GatewayIntentBits.Guilds, GatewayIntentBits.MessageContent]
@@ -41,8 +52,6 @@ client.on(Events.ClientReady, async () => {
   }
 
   for await (const message of getAllMessages(discussionChannel)) {
-    console.debug(gray(`[Discord] Processing message ${message.id}`))
-
     if (message.author.bot) {
       console.debug(gray(`[Discord] Deleting bot message ${message.id}`))
       message.delete()
@@ -57,8 +66,6 @@ client.on(Events.ClientReady, async () => {
   }
 
   for await (const message of getAllMessages(submissionChannel)) {
-    console.debug(gray(`[Discord] Processing message ${message.id}`))
-
     if (message.author.bot) {
       console.debug(gray(`[Discord] Deleting bot message ${message.id}`))
       message.delete()
@@ -70,6 +77,14 @@ client.on(Events.ClientReady, async () => {
         /https:\/\/steamcommunity.com\/sharedfiles\/filedetails\/\?id=(\d+)/
       )
 
+    if (message.attachments.size > 0) {
+      console.warn(
+        yellow(
+          `[Discord] Message ${message.id} by ${message.author} contains attachments. Please check manually.`
+        )
+      )
+    }
+
     if (!link) {
       console.warn(
         yellow(
@@ -79,49 +94,58 @@ client.on(Events.ClientReady, async () => {
       continue
     }
 
-    await download(link[1], DOWNLOAD_DIR)
-    await checkLevelIsValid(`${DOWNLOAD_DIR}${link[1]}`, message.author)
-
-    /*
-    message[1].attachments.forEach(async (attachment) => {
-      console.log(`[Discord] Processing attachment ${attachment}`)
-    })
-    */
+    submissions.set(link[1], message.author)
   }
 
-  console.log(green('[Discord] Finished processing messages'))
+  console.log(blue(`[Discord] Found ${submissions.size} submissions`))
 
-  for (const level of LEVELS) {
-    let messageContent = `${level.author}, your submission (${italic(
-      level.name
-    )}) does not meet the following requirements:\n`
+  /*
+  for (const chunk of chunks([...submissions.entries()])) {
+    console.log(
+      blue(
+        `[Steam] Downloading ${chunk.length} levels (${
+          submissions.size - processedSubmissions
+        } remaining)`
+      )
+    )
 
-    if (level.overBlockLimit) {
-      messageContent += `- Over the block limit of ${BLOCK_LIMIT} blocks\n`
-    }
+    await Promise.all(
+      chunk.map(async ([workshopId, author]) => {
+        */
+  for (const [workshopId, author] of submissions.entries()) {
+    processedSubmissions++
+    console.debug(
+      blue(
+        `[Inspector] Verifying ${workshopId}. ${
+          submissions.size - processedSubmissions
+        } remaining (${Math.trunc(
+          (processedSubmissions / submissions.size) * 100
+        )}%)`
+      )
+    )
 
-    if (level.underTimeLimit || level.overTimeLimit) {
-      messageContent += `- Author time is ${
-        level.overTimeLimit ? 'over' : 'under'
-      } the ${level.overTimeLimit ? 'maximum' : 'minimum'} of ${
-        level.overTimeLimit ? MAXIMUM_TIME : MINIMUM_TIME
-      } seconds\n`
-    }
+    try {
+      await download(workshopId, DOWNLOAD_DIR)
+      const levelCheck = await checkLevelIsValid(
+        `${DOWNLOAD_DIR}${workshopId}`,
+        author
+      )
 
-    if (level.underCheckpointLimit) {
-      messageContent += `- Less than the minimum of ${MINIMUM_CHECKPOINTS} checkpoints\n`
-    }
+      if (!levelCheck || levelCheck?.isValid) {
+        continue
+      }
 
-    messageContent +=
-      'You can fix these issues by updating your workshop submission before the submission deadline! <:YannicWink:1108486419032309760>'
-
-    if (
-      level.overBlockLimit ||
-      level.underTimeLimit ||
-      level.overTimeLimit ||
-      level.underCheckpointLimit
-    ) {
-      await discussionChannel.send(messageContent)
+      sendMessage(
+        discussionChannel,
+        levelCheck.name,
+        author,
+        levelCheck.validity
+      )
+    } catch (error) {
+      console.error(
+        red(`[Inspector] An error occured while processing ${workshopId}`),
+        error
+      )
     }
   }
 
@@ -129,25 +153,3 @@ client.on(Events.ClientReady, async () => {
 })
 
 client.login(process.env.DISCORD_TOKEN)
-
-function* chunks(items: any[]) {
-  let index = 0
-  const count = 4
-  for (; index < items.length; index++) {
-    yield items.slice(index, index + count)
-    index += count - 1
-  }
-
-  return []
-}
-
-for (const chunk of chunks([1, 2, 3, 4, 5, 6, 7, 8, 9])) {
-  console.log(chunk)
-  /*
-  await Promise.all(
-    chunk.map(async item => {
-      console.log(item)
-    })
-  )
-  */
-}

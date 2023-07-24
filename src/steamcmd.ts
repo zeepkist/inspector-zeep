@@ -11,10 +11,10 @@ export const download = async (workshopId: string, destinationPath: string) => {
   const execPromise = promisify(exec)
   try {
     await execPromise(command)
-    console.log(gray(`[SteamCMD] Downloaded workshop item ${workshopId}`))
+    console.log(gray(`[Steam] Downloaded workshop item ${workshopId}`))
   } catch (error: any) {
     console.log(
-      red(`[SteamCMD] Error downloading workshop item: ${error?.message}`)
+      red(`[Steam] Error downloading workshop item: ${error?.message}`)
     )
     throw error
   }

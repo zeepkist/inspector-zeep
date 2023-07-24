@@ -3,24 +3,13 @@ import { opendir, readFile } from 'node:fs/promises'
 import { gray, red, yellow } from 'colorette'
 import { User } from 'discord.js'
 
-export const BLOCK_LIMIT = 50 // 4000
-export const MINIMUM_TIME = 30 // seconds
-export const MAXIMUM_TIME = 60 // seconds
-export const MINIMUM_CHECKPOINTS = 2
-
-interface Level {
-  workshopId: string
-  name: string
-  author: User
-  time: number
-  blocks: number
-  overBlockLimit: boolean
-  underTimeLimit: boolean
-  overTimeLimit: boolean
-  underCheckpointLimit: boolean
-}
-
-export const LEVELS: Level[] = []
+import {
+  BLOCK_LIMIT,
+  MAXIMUM_TIME,
+  MINIMUM_CHECKPOINTS,
+  MINIMUM_TIME
+} from './requirements.js'
+import type { Level } from './types.js'
 
 const getFiles = async (path: string) => {
   const directory = await opendir(path)
@@ -99,15 +88,30 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
   const blocks = levelLines.length - 4
   const time = Number.parseFloat(levelLines[2].split(',')[0])
 
-  LEVELS.push({
+  const isOverBlockLimit = !validateBlockLimit(blocks)
+  const isUnderTimeLimit = !validateMinTime(time)
+  const isOverTimeLimit = !validateMaxTime(time)
+  const isUnderCheckpointLimit = !validateCheckpointLimit(levelLines)
+
+  const response: Level = {
     workshopId: workshopPath.split('/').pop() ?? '',
     name: levelFile.split('/').pop()?.replace('.zeeplevel', '') ?? '',
     author,
-    time: Number.parseFloat(levelLines[2].split(',')[0]),
+    time,
     blocks,
-    overBlockLimit: !validateBlockLimit(blocks),
-    underTimeLimit: !validateMinTime(time),
-    overTimeLimit: !validateMaxTime(time),
-    underCheckpointLimit: !validateCheckpointLimit(levelLines)
-  })
+    isValid: !(
+      isOverBlockLimit ||
+      isUnderTimeLimit ||
+      isOverTimeLimit ||
+      isUnderCheckpointLimit
+    ),
+    validity: {
+      isOverBlockLimit,
+      isUnderTimeLimit,
+      isOverTimeLimit,
+      isUnderCheckpointLimit
+    }
+  }
+
+  return response
 }
