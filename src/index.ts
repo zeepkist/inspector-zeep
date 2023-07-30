@@ -1,7 +1,7 @@
 import { mkdir } from 'node:fs/promises'
 
-import { blue, gray, green, red, yellow } from 'colorette'
-import { Client, Events, GatewayIntentBits, User } from 'discord.js'
+import { blue, gray, red, yellow } from 'colorette'
+import { Client, Events, GatewayIntentBits, Message, User } from 'discord.js'
 import { config } from 'dotenv'
 import { rimraf } from 'rimraf'
 
@@ -17,7 +17,7 @@ const DOWNLOAD_DIR = './downloads/'
 const SUBMISSION_CHANNEL_ID = '1127296166401417256' // 50 Block Challenge
 const DISCUSSION_CHANNEL_ID = '1127296735904022621' // 50 Block Challenge
 
-const submissions = new Map<string, User>()
+const submissions = new Map<string, [Message, User]>()
 
 let processedSubmissions = 0
 
@@ -94,7 +94,7 @@ client.on(Events.ClientReady, async () => {
       continue
     }
 
-    submissions.set(link[1], message.author)
+    submissions.set(link[1], [message, message.author])
   }
 
   console.log(blue(`[Discord] Found ${submissions.size} submissions`))
@@ -112,7 +112,7 @@ client.on(Events.ClientReady, async () => {
     await Promise.all(
       chunk.map(async ([workshopId, author]) => {
         */
-  for (const [workshopId, author] of submissions.entries()) {
+  for (const [workshopId, [message, author]] of submissions.entries()) {
     processedSubmissions++
     console.debug(
       blue(
@@ -131,9 +131,18 @@ client.on(Events.ClientReady, async () => {
         author
       )
 
+      // Level is valid, add checkmark reaction
       if (!levelCheck || levelCheck?.isValid) {
+        submissionChannel.messages.react(
+          message,
+          '<:zk_yes:1080204636583104573>'
+        )
         continue
       }
+
+      // Level is invalid, send message to discussion channel and add cross reaction
+
+      submissionChannel.messages.react(message, '<:zk_no:1080204670418558987>')
 
       sendMessage(
         discussionChannel,
