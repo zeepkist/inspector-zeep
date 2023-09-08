@@ -3,6 +3,7 @@ import { italic, TextBasedChannel, User } from 'discord.js'
 import {
   BLOCK_LIMIT,
   MAXIMUM_TIME,
+  MAXIMUM_WIDTH,
   MINIMUM_CHECKPOINTS,
   MINIMUM_TIME
 } from './requirements.js'
@@ -18,7 +19,8 @@ export const sendMessage = async (
     isOverBlockLimit,
     isOverTimeLimit,
     isUnderTimeLimit,
-    isUnderCheckpointLimit
+    isUnderCheckpointLimit,
+    isOverWidthLimit
   } = validity
 
   let messageContent = `${author}, your submission (${italic(
@@ -39,6 +41,11 @@ export const sendMessage = async (
 
   if (isUnderCheckpointLimit) {
     messageContent += `- Less than the minimum of ${MINIMUM_CHECKPOINTS} checkpoints\n`
+  }
+
+  if (isOverWidthLimit) {
+    const size = Math.floor(MAXIMUM_WIDTH) - 1
+    messageContent += `- Over the maximum size of ${size}x${size}x${size} blocks \n`
   }
 
   messageContent +=

@@ -3,15 +3,23 @@ import { promisify } from 'node:util'
 
 import { gray, red } from 'colorette'
 
-const appId = '1440670'
+export const download = async (
+  appId: string,
+  query: string,
+  workshopIds: string[],
+  destinationPath: string
+) => {
+  const command = `steamcmd +login anonymous ${query} +quit`
 
-export const download = async (workshopId: string, destinationPath: string) => {
-  const command = `steamcmd +login anonymous +workshop_download_item ${appId} ${workshopId} +quit && move "C:/ProgramData/chocolatey/lib/steamcmd/tools/steamapps/workshop/content/${appId}/${workshopId}" ${destinationPath}`
+  let move = ''
+  for (const workshopId of workshopIds) {
+    move += ` && move "C:/ProgramData/chocolatey/lib/steamcmd/tools/steamapps/workshop/content/${appId}/${workshopId}" ${destinationPath}`
+  }
 
   const execPromise = promisify(exec)
   try {
-    await execPromise(command)
-    console.log(gray(`[Steam] Downloaded workshop item ${workshopId}`))
+    await execPromise(command + move)
+    console.log(gray(`[Steam] Downloaded ${workshopIds}`))
   } catch (error: any) {
     console.log(
       red(`[Steam] Error downloading workshop item: ${error?.message}`)
