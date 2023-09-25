@@ -58,7 +58,7 @@ const validateMaxTime = (time: number) => {
 
 const validateCheckpointLimit = (lines: string[]) => {
   const checkpointBlockIds = new Set([
-    22, 372, 373, 1275, 1276, 1277, 1278, 1279
+    22, 372, 373, 1275, 1276, 1277, 1278, 1279, 1615
   ])
 
   const checkpoints = lines.filter(line => {
@@ -70,6 +70,7 @@ const validateCheckpointLimit = (lines: string[]) => {
     console.error(red(`[Check] Level has ${checkpoints} checkpoints`))
     return false
   } else {
+    console.log(gray(`[Check] Level has ${checkpoints} checkpoints`))
     return true
   }
 }
@@ -140,6 +141,7 @@ const validateMaximumWidth = (lines: string[]) => {
     return false
   }
 
+  console.log(gray(`[Check] Level is ${width}x${height}x${depth}`))
   return true
 }
 
