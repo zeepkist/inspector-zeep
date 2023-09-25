@@ -74,7 +74,7 @@ client.on(Events.ClientReady, async () => {
     const link = message
       .toString()
       .match(
-        /https:\/\/steamcommunity.com\/sharedfiles\/filedetails\/\?id=(\d+)/
+        /https:\/\/steamcommunity\.com\/sharedfiles\/filedetails\/\?id=(\d+)/
       )
 
     if (message.attachments.size > 0) {
