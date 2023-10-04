@@ -25,7 +25,7 @@ const getFiles = async (path: string) => {
   return files
 }
 
-const validateBlockLimit = (blocks: number) => {
+export const validateBlockLimit = (blocks: number) => {
   if (blocks > BLOCK_LIMIT) {
     console.error(red(`[Check] Level has ${blocks} blocks`))
     return false

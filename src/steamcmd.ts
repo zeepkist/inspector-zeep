@@ -26,10 +26,15 @@ export const download = async (
       console.log(gray(`[Steam] Moved ${workshopId}`))
     }
     console.log(gray(`[Steam] Downloaded ${workshopIds}`))
-  } catch (error: any) {
-    console.log(
-      red(`[Steam] Error downloading workshop item: ${error?.message}`)
-    )
+  } catch (error: unknown) {
+    if (error instanceof Error) {
+      console.log(
+        red(`[Steam] Error downloading workshop item: ${error?.message}`)
+      )
+    } else {
+      console.log(red(`[Steam] Error downloading workshop item`), error)
+    }
+
     throw error
   }
 }
