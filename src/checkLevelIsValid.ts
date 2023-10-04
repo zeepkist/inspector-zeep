@@ -35,7 +35,7 @@ export const validateBlockLimit = (blocks: number) => {
   }
 }
 
-const validateMinTime = (time: number) => {
+export const validateMinTime = (time: number) => {
   if (time < MINIMUM_TIME) {
     console.error(red(`[Check] Level is ${time} seconds`))
     return false
@@ -44,7 +44,7 @@ const validateMinTime = (time: number) => {
   }
 }
 
-const validateMaxTime = (time: number) => {
+export const validateMaxTime = (time: number) => {
   if (time > MAXIMUM_TIME) {
     console.error(red(`[Check] Level is ${time} seconds`))
     return false
