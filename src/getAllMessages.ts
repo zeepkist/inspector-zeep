@@ -1,16 +1,12 @@
 import { gray } from 'colorette'
 import { Collection, Message, TextBasedChannel } from 'discord.js'
 
-type Messages =
-  | Collection<string, Message<true>>
-  | Collection<string, Message<false>>
-
 async function* messagesIterator(channel: TextBasedChannel) {
   let before
   let isDone = false
 
   while (!isDone) {
-    const messages: Messages = await channel.messages.fetch({
+    const messages: Collection<string, Message<boolean>> = await channel.messages.fetch({
       limit: 100,
       before
     })

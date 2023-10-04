@@ -25,7 +25,7 @@ const getFiles = async (path: string) => {
   return files
 }
 
-const validateBlockLimit = (blocks: number) => {
+export const validateBlockLimit = (blocks: number) => {
   if (blocks > BLOCK_LIMIT) {
     console.error(red(`[Check] Level has ${blocks} blocks`))
     return false
@@ -35,7 +35,7 @@ const validateBlockLimit = (blocks: number) => {
   }
 }
 
-const validateMinTime = (time: number) => {
+export const validateMinTime = (time: number) => {
   if (time < MINIMUM_TIME) {
     console.error(red(`[Check] Level is ${time} seconds`))
     return false
@@ -44,7 +44,7 @@ const validateMinTime = (time: number) => {
   }
 }
 
-const validateMaxTime = (time: number) => {
+export const validateMaxTime = (time: number) => {
   if (time > MAXIMUM_TIME) {
     console.error(red(`[Check] Level is ${time} seconds`))
     return false
@@ -76,6 +76,9 @@ const validateCheckpointLimit = (lines: string[]) => {
 }
 
 const validateMaximumWidth = (lines: string[]) => {
+  // Skip validation if no width limit
+  if (MAXIMUM_WIDTH === 0) return true
+
   const minimumPosition = {
     x: Number.POSITIVE_INFINITY,
     y: Number.POSITIVE_INFINITY,
