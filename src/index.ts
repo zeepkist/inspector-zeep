@@ -135,12 +135,9 @@ client.on(Events.ClientReady, async () => {
 
         // Level is valid, add checkmark reaction
         if (!levelCheck || levelCheck?.isValid) {
-          reactToMessage(submissionChannel, message, true)
+          reactToMessage(message, true)
           continue
         }
-
-        // Level is invalid, send message to discussion channel and add cross reaction
-        reactToMessage(submissionChannel, message, false)
 
         sendMessage(
           discussionChannel,
@@ -148,6 +145,9 @@ client.on(Events.ClientReady, async () => {
           author,
           levelCheck.validity
         )
+
+        // Level is invalid, send message to discussion channel and add cross reaction
+        reactToMessage(message, false)
       } catch (error) {
         console.error(
           red(`[Inspector] An error occured while processing ${workshopId}`),

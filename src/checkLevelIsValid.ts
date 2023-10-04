@@ -76,6 +76,9 @@ const validateCheckpointLimit = (lines: string[]) => {
 }
 
 const validateMaximumWidth = (lines: string[]) => {
+  // Skip validation if no width limit
+  if (MAXIMUM_WIDTH === 0) return true
+
   const minimumPosition = {
     x: Number.POSITIVE_INFINITY,
     y: Number.POSITIVE_INFINITY,
