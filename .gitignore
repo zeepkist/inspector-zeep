@@ -104,3 +104,4 @@ dist/
 
 .env
 downloads/
+hash/

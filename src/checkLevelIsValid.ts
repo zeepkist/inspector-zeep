@@ -1,8 +1,7 @@
-import { opendir, readFile } from 'node:fs/promises'
-
-import { gray, red, yellow } from 'colorette'
+import { gray, red } from 'colorette'
 import { User } from 'discord.js'
 
+import { getLevelFile } from './getLevelFile.js'
 import {
   BLOCK_LIMIT,
   MAXIMUM_TIME,
@@ -11,19 +10,6 @@ import {
   MINIMUM_TIME
 } from './requirements.js'
 import type { Level } from './types.js'
-
-const getFiles = async (path: string) => {
-  const directory = await opendir(path)
-  const files: string[] = []
-  for await (const file of directory) {
-    if (file.isDirectory()) {
-      files.push(...(await getFiles(`${path}/${file.name}`)))
-    } else {
-      files.push(`${path}/${file.name}`)
-    }
-  }
-  return files
-}
 
 export const validateBlockLimit = (blocks: number) => {
   if (blocks > BLOCK_LIMIT) {
@@ -149,33 +135,22 @@ const validateMaximumWidth = (lines: string[]) => {
 }
 
 export const checkLevelIsValid = async (workshopPath: string, author: User) => {
-  const files = await getFiles(workshopPath)
+  const level = await getLevelFile(workshopPath)
+  if (!level) return
 
-  const levelFile = files.find(file => file.endsWith('.zeeplevel'))
-
-  if (!levelFile) {
-    console.warn(yellow(`[Check] Level file not found in ${workshopPath}`))
-    return
-  }
-
-  const level = await readFile(levelFile, 'utf8')
-  const levelLines = level.split(/\r?\n/)
-  const blocks = levelLines.length - 4
-  const time = Number.parseFloat(levelLines[2].split(',')[0])
-
-  const isOverBlockLimit = !validateBlockLimit(blocks)
-  const isUnderTimeLimit = !validateMinTime(time)
-  const isOverTimeLimit = !validateMaxTime(time)
-  const isUnderCheckpointLimit = !validateCheckpointLimit(levelLines)
+  const isOverBlockLimit = !validateBlockLimit(level.blocks.length)
+  const isUnderTimeLimit = !validateMinTime(level.time)
+  const isOverTimeLimit = !validateMaxTime(level.time)
+  const isUnderCheckpointLimit = !validateCheckpointLimit(level.blocks)
   const isOverWidthLimit =
-    MAXIMUM_WIDTH === 0 ? false : !validateMaximumWidth(levelLines)
+    MAXIMUM_WIDTH === 0 ? false : !validateMaximumWidth(level.blocks)
 
   const response: Level = {
     workshopId: workshopPath.split('/').pop() ?? '',
-    name: levelFile.split('/').pop()?.replace('.zeeplevel', '') ?? '',
+    name: level.name,
     author,
-    time,
-    blocks,
+    time: level.time,
+    blocks: level.blocks.length,
     isValid: !(
       isOverBlockLimit ||
       isUnderTimeLimit ||
