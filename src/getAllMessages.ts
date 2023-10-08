@@ -6,7 +6,10 @@ async function* messagesIterator(channel: TextBasedChannel) {
   let isDone = false
 
   while (!isDone) {
-    const messages: Collection<string, Message<boolean>> = await channel.messages.fetch({
+    const messages: Collection<
+      string,
+      Message<boolean>
+    > = await channel.messages.fetch({
       limit: 100,
       before
     })

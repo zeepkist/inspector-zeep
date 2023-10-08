@@ -6,18 +6,23 @@ import { config } from 'dotenv'
 import { rimraf } from 'rimraf'
 
 import { checkLevelIsValid } from './checkLevelIsValid.js'
+import { hasLevelChanged } from './createLevelHash.js'
+import { addToPlaylist, sendPlaylist } from './createPlaylist.js'
 import { getAllMessages } from './getAllMessages.js'
 import { reactToMessage } from './reactToMessage.js'
+import { sendJudgeMessage } from './sendJudgeMessage.js'
 import { sendMessage } from './sendMessage.js'
 import { download } from './steamcmd.js'
 
 config()
 
 const DOWNLOAD_DIR = './downloads/'
+const HASH_DIR = './hash/'
 
 const APP_ID = '1440670'
 const DISCUSSION_CHANNEL_ID = process.env.DISCORD_DISCUSSION_CHANNEL_ID || ''
 const SUBMISSION_CHANNEL_ID = process.env.DISCORD_SUBMISSION_CHANNEL_ID || ''
+const JUDGE_CHANNEL_ID = process.env.DISCORD_JUDGE_CHANNEL_ID || ''
 
 const submissions = new Map<string, [Message, User]>()
 
@@ -25,6 +30,12 @@ let processedSubmissions = 0
 
 await rimraf(DOWNLOAD_DIR)
 await mkdir(DOWNLOAD_DIR)
+
+try {
+  await mkdir(HASH_DIR)
+} catch {
+  // Ignore
+}
 
 function* chunks(items: [string, [Message, User]][]) {
   let index = 0
@@ -46,7 +57,9 @@ client.on(Events.ClientReady, async () => {
 
   const discussionChannel = client.channels.cache.get(DISCUSSION_CHANNEL_ID)
   if (!discussionChannel || !discussionChannel.isTextBased()) {
-    console.error(red(`[Discord] Channel ${DISCUSSION_CHANNEL_ID} not found`))
+    console.error(
+      red(`[Discord] Discussion channel ${DISCUSSION_CHANNEL_ID} not found`)
+    )
     client.destroy()
     return
   }
@@ -60,7 +73,16 @@ client.on(Events.ClientReady, async () => {
 
   const submissionChannel = client.channels.cache.get(SUBMISSION_CHANNEL_ID)
   if (!submissionChannel || !submissionChannel.isTextBased()) {
-    console.error(red(`[Discord] Channel ${SUBMISSION_CHANNEL_ID} not found`))
+    console.error(
+      red(`[Discord] Submission channel ${SUBMISSION_CHANNEL_ID} not found`)
+    )
+    client.destroy()
+    return
+  }
+
+  const judgeChannel = client.channels.cache.get(JUDGE_CHANNEL_ID)
+  if (!judgeChannel || !judgeChannel.isTextBased()) {
+    console.error(red(`[Discord] Judge channel ${JUDGE_CHANNEL_ID} not found`))
     client.destroy()
     return
   }
@@ -128,14 +150,23 @@ client.on(Events.ClientReady, async () => {
       )
 
       try {
-        const levelCheck = await checkLevelIsValid(
-          `${DOWNLOAD_DIR}${workshopId}`,
-          author
-        )
+        const workshopPath = `${DOWNLOAD_DIR}${workshopId}`
+        const levelCheck = await checkLevelIsValid(workshopPath, author)
+
+        if (await hasLevelChanged(workshopPath)) {
+          sendJudgeMessage(
+            judgeChannel,
+            levelCheck?.name ?? '',
+            levelCheck?.isValid ?? false,
+            workshopId,
+            workshopPath
+          )
+        }
 
         // Level is valid, add checkmark reaction
         if (!levelCheck || levelCheck?.isValid) {
           reactToMessage(message, true)
+          await addToPlaylist(workshopPath, workshopId)
           continue
         }
 
@@ -156,6 +187,8 @@ client.on(Events.ClientReady, async () => {
       }
     }
   }
+
+  await sendPlaylist(judgeChannel)
 
   client.destroy()
 })
