@@ -23,7 +23,7 @@
     "@semantic-release/commit-analyzer": "~11.1.0",
     "@semantic-release/github": "~9.2.1",
     "@semantic-release/release-notes-generator": "~12.1.0",
-    "@types/node": "~20.8.2",
+    "@types/node": "~20.9.0",
     "@typescript-eslint/eslint-plugin": "~6.10.0",
     "@typescript-eslint/parser": "~6.10.0",
     "ava": "~5.3.1",
