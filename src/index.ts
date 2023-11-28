@@ -96,7 +96,7 @@ client.on(Events.ClientReady, async () => {
     const link = message
       .toString()
       .match(
-        /https:\/\/steamcommunity\.com\/sharedfiles\/filedetails\/\?id=(\d+)/
+        /https:\/\/steamcommunity\.com\/(?:sharedfiles|workshop)\/filedetails\/\?id=(\d+)/
       )
 
     if (message.attachments.size > 0) {
@@ -152,14 +152,16 @@ client.on(Events.ClientReady, async () => {
       try {
         const workshopPath = `${DOWNLOAD_DIR}${workshopId}`
         const levelCheck = await checkLevelIsValid(workshopPath, author)
+        const { hasChanged, isNew } = await hasLevelChanged(workshopPath)
 
-        if (await hasLevelChanged(workshopPath)) {
+        if (hasChanged) {
           sendJudgeMessage(
             judgeChannel,
             levelCheck?.name ?? '',
             levelCheck?.isValid ?? false,
             workshopId,
-            workshopPath
+            workshopPath,
+            isNew
           )
         }
 

@@ -46,5 +46,10 @@ const createLevelHash = async (workshopPath: string) => {
 export const hasLevelChanged = async (workshopPath: string) => {
   const { currentHash, previousHash } = await createLevelHash(workshopPath)
 
-  return currentHash !== previousHash
+  const isNew = previousHash === ''
+
+  return {
+    hasChanged: currentHash !== previousHash,
+    isNew
+  }
 }
