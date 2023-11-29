@@ -14,16 +14,21 @@ export const sendJudgeMessage = async (
   levelName: string,
   isValid: boolean,
   workshopId: string,
-  workshopPath: string
+  workshopPath: string,
+  isNew: boolean
 ) => {
   const level = await getLevelFile(workshopPath)
 
+  const title = `${isNew ? 'New level added' : 'Level updated'}`
+
   const embed = new EmbedBuilder()
-    .setTitle(`${isValid ? 'Valid' : 'Invalid'} level updated`)
+    .setTitle(title)
     .setDescription(
-      `${italic(levelName)} has been updated by ${level?.author ?? 'N/A'}!`
+      `${italic(levelName)} has been ${isNew ? 'added' : 'updated'} by ${
+        level?.author ?? 'N/A'
+      }!`
     )
-    .setColor(isValid ? 0x00_ff_00 : 0xff_00_00)
+    .setColor(isValid ? (isNew ? 0x00_00_ff : 0x00_ff_00) : 0xff_00_00)
 
   const buttons = new ActionRowBuilder<ButtonBuilder>()
 
@@ -36,10 +41,14 @@ export const sendJudgeMessage = async (
         .setLabel('Subscribe to level')
         .setURL(url)
     ])
-  }
 
-  await channel.send({
-    embeds: [embed],
-    components: [buttons]
-  })
+    await channel.send({
+      embeds: [embed],
+      components: [buttons]
+    })
+  } else {
+    await channel.send({
+      embeds: [embed]
+    })
+  }
 }
