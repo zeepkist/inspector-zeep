@@ -1,7 +1,9 @@
 import { gray } from 'colorette'
-import { Collection, Message, TextBasedChannel } from 'discord.js'
+import { Collection, Message, ThreadChannel } from 'discord.js'
 
-async function* messagesIterator(channel: TextBasedChannel) {
+import { info } from './log.js'
+
+async function* messagesIterator(channel: ThreadChannel) {
   let before
   let isDone = false
 
@@ -13,8 +15,13 @@ async function* messagesIterator(channel: TextBasedChannel) {
       limit: 100,
       before
     })
+
     if (messages.size > 0) {
-      console.debug(gray(`[Discord] Found ${messages.size} messages`))
+      info(
+        gray(`Found ${messages.size} messages in ${channel.name}`),
+        import.meta,
+        true
+      )
       before = messages.lastKey()
       yield messages
     } else {
@@ -23,7 +30,7 @@ async function* messagesIterator(channel: TextBasedChannel) {
   }
 }
 
-export async function* getAllMessages(channel: TextBasedChannel) {
+export async function* getChannelMessages(channel: ThreadChannel) {
   for await (const messages of messagesIterator(channel)) {
     for (const message of messages.values()) {
       yield message

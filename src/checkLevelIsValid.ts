@@ -1,14 +1,14 @@
 import { gray, red } from 'colorette'
 import { User } from 'discord.js'
 
-import { getLevelFile } from './getLevelFile.js'
 import {
   BLOCK_LIMIT,
   MAXIMUM_TIME,
   MAXIMUM_WIDTH,
   MINIMUM_CHECKPOINTS,
   MINIMUM_TIME
-} from './requirements.js'
+} from './config/requirements.js'
+import { getLevel } from './getLevel.js'
 import type { Level } from './types.js'
 
 export const validateBlockLimit = (blocks: number) => {
@@ -54,10 +54,13 @@ const validateCheckpointLimit = (lines: string[]) => {
 
   if (checkpoints < MINIMUM_CHECKPOINTS) {
     console.error(red(`[Check] Level has ${checkpoints} checkpoints`))
-    return false
   } else {
     console.log(gray(`[Check] Level has ${checkpoints} checkpoints`))
-    return true
+  }
+
+  return {
+    checkpoints,
+    isUnderCheckpointLimit: checkpoints < MINIMUM_CHECKPOINTS
   }
 }
 
@@ -135,13 +138,15 @@ const validateMaximumWidth = (lines: string[]) => {
 }
 
 export const checkLevelIsValid = async (workshopPath: string, author: User) => {
-  const level = await getLevelFile(workshopPath)
+  const level = await getLevel(workshopPath)
   if (!level) return
 
   const isOverBlockLimit = !validateBlockLimit(level.blocks.length)
   const isUnderTimeLimit = !validateMinTime(level.time)
   const isOverTimeLimit = !validateMaxTime(level.time)
-  const isUnderCheckpointLimit = !validateCheckpointLimit(level.blocks)
+  const { isUnderCheckpointLimit, checkpoints } = validateCheckpointLimit(
+    level.blocks
+  )
   const isOverWidthLimit =
     MAXIMUM_WIDTH === 0 ? false : !validateMaximumWidth(level.blocks)
 
@@ -151,6 +156,7 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
     author,
     time: level.time,
     blocks: level.blocks.length,
+    checkpoints,
     isValid: !(
       isOverBlockLimit ||
       isUnderTimeLimit ||

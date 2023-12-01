@@ -1,4 +1,4 @@
-import { italic, TextBasedChannel, User } from 'discord.js'
+import { italic, ThreadChannel, User } from 'discord.js'
 
 import {
   BLOCK_LIMIT,
@@ -6,25 +6,30 @@ import {
   MAXIMUM_WIDTH,
   MINIMUM_CHECKPOINTS,
   MINIMUM_TIME
-} from './requirements.js'
-import type { LevelValidity } from './types.js'
+} from './config/requirements.js'
+import type { Level } from './types.js'
 
-export const sendMessage = async (
-  channel: TextBasedChannel,
-  levelName: string,
-  author: User,
-  validity: LevelValidity
-) => {
+interface SendDiscussionMessageOptions {
+  channel: ThreadChannel
+  level: Level
+  user: User
+}
+
+export const sendDiscussionMessage = async ({
+  channel,
+  level,
+  user
+}: SendDiscussionMessageOptions) => {
   const {
     isOverBlockLimit,
     isOverTimeLimit,
     isUnderTimeLimit,
     isUnderCheckpointLimit,
     isOverWidthLimit
-  } = validity
+  } = level.validity
 
-  let messageContent = `${author}, your submission (${italic(
-    levelName
+  let messageContent = `${user}, your submission (${italic(
+    level.name
   )}) does not meet the following requirements:\n`
 
   if (isOverBlockLimit) {

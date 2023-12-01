@@ -1,6 +1,6 @@
 import { opendir, readFile } from 'node:fs/promises'
 
-import { yellow } from 'colorette'
+import { warn } from './log.js'
 
 const getFiles = async (path: string) => {
   const directory = await opendir(path)
@@ -15,13 +15,13 @@ const getFiles = async (path: string) => {
   return files
 }
 
-export const getLevelFile = async (workshopPath: string) => {
+export const getLevel = async (workshopPath: string) => {
   const files = await getFiles(workshopPath)
 
   const path = files.find(file => file.endsWith('.zeeplevel'))
 
   if (!path) {
-    console.warn(yellow(`[Check] Level file not found in ${workshopPath}`))
+    warn(`Level file not found in ${workshopPath}`, import.meta)
     return
   }
 
