@@ -41,6 +41,7 @@ jobs:
           DISCORD_SUBMISSION_CHANNEL_ID: ${{ vars.DISCORD_SUBMISSION_CHANNEL_ID }}
           DISCORD_JUDGE_CHANNEL_ID: ${{ vars.DISCORD_JUDGE_CHANNEL_ID }}
           ZEEPKIST_THEME_NAME: ${{ vars.ZEEPKIST_THEME_NAME }}
+          STEAMCMD_PATH: ${{ vars.STEAMCMD_PATH }}
 
       - name: List Files
         run: tree ./steam
