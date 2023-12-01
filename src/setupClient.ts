@@ -35,7 +35,10 @@ export const setupClient = async (client: Client) => {
     process.env.DISCORD_JUDGE_CHANNEL_ID
   )
 
-  if (!discussionChannel || !submissionChannel || !judgeChannel) process.exit(1)
+  if (!discussionChannel || !submissionChannel || !judgeChannel) {
+    // eslint-disable-next-line unicorn/no-process-exit
+    process.exit(1)
+  }
 
   // Delete any bot messages sent in a previous run
   for await (const message of getChannelMessages(discussionChannel)) {

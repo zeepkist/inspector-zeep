@@ -10,10 +10,11 @@ export const createFolder = async (folder: string, cleanFolder = false) => {
     await mkdir(folder)
 
     info(`Folder ${folder} created`, import.meta, true)
-  } catch (error_: any) {
+  } catch (error_: unknown) {
     // Ignore error if folder already exists
-    if ((error_).code !== 'EEXIST') {
-      error(error_, import.meta)
+    if (error_ instanceof Error) {
+      error(error_.message, import.meta)
+      // eslint-disable-next-line unicorn/no-process-exit
       process.exit(1)
     }
   }
