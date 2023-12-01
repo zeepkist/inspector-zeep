@@ -33,7 +33,7 @@ jobs:
       - name: Restore Hash Cache
         uses: actions/cache@v3
         with:
-          path: hash
+          path: ./hash
           key: ${{ runner.os }}-hashes
 
       - name: Validate Submissions
