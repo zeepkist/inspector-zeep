@@ -2,6 +2,8 @@ name: Inspector Zeep
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
 
 env:
   FORCE_COLOR: true
@@ -22,16 +24,17 @@ jobs:
           node-version: ${{ env.NODE_VERSION }}
           cache: 'pnpm'
 
-      - uses: awalsh128/cache-apt-pkgs-action@v1.3.1
-        with:
-          packages: tree
-          version: 1.0
-
       - name: Install Dependencies
         run: pnpm install --no-frozen-lockfile # For some reason, pnpm install fails with a frozen lockfile
 
       - name: Setup SteamCMD
         uses: CyberAndrii/setup-steamcmd@v1
+
+      - name: Restore Hash Cache
+        uses: actions/cache@v2
+        with:
+          path: hash
+          key: ${{ runner.os }}-hashes
 
       - name: Validate Submissions
         run: pnpm run start
@@ -42,6 +45,3 @@ jobs:
           DISCORD_JUDGE_CHANNEL_ID: ${{ vars.DISCORD_JUDGE_CHANNEL_ID }}
           ZEEPKIST_THEME_NAME: ${{ vars.ZEEPKIST_THEME_NAME }}
           STEAMCMD_PATH: ${{ vars.STEAMCMD_PATH }}
-
-      - name: List Files
-        run: tree ./steam

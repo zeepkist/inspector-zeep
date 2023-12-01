@@ -19,8 +19,12 @@ await createFolder(HASH_FOLDER)
 await createFolder(DOWNLOAD_FOLDER, true)
 
 client.on(Events.ClientReady, async () => {
-  const { discussionChannel, submissionChannel, judgeChannel } =
-    await setupClient(client)
+  const {
+    discussionChannel,
+    submissionChannel,
+    judgeChannel,
+    usersWithInvalidSubmissions
+  } = await setupClient(client)
   const submissions = await getSubmissions(submissionChannel)
 
   event.on('processed', (submissions: number) => {
@@ -39,7 +43,8 @@ client.on(Events.ClientReady, async () => {
       submission,
       discussionChannel,
       judgeChannel,
-      downloadFolder: DOWNLOAD_FOLDER
+      downloadFolder: DOWNLOAD_FOLDER,
+      hasAlreadyPinged: usersWithInvalidSubmissions.has(submission[1].id)
     })
   })
 

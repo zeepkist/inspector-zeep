@@ -14,6 +14,7 @@ interface onDownloadedOptions {
   discussionChannel: ThreadChannel
   judgeChannel: ThreadChannel
   downloadFolder: string
+  hasAlreadyPinged: boolean
 }
 
 export const onDownloaded = async ({
@@ -21,7 +22,8 @@ export const onDownloaded = async ({
   submission,
   discussionChannel,
   judgeChannel,
-  downloadFolder
+  downloadFolder,
+  hasAlreadyPinged
 }: onDownloadedOptions) => {
   const [message, user] = submission
   const workshopPath = `${downloadFolder}${workshopId}`
@@ -41,7 +43,7 @@ export const onDownloaded = async ({
 
   if (level.isValid) {
     await addToPlaylist(workshopPath, workshopId)
-  } else {
+  } else if (!hasAlreadyPinged) {
     sendDiscussionMessage({
       channel: discussionChannel,
       level,
