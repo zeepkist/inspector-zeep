@@ -4,6 +4,10 @@ import { rimraf } from 'rimraf'
 
 import { error, info } from './log.js'
 
+interface NodeJSWithCodeError extends Error {
+  code?: string
+}
+
 export const createFolder = async (folder: string, cleanFolder = false) => {
   try {
     if (cleanFolder) await rimraf(folder)
@@ -11,11 +15,15 @@ export const createFolder = async (folder: string, cleanFolder = false) => {
 
     info(`Folder ${folder} created`, import.meta, true)
   } catch (error_: unknown) {
-    // Ignore error if folder already exists
     if (error_ instanceof Error) {
-      error(error_.message, import.meta)
-      // eslint-disable-next-line unicorn/no-process-exit
-      process.exit(1)
+      const nodeError = error_ as NodeJSWithCodeError
+
+      // Ignore error if folder already exists
+      if (nodeError.code !== 'EEXIST') {
+        error(error_.message, import.meta)
+        // eslint-disable-next-line unicorn/no-process-exit
+        process.exit(1)
+      }
     }
   }
 }
