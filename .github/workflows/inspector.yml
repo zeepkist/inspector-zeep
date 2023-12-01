@@ -31,7 +31,7 @@ jobs:
         uses: CyberAndrii/setup-steamcmd@v1
 
       - name: Restore Hash Cache
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: hash
           key: ${{ runner.os }}-hashes
