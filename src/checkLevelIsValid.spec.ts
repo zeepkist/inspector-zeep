@@ -5,7 +5,11 @@ import {
   validateMaxTime,
   validateMinTime
 } from './checkLevelIsValid.js'
-import { BLOCK_LIMIT, MAXIMUM_TIME, MINIMUM_TIME } from './requirements.js'
+import {
+  BLOCK_LIMIT,
+  MAXIMUM_TIME,
+  MINIMUM_TIME
+} from './config/requirements.js'
 
 test('allows block count under limit', t => {
   t.is(validateBlockLimit(BLOCK_LIMIT - 1), true)

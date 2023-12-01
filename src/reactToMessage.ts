@@ -1,5 +1,6 @@
-import { red } from 'colorette'
 import { Message } from 'discord.js'
+
+import { error } from './log.js'
 
 export const reactToMessage = async (message: Message, isValid: boolean) => {
   try {
@@ -18,7 +19,7 @@ export const reactToMessage = async (message: Message, isValid: boolean) => {
     message.react(
       isValid ? '<:zk_yes:1080204636583104573>' : '<:zk_no:1080204670418558987>'
     )
-  } catch (error) {
-    console.error(red(`[Discord] Error reacting to message: ${error}`))
+  } catch (error_) {
+    error(`Error reacting to message: ${error_}`, import.meta)
   }
 }

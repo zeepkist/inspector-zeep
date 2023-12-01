@@ -2,9 +2,8 @@ import { createHash } from 'node:crypto'
 import { readFile, writeFile } from 'node:fs/promises'
 import { basename, extname, join } from 'node:path'
 
-import { gray, yellow } from 'colorette'
-
-import { getLevelFile } from './getLevelFile.js'
+import { getLevel } from './getLevel.js'
+import { info } from './log.js'
 
 const hashLevel = (level: string) => {
   const hash = createHash('sha256')
@@ -14,8 +13,8 @@ const hashLevel = (level: string) => {
   return hash.digest('hex')
 }
 
-const createLevelHash = async (workshopPath: string) => {
-  const level = await getLevelFile(workshopPath)
+const levelHash = async (workshopPath: string) => {
+  const level = await getLevel(workshopPath)
 
   if (!level)
     return {
@@ -31,9 +30,9 @@ const createLevelHash = async (workshopPath: string) => {
   )
 
   if (currentHash === previousHash) {
-    console.log(gray(`[Hash] Level ${fileName} has not changed`))
+    info(`Level ${fileName} has not changed`, import.meta)
   } else {
-    console.log(yellow(`[Hash] Level ${fileName} has changed or is new`))
+    info(`Level ${fileName} has changed or is new`, import.meta)
     await writeFile(join('./hash', fileName), currentHash)
   }
 
@@ -43,8 +42,8 @@ const createLevelHash = async (workshopPath: string) => {
   }
 }
 
-export const hasLevelChanged = async (workshopPath: string) => {
-  const { currentHash, previousHash } = await createLevelHash(workshopPath)
+export const createLevelHash = async (workshopPath: string) => {
+  const { currentHash, previousHash } = await levelHash(workshopPath)
 
   const isNew = previousHash === ''
 

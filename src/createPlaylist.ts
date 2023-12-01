@@ -2,10 +2,10 @@ import {
   AttachmentBuilder,
   EmbedBuilder,
   inlineCode,
-  TextBasedChannel
+  ThreadChannel
 } from 'discord.js'
 
-import { getLevelFile } from './getLevelFile.js'
+import { getLevel } from './getLevel.js'
 
 interface PlaylistLevel {
   UID: string
@@ -39,7 +39,7 @@ export const addToPlaylist = async (
   workshopPath: string,
   workshopId: string
 ) => {
-  const level = await getLevelFile(workshopPath)
+  const level = await getLevel(workshopPath)
 
   if (!level) return
 
@@ -51,7 +51,7 @@ export const addToPlaylist = async (
   })
 }
 
-export const sendPlaylist = async (channel: TextBasedChannel) => {
+export const sendPlaylist = async (channel: ThreadChannel) => {
   const playlist = createPlaylist()
 
   const embed = new EmbedBuilder()

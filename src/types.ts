@@ -1,4 +1,7 @@
-import { User } from 'discord.js'
+import { Message, User } from 'discord.js'
+
+export type Submission = [Message, User]
+export type Submissions = Map<string, Submission>
 
 export interface Level {
   workshopId: string
@@ -6,6 +9,7 @@ export interface Level {
   author: User
   time: number
   blocks: number
+  checkpoints: number
   isValid: boolean
   validity: LevelValidity
 }
