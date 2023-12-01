@@ -28,7 +28,7 @@ export const sendJudgeMessage = async ({
     isUnderCheckpointLimit,
     isUnderTimeLimit
   } = level.validity
-  const title = `[${isNew ? 'New' : 'Updated'}] ${level.name}`
+  const title = `${isNew ? '🆕 ' : ''}${level.name}`
 
   const authorTime = `${emoji(!isUnderTimeLimit && !isOverTimeLimit)} ${
     level.time
@@ -49,17 +49,17 @@ export const sendJudgeMessage = async ({
       {
         name: 'Author Time',
         value: authorTime,
-		inline: true
+        inline: true
       },
       {
         name: 'Block Count',
         value: blockCount,
-		inline: true
+        inline: true
       },
       {
         name: 'Checkpoints',
         value: checkpointCount,
-		inline: true
+        inline: true
       }
     ])
 
