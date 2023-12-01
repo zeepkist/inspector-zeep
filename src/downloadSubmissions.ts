@@ -31,7 +31,7 @@ const download = async (
 
     for (const workshopId of workshopIds) {
       await rename(
-        `C:/ProgramData/chocolatey/lib/steamcmd/tools/steamapps/workshop/content/${appId}/${workshopId}`,
+        `${process.env.STEAMCMD_PATH}/steamapps/workshop/content/${appId}/${workshopId}`,
         `${destinationPath}/${workshopId}`
       )
 
