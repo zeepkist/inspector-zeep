@@ -1,0 +1,38 @@
+name: Inspector Zeep
+
+on:
+  workflow_dispatch:
+
+env:
+  FORCE_COLOR: true
+  NODE_VERSION: 20
+
+jobs:
+  validate:
+    name: Validate
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v2
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'pnpm'
+
+      - name: Install Dependencies
+        run: pnpm install --no-frozen-lockfile # For some reason, pnpm install fails with a frozen lockfile
+
+      - name: Setup SteamCMD
+        uses: CyberAndrii/setup-steamcmd@v1
+
+      - name: Validate Submissions
+        run: pnpm run start
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          DISCORD_DISCUSSION_CHANNEL_ID: ${{ vars.DISCORD_DISCUSSION_CHANNEL_ID }}
+          DISCORD_SUBMISSION_CHANNEL_ID: ${{ vars.DISCORD_SUBMISSION_CHANNEL_ID }}
+          DISCORD_JUDGE_CHANNEL_ID: ${{ vars.DISCORD_SUBMISSIONS_ROLE_ID }}
+          ZEEPKIST_THEME_NAME: ${{ vars.ZEEPKIST_THEME_NAME }}

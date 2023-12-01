@@ -1,4 +1,3 @@
-import { gray, red } from 'colorette'
 import { User } from 'discord.js'
 
 import {
@@ -9,21 +8,22 @@ import {
   MINIMUM_TIME
 } from './config/requirements.js'
 import { getLevel } from './getLevel.js'
+import { error, info } from './log.js'
 import type { Level } from './types.js'
 
 export const validateBlockLimit = (blocks: number) => {
   if (blocks > BLOCK_LIMIT) {
-    console.error(red(`[Check] Level has ${blocks} blocks`))
+    error(`Level has ${blocks} blocks`, import.meta)
     return false
   } else {
-    console.log(gray(`[Check] Level has ${blocks} blocks`))
+    info(`Level has ${blocks} blocks`, import.meta, true)
     return true
   }
 }
 
 export const validateMinTime = (time: number) => {
   if (time < MINIMUM_TIME) {
-    console.error(red(`[Check] Level is ${time} seconds`))
+    error(`Level is ${time} seconds`, import.meta)
     return false
   } else {
     return true
@@ -32,11 +32,11 @@ export const validateMinTime = (time: number) => {
 
 export const validateMaxTime = (time: number) => {
   if (time > MAXIMUM_TIME) {
-    console.error(red(`[Check] Level is ${time} seconds`))
+    error(`[Check] Level is ${time} seconds`, import.meta)
     return false
   } else {
     if (time > MINIMUM_TIME) {
-      console.log(gray(`[Check] Level is ${time} seconds`))
+      info(`[Check] Level is ${time} seconds`, import.meta, true)
     }
     return true
   }
@@ -53,9 +53,9 @@ const validateCheckpointLimit = (lines: string[]) => {
   }).length
 
   if (checkpoints < MINIMUM_CHECKPOINTS) {
-    console.error(red(`[Check] Level has ${checkpoints} checkpoints`))
+    error(`Level has ${checkpoints} checkpoints`, import.meta)
   } else {
-    console.log(gray(`[Check] Level has ${checkpoints} checkpoints`))
+    info(`Level has ${checkpoints} checkpoints`, import.meta, true)
   }
 
   return {
@@ -129,11 +129,11 @@ const validateMaximumWidth = (lines: string[]) => {
     height > MAXIMUM_WIDTH ||
     depth > MAXIMUM_WIDTH
   ) {
-    console.error(red(`[Check] Level is ${width}x${height}x${depth}`))
+    error(`Level is ${width}x${height}x${depth}`, import.meta)
     return false
   }
 
-  console.log(gray(`[Check] Level is ${width}x${height}x${depth}`))
+  info(`Level is ${width}x${height}x${depth}`, import.meta, true)
   return true
 }
 
