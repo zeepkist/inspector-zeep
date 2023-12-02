@@ -1,6 +1,7 @@
 import { Message, ThreadChannel, User } from 'discord.js'
 
 import { checkLevelIsValid } from '../checkLevelIsValid.js'
+import { DOWNLOAD_FOLDER } from '../config/constants.js'
 import { createLevelHash } from '../createLevelHash.js'
 import { addToPlaylist } from '../createPlaylist.js'
 import { event } from '../event.js'
@@ -13,7 +14,6 @@ interface onDownloadedOptions {
   submission: [Message, User]
   discussionChannel: ThreadChannel
   judgeChannel: ThreadChannel
-  downloadFolder: string
   hasAlreadyPinged: boolean
 }
 
@@ -22,11 +22,10 @@ export const onDownloaded = async ({
   submission,
   discussionChannel,
   judgeChannel,
-  downloadFolder,
   hasAlreadyPinged
 }: onDownloadedOptions) => {
   const [message, user] = submission
-  const workshopPath = `${downloadFolder}${workshopId}`
+  const workshopPath = `${DOWNLOAD_FOLDER}${workshopId}`
 
   const level = await checkLevelIsValid(workshopPath, user)
   const { hasChanged, isNew } = await createLevelHash(workshopPath)
@@ -42,7 +41,7 @@ export const onDownloaded = async ({
   }
 
   if (level.isValid) {
-    await addToPlaylist(workshopPath, workshopId)
+    await addToPlaylist(workshopPath, workshopId, hasChanged || isNew)
   } else if (!hasAlreadyPinged) {
     sendDiscussionMessage({
       channel: discussionChannel,

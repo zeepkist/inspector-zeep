@@ -1,5 +1,11 @@
 import { Client, ThreadChannel, User } from 'discord.js'
 
+import {
+  DISCORD_DISCUSSION_CHANNEL_ID,
+  DISCORD_JUDGE_CHANNEL_ID,
+  DISCORD_SUBMISSION_CHANNEL_ID,
+  SILENT_MODE
+} from './config/constants.js'
 import { getChannelMessages } from './getChannelMessages.js'
 import { error, info } from './log.js'
 
@@ -22,24 +28,19 @@ const setupChannel = (client: Client, channelId = ''): ThreadChannel | void => {
 }
 
 export const setupClient = async (client: Client) => {
-  const discussionChannel = setupChannel(
-    client,
-    process.env.DISCORD_DISCUSSION_CHANNEL_ID
-  )
-
-  const submissionChannel = setupChannel(
-    client,
-    process.env.DISCORD_SUBMISSION_CHANNEL_ID
-  )
-
-  const judgeChannel = setupChannel(
-    client,
-    process.env.DISCORD_JUDGE_CHANNEL_ID
-  )
-
+  const discussionChannel = setupChannel(client, DISCORD_DISCUSSION_CHANNEL_ID)
+  const submissionChannel = setupChannel(client, DISCORD_SUBMISSION_CHANNEL_ID)
+  const judgeChannel = setupChannel(client, DISCORD_JUDGE_CHANNEL_ID)
   const usersWithInvalidSubmissions = new Set<User['id']>()
 
   if (!discussionChannel || !submissionChannel || !judgeChannel) {
+    // eslint-disable-next-line unicorn/no-process-exit
+    process.exit(1)
+  }
+
+  // Exit early if the submission channel is locked (i.e. the event is over)
+  if (submissionChannel.locked && !SILENT_MODE) {
+    error(`Submission channel ${submissionChannel.name} is locked`, import.meta)
     // eslint-disable-next-line unicorn/no-process-exit
     process.exit(1)
   }
@@ -56,14 +57,6 @@ export const setupClient = async (client: Client) => {
       if (!user) continue
 
       usersWithInvalidSubmissions.add(user.id)
-    }
-  }
-
-  // Delete previous playlist attachments in the judge channel
-  for await (const message of getChannelMessages(judgeChannel)) {
-    if (message.author.bot && message.attachments.size > 0) {
-      info(`Deleting playlist ${message.id}`, import.meta, true)
-      message.delete()
     }
   }
 

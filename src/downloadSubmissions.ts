@@ -2,6 +2,7 @@ import { exec } from 'node:child_process'
 import { rename } from 'node:fs/promises'
 import { promisify } from 'node:util'
 
+import { APP_ID, DOWNLOAD_FOLDER, STEAMCMD_PATH } from './config/constants.js'
 import { event } from './event.js'
 import { error, info } from './log.js'
 import { Submission, Submissions } from './types.js'
@@ -17,12 +18,7 @@ function* chunks(items: [string, Submission][]) {
   return []
 }
 
-const download = async (
-  appId: string,
-  query: string,
-  workshopIds: string[],
-  destinationPath: string
-) => {
+const download = async (query: string, workshopIds: string[]) => {
   const command = `steamcmd +login anonymous ${query} +quit`
 
   const execPromise = promisify(exec)
@@ -31,8 +27,8 @@ const download = async (
 
     for (const workshopId of workshopIds) {
       await rename(
-        `${process.env.STEAMCMD_PATH}/steamapps/workshop/content/${appId}/${workshopId}`,
-        `${destinationPath}/${workshopId}`
+        `${STEAMCMD_PATH}/steamapps/workshop/content/${APP_ID}/${workshopId}`,
+        `${DOWNLOAD_FOLDER}/${workshopId}`
       )
 
       info(`Downloaded ${workshopId}`, import.meta, true)
@@ -49,25 +45,15 @@ const download = async (
   }
 }
 
-interface DownloadSubmissionsOptions {
-  submissions: Submissions
-  downloadFolder: string
-  appId: string
-}
-
-export const downloadSubmissions = async ({
-  submissions,
-  downloadFolder,
-  appId
-}: DownloadSubmissionsOptions) => {
+export const downloadSubmissions = async (submissions: Submissions) => {
   for await (const chunk of chunks([...submissions.entries()])) {
     const workshopIds = chunk.map(([workshopId]) => workshopId)
     info(`Downloading ${workshopIds}`, import.meta, true)
 
     const query = workshopIds
-      .map(workshopId => `+workshop_download_item ${appId} ${workshopId}`)
+      .map(workshopId => `+workshop_download_item ${APP_ID} ${workshopId}`)
       .join(' ')
 
-    await download(appId, query, workshopIds, downloadFolder)
+    await download(query, workshopIds)
   }
 }
