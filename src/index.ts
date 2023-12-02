@@ -1,5 +1,6 @@
 import { Events } from 'discord.js'
 
+import { DOWNLOAD_FOLDER, HASH_FOLDER } from './config/constants.js'
 import { createClient } from './createClient.js'
 import { createFolder } from './createFolder.js'
 import { downloadSubmissions } from './downloadSubmissions.js'
@@ -8,10 +9,6 @@ import { onDownloaded } from './events/onDownloaded.js'
 import { onProcessed } from './events/onProcessed.js'
 import { getSubmissions } from './getSubmissions.js'
 import { setupClient } from './setupClient.js'
-
-const APP_ID = '1440670'
-const DOWNLOAD_FOLDER = './downloads/'
-const HASH_FOLDER = './hash/'
 
 const client = createClient()
 
@@ -43,7 +40,6 @@ client.on(Events.ClientReady, async () => {
       submission,
       discussionChannel,
       judgeChannel,
-      downloadFolder: DOWNLOAD_FOLDER,
       hasAlreadyPinged: usersWithInvalidSubmissions.has(submission[1].id)
     })
   })
@@ -51,9 +47,5 @@ client.on(Events.ClientReady, async () => {
   // Initialise the processed submissions count so we can exit when we're done
   event.emit('processed', submissions.size)
 
-  await downloadSubmissions({
-    submissions,
-    downloadFolder: DOWNLOAD_FOLDER,
-    appId: APP_ID
-  })
+  await downloadSubmissions(submissions)
 })
