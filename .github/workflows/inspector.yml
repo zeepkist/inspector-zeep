@@ -34,7 +34,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ./hash
-          key: ${{ runner.os }}-hashes-${{ hashFiles('./hash/**') }}
+          key: ${{ runner.os }}-hashes-${{ hashFiles('./hash/*') }}
           restore-keys: |
             ${{ runner.os }}-hashes-
 
