@@ -8,7 +8,6 @@ on:
 env:
   FORCE_COLOR: true
   NODE_VERSION: 20
-  ZEEPKIST_THEME_HASH: ./hash/${{ vars.ZEEPKIST_THEME_NAME }}.json
 
 jobs:
   validate:
@@ -31,15 +30,22 @@ jobs:
       - name: Setup SteamCMD
         uses: CyberAndrii/setup-steamcmd@v1
 
-      - run: echo ${{ env.ZEEPKIST_THEME_HASH }}
+      - name: Setup Hash Cache Name
+        run: |
+          string="${{ vars.ZEEPKIST_THEME_NAME }}"
+          formattedString=$(echo "$string" | tr ' ' '-' | awk '{print tolower($0)}')
 
-      - run: cat ${{ env.ZEEPKIST_THEME_HASH }}
+          echo "ZEEPKIST_THEME_HASH_PATH=./hash/${formattedString}.json" >> $GITHUB_ENV
+
+      - run: echo ${{ env.ZEEPKIST_THEME_HASH_PATH }}
+
+      - run: cat ${{ env.ZEEPKIST_THEME_HASH_PATH }}
 
       - name: Restore Hash Cache
         uses: actions/cache@v3
         with:
           path: ./hash
-          key: hashes-${{ hashFiles(env.ZEEPKIST_THEME_HASH) }}
+          key: hashes-${{ hashFiles(env.ZEEPKIST_THEME_HASH_PATH) }}
           restore-keys: |
             hashes-
 
