@@ -6,11 +6,12 @@ import {
   ThreadChannel
 } from 'discord.js'
 
-import { Level } from './types.js'
+import { CachedLevel, VerifiedLevel } from './types.js'
 
 interface JudgeMessageOptions {
   channel: ThreadChannel
-  level: Level
+  previousLevel?: CachedLevel
+  level: VerifiedLevel
   isNew: boolean
 }
 
@@ -19,6 +20,7 @@ const emoji = (isValid: boolean) =>
 
 export const sendJudgeMessage = async ({
   channel,
+  previousLevel,
   level,
   isNew
 }: JudgeMessageOptions) => {
@@ -30,13 +32,22 @@ export const sendJudgeMessage = async ({
   } = level.validity
   const title = `${isNew ? '🆕 ' : ''}${level.name}`
 
+  const previousAuthorTime = previousLevel ? ` (${previousLevel.time}s)` : ''
   const authorTime = `${emoji(!isUnderTimeLimit && !isOverTimeLimit)} ${
     level.time
-  }s`
-  const blockCount = `${emoji(!isOverBlockLimit)} ${level.blocks}`
+  }s${previousAuthorTime}`
+
+  const previousBlockCount = previousLevel ? ` (${previousLevel.blocks})` : ''
+  const blockCount = `${emoji(!isOverBlockLimit)} ${
+    level.blocks
+  }${previousBlockCount}`
+
+  const previousCheckpointCount = previousLevel
+    ? ` (${previousLevel.checkpoints})`
+    : ''
   const checkpointCount = `${emoji(!isUnderCheckpointLimit)} ${
     level.checkpoints
-  }`
+  }${previousCheckpointCount}`
 
   const embed = new EmbedBuilder()
     .setTitle(title)
@@ -62,6 +73,12 @@ export const sendJudgeMessage = async ({
         inline: true
       }
     ])
+
+  if (previousLevel) {
+    embed.setDescription(
+      'Level information from before the update is in brackets'
+    )
+  }
 
   const buttons = new ActionRowBuilder<ButtonBuilder>()
 

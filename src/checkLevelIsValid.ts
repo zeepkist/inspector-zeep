@@ -8,15 +8,15 @@ import {
   MINIMUM_TIME
 } from './config/requirements.js'
 import { getLevel } from './getLevel.js'
-import { error, info } from './log.js'
-import type { Level } from './types.js'
+import { debug, error } from './log.js'
+import type { VerifiedLevel } from './types.js'
 
 export const validateBlockLimit = (blocks: number) => {
   if (blocks > BLOCK_LIMIT) {
     error(`Level has ${blocks} blocks`, import.meta)
     return false
   } else {
-    info(`Level has ${blocks} blocks`, import.meta, true)
+    debug(`Level has ${blocks} blocks`, import.meta, true)
     return true
   }
 }
@@ -32,36 +32,24 @@ export const validateMinTime = (time: number) => {
 
 export const validateMaxTime = (time: number) => {
   if (time > MAXIMUM_TIME) {
-    error(`[Check] Level is ${time} seconds`, import.meta)
+    error(`Level is ${time} seconds`, import.meta)
     return false
   } else {
     if (time > MINIMUM_TIME) {
-      info(`[Check] Level is ${time} seconds`, import.meta, true)
+      debug(`Level is ${time} seconds`, import.meta, true)
     }
     return true
   }
 }
 
-const validateCheckpointLimit = (lines: string[]) => {
-  const checkpointBlockIds = new Set([
-    22, 372, 373, 1275, 1276, 1277, 1278, 1279, 1615
-  ])
-
-  const checkpoints = lines.filter(line => {
-    const blockId = Number.parseInt(line.split(',')[0])
-    return checkpointBlockIds.has(blockId)
-  }).length
-
+const validateCheckpointLimit = (checkpoints: number) => {
   if (checkpoints < MINIMUM_CHECKPOINTS) {
     error(`Level has ${checkpoints} checkpoints`, import.meta)
   } else {
-    info(`Level has ${checkpoints} checkpoints`, import.meta, true)
+    debug(`Level has ${checkpoints} checkpoints`, import.meta, true)
   }
 
-  return {
-    checkpoints,
-    isUnderCheckpointLimit: checkpoints < MINIMUM_CHECKPOINTS
-  }
+  return checkpoints < MINIMUM_CHECKPOINTS
 }
 
 const validateMaximumWidth = (lines: string[]) => {
@@ -133,7 +121,7 @@ const validateMaximumWidth = (lines: string[]) => {
     return false
   }
 
-  info(`Level is ${width}x${height}x${depth}`, import.meta, true)
+  debug(`Level is ${width}x${height}x${depth}`, import.meta, true)
   return true
 }
 
@@ -144,19 +132,17 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
   const isOverBlockLimit = !validateBlockLimit(level.blocks.length)
   const isUnderTimeLimit = !validateMinTime(level.time)
   const isOverTimeLimit = !validateMaxTime(level.time)
-  const { isUnderCheckpointLimit, checkpoints } = validateCheckpointLimit(
-    level.blocks
-  )
+  const isUnderCheckpointLimit = validateCheckpointLimit(level.checkpoints)
   const isOverWidthLimit =
     MAXIMUM_WIDTH === 0 ? false : !validateMaximumWidth(level.blocks)
 
-  const response: Level = {
+  const response: VerifiedLevel = {
     workshopId: workshopPath.split('/').pop() ?? '',
     name: level.name,
     author,
     time: level.time,
     blocks: level.blocks.length,
-    checkpoints,
+    checkpoints: level.checkpoints,
     isValid: !(
       isOverBlockLimit ||
       isUnderTimeLimit ||

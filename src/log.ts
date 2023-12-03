@@ -1,7 +1,7 @@
 import { basename } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-import { gray, red, yellow } from 'colorette'
+import { blue, gray, red, yellow } from 'colorette'
 
 type InfoScope = 'info' | ImportMeta
 type WarnScope = 'warn' | ImportMeta
@@ -20,9 +20,19 @@ export const info = (
   scope = 'info' as InfoScope,
   isMuted = false
 ) => {
+  const key = blue(createKey(scope))
+
+  console.log(`${key} ${isMuted ? gray(message) : message}`)
+}
+
+export const debug = (
+  message: string,
+  scope = 'info' as InfoScope,
+  isMuted = false
+) => {
   const key = gray(createKey(scope))
 
-  console.info(`${key} ${isMuted ? gray(message) : message}`)
+  console.log(`${key} ${isMuted ? gray(message) : message}`)
 }
 
 export const warn = (message: string, scope = 'warn' as WarnScope) => {

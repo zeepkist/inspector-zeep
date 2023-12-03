@@ -30,13 +30,23 @@ jobs:
       - name: Setup SteamCMD
         uses: CyberAndrii/setup-steamcmd@v1
 
+      - name: Setup Hash Cache Name
+        run: |
+          string="${{ vars.ZEEPKIST_THEME_NAME }}"
+          formattedString=$(echo "$string" | tr ' ' '-' | awk '{print tolower($0)}')
+
+          echo "ZEEPKIST_THEME_HASH_PATH=./hash/${formattedString}.json" >> $GITHUB_ENV
+
       - name: Restore Hash Cache
         uses: actions/cache@v3
         with:
-          path: ./hash
-          key: ${{ runner.os }}-hashes-${{ hashFiles('./hash/*') }}
+          path: ${{ env.ZEEPKIST_THEME_HASH_PATH }}
+          key: hashes-${{ hashFiles(env.ZEEPKIST_THEME_HASH_PATH) }}
           restore-keys: |
-            ${{ runner.os }}-hashes-
+            hashes-
+
+      - name: Inspect Hash Cache
+        run: cat ${{ env.ZEEPKIST_THEME_HASH_PATH }} || true
 
       - name: Validate Submissions
         run: pnpm run start

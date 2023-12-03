@@ -4,6 +4,21 @@ export type Submission = [Message, User]
 export type Submissions = Map<string, Submission>
 
 export interface Level {
+  level: string
+  name: string
+  path: string
+  blocks: string[]
+  author: string
+  uuid: string
+  time: number
+  checkpoints: number
+}
+
+export interface CachedLevel extends Omit<Level, 'level' | 'blocks'> {
+  blocks: number
+}
+
+export interface VerifiedLevel {
   workshopId: string
   name: string
   author: User

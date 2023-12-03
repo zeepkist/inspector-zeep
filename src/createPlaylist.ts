@@ -8,7 +8,7 @@ import {
 import { SILENT_MODE, ZEEPKIST_THEME_NAME } from './config/constants.js'
 import { getChannelMessages } from './getChannelMessages.js'
 import { getLevel } from './getLevel.js'
-import { info } from './log.js'
+import { debug } from './log.js'
 
 interface PlaylistLevel {
   UID: string
@@ -82,7 +82,7 @@ export const sendPlaylist = async (channel: ThreadChannel) => {
     // Delete previous playlist attachments in the judge channel
     for await (const message of getChannelMessages(channel)) {
       if (message.author.bot && message.attachments.size > 0) {
-        info(`Deleting playlist ${message.id}`, import.meta, true)
+        debug(`Deleting playlist ${message.id}`, import.meta, true)
         message.delete()
       }
     }
@@ -91,5 +91,7 @@ export const sendPlaylist = async (channel: ThreadChannel) => {
       embeds: [embed],
       files: [attachment]
     })
+
+    debug(`Sent playlist`, import.meta, true)
   }
 }

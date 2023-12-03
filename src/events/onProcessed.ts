@@ -1,7 +1,9 @@
 import { ThreadChannel } from 'discord.js'
 
+import { SILENT_MODE } from '../config/constants.js'
+import { saveLevelHashes } from '../createLevelHash.js'
 import { sendPlaylist } from '../createPlaylist.js'
-import { info } from '../log.js'
+import { debug } from '../log.js'
 
 let total = 0
 let processed = 0
@@ -20,17 +22,22 @@ export const onProcessed = async ({
   if (submissions > total) {
     total = submissions
 
-    info(`Set ${total} submissions`, import.meta)
+    debug(`Set ${total} submissions`, import.meta, true)
   } else {
-    info(
+    debug(
       `Processed ${++processed} of ${total} (${getPercentage()}%)`,
-      import.meta
+      import.meta,
+      true
     )
 
     if (processed === total) {
-      info(`Processed all ${processed} submissions`, import.meta)
+      debug(`Processed all ${processed} submissions`, import.meta, true)
 
-      await sendPlaylist(judgeChannel)
+      if (!SILENT_MODE) {
+        await sendPlaylist(judgeChannel)
+      }
+
+      await saveLevelHashes()
 
       // eslint-disable-next-line unicorn/no-process-exit
       process.exit(0)
