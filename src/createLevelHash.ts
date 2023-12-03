@@ -13,7 +13,10 @@ interface Hash {
   level: CachedLevel
 }
 
-const HASH_FILE = join(HASH_FOLDER, `${ZEEPKIST_THEME_NAME}.json`)
+const HASH_FILE = join(
+  HASH_FOLDER,
+  `${ZEEPKIST_THEME_NAME?.replaceAll(' ', '-').toLowerCase()}.json`
+)
 
 const hashes: Hash[] = await readFile(join(HASH_FILE), 'utf8')
   .then(JSON.parse)
