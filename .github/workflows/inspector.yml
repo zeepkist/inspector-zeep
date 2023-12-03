@@ -64,4 +64,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add ${{ env.ZEEPKIST_THEME_HASH_PATH }} -f
-          git commit -m "ci: update cache for ${{ vars.ZEEPKIST_THEME_NAME }} [skip ci]" || true
+          git diff-index --quiet HEAD || git commit -m "ci: update cache for ${{ vars.ZEEPKIST_THEME_NAME }} [skip ci]" && git push
