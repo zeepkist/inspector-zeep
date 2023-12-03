@@ -57,3 +57,11 @@ jobs:
           DISCORD_JUDGE_CHANNEL_ID: ${{ vars.DISCORD_JUDGE_CHANNEL_ID }}
           ZEEPKIST_THEME_NAME: ${{ vars.ZEEPKIST_THEME_NAME }}
           STEAMCMD_PATH: ${{ vars.STEAMCMD_PATH }}
+
+      - name: Commit Hash Cache
+        if: ${{ success() }}
+        run: |
+          git config --global user.name "Inspector Zeep"
+          git add ${{ env.ZEEPKIST_THEME_HASH_PATH }}
+          git commit -m "ci: update cache for ${{ vars.ZEEPKIST_THEME_NAME }} [skip ci]"
+          git push
