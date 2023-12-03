@@ -37,14 +37,12 @@ jobs:
 
           echo "ZEEPKIST_THEME_HASH_PATH=./hash/${formattedString}.json" >> $GITHUB_ENV
 
-      - run: echo ${{ env.ZEEPKIST_THEME_HASH_PATH }}
-
       - run: cat ${{ env.ZEEPKIST_THEME_HASH_PATH }} || true
 
       - name: Restore Hash Cache
         uses: actions/cache@v3
         with:
-          path: ./hash
+          path: ./hash/${{ env.ZEEPKIST_THEME_HASH_PATH }}
           key: hashes-${{ hashFiles(env.ZEEPKIST_THEME_HASH_PATH) }}
           restore-keys: |
             hashes-
