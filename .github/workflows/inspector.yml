@@ -31,13 +31,17 @@ jobs:
       - name: Setup SteamCMD
         uses: CyberAndrii/setup-steamcmd@v1
 
+      - run: echo ${{ env.ZEEPKIST_THEME_HASH }}
+
+      - run: cat ${{ env.ZEEPKIST_THEME_HASH }}
+
       - name: Restore Hash Cache
         uses: actions/cache@v3
         with:
           path: ./hash
-          key: ${{ runner.os }}-hashes-${{ hashFiles(env.ZEEPKIST_THEME_HASH) }}
+          key: hashes-${{ hashFiles(env.ZEEPKIST_THEME_HASH) }}
           restore-keys: |
-            ${{ runner.os }}-hashes-
+            hashes-
 
       - name: Validate Submissions
         run: pnpm run start
