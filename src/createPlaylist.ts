@@ -49,7 +49,9 @@ export const addToPlaylist = async (
 
   if (!level) return
 
-  hasPlaylistBeenInvalidated = invalidatePlaylist
+  if (invalidatePlaylist) {
+    hasPlaylistBeenInvalidated = true
+  }
 
   LEVELS.add({
     UID: level.uuid,
