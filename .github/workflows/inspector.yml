@@ -64,4 +64,4 @@ jobs:
           git config --global user.name "Inspector Zeep"
           git add ${{ env.ZEEPKIST_THEME_HASH_PATH }}
           git commit -m "ci: update cache for ${{ vars.ZEEPKIST_THEME_NAME }} [skip ci]"
-          git push
+          git push -f
