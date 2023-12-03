@@ -39,7 +39,7 @@ jobs:
 
       - run: echo ${{ env.ZEEPKIST_THEME_HASH_PATH }}
 
-      - run: cat ${{ env.ZEEPKIST_THEME_HASH_PATH }}
+      - run: cat ${{ env.ZEEPKIST_THEME_HASH_PATH }} || true
 
       - name: Restore Hash Cache
         uses: actions/cache@v3
