@@ -35,12 +35,12 @@ export const sendJudgeMessage = async ({
   const previousAuthorTime = previousLevel ? ` (${previousLevel.time}s)` : ''
   const authorTime = `${emoji(!isUnderTimeLimit && !isOverTimeLimit)} ${
     level.time
-  }s${previousAuthorTime}}`
+  }s${previousAuthorTime}`
 
   const previousBlockCount = previousLevel ? ` (${previousLevel.blocks})` : ''
   const blockCount = `${emoji(!isOverBlockLimit)} ${
     level.blocks
-  }${previousBlockCount}}`
+  }${previousBlockCount}`
 
   const previousCheckpointCount = previousLevel
     ? ` (${previousLevel.checkpoints})`
