@@ -34,7 +34,7 @@ export const onDownloaded = async ({
   if (!level) return
 
   if ((hasChanged || isNew) && !SILENT_MODE) {
-    sendJudgeMessage({
+    await sendJudgeMessage({
       channel: judgeChannel,
       previousLevel,
       level,
@@ -52,7 +52,7 @@ export const onDownloaded = async ({
     })
   }
 
-  reactToMessage(message, level.isValid)
+  await reactToMessage(message, level.isValid)
 
   event.emit('processed')
 }
