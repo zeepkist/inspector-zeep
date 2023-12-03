@@ -8,6 +8,7 @@ on:
 env:
   FORCE_COLOR: true
   NODE_VERSION: 20
+  ZEEPKIST_THEME_HASH: ./hash/${{ vars.ZEEPKIST_THEME_NAME }}.json
 
 jobs:
   validate:
@@ -34,7 +35,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ./hash
-          key: ${{ runner.os }}-hashes-${{ hashFiles('./hash/*') }}
+          key: ${{ runner.os }}-hashes-${{ hashFiles(env.ZEEPKIST_THEME_HASH) }}
           restore-keys: |
             ${{ runner.os }}-hashes-
 
