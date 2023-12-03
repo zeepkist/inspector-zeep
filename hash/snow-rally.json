@@ -1,0 +1,171 @@
+[
+  {
+    "workshopPath": "./downloads/3103387429",
+    "hash": "ff0b02dd2e9a1093cc61e88429588bd13153851269412ed5283a34b687251a3d",
+    "level": {
+      "name": "ZSL - how the grinch stole physics",
+      "path": "./downloads/3103387429/ZSL - how the grinch stole physics/ZSL - how the grinch stole physics.zeeplevel",
+      "blocks": 1293,
+      "author": "[ZST]zivecef",
+      "uuid": "02122023-170634694-[ZST]zivecef-860644125619-1292",
+      "time": 52.92086,
+      "checkpoints": 5
+    }
+  },
+  {
+    "workshopPath": "./downloads/3103234740",
+    "hash": "91161c1f55e88a6aa973e9895569f21b97ae591c8341c0b951eb87ce33dd38fc",
+    "level": {
+      "name": "ZSL - Vasen Eri Kirraa",
+      "path": "./downloads/3103234740/ZSL - Vasen Eri Kirraa/ZSL - Vasen Eri Kirraa.zeeplevel",
+      "blocks": 1595,
+      "author": "Orange Sheets",
+      "uuid": "02122023-222703770-Orange Sheets-083360384081-1594",
+      "time": 53.2222,
+      "checkpoints": 4
+    }
+  },
+  {
+    "workshopPath": "./downloads/3102561023",
+    "hash": "f3a0038bc3f0aa9dbe38da6ff54f51deb6c30742f63c881d4fc3f7541203ffb2",
+    "level": {
+      "name": "ZSL - Icy Halls",
+      "path": "./downloads/3102561023/ZSL - Icy Halls/ZSL - Icy Halls.zeeplevel",
+      "blocks": 2044,
+      "author": "Burrito_Legend",
+      "uuid": "02122023-111659871-Burrito_Legend-741004405197-2043",
+      "time": 52.05043,
+      "checkpoints": 5
+    }
+  },
+  {
+    "workshopPath": "./downloads/3102259395",
+    "hash": "14745ad0df6155a2bda5f50ceed149803a74d80c74bca77b6d2f7b700262eca4",
+    "level": {
+      "name": "ZSL - Dusk Trace",
+      "path": "./downloads/3102259395/ZSL - Dusk Trace/ZSL - Dusk Trace.zeeplevel",
+      "blocks": 2323,
+      "author": "Shadynook",
+      "uuid": "02122023-023245632-Shadynook-528075863759-2322",
+      "time": 40.67699,
+      "checkpoints": 5
+    }
+  },
+  {
+    "workshopPath": "./downloads/3101401733",
+    "hash": "b13540dd45643d5405b027deb6f01ef94f3fd362bb0b5e9ce091aad21516474f",
+    "level": {
+      "name": "ZSL - Winter Park",
+      "path": "./downloads/3101401733/ZSL - Winter Park/ZSL - Winter Park.zeeplevel",
+      "blocks": 2281,
+      "author": "CakeOClock10",
+      "uuid": "30112023-215704451-CakeOClock10-575872843765-2280",
+      "time": 43.93073,
+      "checkpoints": 5
+    }
+  },
+  {
+    "workshopPath": "./downloads/3101066863",
+    "hash": "98120b1c855284d99060a7821933c7f4d0917cfd60c9b474598ae8d518e99416",
+    "level": {
+      "name": "ZSL - Concave Rally",
+      "path": "./downloads/3101066863/ZSL - Concave Rally/ZSL - Concave Rally.zeeplevel",
+      "blocks": 804,
+      "author": "Travesty",
+      "uuid": "30112023-123010430-Travesty-572846917921-803",
+      "time": 46.98472,
+      "checkpoints": 8
+    }
+  },
+  {
+    "workshopPath": "./downloads/3101023458",
+    "hash": "45e15eae56aa7d206aab777b43d91b9a66f03c2c5331d815c596caa5d8590c68",
+    "level": {
+      "name": "ZSL - Quad Peaks Rally Stage 1",
+      "path": "./downloads/3101023458/ZSL - Quad Peaks Rally Stage 1/ZSL - Quad Peaks Rally Stage 1.zeeplevel",
+      "blocks": 1241,
+      "author": "Codewalt",
+      "uuid": "30112023-114107580-Codewalt-318494592985-1240",
+      "time": 61.72741,
+      "checkpoints": 7
+    }
+  },
+  {
+    "workshopPath": "./downloads/3099054826",
+    "hash": "18da5cba424bba50618f77ed0881fa5763823dc8255769e183e01428e1a7f5fc",
+    "level": {
+      "name": "ZSL - Muddy Treck",
+      "path": "./downloads/3099054826/ZSL - Muddy Treck/ZSL - Muddy Treck.zeeplevel",
+      "blocks": 1839,
+      "author": "[XTR] NATHAN",
+      "uuid": "28112023-161920082-[XTR] NATHAN-966514637373-1838",
+      "time": 59.39362,
+      "checkpoints": 4
+    }
+  },
+  {
+    "workshopPath": "./downloads/3098927741",
+    "hash": "127d3c0443e69ef5a60c5b5fafded832838e6b7889780689fffde40275e4e739",
+    "level": {
+      "name": "ZSL - Mount Zeep Ski Resort",
+      "path": "./downloads/3098927741/ZSL - Mount Zeep Ski Resort/ZSL - Mount Zeep Ski Resort.zeeplevel",
+      "blocks": 2272,
+      "author": "Half-Qilin",
+      "uuid": "28112023-205341767-Half-Qilin-301614392044-2271",
+      "time": 74.71647,
+      "checkpoints": 6
+    }
+  },
+  {
+    "workshopPath": "./downloads/3097798679",
+    "hash": "9c9d206013455d49c74f0e5abbb259d22b85e29cebe24bea5f4d67fb682cccbc",
+    "level": {
+      "name": " ZSL - Yellow Snow",
+      "path": "./downloads/3097798679/ ZSL - Yellow Snow/ ZSL - Yellow Snow.zeeplevel",
+      "blocks": 514,
+      "author": "Dylan",
+      "uuid": "27112023-180128984-Dylan-647208716657-513",
+      "time": 51.27654,
+      "checkpoints": 17
+    }
+  },
+  {
+    "workshopPath": "./downloads/3097112225",
+    "hash": "b5050882a81ea75be0502cf416b12df9dca3ce2d6937ea74638dc80b1a591157",
+    "level": {
+      "name": "ZSL-Crystallight Lake",
+      "path": "./downloads/3097112225/ZSL-Crystallight Lake/ZSL-Crystallight Lake.zeeplevel",
+      "blocks": 2464,
+      "author": "[ATB]reholmes92",
+      "uuid": "02122023-102010940-[ATB]reholmes92-144909236703-2463",
+      "time": 50.6866,
+      "checkpoints": 3
+    }
+  },
+  {
+    "workshopPath": "./downloads/3096934417",
+    "hash": "4bcfdca75aee2fb2d6db669bcd4ef893d5fa2b52b2ff3b3b78726ae58db4112a",
+    "level": {
+      "name": "ZSL - Bah Humbug!",
+      "path": "./downloads/3096934417/ZSL - Bah Humbug!/ZSL - Bah Humbug!.zeeplevel",
+      "blocks": 1440,
+      "author": "[ZST] Jakie",
+      "uuid": "26112023-155741579-[ZST] Jakie-995654176611-1439",
+      "time": 35.21877,
+      "checkpoints": 2
+    }
+  },
+  {
+    "workshopPath": "./downloads/3103740998",
+    "hash": "ed748c26cf44bcd0767040d1fcbfdaa46f9e9e905a0012aaee24dcc64601498b",
+    "level": {
+      "name": "ZSL - Must be mudd'n - Small",
+      "path": "./downloads/3103740998/ZSL - Must be mudd'n - Small/ZSL - Must be mudd'n - Small.zeeplevel",
+      "blocks": 1241,
+      "author": "Weside",
+      "uuid": "03122023-025023664-Weside-292061376547-1240",
+      "time": 37.16589,
+      "checkpoints": 3
+    }
+  }
+]
