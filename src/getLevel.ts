@@ -1,6 +1,11 @@
 import { opendir, readFile } from 'node:fs/promises'
 
 import { warn } from './log.js'
+import { Level } from './types.js'
+
+const checkpointBlockIds = new Set([
+  22, 372, 373, 1275, 1276, 1277, 1278, 1279, 1615
+])
 
 const getFiles = async (path: string) => {
   const directory = await opendir(path)
@@ -13,6 +18,13 @@ const getFiles = async (path: string) => {
     }
   }
   return files
+}
+
+const getCheckpoints = (blocks: string[]) => {
+  return blocks.filter(line => {
+    const blockId = Number.parseInt(line.split(',')[0])
+    return checkpointBlockIds.has(blockId)
+  }).length
 }
 
 export const getLevel = async (workshopPath: string) => {
@@ -33,6 +45,18 @@ export const getLevel = async (workshopPath: string) => {
   const author = levelLines[0].split(',')[1]
   const uuid = levelLines[0].split(',')[2]
   const time = Number.parseFloat(levelLines[2].split(',')[0])
+  const checkpoints = getCheckpoints(blocks)
 
-  return { level, name, path, blocks, author, uuid, time }
+  const response: Level = {
+    level,
+    name,
+    path,
+    blocks,
+    author,
+    uuid,
+    time,
+    checkpoints
+  }
+
+  return response
 }

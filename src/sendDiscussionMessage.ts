@@ -7,11 +7,11 @@ import {
   MINIMUM_CHECKPOINTS,
   MINIMUM_TIME
 } from './config/requirements.js'
-import type { Level } from './types.js'
+import type { VerifiedLevel } from './types.js'
 
 interface SendDiscussionMessageOptions {
   channel: ThreadChannel
-  level: Level
+  level: VerifiedLevel
   user: User
 }
 

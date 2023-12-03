@@ -1,7 +1,7 @@
 import { Message, ThreadChannel } from 'discord.js'
 
 import { getChannelMessages } from './getChannelMessages.js'
-import { info, warn } from './log.js'
+import { debug, warn } from './log.js'
 import { Submissions } from './types.js'
 
 const getWorkshopId = (message: Message) => {
@@ -40,7 +40,7 @@ export const getSubmissions = async (channel: ThreadChannel) => {
     submissions.set(workshopId, [message, message.author])
   }
 
-  info(`Found ${submissions.size} submissions`, import.meta)
+  debug(`Found ${submissions.size} submissions`, import.meta)
 
   return submissions
 }

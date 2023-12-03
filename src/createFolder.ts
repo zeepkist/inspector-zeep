@@ -2,7 +2,7 @@ import { mkdir } from 'node:fs/promises'
 
 import { rimraf } from 'rimraf'
 
-import { error, info } from './log.js'
+import { debug, error } from './log.js'
 
 interface NodeJSWithCodeError extends Error {
   code?: string
@@ -13,7 +13,7 @@ export const createFolder = async (folder: string, cleanFolder = false) => {
     if (cleanFolder) await rimraf(folder)
     await mkdir(folder)
 
-    info(`Folder ${folder} created`, import.meta, true)
+    debug(`Folder ${folder} created`, import.meta, true)
   } catch (error_: unknown) {
     if (error_ instanceof Error) {
       const nodeError = error_ as NodeJSWithCodeError

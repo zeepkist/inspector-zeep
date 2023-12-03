@@ -28,13 +28,15 @@ export const onDownloaded = async ({
   const workshopPath = `${DOWNLOAD_FOLDER}${workshopId}`
 
   const level = await checkLevelIsValid(workshopPath, user)
-  const { hasChanged, isNew } = await createLevelHash(workshopPath)
+  const { hasChanged, isNew, previousLevel } =
+    await createLevelHash(workshopPath)
 
   if (!level) return
 
   if ((hasChanged || isNew) && !SILENT_MODE) {
     sendJudgeMessage({
       channel: judgeChannel,
+      previousLevel,
       level,
       isNew
     })

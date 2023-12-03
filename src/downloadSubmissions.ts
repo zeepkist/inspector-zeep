@@ -4,7 +4,7 @@ import { promisify } from 'node:util'
 
 import { APP_ID, DOWNLOAD_FOLDER, STEAMCMD_PATH } from './config/constants.js'
 import { event } from './event.js'
-import { error, info } from './log.js'
+import { debug, error } from './log.js'
 import { Submission, Submissions } from './types.js'
 
 function* chunks(items: [string, Submission][]) {
@@ -31,7 +31,7 @@ const download = async (query: string, workshopIds: string[]) => {
         `${DOWNLOAD_FOLDER}/${workshopId}`
       )
 
-      info(`Downloaded ${workshopId}`, import.meta, true)
+      debug(`Downloaded ${workshopId}`, import.meta, true)
       event.emit('downloaded', workshopId)
     }
   } catch (error_: unknown) {
@@ -48,7 +48,7 @@ const download = async (query: string, workshopIds: string[]) => {
 export const downloadSubmissions = async (submissions: Submissions) => {
   for await (const chunk of chunks([...submissions.entries()])) {
     const workshopIds = chunk.map(([workshopId]) => workshopId)
-    info(`Downloading ${workshopIds}`, import.meta, true)
+    debug(`Downloading ${workshopIds}`, import.meta, true)
 
     const query = workshopIds
       .map(workshopId => `+workshop_download_item ${APP_ID} ${workshopId}`)

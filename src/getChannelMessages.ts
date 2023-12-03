@@ -1,7 +1,6 @@
-import { gray } from 'colorette'
 import { Collection, Message, ThreadChannel } from 'discord.js'
 
-import { info } from './log.js'
+import { debug } from './log.js'
 
 async function* messagesIterator(channel: ThreadChannel) {
   let before
@@ -17,8 +16,8 @@ async function* messagesIterator(channel: ThreadChannel) {
     })
 
     if (messages.size > 0) {
-      info(
-        gray(`Found ${messages.size} messages in ${channel.name}`),
+      debug(
+        `Found ${messages.size} messages in ${channel.name}`,
         import.meta,
         true
       )

@@ -7,7 +7,7 @@ import {
   SILENT_MODE
 } from './config/constants.js'
 import { getChannelMessages } from './getChannelMessages.js'
-import { error, info } from './log.js'
+import { debug, error } from './log.js'
 
 const twoDaysAgo = Date.now() - 1000 * 60 * 60 * 24 * 2
 
@@ -22,7 +22,7 @@ const setupChannel = (client: Client, channelId = ''): ThreadChannel | void => {
     return
   }
 
-  info(`Channel ${channel.name} found`, import.meta, true)
+  debug(`Channel ${channel.name} found`, import.meta, true)
 
   return channel
 }
@@ -49,7 +49,7 @@ export const setupClient = async (client: Client) => {
     // Delete any bot messages sent in a previous run
     for await (const message of getChannelMessages(discussionChannel)) {
       if (message.author.bot && message.createdTimestamp > twoDaysAgo) {
-        info(`Deleting bot message ${message.id}`, import.meta, true)
+        debug(`Deleting bot message ${message.id}`, import.meta, true)
         message.delete()
       } else if (message.author.bot) {
         // don't ping user again if they've already been pinged in the last 2 days
