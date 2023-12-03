@@ -45,18 +45,20 @@ export const setupClient = async (client: Client) => {
     process.exit(1)
   }
 
-  // Delete any bot messages sent in a previous run
-  for await (const message of getChannelMessages(discussionChannel)) {
-    if (message.author.bot && message.createdTimestamp > twoDaysAgo) {
-      info(`Deleting bot message ${message.id}`, import.meta, true)
-      message.delete()
-    } else if (message.author.bot) {
-      // don't ping user again if they've already been pinged in the last 2 days
-      // about their submission not being valid
-      const user = message.mentions.users.first()
-      if (!user) continue
+  if (!SILENT_MODE) {
+    // Delete any bot messages sent in a previous run
+    for await (const message of getChannelMessages(discussionChannel)) {
+      if (message.author.bot && message.createdTimestamp > twoDaysAgo) {
+        info(`Deleting bot message ${message.id}`, import.meta, true)
+        message.delete()
+      } else if (message.author.bot) {
+        // don't ping user again if they've already been pinged in the last 2 days
+        // about their submission not being valid
+        const user = message.mentions.users.first()
+        if (!user) continue
 
-      usersWithInvalidSubmissions.add(user.id)
+        usersWithInvalidSubmissions.add(user.id)
+      }
     }
   }
 

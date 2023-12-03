@@ -1,7 +1,7 @@
 import { Message, ThreadChannel, User } from 'discord.js'
 
 import { checkLevelIsValid } from '../checkLevelIsValid.js'
-import { DOWNLOAD_FOLDER } from '../config/constants.js'
+import { DOWNLOAD_FOLDER, SILENT_MODE } from '../config/constants.js'
 import { createLevelHash } from '../createLevelHash.js'
 import { addToPlaylist } from '../createPlaylist.js'
 import { event } from '../event.js'
@@ -32,7 +32,7 @@ export const onDownloaded = async ({
 
   if (!level) return
 
-  if (hasChanged || isNew) {
+  if ((hasChanged || isNew) && !SILENT_MODE) {
     sendJudgeMessage({
       channel: judgeChannel,
       level,
@@ -42,7 +42,7 @@ export const onDownloaded = async ({
 
   if (level.isValid) {
     await addToPlaylist(workshopPath, workshopId, hasChanged || isNew)
-  } else if (!hasAlreadyPinged) {
+  } else if (!hasAlreadyPinged && !SILENT_MODE) {
     sendDiscussionMessage({
       channel: discussionChannel,
       level,

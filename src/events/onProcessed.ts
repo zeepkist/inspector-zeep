@@ -1,5 +1,6 @@
 import { ThreadChannel } from 'discord.js'
 
+import { SILENT_MODE } from '../config/constants.js'
 import { sendPlaylist } from '../createPlaylist.js'
 import { info } from '../log.js'
 
@@ -30,7 +31,9 @@ export const onProcessed = async ({
     if (processed === total) {
       info(`Processed all ${processed} submissions`, import.meta)
 
-      await sendPlaylist(judgeChannel)
+      if (!SILENT_MODE) {
+        await sendPlaylist(judgeChannel)
+      }
 
       // eslint-disable-next-line unicorn/no-process-exit
       process.exit(0)
