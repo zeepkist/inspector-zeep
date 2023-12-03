@@ -42,7 +42,7 @@ jobs:
       - name: Restore Hash Cache
         uses: actions/cache@v3
         with:
-          path: ./hash/${{ env.ZEEPKIST_THEME_HASH_PATH }}
+          path: ${{ env.ZEEPKIST_THEME_HASH_PATH }}
           key: hashes-${{ hashFiles(env.ZEEPKIST_THEME_HASH_PATH) }}
           restore-keys: |
             hashes-
