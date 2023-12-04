@@ -167,5 +167,18 @@
       "time": 37.16589,
       "checkpoints": 3
     }
+  },
+  {
+    "workshopPath": "./downloads/3104736459",
+    "hash": "f6b5f432ea03697ea9bddb50d62025927620a90d06498f0185b1575635b00053",
+    "level": {
+      "name": "ZSL - Knelbourne Forest Rally",
+      "path": "./downloads/3104736459/ZSL - Knelbourne Forest Rally/ZSL - Knelbourne Forest Rally.zeeplevel",
+      "blocks": 2223,
+      "author": "DeeDeeNaNaNa",
+      "uuid": "04122023-025302753-DeeDeeNaNaNa-683364013683-2222",
+      "time": 58.80737,
+      "checkpoints": 6
+    }
   }
 ]
