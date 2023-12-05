@@ -193,5 +193,18 @@
       "time": 58.80737,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3105748896",
+    "hash": "b50b2922a8e8bf2be1eb40448a9b9c8f68110af9e51e6c11f8dc885688e00ec5",
+    "level": {
+      "name": "zsl - wintertime valley run",
+      "path": "./downloads/3105748896/zsl - wintertime valley run/zsl - wintertime valley run.zeeplevel",
+      "blocks": 99,
+      "author": "[heyo]Mr  Hubub",
+      "uuid": "05122023-011453181-[heyo]Mr  Hubub-213378408599-98",
+      "time": 32.35433,
+      "checkpoints": 3
+    }
   }
 ]
