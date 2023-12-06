@@ -219,5 +219,18 @@
       "time": 46.58322,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3106569640",
+    "hash": "78601ddf3dbf5412c30bc34ee044f1b10d7120c32b35371ae8f3cacebd847b8c",
+    "level": {
+      "name": "ZSL - Sponsored by Dylan",
+      "path": "./downloads/3106569640/ZSL - Sponsored by Dylan/ZSL - Sponsored by Dylan.zeeplevel",
+      "blocks": 1211,
+      "author": "Dylan",
+      "uuid": "06122023-045856494-Dylan-827707770744-1210",
+      "time": 53.82464,
+      "checkpoints": 9
+    }
   }
 ]
