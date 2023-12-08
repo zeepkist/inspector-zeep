@@ -245,5 +245,18 @@
       "time": 47.34359,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3108345320",
+    "hash": "1d1ce59eeca3efe59b3b9386978c7746c326bab179b429378b15daced3d1e22c",
+    "level": {
+      "name": "ZSL - BaboonLand 2023 Winter Edition",
+      "path": "./downloads/3108345320/ZSL - BaboonLand 2023 Winter Edition/ZSL - BaboonLand 2023 Winter Edition.zeeplevel",
+      "blocks": 1441,
+      "author": "[ATH] Stony⁧⁧Baboon",
+      "uuid": "08122023-064535708-[ATH] Stony⁧⁧Baboon-725998978243-1440",
+      "time": 46.81413,
+      "checkpoints": 9
+    }
   }
 ]
