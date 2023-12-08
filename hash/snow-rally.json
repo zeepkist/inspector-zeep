@@ -232,5 +232,18 @@
       "time": 53.82464,
       "checkpoints": 9
     }
+  },
+  {
+    "workshopPath": "./downloads/3108218115",
+    "hash": "d2202ed3882273d563fc159aecfb7f94a3a34dce2fb41bb5a31278ba35787823",
+    "level": {
+      "name": "ZSL - Frostbite",
+      "path": "./downloads/3108218115/ZSL - Frostbite/ZSL - Frostbite.zeeplevel",
+      "blocks": 605,
+      "author": "Butter & Nicolas_Gamer",
+      "uuid": "07122023-194849001-Butter & Nicolas_Gamer-587137660483-605",
+      "time": 47.34359,
+      "checkpoints": 5
+    }
   }
 ]
