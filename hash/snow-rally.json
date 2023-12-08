@@ -258,5 +258,18 @@
       "time": 46.81413,
       "checkpoints": 9
     }
+  },
+  {
+    "workshopPath": "./downloads/3108888259",
+    "hash": "04214f03d0cff6bbafb44a37920b43ff7663c9abfac1a9605f837c4a7f8cc3cc",
+    "level": {
+      "name": "ZSL - Fogwise Descent",
+      "path": "./downloads/3108888259/ZSL - Fogwise Descent/ZSL - Fogwise Descent.zeeplevel",
+      "blocks": 1512,
+      "author": "Last",
+      "uuid": "08122023-211144166-Last-623078355830-1511",
+      "time": 56.05025,
+      "checkpoints": 4
+    }
   }
 ]
