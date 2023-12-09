@@ -271,5 +271,31 @@
       "time": 56.05025,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3110018316",
+    "hash": "ccaeabc54efe8e3c2c6acffbdf02594b5fbd232cd314925834b21c74b4ab9c05",
+    "level": {
+      "name": "ZSL - Snow Problem",
+      "path": "./downloads/3110018316/ZSL - Snow Problem/ZSL - Snow Problem.zeeplevel",
+      "blocks": 421,
+      "author": "Bluekittyracer",
+      "uuid": "09122023-161058661-Bluekittyracer-583184882283-420",
+      "time": 37.45573,
+      "checkpoints": 10
+    }
+  },
+  {
+    "workshopPath": "./downloads/3109995796",
+    "hash": "6b40fe781aa809dc1655ea01305d33485ce92bd1cfa96db2313b77995db6bf6b",
+    "level": {
+      "name": "ZSL - Snöbyar Rally",
+      "path": "./downloads/3109995796/ZSL - Snöbyar Rally/ZSL - Snöbyar Rally.zeeplevel",
+      "blocks": 4000,
+      "author": "Richhyyyy & Diabler",
+      "uuid": "09122023-212702564-Richhyyyy & Diabler-895083719499-4000",
+      "time": 52.56456,
+      "checkpoints": 6
+    }
   }
 ]
