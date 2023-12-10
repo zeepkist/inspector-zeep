@@ -310,5 +310,18 @@
       "time": 59.4136,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3111063196",
+    "hash": "3c71934ea1bf3c3eae837cef8ff25ac897bf38c86f319f45adf4ada3034ac010",
+    "level": {
+      "name": "ZSL - Nocturne of Ice",
+      "path": "./downloads/3111063196/ZSL - Nocturne of Ice/ZSL - Nocturne of Ice.zeeplevel",
+      "blocks": 2178,
+      "author": "[oops] Wombat!",
+      "uuid": "11122023-121207122-[oops] Wombat!-924851816784-2177",
+      "time": 46.36763,
+      "checkpoints": 6
+    }
   }
 ]
