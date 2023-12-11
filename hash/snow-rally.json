@@ -323,5 +323,18 @@
       "time": 46.36763,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3111697935",
+    "hash": "a1ed06778d2c997712245172fd946cddfd8a36fff2e1a8b4840a7fff5de4beb8",
+    "level": {
+      "name": "ZSL - Freezing Verzameling",
+      "path": "./downloads/3111697935/ZSL - Freezing Verzameling/ZSL - Freezing Verzameling.zeeplevel",
+      "blocks": 1350,
+      "author": "CDAW",
+      "uuid": "11122023-184449269-CDAW-923829057518-1349",
+      "time": 38.04963,
+      "checkpoints": 4
+    }
   }
 ]
