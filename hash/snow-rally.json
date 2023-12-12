@@ -336,5 +336,18 @@
       "time": 38.04963,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3111981048",
+    "hash": "3e93b60140b9509b0799b4dca064562bc8519b4158a3d5ccbc18da3acd41df14",
+    "level": {
+      "name": "ZSL-Aurora Highlands v2",
+      "path": "./downloads/3111981048/ZSL-Aurora Highlands v2/ZSL-Aurora Highlands v2.zeeplevel",
+      "blocks": 1036,
+      "author": "GearworkDragon",
+      "uuid": "11122023-215541926-GearworkDragon-595700168491-1035",
+      "time": 58.04851,
+      "checkpoints": 10
+    }
   }
 ]
