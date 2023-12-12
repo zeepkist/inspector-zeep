@@ -349,5 +349,18 @@
       "time": 58.04851,
       "checkpoints": 10
     }
+  },
+  {
+    "workshopPath": "./downloads/3111476087",
+    "hash": "2e471a6a061e46e33ca78145c98cf6a0f2cc9c60f28168f6f1c09bed425e14d7",
+    "level": {
+      "name": "ZSL - Uber Eats Always Delivers",
+      "path": "./downloads/3111476087/ZSL - Uber Eats Always Delivers/ZSL - Uber Eats Always Delivers.zeeplevel",
+      "blocks": 1295,
+      "author": "[TOG]ioi8",
+      "uuid": "11122023-083539803-[TOG]ioi8-839748588531-1294",
+      "time": 54.41911,
+      "checkpoints": 5
+    }
   }
 ]
