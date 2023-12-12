@@ -362,5 +362,18 @@
       "time": 54.41911,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3112528933",
+    "hash": "7825d03d1e51af17906cb84b1cf0003207d6f14e69643b6f96d7338738934cc1",
+    "level": {
+      "name": "A Snowy Rally Eve",
+      "path": "./downloads/3112528933/A Snowy Rally Eve/A Snowy Rally Eve.zeeplevel",
+      "blocks": 2155,
+      "author": "[RTR]Istaysideway",
+      "uuid": "12122023-150436010-[RTR]Istaysideway-695285164497-2154",
+      "time": 55.2473,
+      "checkpoints": 4
+    }
   }
 ]
