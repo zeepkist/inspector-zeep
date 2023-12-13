@@ -375,5 +375,18 @@
       "time": 55.2473,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3112685360",
+    "hash": "4e911a49dcd3cd1a24f4148fa9bc1a26de3327cf0aaf3c1dbab9443509395abe",
+    "level": {
+      "name": "ZSL - Point to Point",
+      "path": "./downloads/3112685360/ZSL - Point to Point/ZSL - Point to Point.zeeplevel",
+      "blocks": 1108,
+      "author": "Weside",
+      "uuid": "12122023-194402473-Weside-775463789072-1107",
+      "time": 73.65217,
+      "checkpoints": 14
+    }
   }
 ]
