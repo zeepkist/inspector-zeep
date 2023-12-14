@@ -13,6 +13,12 @@ interface Hash {
   level: CachedLevel
 }
 
+interface CreateLevelHash {
+  hasChanged: boolean
+  isNew: boolean
+  previousLevel?: CachedLevel
+}
+
 const HASH_FILE = join(
   HASH_FOLDER,
   `${ZEEPKIST_THEME_NAME?.replaceAll(' ', '-').toLowerCase()}.json`
@@ -20,7 +26,7 @@ const HASH_FILE = join(
 
 const hashes: Hash[] = await readFile(join(HASH_FILE), 'utf8')
   .then(JSON.parse)
-  .catch(() => [])
+  .catch(() => [] as Hash[])
 
 debug(`Loaded ${hashes.length} hashes`, import.meta, true)
 
@@ -32,27 +38,43 @@ const hashLevel = (level: string) => {
   return hash.digest('hex')
 }
 
-const levelHash = async (workshopPath: string) => {
+export const createLevelHash = async (
+  workshopPath: string
+): Promise<CreateLevelHash> => {
   const level = await getLevel(workshopPath)
 
-  if (!level)
+  if (!level) {
     return {
-      currentHash: '',
-      previousHash: {} as Hash
+      hasChanged: false,
+      isNew: true
     }
+  }
 
   const fileName = basename(level.path, extname(level.path))
   const currentHash = hashLevel(level.level)
 
-  const previousHash = hashes.find(hash => hash.workshopPath === workshopPath)
+  const previous = hashes.find(hash => hash.workshopPath === workshopPath)
+  const hasChanged = (previous && currentHash !== previous.hash) ?? false
 
-  if (previousHash && currentHash === previousHash.hash) {
-    debug(`Level ${fileName} has not changed`, import.meta, true)
-  } else {
+  if (hasChanged) {
     info(`Level ${fileName} has changed or is new`, import.meta)
 
-    if (previousHash) {
-      previousHash.hash = currentHash
+    if (previous) {
+      const newLevel = {
+        workshopPath,
+        hash: currentHash,
+        level: {
+          name: level.name,
+          path: level.path,
+          blocks: level.blocks.length,
+          author: level.author,
+          uuid: level.uuid,
+          time: level.time,
+          checkpoints: level.checkpoints
+        }
+      }
+
+      hashes.splice(hashes.indexOf(previous), 1, newLevel)
     } else {
       hashes.push({
         workshopPath,
@@ -68,23 +90,14 @@ const levelHash = async (workshopPath: string) => {
         }
       })
     }
+  } else {
+    debug(`Level ${fileName} has not changed`, import.meta, true)
   }
 
   return {
-    currentHash,
-    previousHash
-  }
-}
-
-export const createLevelHash = async (workshopPath: string) => {
-  const { currentHash, previousHash } = await levelHash(workshopPath)
-
-  const isNew = !previousHash
-
-  return {
-    hasChanged: currentHash !== previousHash?.hash,
-    isNew,
-    previousLevel: previousHash?.level
+    hasChanged,
+    isNew: !previous,
+    previousLevel: previous?.level
   }
 }
 
