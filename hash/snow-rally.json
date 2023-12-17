@@ -557,5 +557,18 @@
       "time": 39.37293,
       "checkpoints": 3
     }
+  },
+  {
+    "workshopPath": "./downloads/3116356173",
+    "hash": "3eeb2880eaa2a4cb003e9c4f99f099b932b236fd0178d1090f60e96fc51b11c4",
+    "level": {
+      "name": "ZSL - Rush Job",
+      "path": "./downloads/3116356173/ZSL - Rush Job/ZSL - Rush Job.zeeplevel",
+      "blocks": 832,
+      "author": "MeroMeroNoMi",
+      "uuid": "17122023-175058897-MeroMeroNoMi-728433988345-831",
+      "time": 37.88708,
+      "checkpoints": 3
+    }
   }
 ]
