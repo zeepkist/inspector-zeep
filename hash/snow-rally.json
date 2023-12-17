@@ -339,14 +339,14 @@
   },
   {
     "workshopPath": "./downloads/3111981048",
-    "hash": "3e93b60140b9509b0799b4dca064562bc8519b4158a3d5ccbc18da3acd41df14",
+    "hash": "1bf7f2e6cbd35cebc8cf1f63370e1ec27f33450375a33a396c146e137738cf1b",
     "level": {
-      "name": "ZSL-Aurora Highlands v2",
-      "path": "./downloads/3111981048/ZSL-Aurora Highlands v2/ZSL-Aurora Highlands v2.zeeplevel",
-      "blocks": 1036,
+      "name": "ZSL-Aurora Highlands(V2)",
+      "path": "./downloads/3111981048/ZSL-Aurora Highlands(V2)/ZSL-Aurora Highlands(V2).zeeplevel",
+      "blocks": 1057,
       "author": "GearworkDragon",
-      "uuid": "11122023-215541926-GearworkDragon-595700168491-1035",
-      "time": 58.04851,
+      "uuid": "16122023-180920911-GearworkDragon-955485768251-1056",
+      "time": 57.5618,
       "checkpoints": 10
     }
   },
@@ -387,6 +387,162 @@
       "uuid": "12122023-194402473-Weside-775463789072-1107",
       "time": 73.65217,
       "checkpoints": 14
+    }
+  },
+  {
+    "workshopPath": "./downloads/3116016878",
+    "hash": "281de8e6cdaebead50d8f142a406945a00633ad8d7cc05cfb0fb337f940afbe9",
+    "level": {
+      "name": "ZSL - Bearder's Snow Rally",
+      "path": "./downloads/3116016878/ZSL - Bearder's Snow Rally/ZSL - Bearder's Snow Rally.zeeplevel",
+      "blocks": 777,
+      "author": "Bearder",
+      "uuid": "17122023-034634022-Bearder-436838004314-776",
+      "time": 53.16297,
+      "checkpoints": 4
+    }
+  },
+  {
+    "workshopPath": "./downloads/3115984776",
+    "hash": "1539e6efacfa656d1595ded09cf1c45fec90ec8ef122a1476e3e35b26ca3bd53",
+    "level": {
+      "name": "ZSL - A Rally of Snow",
+      "path": "./downloads/3115984776/ZSL - A Rally of Snow/ZSL - A Rally of Snow.zeeplevel",
+      "blocks": 1820,
+      "author": "Maou Maki & Sandals",
+      "uuid": "17122023-084334932-Maou Maki & Sandals-551511803096-1819",
+      "time": 48.50919,
+      "checkpoints": 5
+    }
+  },
+  {
+    "workshopPath": "./downloads/3115948119",
+    "hash": "a8e40ca728e38cd5df8f9ebe5d4519076e78ce66d17208911b9306f781497591",
+    "level": {
+      "name": "ZSL - New England first snow",
+      "path": "./downloads/3115948119/ZSL - New England first snow/ZSL - New England first snow.zeeplevel",
+      "blocks": 1962,
+      "author": "Modern-X Studios",
+      "uuid": "16122023-223759057-Modern-X Studios-447593905523-1961",
+      "time": 58.52057,
+      "checkpoints": 4
+    }
+  },
+  {
+    "workshopPath": "./downloads/3115953457",
+    "hash": "96918952f8316a95a465c0e8b6b090409e493d52d59526560e489388625eaa1f",
+    "level": {
+      "name": "ZSL - Rocks and Trees",
+      "path": "./downloads/3115953457/ZSL - Rocks and Trees/ZSL - Rocks and Trees.zeeplevel",
+      "blocks": 3997,
+      "author": "joel",
+      "uuid": "16122023-235236297-joel-457442054514-3996",
+      "time": 71.98318,
+      "checkpoints": 6
+    }
+  },
+  {
+    "workshopPath": "./downloads/3115855129",
+    "hash": "e87340db883d63e59657088d880dcfef3ae6083798f1a8ae60b79e106a996fad",
+    "level": {
+      "name": "ZSL - Resort Rally",
+      "path": "./downloads/3115855129/ZSL - Resort Rally/ZSL - Resort Rally.zeeplevel",
+      "blocks": 2307,
+      "author": "Bean",
+      "uuid": "16122023-201157376-Bean-639465869312-2306",
+      "time": 74.23219,
+      "checkpoints": 12
+    }
+  },
+  {
+    "workshopPath": "./downloads/3115932186",
+    "hash": "d36da9ebef8fa32928b579163ff1bdf8a1089b0742d722a83fe14fb59199289d",
+    "level": {
+      "name": "ZSL - Frigid Air",
+      "path": "./downloads/3115932186/ZSL - Frigid Air/ZSL - Frigid Air.zeeplevel",
+      "blocks": 377,
+      "author": "Kernkob",
+      "uuid": "16122023-220703275-Kernkob-648957224274-376",
+      "time": 39.76768,
+      "checkpoints": 6
+    }
+  },
+  {
+    "workshopPath": "./downloads/3115675215",
+    "hash": "e057eecfb9afb6f623a16bf0ea4a9bfc4f55fdcb7e78afb478e1e88e0b0a9433",
+    "level": {
+      "name": "ZSL - Heilagr",
+      "path": "./downloads/3115675215/Heilagr/ZSL - Heilagr.zeeplevel",
+      "blocks": 667,
+      "author": "L3mmy",
+      "uuid": "16122023-225709758-L3mmy-592501450697-666",
+      "time": 42.14411,
+      "checkpoints": 5
+    }
+  },
+  {
+    "workshopPath": "./downloads/3115675674",
+    "hash": "e1d6351aad5032a7d3219c5cb73dbef2670580d7e3598baabb8c81e295fcd79d",
+    "level": {
+      "name": "ZSL - Snowy Rally Valley",
+      "path": "./downloads/3115675674/ZSL - Snowy Rally Valley/ZSL - Snowy Rally Valley.zeeplevel",
+      "blocks": 2176,
+      "author": "Parrazarre",
+      "uuid": "16122023-225854856-Parrazarre-652121410712-2175",
+      "time": 49.68819,
+      "checkpoints": 14
+    }
+  },
+  {
+    "workshopPath": "./downloads/3115111316",
+    "hash": "686284dce74105c04cd4aeb158e9a98203bc7317fb1835a28830b20e2e2cf6c7",
+    "level": {
+      "name": "ZSL - Snow Meridian",
+      "path": "./downloads/3115111316/ZSL - Snow Meridian/ZSL - Snow Meridian.zeeplevel",
+      "blocks": 282,
+      "author": "Tritonas1237",
+      "uuid": "16122023-102005214-Tritonas1237-585774566861-281",
+      "time": 40.98155,
+      "checkpoints": 5
+    }
+  },
+  {
+    "workshopPath": "./downloads/3114850673",
+    "hash": "e15ad2c52585ae49d6eae24d7246290fb40916eee1c7be2937955ad2de2f21f8",
+    "level": {
+      "name": "ZSL - Snowdrift",
+      "path": "./downloads/3114850673/ZSL - Snowdrift/ZSL - Snowdrift.zeeplevel",
+      "blocks": 1001,
+      "author": "Cactushead",
+      "uuid": "15122023-230451909-Cactushead-196122077172-1000",
+      "time": 54.99444,
+      "checkpoints": 4
+    }
+  },
+  {
+    "workshopPath": "./downloads/3114330896",
+    "hash": "68f64d2ee72f108177abfa2ba11f3ce5e97a2849b211942471a932cf8fa606ef",
+    "level": {
+      "name": "ZSL - Rocky Mtn Racin' Basin",
+      "path": "./downloads/3114330896/ZSL - Rocky Mtn Racin' Basin/ZSL - Rocky Mtn Racin' Basin.zeeplevel",
+      "blocks": 1045,
+      "author": "St Nicholas",
+      "uuid": "15122023-143625867-St Nicholas-497090358789-1044",
+      "time": 49.67229,
+      "checkpoints": 4
+    }
+  },
+  {
+    "workshopPath": "./downloads/3113977455",
+    "hash": "1f90e1542eaba39d302e5df6e450170c6d878c7ea4c4c75daa3d5566c5c9499a",
+    "level": {
+      "name": "ZSL - Snowy Mountain Pass",
+      "path": "./downloads/3113977455/ZSL - Snowy Mountain Pass/ZSL - Snowy Mountain Pass.zeeplevel",
+      "blocks": 612,
+      "author": "Lexer",
+      "uuid": "14122023-122426251-Lexer-818310579017-611",
+      "time": 39.37293,
+      "checkpoints": 3
     }
   }
 ]

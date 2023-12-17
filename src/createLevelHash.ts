@@ -44,6 +44,8 @@ export const createLevelHash = async (
   const level = await getLevel(workshopPath)
 
   if (!level) {
+    info(`Level ${workshopPath} does not exist`, import.meta)
+
     return {
       hasChanged: false,
       isNew: true
@@ -53,13 +55,15 @@ export const createLevelHash = async (
   const fileName = basename(level.path, extname(level.path))
   const currentHash = hashLevel(level.level)
 
-  const previous = hashes.find(hash => hash.workshopPath === workshopPath)
-  const hasChanged = (previous && currentHash !== previous.hash) ?? false
+  const previousLevel = hashes.find(hash => hash.workshopPath === workshopPath)
+  const hasChanged = previousLevel
+    ? previousLevel && currentHash !== previousLevel.hash
+    : true
 
   if (hasChanged) {
-    info(`Level ${fileName} has changed or is new`, import.meta)
+    info(`"${fileName}" has changed or is new`, import.meta)
 
-    if (previous) {
+    if (previousLevel) {
       const newLevel = {
         workshopPath,
         hash: currentHash,
@@ -74,7 +78,7 @@ export const createLevelHash = async (
         }
       }
 
-      hashes.splice(hashes.indexOf(previous), 1, newLevel)
+      hashes.splice(hashes.indexOf(previousLevel), 1, newLevel)
     } else {
       hashes.push({
         workshopPath,
@@ -95,9 +99,9 @@ export const createLevelHash = async (
   }
 
   return {
-    hasChanged,
-    isNew: !previous,
-    previousLevel: previous?.level
+    hasChanged: !!hasChanged,
+    isNew: !previousLevel,
+    previousLevel: previousLevel?.level
   }
 }
 
