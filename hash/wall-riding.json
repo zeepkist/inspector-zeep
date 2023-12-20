@@ -63,5 +63,18 @@
       "time": 36.31839,
       "checkpoints": 9
     }
+  },
+  {
+    "workshopPath": "./downloads/3118758029",
+    "hash": "7af2652905aadc97e91a61427ce9305432c27f92eefbdcb8b97513c337934eba",
+    "level": {
+      "name": "ZSL - Chinese Wall Ride",
+      "path": "./downloads/3118758029/ZSL - Chinese Wall Ride/ZSL - Chinese Wall Ride.zeeplevel",
+      "blocks": 524,
+      "author": "CoinnectedOfficial",
+      "uuid": "20122023-131824947-CoinnectedOfficial-037442917777-523",
+      "time": 70.80879,
+      "checkpoints": 3
+    }
   }
 ]
