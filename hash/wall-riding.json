@@ -1,0 +1,67 @@
+[
+  {
+    "workshopPath": "./downloads/3118059734",
+    "hash": "4ae715238237b7c86172aa65d300dd5e70feb735c7325f6ba7a07a667f5723aa",
+    "level": {
+      "name": "ZSL - Windy Forest",
+      "path": "./downloads/3118059734/ZSL - Windy Forest/ZSL - Windy Forest.zeeplevel",
+      "blocks": 1643,
+      "author": "[XTR] NATHAN",
+      "uuid": "19122023-161351150-[XTR] NATHAN-929921053511-1642",
+      "time": 30.45712,
+      "checkpoints": 7
+    }
+  },
+  {
+    "workshopPath": "./downloads/3118209057",
+    "hash": "1ee8889f28695c607969e1ddc163cd363f35fb0cc3bbb963247f760c6b8663cf",
+    "level": {
+      "name": "ZSL-JUMP THE CURVE",
+      "path": "./downloads/3118209057/ZSL-JUMP THE CURVE/ZSL-JUMP THE CURVE.zeeplevel",
+      "blocks": 1007,
+      "author": "jay_Co__",
+      "uuid": "19122023-205150536-jay_Co__-056243998956-1006",
+      "time": 46.75944,
+      "checkpoints": 4
+    }
+  },
+  {
+    "workshopPath": "./downloads/3117409347",
+    "hash": "11a909ab70a6d12f6afb00a045488b0e5820dcdacc4e9c3fd69576ea117a537b",
+    "level": {
+      "name": "ZSL-Blossom Park",
+      "path": "./downloads/3117409347/ZSL-Blossom Park/ZSL-Blossom Park.zeeplevel",
+      "blocks": 2947,
+      "author": "[ATB]reholmes92",
+      "uuid": "19122023-165955928-[ATB]reholmes92-669245015570-2946",
+      "time": 41.54909,
+      "checkpoints": 5
+    }
+  },
+  {
+    "workshopPath": "./downloads/3117373334",
+    "hash": "4e53c0d59007572cde2f2c19e06701df66d1a120bc91087306e85abdc48c7c6f",
+    "level": {
+      "name": "ZSL - Verdant Rush",
+      "path": "./downloads/3117373334/ZSL - Verdant Rush/ZSL - Verdant Rush.zeeplevel",
+      "blocks": 401,
+      "author": "Akane",
+      "uuid": "18122023-231025587-Akane-321490886704-400",
+      "time": 57.96404,
+      "checkpoints": 6
+    }
+  },
+  {
+    "workshopPath": "./downloads/3117144351",
+    "hash": "2966842c3b2d250a7731b155aaae42ea39c1064b17d54e50ab3fa42dcae96bd0",
+    "level": {
+      "name": "ZSL - Wormville",
+      "path": "./downloads/3117144351/ZSL - Wormville/ZSL - Wormville.zeeplevel",
+      "blocks": 1301,
+      "author": "Dylan",
+      "uuid": "19122023-221003330-Dylan-146720973297-1300",
+      "time": 36.16919,
+      "checkpoints": 9
+    }
+  }
+]
