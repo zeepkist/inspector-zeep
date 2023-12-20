@@ -53,14 +53,14 @@
   },
   {
     "workshopPath": "./downloads/3117144351",
-    "hash": "2966842c3b2d250a7731b155aaae42ea39c1064b17d54e50ab3fa42dcae96bd0",
+    "hash": "e8e5b704b19fbd5a2249a2e789f8deb93a99350b92f0cdfc64ae87960634330e",
     "level": {
       "name": "ZSL - Wormville",
       "path": "./downloads/3117144351/ZSL - Wormville/ZSL - Wormville.zeeplevel",
-      "blocks": 1301,
+      "blocks": 1401,
       "author": "Dylan",
-      "uuid": "19122023-221003330-Dylan-146720973297-1300",
-      "time": 36.16919,
+      "uuid": "20122023-133759182-Dylan-802215456080-1400",
+      "time": 36.31839,
       "checkpoints": 9
     }
   }
