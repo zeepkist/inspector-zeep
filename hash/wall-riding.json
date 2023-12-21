@@ -102,5 +102,18 @@
       "time": 36.61614,
       "checkpoints": 3
     }
+  },
+  {
+    "workshopPath": "./downloads/3119428024",
+    "hash": "36a492753624671f2bd4bc716949fb31bf43f818e3b3a806c489ea1ebc6d812d",
+    "level": {
+      "name": "ZSL - Akward wallrides",
+      "path": "./downloads/3119428024/ZSL - Akward wallrides/ZSL - Akward wallrides.zeeplevel",
+      "blocks": 102,
+      "author": "L3mmy",
+      "uuid": "21122023-201445135-L3mmy-441165240178-101",
+      "time": 51.30089,
+      "checkpoints": 5
+    }
   }
 ]
