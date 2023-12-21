@@ -89,5 +89,18 @@
       "time": 39.73251,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3118691716",
+    "hash": "eccd9350daba2d596bc42213e3a0675a56fbe7532611280a9aa90846e2b00bd3",
+    "level": {
+      "name": "ZSL - Windy Towers",
+      "path": "./downloads/3118691716/ZSL - Windy Towers/ZSL - Windy Towers.zeeplevel",
+      "blocks": 1359,
+      "author": "[WSHD] Renergy",
+      "uuid": "20122023-193831498-[WSHD] Renergy-348816587782-1358",
+      "time": 36.61614,
+      "checkpoints": 3
+    }
   }
 ]
