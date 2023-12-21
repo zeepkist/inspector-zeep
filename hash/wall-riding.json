@@ -76,5 +76,18 @@
       "time": 70.80879,
       "checkpoints": 3
     }
+  },
+  {
+    "workshopPath": "./downloads/3118801924",
+    "hash": "cd2a9ccdd9f3b504ee3e86e43f33829a4f6e357637cd3bba2a2346d72766e96e",
+    "level": {
+      "name": "ZSL - Black Dive",
+      "path": "./downloads/3118801924/ZSL - Black Dive/ZSL - Black Dive.zeeplevel",
+      "blocks": 3372,
+      "author": "bernhard",
+      "uuid": "20122023-223055131-bernhard-152923427657-3371",
+      "time": 39.73251,
+      "checkpoints": 4
+    }
   }
 ]
