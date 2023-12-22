@@ -14,15 +14,15 @@
   },
   {
     "workshopPath": "./downloads/3118209057",
-    "hash": "1ee8889f28695c607969e1ddc163cd363f35fb0cc3bbb963247f760c6b8663cf",
+    "hash": "fc981f9a1be5f67979236ddca3f4310ae35757e67744afffc553c828a738ea70",
     "level": {
       "name": "ZSL-JUMP THE CURVE",
       "path": "./downloads/3118209057/ZSL-JUMP THE CURVE/ZSL-JUMP THE CURVE.zeeplevel",
-      "blocks": 1007,
+      "blocks": 1323,
       "author": "jay_Co__",
-      "uuid": "19122023-205150536-jay_Co__-056243998956-1006",
-      "time": 46.75944,
-      "checkpoints": 4
+      "uuid": "22122023-174327433-jay_Co__-563938245317-1322",
+      "time": 46.57241,
+      "checkpoints": 5
     }
   },
   {
