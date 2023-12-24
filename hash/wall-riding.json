@@ -115,5 +115,18 @@
       "time": 51.30089,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3122023100",
+    "hash": "da4e5d0c19a8179bdc85ae0ace27d2dea1e0fe7c9957503aefdc7e7283d8655b",
+    "level": {
+      "name": "ZSL - Rock Climbing Valley",
+      "path": "./downloads/3122023100/ZSL - Rock Climbing Valley/ZSL - Rock Climbing Valley.zeeplevel",
+      "blocks": 814,
+      "author": "[help] Half-Qilin",
+      "uuid": "24122023-142842673-[help] Half-Qilin-501615528072-813",
+      "time": 40.41002,
+      "checkpoints": 5
+    }
   }
 ]
