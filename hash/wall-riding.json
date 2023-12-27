@@ -128,5 +128,18 @@
       "time": 40.41002,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3123796645",
+    "hash": "f43e7ef5746bb74c0a67a8cf980ee863b101f4491319cd5314a82e02ce5b73ba",
+    "level": {
+      "name": "ZSL - Miiruta 4",
+      "path": "./downloads/3123796645/ZSL - Miiruta 4/ZSL - Miiruta 4.zeeplevel",
+      "blocks": 1094,
+      "author": "Shadynook",
+      "uuid": "26122023-223917265-Shadynook-701515711254-1093",
+      "time": 36.57594,
+      "checkpoints": 4
+    }
   }
 ]
