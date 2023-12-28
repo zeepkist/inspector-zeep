@@ -141,5 +141,18 @@
       "time": 36.57594,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3124529658",
+    "hash": "4bebc977e622b56c458d5eb3707a29a54b4a27f52a27a9f1f05a70c535c76cc8",
+    "level": {
+      "name": "ZSL - Balance Walls",
+      "path": "./downloads/3124529658/ZSL - Balance Walls/ZSL - Balance Walls.zeeplevel",
+      "blocks": 192,
+      "author": "mythorchid",
+      "uuid": "27122023-165829480-mythorchid-969116526128-191",
+      "time": 50.33213,
+      "checkpoints": 8
+    }
   }
 ]
