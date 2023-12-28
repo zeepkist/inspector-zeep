@@ -154,5 +154,18 @@
       "time": 50.33213,
       "checkpoints": 8
     }
+  },
+  {
+    "workshopPath": "./downloads/3124601429",
+    "hash": "2a63cc58a1eb22a4237e90e6d82d482b2451a8035b0724aadc5e76d72ecbe276",
+    "level": {
+      "name": "ZSL - Dry Grass Dry Wall",
+      "path": "./downloads/3124601429/ZSL - Dry Grass Dry Wall/ZSL - Dry Grass Dry Wall.zeeplevel",
+      "blocks": 628,
+      "author": "Codewalt",
+      "uuid": "27122023-192903829-Codewalt-170108231133-627",
+      "time": 46.91302,
+      "checkpoints": 5
+    }
   }
 ]
