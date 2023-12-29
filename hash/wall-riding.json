@@ -167,5 +167,18 @@
       "time": 46.91302,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3125413336",
+    "hash": "2b559259f4751eb9452ca42cf02444d429aee08567d02f0f4b264b0be1202078",
+    "level": {
+      "name": "ZSL-Whirlwind Spires",
+      "path": "./downloads/3125413336/ZSL-Whirlwind Spires/ZSL-Whirlwind Spires.zeeplevel",
+      "blocks": 1008,
+      "author": "GearworkDragon",
+      "uuid": "28122023-215631816-GearworkDragon-941019264603-1007",
+      "time": 59.2288,
+      "checkpoints": 11
+    }
   }
 ]
