@@ -180,5 +180,18 @@
       "time": 59.2288,
       "checkpoints": 11
     }
+  },
+  {
+    "workshopPath": "./downloads/3126523784",
+    "hash": "128a5079e2c23c7e170b380909305750cba7e963cd809e5a7bab54c4705aa95e",
+    "level": {
+      "name": "ZSL - Gyration",
+      "path": "./downloads/3126523784/ZSL - Gyration/ZSL - Gyration.zeeplevel",
+      "blocks": 781,
+      "author": "Richhyyyy",
+      "uuid": "30122023-122605387-Richhyyyy-470167752609-780",
+      "time": 53.76929,
+      "checkpoints": 7
+    }
   }
 ]
