@@ -193,5 +193,18 @@
       "time": 53.76929,
       "checkpoints": 7
     }
+  },
+  {
+    "workshopPath": "./downloads/3126737817",
+    "hash": "4ddb07db380604dd66b00e8b4081b96e6448355a1de5a1f9ec476f3364206d90",
+    "level": {
+      "name": "ZSL - Swagger",
+      "path": "./downloads/3126737817/ZSL - Swagger/ZSL - Swagger.zeeplevel",
+      "blocks": 888,
+      "author": "[TOG]Lazy_Echidna",
+      "uuid": "30122023-173932864-[TOG]Lazy_Echidna-138694603196-887",
+      "time": 54.32283,
+      "checkpoints": 5
+    }
   }
 ]
