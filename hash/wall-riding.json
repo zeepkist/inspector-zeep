@@ -206,5 +206,18 @@
       "time": 54.32283,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3126825455",
+    "hash": "f0c746a8dcf31c75e20b0e16d2f0a875839e534cbb4251912a51491c62509520",
+    "level": {
+      "name": "ZSL - Toffee Twist",
+      "path": "./downloads/3126825455/ZSL - Toffee Twist/ZSL - Toffee Twist.zeeplevel",
+      "blocks": 527,
+      "author": "DeeDeeNaNaNa",
+      "uuid": "30122023-181333611-DeeDeeNaNaNa-108493659281-526",
+      "time": 51.17163,
+      "checkpoints": 5
+    }
   }
 ]
