@@ -219,5 +219,18 @@
       "time": 51.17163,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3128031776",
+    "hash": "d4692ebbfe31d3ccd5dbb9ebac6e499212e47b5f0986d0023864659c9d65edab",
+    "level": {
+      "name": "ZSL - Circulus",
+      "path": "./downloads/3128031776/ZSL - Circulus/ZSL - Circulus.zeeplevel",
+      "blocks": 280,
+      "author": "Graham The Guy",
+      "uuid": "31122023-182246189-Graham The Guy-358964893478-279",
+      "time": 33.08529,
+      "checkpoints": 4
+    }
   }
 ]
