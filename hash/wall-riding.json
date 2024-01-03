@@ -232,5 +232,18 @@
       "time": 33.08529,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3129981296",
+    "hash": "f56057fd084172d35d74b2389166e12edb33b387c3c78e672c592a0e58874870",
+    "level": {
+      "name": "ZSL Climb",
+      "path": "./downloads/3129981296/ZSL Climb/ZSL Climb.zeeplevel",
+      "blocks": 93,
+      "author": "Skyte Aero",
+      "uuid": "02012024-212206758-Skyte Aero-222864957935-92",
+      "time": 36.72882,
+      "checkpoints": 3
+    }
   }
 ]
