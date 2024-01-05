@@ -245,5 +245,18 @@
       "time": 36.72882,
       "checkpoints": 3
     }
+  },
+  {
+    "workshopPath": "./downloads/3123403160",
+    "hash": "31be9b34dc6e1934a7e5508e0d95aa92b38ef358ec2511e9e3ddba90cfbef351",
+    "level": {
+      "name": "ZSL - The Never",
+      "path": "./downloads/3123403160/ZSL - The Never/ZSL - The Never.zeeplevel",
+      "blocks": 110,
+      "author": "bernhard",
+      "uuid": "26122023-183954782-bernhard-614883628530-109",
+      "time": 49.85381,
+      "checkpoints": 4
+    }
   }
 ]
