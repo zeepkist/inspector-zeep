@@ -284,5 +284,18 @@
       "time": 55.78074,
       "checkpoints": 7
     }
+  },
+  {
+    "workshopPath": "./downloads/3132296299",
+    "hash": "6482020365e6605148daf013e5c519fe683dbc73d47d74bbb1ba1a558c201713",
+    "level": {
+      "name": "ZSL - containership",
+      "path": "./downloads/3132296299/ZSL - containership/ZSL - containership.zeeplevel",
+      "blocks": 233,
+      "author": "Splatjo44",
+      "uuid": "05012024-204322043-Splatjo44-165870399360-232",
+      "time": 50.48898,
+      "checkpoints": 3
+    }
   }
 ]
