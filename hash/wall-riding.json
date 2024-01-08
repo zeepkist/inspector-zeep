@@ -297,5 +297,18 @@
       "time": 50.48898,
       "checkpoints": 3
     }
+  },
+  {
+    "workshopPath": "./downloads/3134830068",
+    "hash": "b72722187b970d959d66c4254f0c0f350d7c22efe21e31170519952b94ff09b6",
+    "level": {
+      "name": "ZSL - Construction workers gotta eat",
+      "path": "./downloads/3134830068/ZSL - Construction workers gotta eat/ZSL - Construction workers gotta eat.zeeplevel",
+      "blocks": 653,
+      "author": "[TOG]ioi8",
+      "uuid": "08012024-091838293-[TOG]ioi8-385177788530-652",
+      "time": 41.17226,
+      "checkpoints": 4
+    }
   }
 ]
