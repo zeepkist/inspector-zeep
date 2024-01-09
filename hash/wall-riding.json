@@ -310,5 +310,18 @@
       "time": 41.17226,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3135716833",
+    "hash": "eb430b324c3e1694a7994631e8c2ca11300498c35ade4fa9497ec768c4cc2a50",
+    "level": {
+      "name": "ZSL - Azurite Skies",
+      "path": "./downloads/3135716833/ZSL - Azurite Skies/ZSL - Azurite Skies.zeeplevel",
+      "blocks": 471,
+      "author": "node2",
+      "uuid": "09012024-192427197-node2-460222014447-470",
+      "time": 56.90878,
+      "checkpoints": 5
+    }
   }
 ]
