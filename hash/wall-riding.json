@@ -323,5 +323,18 @@
       "time": 56.90878,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3136385589",
+    "hash": "1e41c69179296bef8771545be66e0b7350aecf429d84f02708238390db0d2e63",
+    "level": {
+      "name": "ZSL - Scattered City",
+      "path": "./downloads/3136385589/ZSL - Scattered City/ZSL - Scattered City.zeeplevel",
+      "blocks": 2297,
+      "author": "Lexer",
+      "uuid": "10012024-110037754-Lexer-470468232412-2296",
+      "time": 38.85908,
+      "checkpoints": 4
+    }
   }
 ]
