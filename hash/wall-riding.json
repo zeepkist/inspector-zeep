@@ -336,5 +336,18 @@
       "time": 38.85908,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3137098977",
+    "hash": "c1f4730c03650297473a5b15716c45089fa90f3d0459ed81224497657be2b0de",
+    "level": {
+      "name": "ZSL - Ronin Ridge",
+      "path": "./downloads/3137098977/ZSL - Ronin Ridge/ZSL - Ronin Ridge.zeeplevel",
+      "blocks": 2872,
+      "author": "Not That Guy",
+      "uuid": "11012024-195955857-Not That Guy-221952504128-2871",
+      "time": 50.02994,
+      "checkpoints": 5
+    }
   }
 ]
