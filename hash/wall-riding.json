@@ -349,5 +349,18 @@
       "time": 50.02994,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3137754178",
+    "hash": "080db853cd58fd2979da2cd0cda34b897297247e18442a9ef09cebbf42606e13",
+    "level": {
+      "name": "ZSL - Astarte",
+      "path": "./downloads/3137754178/ZSL - Astarte/ZSL - Astarte.zeeplevel",
+      "blocks": 737,
+      "author": "Maou  Maki  and Mdpl",
+      "uuid": "12012024-213631197-Maou  Maki  and Mdpl-717287410381-736",
+      "time": 59.10576,
+      "checkpoints": 7
+    }
   }
 ]
