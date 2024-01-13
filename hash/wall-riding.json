@@ -40,14 +40,14 @@
   },
   {
     "workshopPath": "./downloads/3117373334",
-    "hash": "4e53c0d59007572cde2f2c19e06701df66d1a120bc91087306e85abdc48c7c6f",
+    "hash": "8f0b31e80d9fbcb7215afe95099828cf014567b3b2ae2ceb0e5a76e0d2e5d431",
     "level": {
       "name": "ZSL - Verdant Rush",
       "path": "./downloads/3117373334/ZSL - Verdant Rush/ZSL - Verdant Rush.zeeplevel",
-      "blocks": 401,
+      "blocks": 428,
       "author": "Akane",
-      "uuid": "18122023-231025587-Akane-321490886704-400",
-      "time": 57.96404,
+      "uuid": "13012024-220211531-Akane-394208078010-427",
+      "time": 57.77369,
       "checkpoints": 6
     }
   },
