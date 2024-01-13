@@ -362,5 +362,18 @@
       "time": 59.10576,
       "checkpoints": 7
     }
+  },
+  {
+    "workshopPath": "./downloads/3138442517",
+    "hash": "a2554a3f2ac21b3cf54d9ed5db3c5b2ea0abbbe2323a3cf68d32798b732a8cdc",
+    "level": {
+      "name": "ZSL - Pastel Reverie",
+      "path": "./downloads/3138442517/ZSL - Pastel Reverie/ZSL - Pastel Reverie.zeeplevel",
+      "blocks": 1678,
+      "author": "AndMe34",
+      "uuid": "13012024-091313980-AndMe34-696800895742-1677",
+      "time": 42.59222,
+      "checkpoints": 9
+    }
   }
 ]
