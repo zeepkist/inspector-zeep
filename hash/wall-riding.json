@@ -427,5 +427,18 @@
       "time": 51.53958,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3139082602",
+    "hash": "a0f8853f0d4864599c9a1dcec23b93b04c70b34f3d9f3067ba42860a777debec",
+    "level": {
+      "name": "ZSL - The Perks of Being Mark Wahlberg",
+      "path": "./downloads/3139082602/ZSL - The Perks of Being Mark Wahlberg/ZSL - The Perks of Being Mark Wahlberg.zeeplevel",
+      "blocks": 703,
+      "author": "Bean",
+      "uuid": "14012024-005309930-Bean-558026135909-702",
+      "time": 58.2531,
+      "checkpoints": 4
+    }
   }
 ]
