@@ -401,5 +401,31 @@
       "time": 46.29722,
       "checkpoints": 7
     }
+  },
+  {
+    "workshopPath": "./downloads/3139035316",
+    "hash": "f4a3d7c64f2039c48645553400bc850e47c1ceb5185a6196572f7c9ebb6ec74a",
+    "level": {
+      "name": "ZSL - Pinky's Peril",
+      "path": "./downloads/3139035316/ZSL - Pinky's Peril/ZSL - Pinky's Peril.zeeplevel",
+      "blocks": 372,
+      "author": "St Nicholas",
+      "uuid": "13012024-215747264-St Nicholas-716643669197-371",
+      "time": 44.10028,
+      "checkpoints": 4
+    }
+  },
+  {
+    "workshopPath": "./downloads/3139018398",
+    "hash": "b288e8b96d28505a080c8832b03a2b2ca2350c097b24a59725550412beec96c4",
+    "level": {
+      "name": "ZSL - Wallbanger",
+      "path": "./downloads/3139018398/ZSL - Wallbanger/ZSL - Wallbanger.zeeplevel",
+      "blocks": 1197,
+      "author": "PoopSheriff",
+      "uuid": "13012024-232349301-PoopSheriff-495694661829-1196",
+      "time": 51.53958,
+      "checkpoints": 6
+    }
   }
 ]
