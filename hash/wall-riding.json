@@ -453,5 +453,18 @@
       "time": 61.03339,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3139348199",
+    "hash": "ea0ef323c8b56a46dc06dce40e84c0348cc02e5e6a3b0f22b2382454e9fcb135",
+    "level": {
+      "name": "ZSL - Resurrections",
+      "path": "./downloads/3139348199/ZSL - Resurrections/ZSL - Resurrections.zeeplevel",
+      "blocks": 2361,
+      "author": "[WAM]Odist",
+      "uuid": "14012024-045429044-[WAM]Odist-737507044344-2360",
+      "time": 40.76546,
+      "checkpoints": 7
+    }
   }
 ]
