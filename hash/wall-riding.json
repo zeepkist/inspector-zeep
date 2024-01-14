@@ -388,5 +388,18 @@
       "time": 39.55842,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3138886381",
+    "hash": "091e1b28dc0608ac208b5623eec99852ed0e17273ed07606df98fe5c54bd94f6",
+    "level": {
+      "name": "ZSL - Fisher's Peak",
+      "path": "./downloads/3138886381/ZSL - Fisher's Peak/ZSL - Fisher's Peak.zeeplevel",
+      "blocks": 3302,
+      "author": "[AHOY] Wombat!",
+      "uuid": "14012024-131453352-[AHOY] Wombat!-834170326984-3301",
+      "time": 46.29722,
+      "checkpoints": 7
+    }
   }
 ]
