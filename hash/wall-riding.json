@@ -375,5 +375,18 @@
       "time": 42.59222,
       "checkpoints": 9
     }
+  },
+  {
+    "workshopPath": "./downloads/3138860969",
+    "hash": "3474d148a1674ebd9dff8cc8f6b32caa224ca1e2211e5009cec5f7d3cea4734b",
+    "level": {
+      "name": "ZSL - Magical Mystical neon white pyramids that hold the track up somehow",
+      "path": "./downloads/3138860969/ZSL - Magical Mystical neon white pyramids that hold the track up somehow/ZSL - Magical Mystical neon white pyramids that hold the track up somehow.zeeplevel",
+      "blocks": 98,
+      "author": "Kernkob",
+      "uuid": "13012024-155348175-Kernkob-580193935818-97",
+      "time": 39.55842,
+      "checkpoints": 4
+    }
   }
 ]
