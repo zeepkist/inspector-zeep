@@ -440,5 +440,18 @@
       "time": 58.2531,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3139235283",
+    "hash": "24e26f6b5919ce9c663357c93cc8f08f523dc4f0f9e218f1c0c9e1df8e4863b2",
+    "level": {
+      "name": "ZSL - Spelunk",
+      "path": "./downloads/3139235283/ZSL - Spelunk/ZSL - Spelunk.zeeplevel",
+      "blocks": 2800,
+      "author": "joel",
+      "uuid": "14012024-052919376-joel-243007654362-2799",
+      "time": 61.03339,
+      "checkpoints": 6
+    }
   }
 ]
