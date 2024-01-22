@@ -20,8 +20,8 @@ devDependencies:
     specifier: ~4.1.0
     version: 4.1.0
   '@rushstack/eslint-patch':
-    specifier: ~1.6.0
-    version: 1.6.1
+    specifier: ~1.7.0
+    version: 1.7.0
   '@semantic-release/changelog':
     specifier: ~6.0.3
     version: 6.0.3(semantic-release@23.0.0)
@@ -675,8 +675,8 @@ packages:
       picomatch: 2.3.1
     dev: true
 
-  /@rushstack/eslint-patch@1.6.1:
-    resolution: {integrity: sha512-UY+FGM/2jjMkzQLn8pxcHGMaVLh9aEitG3zY2CiY7XHdLiz3bZOwa6oDxNqEMv7zZkV+cj5DOdz0cQ1BP5Hjgw==}
+  /@rushstack/eslint-patch@1.7.0:
+    resolution: {integrity: sha512-Jh4t/593gxs0lJZ/z3NnasKlplXT2f+4y/LZYuaKZW5KAaiVFL/fThhs+17EbUd53jUVJ0QudYCBGbN/psvaqg==}
     dev: true
 
   /@sapphire/async-queue@1.5.1:
