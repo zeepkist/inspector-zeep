@@ -11,5 +11,18 @@
       "time": 53.181,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3145940289",
+    "hash": "b9eb5bfd6f3cbc798026874801a646dfcfe93893ec8a131cdb4c0b50a4c50c4a",
+    "level": {
+      "name": "ZSL - Ice Hockey Fever",
+      "path": "./downloads/3145940289/ZSL - Ice Hockey Fever/ZSL - Ice Hockey Fever.zeeplevel",
+      "blocks": 2107,
+      "author": "Gurkensalat_Hd",
+      "uuid": "23012024-211924239-Gurkensalat_Hd-988768341354-2106",
+      "time": 50.16993,
+      "checkpoints": 5
+    }
   }
 ]
