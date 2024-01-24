@@ -24,5 +24,18 @@
       "time": 50.16993,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3146044516",
+    "hash": "fe415e1a8cb01d36add9bda3b4a33aa07af9d4bed6f1aac098d235cbd07f632b",
+    "level": {
+      "name": "ZSL - skeleton skeleton",
+      "path": "./downloads/3146044516/ZSL - skeleton skeleton/ZSL - skeleton skeleton.zeeplevel",
+      "blocks": 1257,
+      "author": "Dylan",
+      "uuid": "23012024-234359864-Dylan-365883489347-1256",
+      "time": 36.61754,
+      "checkpoints": 9
+    }
   }
 ]
