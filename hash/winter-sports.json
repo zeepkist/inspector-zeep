@@ -37,5 +37,18 @@
       "time": 36.61754,
       "checkpoints": 9
     }
+  },
+  {
+    "workshopPath": "./downloads/3146768495",
+    "hash": "6dcf0f79c9eeafdd1d40559c572bae089d5986918669006bc6784a3f4117e6a8",
+    "level": {
+      "name": "ZSL - Bob Went Sledding",
+      "path": "./downloads/3146768495/ZSL - Bob Went Sledding/ZSL - Bob Went Sledding.zeeplevel",
+      "blocks": 701,
+      "author": "OgelGames",
+      "uuid": "25012024-160023176-OgelGames-643687805304-700",
+      "time": 54.3095,
+      "checkpoints": 9
+    }
   }
 ]
