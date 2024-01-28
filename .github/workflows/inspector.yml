@@ -41,7 +41,7 @@ jobs:
         run: cat ${{ env.ZEEPKIST_THEME_HASH_PATH }} || true
 
       - name: Validate Submissions
-        run: pnpm run start
+        run: pnpm run start:ci
         env:
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
           DISCORD_DISCUSSION_CHANNEL_ID: ${{ vars.DISCORD_DISCUSSION_CHANNEL_ID }}
