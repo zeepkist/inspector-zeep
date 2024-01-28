@@ -50,5 +50,31 @@
       "time": 54.3095,
       "checkpoints": 9
     }
+  },
+  {
+    "workshopPath": "./downloads/3149026705",
+    "hash": "332a2af47966d8ef60b15bf8727c3c4fa7fb5cd41410d49fc622a788595f135a",
+    "level": {
+      "name": "ZSL Bobsligh",
+      "path": "./downloads/3149026705/ZSL Bobsligh/ZSL Bobsligh.zeeplevel",
+      "blocks": 486,
+      "author": "Lennyb1232",
+      "uuid": "28012024-113654155-Lennyb1232-973209369743-485",
+      "time": 87.39591,
+      "checkpoints": 2
+    }
+  },
+  {
+    "workshopPath": "./downloads/3147021841",
+    "hash": "9d831e9ea720a544f529c4c8c95747bb770e0abfc328308a3d570f3ca2ccd9f2",
+    "level": {
+      "name": "ZSL - Alpine Ski World Cup 2024",
+      "path": "./downloads/3147021841/ZSL - Alpine Ski World Cup 2024/ZSL - Alpine Ski World Cup 2024.zeeplevel",
+      "blocks": 1141,
+      "author": "Codewalt",
+      "uuid": "24012024-222614904-Codewalt-067382067733-1140",
+      "time": 51.63932,
+      "checkpoints": 11
+    }
   }
 ]
