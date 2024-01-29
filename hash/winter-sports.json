@@ -89,5 +89,18 @@
       "time": 70.86379,
       "checkpoints": 2
     }
+  },
+  {
+    "workshopPath": "./downloads/3149882235",
+    "hash": "097d6c1e1a7d8c3c06ca2e585982674e20d9698659dba4e5a60c3e6170c48f12",
+    "level": {
+      "name": "ZSL - Lords Path",
+      "path": "./downloads/3149882235/ZSL - Lords Path/ZSL - Lords Path.zeeplevel",
+      "blocks": 613,
+      "author": "[Lord] bernhard",
+      "uuid": "29012024-163500951-[Lord] bernhard-434630868043-612",
+      "time": 57.1769,
+      "checkpoints": 14
+    }
   }
 ]
