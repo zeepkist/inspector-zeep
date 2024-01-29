@@ -76,5 +76,18 @@
       "time": 51.63932,
       "checkpoints": 11
     }
+  },
+  {
+    "workshopPath": "./downloads/3149508092",
+    "hash": "cb048e39a5600a7e90a33c0a7b10c9b4aa6812461fca1bd4233f6d36197b8f21",
+    "level": {
+      "name": "ZSL Bobsligh",
+      "path": "./downloads/3149508092/ZSL Bobsligh/ZSL Bobsligh.zeeplevel",
+      "blocks": 618,
+      "author": "Lennyb1232",
+      "uuid": "28012024-232958448-Lennyb1232-363879384277-617",
+      "time": 70.86379,
+      "checkpoints": 2
+    }
   }
 ]
