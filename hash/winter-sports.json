@@ -115,5 +115,18 @@
       "time": 69.33665,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3152387533",
+    "hash": "c547d4ae216fa9be88f848e1e8ba05cc24d5bd68a97d21c091502a55e298af1e",
+    "level": {
+      "name": "ZSL - Puck Yourself",
+      "path": "./downloads/3152387533/ZSL - Puck Yourself/ZSL - Puck Yourself.zeeplevel",
+      "blocks": 1029,
+      "author": "[TOG]ioi8",
+      "uuid": "02022024-105550950-[TOG]ioi8-086324600321-1028",
+      "time": 52.63634,
+      "checkpoints": 6
+    }
   }
 ]
