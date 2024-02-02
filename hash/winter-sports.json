@@ -102,5 +102,18 @@
       "time": 57.1769,
       "checkpoints": 14
     }
+  },
+  {
+    "workshopPath": "./downloads/3152011008",
+    "hash": "b3829248e1faed2385b5f60b6c453592dbfae28515e384f9c1932f599de8a2b0",
+    "level": {
+      "name": "ZSL - Glacial Gravity",
+      "path": "./downloads/3152011008/ZSL - Glacial Gravity/ZSL - Glacial Gravity.zeeplevel",
+      "blocks": 3150,
+      "author": "Bean + Reholmes92",
+      "uuid": "01022024-140647737-Bean-458150061889-3149",
+      "time": 69.33665,
+      "checkpoints": 5
+    }
   }
 ]
