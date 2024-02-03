@@ -128,5 +128,18 @@
       "time": 52.63634,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3153158131",
+    "hash": "fc61ed7765100620cff843f90c43ed6a52b645bdccc673aba2bffc2301038683",
+    "level": {
+      "name": "ZSL - Zeepstyle 3050",
+      "path": "./downloads/3153158131/ZSL - Zeepstyle 3050/ZSL - Zeepstyle 3050.zeeplevel",
+      "blocks": 1227,
+      "author": "DeeDeeNaNaNa",
+      "uuid": "03022024-163332455-DeeDeeNaNaNa-255833904724-1226",
+      "time": 44.91864,
+      "checkpoints": 4
+    }
   }
 ]
