@@ -154,5 +154,18 @@
       "time": 52.77158,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3155500161",
+    "hash": "c8d2d5a427b24e6179b33f89991c9ba7cfb5090d6d4a444436bc414928127137",
+    "level": {
+      "name": "ZSL - Courchevel - Super-G",
+      "path": "./downloads/3155500161/ZSL - Courchevel - Super-G/ZSL - Courchevel - Super-G.zeeplevel",
+      "blocks": 2235,
+      "author": "Diabler",
+      "uuid": "06022024-221528512-Diabler-110993048134-2234",
+      "time": 50.11259,
+      "checkpoints": 16
+    }
   }
 ]
