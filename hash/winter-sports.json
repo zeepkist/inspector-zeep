@@ -167,5 +167,18 @@
       "time": 50.11259,
       "checkpoints": 16
     }
+  },
+  {
+    "workshopPath": "./downloads/3155697118",
+    "hash": "c81b79eca7ea2d0853a76434e8d6147815199671260c5b86bd8008a37a17c956",
+    "level": {
+      "name": "ZSL - ZKX",
+      "path": "./downloads/3155697118/ZSL - ZKX/ZSL - ZKX.zeeplevel",
+      "blocks": 1866,
+      "author": "agix",
+      "uuid": "06022024-221707750-agix-767160744184-1865",
+      "time": 59.48383,
+      "checkpoints": 6
+    }
   }
 ]
