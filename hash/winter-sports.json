@@ -180,5 +180,18 @@
       "time": 58.89056,
       "checkpoints": 10
     }
+  },
+  {
+    "workshopPath": "./downloads/3156822794",
+    "hash": "11a2b716c20a52a47f701416a7b83bbd8162f648a1f7c87d7fe414f5686ebc18",
+    "level": {
+      "name": "ZSL - Ski Jumping",
+      "path": "./downloads/3156822794/ZSL - Ski Jumping/ZSL - Ski Jumping.zeeplevel",
+      "blocks": 803,
+      "author": "mythorchid",
+      "uuid": "08022024-162934348-mythorchid-313020290813-802",
+      "time": 59.25902,
+      "checkpoints": 2
+    }
   }
 ]
