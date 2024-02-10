@@ -219,5 +219,18 @@
       "time": 43.48463,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3158070352",
+    "hash": "fa1b33e18def95a14e37369689842605346ba7228192937a7b6d8dee6ebb74df",
+    "level": {
+      "name": "ZSL - Scheduling Conflict",
+      "path": "./downloads/3158070352/ZSL - Scheduling Conflict/ZSL - Scheduling Conflict.zeeplevel",
+      "blocks": 1179,
+      "author": "Shadynook",
+      "uuid": "10022024-142655614-Shadynook-685576182827-1178",
+      "time": 39.22919,
+      "checkpoints": 5
+    }
   }
 ]
