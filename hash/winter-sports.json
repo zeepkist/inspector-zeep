@@ -206,5 +206,18 @@
       "time": 40.85772,
       "checkpoints": 17
     }
+  },
+  {
+    "workshopPath": "./downloads/3157584127",
+    "hash": "aadef918ce200530b2dbacf066edbed979f75ef6dd85e6d927507d24d678fe68",
+    "level": {
+      "name": "ZSL - Misty Mountains",
+      "path": "./downloads/3157584127/ZSL - Misty Mountains/ZSL - Misty Mountains.zeeplevel",
+      "blocks": 684,
+      "author": "Kernkob",
+      "uuid": "09022024-212328936-Kernkob-097105474367-683",
+      "time": 43.48463,
+      "checkpoints": 6
+    }
   }
 ]
