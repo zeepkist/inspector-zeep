@@ -193,5 +193,18 @@
       "time": 59.25902,
       "checkpoints": 2
     }
+  },
+  {
+    "workshopPath": "./downloads/3157566434",
+    "hash": "8b061e461074158211c6a63f6edcbda1bf3f723d63ef63c89022438e0fa80a39",
+    "level": {
+      "name": "ZSL - Wait, this is not speed skating!",
+      "path": "./downloads/3157566434/ZSL - Wait, this is not speed skating!/ZSL - Wait, this is not speed skating!.zeeplevel",
+      "blocks": 2121,
+      "author": "AndMe35",
+      "uuid": "09022024-232810347-AndMe35 & Toolkist-536065511188-2120",
+      "time": 40.85772,
+      "checkpoints": 17
+    }
   }
 ]
