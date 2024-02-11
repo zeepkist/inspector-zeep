@@ -245,5 +245,18 @@
       "time": 37.61661,
       "checkpoints": 3
     }
+  },
+  {
+    "workshopPath": "./downloads/3158590730",
+    "hash": "d4d77e760db45ee246b43d6b4c41a400b99e40c8cfaa116a9e3376c79c6f2ba7",
+    "level": {
+      "name": "ZSL - Slalomkist",
+      "path": "./downloads/3158590730/ZSL - Slalomkist/ZSL - Slalomkist.zeeplevel",
+      "blocks": 518,
+      "author": "Unknown",
+      "uuid": "11022024-150329027-Unknown-180885696603-517",
+      "time": 32.29913,
+      "checkpoints": 12
+    }
   }
 ]
