@@ -258,5 +258,18 @@
       "time": 32.29913,
       "checkpoints": 12
     }
+  },
+  {
+    "workshopPath": "./downloads/3158656961",
+    "hash": "d4251905170e0a552da808eb6cc90f07e58354bce01903dca73105fdca2cf0b6",
+    "level": {
+      "name": "ZSL - Winter Melange",
+      "path": "./downloads/3158656961/ZSL - Winter Melange/ZSL - Winter Melange.zeeplevel",
+      "blocks": 1963,
+      "author": "The Ravens",
+      "uuid": "11022024-071611708-St Nicholas-798580594183-1962",
+      "time": 64.75385,
+      "checkpoints": 9
+    }
   }
 ]
