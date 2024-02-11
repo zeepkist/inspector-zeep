@@ -232,5 +232,18 @@
       "time": 39.38282,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3158443350",
+    "hash": "bb1f27dd499a7f684f76ef60e37b753431b919630e15b0e3d510130e3aa0e5e1",
+    "level": {
+      "name": "ZSL - Blame Kern",
+      "path": "./downloads/3158443350/ZSL - Blame Kern/ZSL - Blame Kern.zeeplevel",
+      "blocks": 51,
+      "author": "Hydro",
+      "uuid": "11022024-014915565-Hydro-956541152831-50",
+      "time": 37.61661,
+      "checkpoints": 3
+    }
   }
 ]
