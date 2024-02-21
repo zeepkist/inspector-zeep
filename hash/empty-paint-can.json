@@ -1,0 +1,80 @@
+[
+  {
+    "workshopPath": "./downloads/3165652274",
+    "hash": "c3d7847799067648f763cf7664646c2363c322cbc3623e28db299af57b0e906b",
+    "level": {
+      "name": "ZSL - Forest Road",
+      "path": "./downloads/3165652274/ZSL - Forest Road/ZSL - Forest Road.zeeplevel",
+      "blocks": 1068,
+      "author": "Drunkshinobi",
+      "uuid": "21022024-151322366-Drunkshinobi-990787139553-1067",
+      "time": 41.31461,
+      "checkpoints": 4
+    }
+  },
+  {
+    "workshopPath": "./downloads/3164920548",
+    "hash": "aa0ac5f6005a709c83d9d59a2399486f76a7bfd856ee99dd7e593a9ee77a3364",
+    "level": {
+      "name": "ZSL - Hidden Canyon",
+      "path": "./downloads/3164920548/ZSL - Hidden Canyon/ZSL - Hidden Canyon.zeeplevel",
+      "blocks": 1419,
+      "author": "[XTR] NATHAN",
+      "uuid": "20022024-140806933-[XTR] NATHAN-141559976195-1418",
+      "time": 39.00557,
+      "checkpoints": 5
+    }
+  },
+  {
+    "workshopPath": "./downloads/3164567473",
+    "hash": "687c80fb27ddc9062abc1f9cd074e64372d89aa04b2533cef83e4626fced783e",
+    "level": {
+      "name": "ZSL - Treetop World",
+      "path": "./downloads/3164567473/ZSL - Treetop World/ZSL - Treetop World.zeeplevel",
+      "blocks": 356,
+      "author": "[ ] Unais",
+      "uuid": "19022024-231907808-[ ] Unais-892612205293-355",
+      "time": 33.47142,
+      "checkpoints": 5
+    }
+  },
+  {
+    "workshopPath": "./downloads/3164375958",
+    "hash": "8f9369a36200fb279db0d54f213136ea1e3979d9ee9ecf6e1bbf007acc1972e1",
+    "level": {
+      "name": "ZSL - Run From The Cursed Wall",
+      "path": "./downloads/3164375958/ZSL - Run From The Cursed Wall/ZSL - Run From The Cursed Wall.zeeplevel",
+      "blocks": 1492,
+      "author": "[Lord] bernhard",
+      "uuid": "19022024-222400678-[Lord] bernhard-952119954041-1491",
+      "time": 58.89138,
+      "checkpoints": 5
+    }
+  },
+  {
+    "workshopPath": "./downloads/3165223427",
+    "hash": "a579dbb9cbcd380eee2f4eb2796c0016f7cb7a8c065feb63637c25cb19aea666",
+    "level": {
+      "name": "ZSL - My Paint Bucket Fell Over",
+      "path": "./downloads/3165223427/ZSL - My Paint Bucket Fell Over/ZSL - My Paint Bucket Fell Over.zeeplevel",
+      "blocks": 228,
+      "author": "[WAM]TheBestMaidens",
+      "uuid": "21022024-024626846-[WAM]TheBestMaidens-057285788661-227",
+      "time": 51.58197,
+      "checkpoints": 4
+    }
+  },
+  {
+    "workshopPath": "./downloads/3164085884",
+    "hash": "f2f9db0a43a12abcc5c1e897dc35dc66c74907591e374551a84d682531758c37",
+    "level": {
+      "name": "ZSL - I drank the paint",
+      "path": "./downloads/3164085884/ZSL - I drank the paint/ZSL - I drank the paint.zeeplevel",
+      "blocks": 541,
+      "author": "[Mud]Bottomless",
+      "uuid": "19022024-202046075-[Mud]Bottomless-019870731107-540",
+      "time": 40.38243,
+      "checkpoints": 4
+    }
+  }
+]
