@@ -1,14 +1,14 @@
 [
   {
     "workshopPath": "./downloads/3165652274",
-    "hash": "c3d7847799067648f763cf7664646c2363c322cbc3623e28db299af57b0e906b",
+    "hash": "6de4e3179e4f0856de61417e67306ae596e6e6daeb8cc7da189a0553bd880494",
     "level": {
       "name": "ZSL - Forest Road",
       "path": "./downloads/3165652274/ZSL - Forest Road/ZSL - Forest Road.zeeplevel",
-      "blocks": 1068,
+      "blocks": 1136,
       "author": "Drunkshinobi",
-      "uuid": "21022024-151322366-Drunkshinobi-990787139553-1067",
-      "time": 41.31461,
+      "uuid": "21022024-194704552-Drunkshinobi-716858114196-1135",
+      "time": 41.39096,
       "checkpoints": 4
     }
   },
@@ -88,6 +88,19 @@
       "uuid": "22022024-004122853-DeeDeeNaNaNa-125847545048-744",
       "time": 44.92812,
       "checkpoints": 5
+    }
+  },
+  {
+    "workshopPath": "./downloads/3165741457",
+    "hash": "7dca763658cbf49ea687e2173cca3d281829e6174a72d3475ef0ee9a1e229f3f",
+    "level": {
+      "name": "ZSL - Mountain Village",
+      "path": "./downloads/3165741457/ZSL - Mountain Village/ZSL - Mountain Village.zeeplevel",
+      "blocks": 1338,
+      "author": "Codewalt",
+      "uuid": "21022024-192552184-Codewalt-742071755365-1337",
+      "time": 44.82168,
+      "checkpoints": 9
     }
   }
 ]
