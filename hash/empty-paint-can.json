@@ -76,5 +76,18 @@
       "time": 40.38243,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3165685157",
+    "hash": "b58b69c5559798eb2d9e4c0627262c872672ba66528ab616927099cb66349046",
+    "level": {
+      "name": "ZSL - Life In Full Colour",
+      "path": "./downloads/3165685157/ZSL - Life In Full Colour/ZSL - Life In Full Colour.zeeplevel",
+      "blocks": 745,
+      "author": "DeeDeeNaNaNa",
+      "uuid": "22022024-004122853-DeeDeeNaNaNa-125847545048-744",
+      "time": 44.92812,
+      "checkpoints": 5
+    }
   }
 ]
