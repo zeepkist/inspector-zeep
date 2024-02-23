@@ -115,5 +115,18 @@
       "time": 30.18649,
       "checkpoints": 3
     }
+  },
+  {
+    "workshopPath": "./downloads/3166886377",
+    "hash": "4d6d3209e420c61af9819c3cb9999f8d9b2d48e1224f48c8fce4289df0949121",
+    "level": {
+      "name": "ZSL - Pointed tree run",
+      "path": "./downloads/3166886377/ZSL - Pointed tree run/ZSL - Pointed tree run.zeeplevel",
+      "blocks": 497,
+      "author": "[OR]TNTArrow",
+      "uuid": "23022024-153701188-[OR]TNTArrow-486187389710-496",
+      "time": 41.82677,
+      "checkpoints": 4
+    }
   }
 ]
