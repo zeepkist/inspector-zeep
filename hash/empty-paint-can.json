@@ -102,5 +102,18 @@
       "time": 44.82168,
       "checkpoints": 9
     }
+  },
+  {
+    "workshopPath": "./downloads/3166440610",
+    "hash": "d56d79ca134b450f5bd1c235a7d63d53ea031ef28598b122679ac049c80f0cad",
+    "level": {
+      "name": "zsl - It's all fixed!",
+      "path": "./downloads/3166440610/zsl - It's all fixed!/zsl - It's all fixed!.zeeplevel",
+      "blocks": 974,
+      "author": "[heyo]Mr  Hubub",
+      "uuid": "23022024-015608231-[heyo]Mr  Hubub-001229409283-973",
+      "time": 30.6914,
+      "checkpoints": 3
+    }
   }
 ]
