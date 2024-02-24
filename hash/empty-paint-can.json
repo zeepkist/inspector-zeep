@@ -128,5 +128,18 @@
       "time": 41.82677,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3167479371",
+    "hash": "40ebe1d82c0632c89209aa900b3817122e16693bf774a1fd59cbdb8a51ae38d3",
+    "level": {
+      "name": "ZSL - Drawkcab  LSZ",
+      "path": "./downloads/3167479371/ZSL - Drawkcab  LSZ/ZSL - Drawkcab  LSZ.zeeplevel",
+      "blocks": 656,
+      "author": "DragonBoi",
+      "uuid": "24022024-133936181-DragonBoi-214739609738-655",
+      "time": 48.18964,
+      "checkpoints": 5
+    }
   }
 ]
