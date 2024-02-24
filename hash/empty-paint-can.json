@@ -167,5 +167,18 @@
       "time": 41.53025,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3167585218",
+    "hash": "55a339458f6c5bfc3e5185f28526bf31eeeed0af5a7138f161159891211cea8b",
+    "level": {
+      "name": "ZSL - Glimmering Grove",
+      "path": "./downloads/3167585218/ZSL - Glimmering Grove/ZSL - Glimmering Grove.zeeplevel",
+      "blocks": 1422,
+      "author": "CDAW x reholmes92 x justMaki",
+      "uuid": "24022024-013242464-CDAW x reholmes92 x justMaki-509108482947-1421",
+      "time": 47.07714,
+      "checkpoints": 7
+    }
   }
 ]
