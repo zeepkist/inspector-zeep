@@ -141,5 +141,31 @@
       "time": 48.18964,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3167310343",
+    "hash": "01068ad20b19353e27ca08445983c7b95591cbefa5a65ee29c93203c3806087d",
+    "level": {
+      "name": "ZSL - SKY SKATING",
+      "path": "./downloads/3167310343/ZSL - SKY SKATING/ZSL - SKY SKATING.zeeplevel",
+      "blocks": 27,
+      "author": "Tigerplaysonpc",
+      "uuid": "24022024-142816295-Tigerplaysonpc-714117358320-26",
+      "time": 44.99741,
+      "checkpoints": 4
+    }
+  },
+  {
+    "workshopPath": "./downloads/3166853595",
+    "hash": "ad833a245b7b06c9b0be6b7b4f42fa188f9c89f8f0c00c488ad4ad39704032c7",
+    "level": {
+      "name": "ZSL - Simpler Days",
+      "path": "./downloads/3166853595/ZSL - Simpler Days/ZSL - Simpler Days.zeeplevel",
+      "blocks": 638,
+      "author": "[yes]PlusMicron",
+      "uuid": "23022024-163831451-[yes]PlusMicron-320753134662-637",
+      "time": 41.53025,
+      "checkpoints": 4
+    }
   }
 ]
