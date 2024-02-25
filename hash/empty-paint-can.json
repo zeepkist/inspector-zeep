@@ -219,5 +219,18 @@
       "time": 36.61917,
       "checkpoints": 2
     }
+  },
+  {
+    "workshopPath": "./downloads/3168361693",
+    "hash": "bd4946768f915355db5026e205ed02ef06f5393d7ad1df3f1e43d2bbef88b6d3",
+    "level": {
+      "name": "ZSL - Here, Hold My Paint Can",
+      "path": "./downloads/3168361693/ZSL - Here, Hold My Paint Can/ZSL - Here, Hold My Paint Can.zeeplevel",
+      "blocks": 821,
+      "author": "[CTR]L3it3R",
+      "uuid": "22022024-203056041-[CTR]L3it3R-227361436026-820",
+      "time": 43.31594,
+      "checkpoints": 5
+    }
   }
 ]
