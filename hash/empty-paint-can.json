@@ -206,5 +206,18 @@
       "time": 30.64953,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3168175340",
+    "hash": "176c2ea043a4b403c8200b876f1583ffe056bec1e862bcebb1b4a3c6214c717c",
+    "level": {
+      "name": "ZSL - Mountain Ruins",
+      "path": "./downloads/3168175340/ZSL - Mountain Ruins/ZSL - Mountain Ruins.zeeplevel",
+      "blocks": 490,
+      "author": "Borlor",
+      "uuid": "25022024-165728499-Borlor-175123048187-489",
+      "time": 36.61917,
+      "checkpoints": 2
+    }
   }
 ]
