@@ -232,5 +232,18 @@
       "time": 43.31594,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3168417985",
+    "hash": "7836bc0b8ffe483819fa571b50442d3ad4a274a08f01f1decd7e67bd66e4dc92",
+    "level": {
+      "name": "ZSL - Grass Mountain",
+      "path": "./downloads/3168417985/ZSL - Grass Mountain/ZSL - Grass Mountain.zeeplevel",
+      "blocks": 351,
+      "author": "mythorchid",
+      "uuid": "25022024-140622949-mythorchid-000105001055-350",
+      "time": 50.74453,
+      "checkpoints": 4
+    }
   }
 ]
