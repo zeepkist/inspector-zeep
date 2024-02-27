@@ -245,5 +245,18 @@
       "time": 50.74453,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3169172827",
+    "hash": "77c41427168748188ae6d6b33a77fad01ec9f7c6155e3047bee30b0367df28d7",
+    "level": {
+      "name": "ZSL - Puddle Jumper",
+      "path": "./downloads/3169172827/ZSL - Puddle Jumper/ZSL - Puddle Jumper.zeeplevel",
+      "blocks": 637,
+      "author": "W351D3",
+      "uuid": "27022024-003623308-W351D3-151778745736-636",
+      "time": 50.07212,
+      "checkpoints": 11
+    }
   }
 ]
