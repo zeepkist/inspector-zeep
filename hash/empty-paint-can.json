@@ -258,5 +258,18 @@
       "time": 50.07212,
       "checkpoints": 11
     }
+  },
+  {
+    "workshopPath": "./downloads/3169530327",
+    "hash": "1b31928393a36ed79f54c0e9905993bd927b90fdf7f18795d710ed2411da11ea",
+    "level": {
+      "name": "ZSL - Who needs Paint anyway",
+      "path": "./downloads/3169530327/ZSL - Who needs Paint anyway/ZSL - Who needs Paint anyway.zeeplevel",
+      "blocks": 1178,
+      "author": "[TOOB] Renergy",
+      "uuid": "27022024-215935889-[TOOB] Renergy-884268538188-1177",
+      "time": 44.94039,
+      "checkpoints": 5
+    }
   }
 ]
