@@ -183,14 +183,14 @@
   },
   {
     "workshopPath": "./downloads/3167654918",
-    "hash": "437479f6a5cdac6e1b4cf8933b3945e0916b9822b64adff1a379545998ea75c3",
+    "hash": "a32b1550b10d1665d86f4781402a3d47639c886bee354bc297a7b7a7f0557c02",
     "level": {
       "name": "ZSL - Moonlight Cove",
       "path": "./downloads/3167654918/ZSL - Moonlight Cove/ZSL - Moonlight Cove.zeeplevel",
-      "blocks": 1272,
+      "blocks": 1299,
       "author": "Shadynook",
-      "uuid": "24022024-171638249-Shadynook-454660902177-1271",
-      "time": 41.70592,
+      "uuid": "26022024-210707099-Shadynook-614509364234-1298",
+      "time": 41.7078,
       "checkpoints": 4
     }
   },
