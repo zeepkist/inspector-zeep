@@ -271,5 +271,18 @@
       "time": 44.94039,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3168490468",
+    "hash": "7d12f575616c7147f45ffaccacac212cf42b6c5843b131196e9497dc9532f8d9",
+    "level": {
+      "name": "ZSL - Network",
+      "path": "./downloads/3168490468/ZSL - Network/ZSL - Network.zeeplevel",
+      "blocks": 273,
+      "author": "Kernkob",
+      "uuid": "25022024-164609646-Kernkob-081151241868-272",
+      "time": 44.86846,
+      "checkpoints": 5
+    }
   }
 ]
