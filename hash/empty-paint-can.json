@@ -310,5 +310,18 @@
       "time": 43.19046,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3170128050",
+    "hash": "6ec0feda99ccd38efed9cdfb72a9dfa04cfd0703f7601c884b6367a5e13aecd3",
+    "level": {
+      "name": "ZSL - 039 Building Blocks",
+      "path": "./downloads/3170128050/ZSL - 039 Building Blocks/ZSL - 039 Building Blocks.zeeplevel",
+      "blocks": 572,
+      "author": "McDucky",
+      "uuid": "28022024-222156227-McDucky-527960196717-571",
+      "time": 41.8785,
+      "checkpoints": 6
+    }
   }
 ]
