@@ -297,5 +297,18 @@
       "time": 41.5108,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3170016945",
+    "hash": "d34658ec1cecae80109e1aa12ea9a4c64c637560b25b54886cdc69f8bbc34e94",
+    "level": {
+      "name": "ZSL - Watching Your Adventure",
+      "path": "./downloads/3170016945/ZSL - Watching Your Adventure/ZSL - Watching Your Adventure.zeeplevel",
+      "blocks": 318,
+      "author": "Lexer",
+      "uuid": "28022024-103511441-Lexer-632557146726-317",
+      "time": 43.19046,
+      "checkpoints": 5
+    }
   }
 ]
