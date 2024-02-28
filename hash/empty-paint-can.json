@@ -248,15 +248,15 @@
   },
   {
     "workshopPath": "./downloads/3169172827",
-    "hash": "77c41427168748188ae6d6b33a77fad01ec9f7c6155e3047bee30b0367df28d7",
+    "hash": "ce2a9d75e37defca33188a5c124fdc2a7823481493a5e37d552727872e5c51f9",
     "level": {
       "name": "ZSL - Puddle Jumper",
       "path": "./downloads/3169172827/ZSL - Puddle Jumper/ZSL - Puddle Jumper.zeeplevel",
-      "blocks": 637,
+      "blocks": 1495,
       "author": "W351D3",
-      "uuid": "27022024-003623308-W351D3-151778745736-636",
-      "time": 50.07212,
-      "checkpoints": 11
+      "uuid": "27022024-230602192-W351D3-165507055391-1494",
+      "time": 74.89389,
+      "checkpoints": 15
     }
   },
   {
