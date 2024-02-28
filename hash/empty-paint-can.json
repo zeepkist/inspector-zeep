@@ -284,5 +284,18 @@
       "time": 44.86846,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3169956384",
+    "hash": "6caa59e2cb1daa8ffea28b272314408453ef2e93dccef431ea52f9455e185994",
+    "level": {
+      "name": "ZSL - Telemea",
+      "path": "./downloads/3169956384/ZSL - Telemea/ZSL - Telemea.zeeplevel",
+      "blocks": 179,
+      "author": "JobW",
+      "uuid": "28022024-164712500-JobW-925915788549-178",
+      "time": 41.5108,
+      "checkpoints": 4
+    }
   }
 ]
