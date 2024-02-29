@@ -92,14 +92,14 @@
   },
   {
     "workshopPath": "./downloads/3165741457",
-    "hash": "7dca763658cbf49ea687e2173cca3d281829e6174a72d3475ef0ee9a1e229f3f",
+    "hash": "0253830da6918c4b86e14746b9a170356ede7945db207b68184509338fa7bb78",
     "level": {
       "name": "ZSL - Mountain Village",
       "path": "./downloads/3165741457/ZSL - Mountain Village/ZSL - Mountain Village.zeeplevel",
       "blocks": 1338,
       "author": "Codewalt",
-      "uuid": "21022024-192552184-Codewalt-742071755365-1337",
-      "time": 44.82168,
+      "uuid": "28022024-191449921-Codewalt-248658336391-1337",
+      "time": 43.37684,
       "checkpoints": 9
     }
   },
