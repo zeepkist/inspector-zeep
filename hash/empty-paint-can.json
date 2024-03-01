@@ -336,5 +336,18 @@
       "time": 50.96664,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3171058137",
+    "hash": "db7a29b1d1e61aa5d195fcd5a64483fb36d528ff8a871b2623cc47b09b8c74c7",
+    "level": {
+      "name": "ZSL - Summer Afternoon",
+      "path": "./downloads/3171058137/ZSL - Summer Afternoon/ZSL - Summer Afternoon.zeeplevel",
+      "blocks": 1247,
+      "author": "icRS",
+      "uuid": "01032024-154105304-icRS-099840966204-1246",
+      "time": 44.99241,
+      "checkpoints": 4
+    }
   }
 ]
