@@ -323,5 +323,18 @@
       "time": 41.8785,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3171124987",
+    "hash": "3852d506a7339cc9a11d05b15f2228ac903787557246ec12ab0c6046bd9d27a4",
+    "level": {
+      "name": "ZSL - Unpainted Uptempo",
+      "path": "./downloads/3171124987/ZSL - Unpainted Uptempo/ZSL - Unpainted Uptempo.zeeplevel",
+      "blocks": 2328,
+      "author": "Richhyyyy",
+      "uuid": "01032024-184428212-Richhyyyy-851086799003-2327",
+      "time": 50.96664,
+      "checkpoints": 4
+    }
   }
 ]
