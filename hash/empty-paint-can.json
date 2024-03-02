@@ -375,5 +375,18 @@
       "time": 42.96707,
       "checkpoints": 7
     }
+  },
+  {
+    "workshopPath": "./downloads/3171770084",
+    "hash": "30a27cc868257ab02af32474ac7fa4ed3d5c8e9a92a8d058bd9b20a77d1a6e01",
+    "level": {
+      "name": "ZSL - Paradise Islands",
+      "path": "./downloads/3171770084/ZSL - Paradise Islands/ZSL - Paradise Islands.zeeplevel",
+      "blocks": 1549,
+      "author": "Butter",
+      "uuid": "02032024-110147539-Butter-553754595486-1548",
+      "time": 31.24404,
+      "checkpoints": 6
+    }
   }
 ]
