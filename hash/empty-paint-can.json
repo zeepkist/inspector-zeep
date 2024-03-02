@@ -362,5 +362,18 @@
       "time": 72.71468,
       "checkpoints": 14
     }
+  },
+  {
+    "workshopPath": "./downloads/3171409533",
+    "hash": "ec99222cc7ab6e52de0ff34b58c597b9d92fc18275efef417319555ea1ac7a40",
+    "level": {
+      "name": "ZSL - Pants",
+      "path": "./downloads/3171409533/ZSL - Pants/ZSL - Pants.zeeplevel",
+      "blocks": 863,
+      "author": "Khord",
+      "uuid": "01032024-230827804-Khord-018555152152-862",
+      "time": 42.96707,
+      "checkpoints": 7
+    }
   }
 ]
