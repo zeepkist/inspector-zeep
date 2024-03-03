@@ -414,5 +414,18 @@
       "time": 139.3763,
       "checkpoints": 28
     }
+  },
+  {
+    "workshopPath": "./downloads/3172719037",
+    "hash": "98bbc46e4efd3ad8b499886cfaa41799814d2caef969d0ef3ced410d3a26e511",
+    "level": {
+      "name": "ZSL - Alabaster Park",
+      "path": "./downloads/3172719037/ZSL - Alabaster Park/ZSL - Alabaster Park.zeeplevel",
+      "blocks": 2382,
+      "author": "Not That Guy & St Nicholas",
+      "uuid": "03032024-084110986-St Nicholas-199519591036-2381",
+      "time": 53.843,
+      "checkpoints": 6
+    }
   }
 ]
