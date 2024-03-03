@@ -388,5 +388,18 @@
       "time": 31.24404,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3172010772",
+    "hash": "0c4ac0f60fd1cb9eca52bc8a0f71668dc045fe7f98be3f1d7ff18f69a8efa81e",
+    "level": {
+      "name": "ZSL - Pain't",
+      "path": "./downloads/3172010772/ZSL - Pain't/ZSL - Pain't.zeeplevel",
+      "blocks": 936,
+      "author": "[ZST] Jakie",
+      "uuid": "02032024-173717082-[ZST] Jakie-715071672338-935",
+      "time": 30.72265,
+      "checkpoints": 4
+    }
   }
 ]
