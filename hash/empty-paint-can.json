@@ -417,15 +417,54 @@
   },
   {
     "workshopPath": "./downloads/3172719037",
-    "hash": "98bbc46e4efd3ad8b499886cfaa41799814d2caef969d0ef3ced410d3a26e511",
+    "hash": "2edbe8af058120042104f6e0a1363218c066543963d01e90326faa6c7a8c8601",
     "level": {
       "name": "ZSL - Alabaster Park",
       "path": "./downloads/3172719037/ZSL - Alabaster Park/ZSL - Alabaster Park.zeeplevel",
-      "blocks": 2382,
+      "blocks": 2383,
       "author": "Not That Guy & St Nicholas",
       "uuid": "03032024-084110986-St Nicholas-199519591036-2381",
       "time": 53.843,
+      "checkpoints": 7
+    }
+  },
+  {
+    "workshopPath": "./downloads/3172432678",
+    "hash": "6e3bca81cc1988c162b6da46c9c60cf270fb2b6466718db2c38b2746bb355575",
+    "level": {
+      "name": "ZSL A Fast Adventure",
+      "path": "./downloads/3172432678/ZSL A Fast Adventure/ZSL A Fast Adventure.zeeplevel",
+      "blocks": 1171,
+      "author": "PotatoMonger753",
+      "uuid": "03032024-144343147-PotatoMonger753-073840320930-1170",
+      "time": 72.10042,
       "checkpoints": 6
+    }
+  },
+  {
+    "workshopPath": "./downloads/3171152297",
+    "hash": "8ad237794c3d21f567598f2fa6440fa15bd1a2d18001547ac411d89edffbf913",
+    "level": {
+      "name": "ZSL - Hidden Valley",
+      "path": "./downloads/3171152297/ZSL - Hidden Valley/ZSL - Hidden Valley.zeeplevel",
+      "blocks": 410,
+      "author": "[XTR]Hawk",
+      "uuid": "01032024-133403700-[XTR]Hawk-455901208748-409",
+      "time": 33.67915,
+      "checkpoints": 2
+    }
+  },
+  {
+    "workshopPath": "./downloads/3170112473",
+    "hash": "9b965aef4fcc83ae9a912a8e12fd05076a908f4f10c42d93ee946e160d22947c",
+    "level": {
+      "name": "ZSL - Pardise Canyon",
+      "path": "./downloads/3170112473/ZSL - Pardise Canyon/ZSL - Pardise Canyon.zeeplevel",
+      "blocks": 662,
+      "author": "vortex",
+      "uuid": "28022024-155457586-vortex-222964168197-661",
+      "time": 34.7347,
+      "checkpoints": 5
     }
   }
 ]
