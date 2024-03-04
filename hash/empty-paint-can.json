@@ -404,15 +404,15 @@
   },
   {
     "workshopPath": "./downloads/3165562691",
-    "hash": "b5d203195106fe9d66be2e2441cdd06484cc41ae690e089012f55a5005a3b3d4",
+    "hash": "c9ea26fc99746983e231833663a5e7bc9e2c2faea644b44893c5bd54121d388f",
     "level": {
       "name": "ZSL-got the can but gotta find the brush",
       "path": "./downloads/3165562691/ZSL-got the can but gotta find the brush/ZSL-got the can but gotta find the brush.zeeplevel",
-      "blocks": 333,
+      "blocks": 326,
       "author": "sulleyhoughton",
-      "uuid": "21022024-201134887-sulleyhoughton-387670053620-332",
-      "time": 139.3763,
-      "checkpoints": 28
+      "uuid": "04032024-195556894-sulleyhoughton-876879227327-325",
+      "time": 74.49135,
+      "checkpoints": 23
     }
   },
   {
