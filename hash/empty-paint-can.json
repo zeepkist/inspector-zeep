@@ -479,5 +479,18 @@
       "time": 39.26917,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3173377336",
+    "hash": "1a9b683982b4e3793f828b0b41203aabb418d803c012f86ef49a16ba105c96bd",
+    "level": {
+      "name": "ZSL-World Under Construction",
+      "path": "./downloads/3173377336/ZSL-World Under Construction/ZSL-World Under Construction.zeeplevel",
+      "blocks": 958,
+      "author": "GearworkDragon",
+      "uuid": "04032024-214014254-GearworkDragon-782952987751-957",
+      "time": 70.60722,
+      "checkpoints": 8
+    }
   }
 ]
