@@ -492,5 +492,18 @@
       "time": 55.33141,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3173823457",
+    "hash": "4b0e2c66510dbac80d127b7ca65e8b660fbc293728cd437337fa268e8f109ca2",
+    "level": {
+      "name": "ZSL - Bucket of Sun",
+      "path": "./downloads/3173823457/ZSL - Bucket of Sun/ZSL - Bucket of Sun.zeeplevel",
+      "blocks": 1752,
+      "author": "Parrazarre",
+      "uuid": "05032024-222744329-Parrazarre-031066525767-1751",
+      "time": 41.87061,
+      "checkpoints": 6
+    }
   }
 ]
