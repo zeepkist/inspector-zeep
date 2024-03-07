@@ -469,11 +469,11 @@
   },
   {
     "workshopPath": "./downloads/3172813436",
-    "hash": "21519a4d47dc3b56ea1b72719eea643f435ae18ce0b3709dffcaecfef268ec9c",
+    "hash": "e353aec39167718a960af582ce55572f4bd3e31fa8e1a1846bdea753d19355c5",
     "level": {
       "name": "ZSL - Bones",
       "path": "./downloads/3172813436/ZSL - Bones/ZSL - Bones.zeeplevel",
-      "blocks": 1303,
+      "blocks": 1348,
       "author": "AndMe36",
       "uuid": "03032024-211733845-AndMe36-286445609876-1302",
       "time": 39.26917,
