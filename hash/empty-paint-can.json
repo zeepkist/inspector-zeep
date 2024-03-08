@@ -505,5 +505,18 @@
       "time": 41.87061,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3175057139",
+    "hash": "80f46163f2947b4ab515c2c653dfeee18b9220bacc95279db9dfd71ca40d82fa",
+    "level": {
+      "name": "ZSL - Support Vector Machine",
+      "path": "./downloads/3175057139/ZSL - Support Vector Machine/ZSL - Support Vector Machine.zeeplevel",
+      "blocks": 1129,
+      "author": "agix",
+      "uuid": "07032024-214733562-agix-677453550075-1128",
+      "time": 53.02921,
+      "checkpoints": 6
+    }
   }
 ]
