@@ -531,5 +531,18 @@
       "time": 41.49676,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3175318456",
+    "hash": "3de5415d7ddd742514b738f50cace2f0ea00ea4992a7e328fdfe3759e44d0402",
+    "level": {
+      "name": "ZSL - Overgrowth",
+      "path": "./downloads/3175318456/ZSL - Overgrowth/ZSL - Overgrowth.zeeplevel",
+      "blocks": 1019,
+      "author": "[dogg] schmxrg",
+      "uuid": "08032024-065426403-[dogg] schmxrg-670094111482-1018",
+      "time": 50.8769,
+      "checkpoints": 5
+    }
   }
 ]
