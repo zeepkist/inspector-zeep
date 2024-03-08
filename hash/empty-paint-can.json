@@ -518,5 +518,18 @@
       "time": 53.02921,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3175258131",
+    "hash": "152003b512e36e355fe24ee9e23796e34b7dba16d9048624af8f5806e3656c2b",
+    "level": {
+      "name": "ZSL - Castlevania",
+      "path": "./downloads/3175258131/ZSL - Castlevania/ZSL - Castlevania.zeeplevel",
+      "blocks": 1664,
+      "author": "Diabler",
+      "uuid": "08032024-143125092-Diabler-979947354286-1663",
+      "time": 41.49676,
+      "checkpoints": 5
+    }
   }
 ]
