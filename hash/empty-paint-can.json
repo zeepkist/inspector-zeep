@@ -544,5 +544,18 @@
       "time": 50.8769,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3175902199",
+    "hash": "2cf6c551ffcefc467f36b2a89734f101823ad251787314d87717261bd6cf683a",
+    "level": {
+      "name": "ZSL - Corporate Headquarters",
+      "path": "./downloads/3175902199/ZSL - Corporate Headquarters/ZSL - Corporate Headquarters.zeeplevel",
+      "blocks": 1470,
+      "author": " [CTR]Striking Vyper [CTR]OwlPlague [CTR]TheBamboozler",
+      "uuid": "09032024-005703579-[CTR]Striking Vyper [CTR]OwlPlague [CTR]TheBamboozler-348793802106-1469",
+      "time": 54.56144,
+      "checkpoints": 5
+    }
   }
 ]
