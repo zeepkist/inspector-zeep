@@ -557,5 +557,18 @@
       "time": 54.56144,
       "checkpoints": 5
     }
+  },
+  {
+    "workshopPath": "./downloads/3176704200",
+    "hash": "9a85a073870a3dab737bd35a9276694a05a1b68aaa140df9a11ac3359175e303",
+    "level": {
+      "name": "ZSL - vanilla raceway",
+      "path": "./downloads/3176704200/ZSL - vanilla raceway/ZSL - vanilla raceway.zeeplevel",
+      "blocks": 1271,
+      "author": "Hockmu",
+      "uuid": "09032024-213420292-Hockmu-043120266317-1270",
+      "time": 55.49588,
+      "checkpoints": 4
+    }
   }
 ]
