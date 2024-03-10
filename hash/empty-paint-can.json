@@ -570,5 +570,18 @@
       "time": 55.49588,
       "checkpoints": 4
     }
+  },
+  {
+    "workshopPath": "./downloads/3177013694",
+    "hash": "87919a182b891ae74cab97fb2db9699e0dfe2c8b9714a8c89081ce533e87928b",
+    "level": {
+      "name": "ZSL - Madness 25",
+      "path": "./downloads/3177013694/ZSL - Madness 25/ZSL - Madness 25.zeeplevel",
+      "blocks": 1641,
+      "author": "[TOG]Lazy_Echidna",
+      "uuid": "10032024-042323949-[TOG]Lazy_Echidna-698472668255-1640",
+      "time": 43.31495,
+      "checkpoints": 3
+    }
   }
 ]
