@@ -596,5 +596,18 @@
       "time": 65.74632,
       "checkpoints": 6
     }
+  },
+  {
+    "workshopPath": "./downloads/3177930531",
+    "hash": "aea113ab044c3a5fc05a5a29acf5f99a0790269b5cad29b50fe064fa1ccb05cc",
+    "level": {
+      "name": "ZSL - The Braking Spider",
+      "path": "./downloads/3177930531/ZSL - The Braking Spider/ZSL - The Braking Spider.zeeplevel",
+      "blocks": 433,
+      "author": "Unknown",
+      "uuid": "10032024-173828592-Unknown-367221672468-432",
+      "time": 58.37176,
+      "checkpoints": 2
+    }
   }
 ]
