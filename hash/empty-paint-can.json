@@ -609,5 +609,31 @@
       "time": 58.37176,
       "checkpoints": 2
     }
+  },
+  {
+    "workshopPath": "./downloads/3178027937",
+    "hash": "3562a45cde89b5cfe29e3986ed3ea4376b33903cfa37c1f4b0cb17241e49340e",
+    "level": {
+      "name": "ZSL - Paintless Construction",
+      "path": "./downloads/3178027937/ZSL - Paintless Construction/ZSL - Paintless Construction.zeeplevel",
+      "blocks": 1507,
+      "author": "[CTR]Striking Vyper",
+      "uuid": "10032024-185924259-[CTR]Striking Vyper-021921345083-1506",
+      "time": 51.62737,
+      "checkpoints": 5
+    }
+  },
+  {
+    "workshopPath": "./downloads/3178025580",
+    "hash": "fc8ad4f29ca0138825e45c9b6509356287afb12ed0a65f6d24dd3f9a9edfd625",
+    "level": {
+      "name": "ZSL - Cubes are great",
+      "path": "./downloads/3178025580/ZSL - Cubes are great/ZSL - Cubes are great.zeeplevel",
+      "blocks": 238,
+      "author": "[GUL] ZOMAN",
+      "uuid": "10032024-185733386-[GUL] ZOMAN-380347040193-237",
+      "time": 39.15717,
+      "checkpoints": 6
+    }
   }
 ]
