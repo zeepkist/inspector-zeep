@@ -583,5 +583,18 @@
       "time": 43.31495,
       "checkpoints": 3
     }
+  },
+  {
+    "workshopPath": "./downloads/3177818558",
+    "hash": "b6f194203bf4a55dda9b95ebc5e5a9a6a506186ce6c424cadbe295d348e8c7bc",
+    "level": {
+      "name": "ZSL - Merlot Manor",
+      "path": "./downloads/3177818558/ZSL - Merlot Manor/ZSL - Merlot Manor.zeeplevel",
+      "blocks": 1740,
+      "author": "MeroMeroNoMi",
+      "uuid": "10032024-162209333-MeroMeroNoMi-377376456707-1739",
+      "time": 65.74632,
+      "checkpoints": 6
+    }
   }
 ]
