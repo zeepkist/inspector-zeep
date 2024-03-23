@@ -1,0 +1,119 @@
+[
+  {
+    "workshopPath": "./downloads/3196020856",
+    "hash": "d5086a4520f10994e93a0abbbd3d0d0fca8f7e304416a4060cd214ae8c175597",
+    "level": {
+      "name": "ZSL - Borgo Mozzafiato",
+      "path": "./downloads/3196020856/ZSL - Borgo Mozzafiato/ZSL - Borgo Mozzafiato.zeeplevel",
+      "blocks": 1591,
+      "author": "Riccio97",
+      "uuid": "22032024-162239741-Riccio97-821081288834-1590",
+      "time": 48.94346,
+      "checkpoints": 6
+    }
+  },
+  {
+    "workshopPath": "./downloads/3195621610",
+    "hash": "7c09caf94fe41e2ff14449017300c3a2b4aba51469aab0aa52c046fe46713e56",
+    "level": {
+      "name": "ZSL - The Underground",
+      "path": "./downloads/3195621610/ZSL - The Underground/ZSL - The Underground.zeeplevel",
+      "blocks": 571,
+      "author": "W351D3",
+      "uuid": "22032024-054635690-W351D3-400825830713-570",
+      "time": 41.48359,
+      "checkpoints": 4
+    }
+  },
+  {
+    "workshopPath": "./downloads/3194070500",
+    "hash": "82f47fd3049cf022d09f201b3022136db54dbbe913dfa4593706e04c9847c70d",
+    "level": {
+      "name": "ZSL - This Track Was Made In A Factory",
+      "path": "./downloads/3194070500/ZSL - This Track Was Made In A Factory/ZSL - This Track Was Made In A Factory.zeeplevel",
+      "blocks": 594,
+      "author": "Codewalt",
+      "uuid": "20032024-225452173-Codewalt-665185873712-593",
+      "time": 49.74981,
+      "checkpoints": 5
+    }
+  },
+  {
+    "workshopPath": "./downloads/3190621372",
+    "hash": "005e56e62f51d0b3e13b22d297c6f4eaef21e5f0f75917790307f0868e67f60f",
+    "level": {
+      "name": "ZSL- Flos Patriae",
+      "path": "./downloads/3190621372/ZSL- Flos Patriae/ZSL- Flos Patriae.zeeplevel",
+      "blocks": 904,
+      "author": "[XTR]Hawk",
+      "uuid": "18032024-175050505-[XTR]Hawk-229298601064-903",
+      "time": 39.52843,
+      "checkpoints": 6
+    }
+  },
+  {
+    "workshopPath": "./downloads/3190596630",
+    "hash": "bc7740160f5a5c481d019a13a4b04bdecd136843ae2ecc2b33bced3e886b44f6",
+    "level": {
+      "name": "ZSL-Rundown Race track",
+      "path": "./downloads/3190596630/ZSL-Rundown Race track/ZSL-Rundown Race track.zeeplevel",
+      "blocks": 2233,
+      "author": "vortex",
+      "uuid": "18032024-172550273-vortex-052466694711-2232",
+      "time": 74.03152,
+      "checkpoints": 15
+    }
+  },
+  {
+    "workshopPath": "./downloads/3190282192",
+    "hash": "675f6ab5c759abf9cf74b124dd2dae33b8eca5f88e8ad8fe79626433cd7dab3b",
+    "level": {
+      "name": "ZSL - Patins de Wallride",
+      "path": "./downloads/3190282192/ZSL - Patins de Wallride/ZSL - Patins de Wallride.zeeplevel",
+      "blocks": 31,
+      "author": "Tigerplaysonpc",
+      "uuid": "18032024-165555322-Tigerplaysonpc-744252783393-30",
+      "time": 48.73797,
+      "checkpoints": 0
+    }
+  },
+  {
+    "workshopPath": "./downloads/3190497917",
+    "hash": "4c987576528f957ad2aef3def1328eb23668bbb611562a4c61a0dc4ace5c6f67",
+    "level": {
+      "name": "ZSL - oakwood raceway",
+      "path": "./downloads/3190497917/ZSL - oakwood raceway/ZSL - oakwood raceway.zeeplevel",
+      "blocks": 1104,
+      "author": "Lennyb1232",
+      "uuid": "18032024-195515180-Lennyb1232-716890860529-1103",
+      "time": 71.1711,
+      "checkpoints": 7
+    }
+  },
+  {
+    "workshopPath": "./downloads/3190530487",
+    "hash": "bd76d9e604535aadc8131c78c10c3124e230ca0405af6f0a524000d86fcb623a",
+    "level": {
+      "name": "ZSL-RAPID RACEWAY",
+      "path": "./downloads/3190530487/ZSL-RAPID RACEWAY/ZSL-RAPID RACEWAY.zeeplevel",
+      "blocks": 552,
+      "author": "Bulldog Massacre",
+      "uuid": "18032024-152423282-Bulldog Massacre-750574902778-551",
+      "time": 38.75949,
+      "checkpoints": 3
+    }
+  },
+  {
+    "workshopPath": "./downloads/3190287948",
+    "hash": "a512f36c803eea6fb08548e84c3834f65ebf59d631adba00b3db845d84d7b6a3",
+    "level": {
+      "name": "ZSL - Kodiak Bear Racing",
+      "path": "./downloads/3190287948/ZSL - Kodiak Bear Racing/ZSL - Kodiak Bear Racing.zeeplevel",
+      "blocks": 2215,
+      "author": "[TOG]ioi8",
+      "uuid": "18032024-125935384-[TOG]ioi8-702731158384-2214",
+      "time": 49.68546,
+      "checkpoints": 8
+    }
+  }
+]
