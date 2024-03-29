@@ -47,8 +47,13 @@ export const setupClient = async (client: Client) => {
   if (!SILENT_MODE) {
     // Delete any bot messages sent in a previous run
     for await (const message of getChannelMessages(discussionChannel)) {
-      if (message.author.bot && message.createdTimestamp > twoDaysAgo) {
-        debug(`Deleting bot message ${message.id}`, import.meta, true)
+      if (message.author.bot && message.createdTimestamp < twoDaysAgo) {
+        debug(
+          `Deleting bot message ${message.id} as it was created over 2 days ago`,
+          import.meta,
+          true
+        )
+
         message.delete()
       }
     }

@@ -21,7 +21,7 @@
       "isStartFinishProximityValid": false,
       "startFinishProximity": 18
     },
-    "invalidatedAt": 1711731567355
+    "invalidatedAt": 1711733227312
   },
   {
     "workshopPath": "./downloads/3195621610",
@@ -98,7 +98,7 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 1
     },
-    "invalidatedAt": 1711731577353
+    "invalidatedAt": 1711733236982
   },
   {
     "workshopPath": "./downloads/3190497917",
@@ -115,7 +115,7 @@
   },
   {
     "workshopPath": "./downloads/3190530487",
-    "hash": "bd76d9e604535aadc8131c78c10c3124e230ca0405af6f0a524000d86fcb623a",
+    "hash": "bd76d9e604535aadc8131c78c10c3124e230ca0405af6f0a524000d86fcb623aa12",
     "level": {
       "name": "ZSL-RAPID RACEWAY",
       "path": "./downloads/3190530487/ZSL-RAPID RACEWAY/ZSL-RAPID RACEWAY.zeeplevel",
@@ -124,18 +124,7 @@
       "uuid": "18032024-152423282-Bulldog Massacre-750574902778-551",
       "time": 38.75949,
       "checkpoints": 3
-    },
-    "isValid": false,
-    "validity": {
-      "isOverBlockLimit": false,
-      "isUnderTimeLimit": false,
-      "isOverTimeLimit": false,
-      "isUnderCheckpointLimit": false,
-      "isOverWidthLimit": false,
-      "isStartFinishProximityValid": false,
-      "startFinishProximity": 11
-    },
-    "invalidatedAt": 1711731577359
+    }
   },
   {
     "workshopPath": "./downloads/3190287948",

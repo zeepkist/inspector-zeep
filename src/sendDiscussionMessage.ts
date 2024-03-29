@@ -8,6 +8,7 @@ import {
   MINIMUM_TIME
 } from './config/requirements.js'
 import { getLevelHash } from './createLevelHash.js'
+import { debug } from './log.js'
 import type { VerifiedLevel } from './types.js'
 
 interface SendDiscussionMessageOptions {
@@ -33,10 +34,18 @@ export const sendDiscussionMessage = async ({
 
   const hashedLevel = getLevelHash(level.workshopId)
   const twoDaysAgo = Date.now() - 1000 * 60 * 60 * 24 * 2
+  const FifteenMinutesAgo = Date.now() - 1000 * 60 * 15
   const invalidatedAt = hashedLevel?.invalidatedAt ?? 0
 
   // Don't send the message if the level has been invalidated less than three days ago
-  if (invalidatedAt > twoDaysAgo) return
+  if (invalidatedAt > twoDaysAgo && invalidatedAt < FifteenMinutesAgo) {
+    debug(
+      `"${level.name}" has been invalidated less than two days ago, not pinging user`,
+      import.meta
+    )
+
+    return
+  }
 
   let messageContent = `${user}, your submission (${italic(
     level.name
