@@ -199,5 +199,19 @@
       "checkpoints": 7
     },
     "isValid": true
+  },
+  {
+    "workshopPath": "./downloads/3199268368",
+    "hash": "258fd426e37fa595aec7ae1d718075af6c78c02620572d6ff934140df61b2fb2",
+    "level": {
+      "name": "ZSL- circuit 1",
+      "path": "./downloads/3199268368/ZSL- circuit 1/ZSL- circuit 1.zeeplevel",
+      "blocks": 198,
+      "author": "Flexicon",
+      "uuid": "24032024-161126765-Flexicon-868675627204-197",
+      "time": 68.14124,
+      "checkpoints": 14
+    },
+    "isValid": true
   }
 ]
