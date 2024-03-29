@@ -5,11 +5,14 @@ import {
   MAXIMUM_TIME,
   MAXIMUM_WIDTH,
   MINIMUM_CHECKPOINTS,
-  MINIMUM_TIME
+  MINIMUM_TIME,
+  START_FINISH_PROXIMITY
 } from './config/requirements.js'
 import { getLevel } from './getLevel.js'
 import { debug, error } from './log.js'
 import type { VerifiedLevel } from './types.js'
+
+const getDistanceInBlocks = (distance: number) => Math.ceil(distance / 16)
 
 export const validateBlockLimit = (name: string, blocks: number) => {
   if (blocks > BLOCK_LIMIT) {
@@ -125,6 +128,65 @@ const validateMaximumWidth = (name: string, lines: string[]) => {
   return true
 }
 
+const validateStartFinishProximity = (name: string, lines: string[]) => {
+  const startBlockIds = new Set([1, 1363])
+  const finishBlockIds = new Set([2, 1273, 1274, 1616])
+
+  const startBlock = lines.find(line =>
+    startBlockIds.has(Number(line.split(',')[0]))
+  )
+
+  const finishBlocks = lines.filter(line =>
+    finishBlockIds.has(Number(line.split(',')[0]))
+  )
+
+  const distanceFromStartToFinish = 16 * 3 // 3 blocks
+
+  if (!startBlock || finishBlocks.length === 0) {
+    return {
+      isStartFinishProximityValid: false,
+      startFinishProximity: 0
+    }
+  }
+
+  const [, startX, startY, startZ] = startBlock.split(',')
+
+  let minimumDistanceDetected = Number.POSITIVE_INFINITY
+
+  for (const finishBlock of finishBlocks) {
+    const [, finishX, finishY, finishZ] = finishBlock.split(',')
+
+    const distanceX = Math.abs(Number(startX) - Number(finishX))
+    const distanceY = Math.abs(Number(startY) - Number(finishY))
+    const distanceZ = Math.abs(Number(startZ) - Number(finishZ))
+    const distance = Math.sqrt(
+      Math.pow(distanceX, 2) + Math.pow(distanceY, 2) + Math.pow(distanceZ, 2)
+    )
+    const distanceInBlocks = getDistanceInBlocks(distance)
+
+    if (distance < distanceFromStartToFinish) {
+      return {
+        isStartFinishProximityValid: true,
+        startFinishProximity: distanceInBlocks
+      }
+    } else {
+      minimumDistanceDetected = Math.min(minimumDistanceDetected, distance)
+    }
+  }
+
+  const distanceInBlocks = getDistanceInBlocks(minimumDistanceDetected)
+
+  error(
+    `"${name}" start and finish are too far apart (${distanceInBlocks} blocks)`,
+    import.meta
+  )
+
+  return {
+    isStartFinishProximityValid: false,
+    startFinishProximity: distanceInBlocks
+  }
+}
+
 export const checkLevelIsValid = async (workshopPath: string, author: User) => {
   const level = await getLevel(workshopPath)
   if (!level) return
@@ -132,14 +194,21 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
   const isOverBlockLimit = !validateBlockLimit(level.name, level.blocks.length)
   const isUnderTimeLimit = !validateMinTime(level.name, level.time)
   const isOverTimeLimit = !validateMaxTime(level.name, level.time)
+
   const isUnderCheckpointLimit = validateCheckpointLimit(
     level.name,
     level.checkpoints
   )
+
   const isOverWidthLimit =
     MAXIMUM_WIDTH === 0
       ? false
       : !validateMaximumWidth(level.name, level.blocks)
+
+  const { isStartFinishProximityValid, startFinishProximity } =
+    START_FINISH_PROXIMITY === 0
+      ? { isStartFinishProximityValid: true, startFinishProximity: 0 }
+      : validateStartFinishProximity(level.name, level.blocks)
 
   const response: VerifiedLevel = {
     workshopId: workshopPath.split('/').pop() ?? '',
@@ -153,14 +222,17 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
       isUnderTimeLimit ||
       isOverTimeLimit ||
       isUnderCheckpointLimit ||
-      isOverWidthLimit
+      isOverWidthLimit ||
+      !isStartFinishProximityValid
     ),
     validity: {
       isOverBlockLimit,
       isUnderTimeLimit,
       isOverTimeLimit,
       isUnderCheckpointLimit,
-      isOverWidthLimit
+      isOverWidthLimit,
+      isStartFinishProximityValid,
+      startFinishProximity
     }
   }
 

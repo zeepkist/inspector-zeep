@@ -2,15 +2,21 @@ import { createHash } from 'node:crypto'
 import { readFile, writeFile } from 'node:fs/promises'
 import { basename, extname, join } from 'node:path'
 
+import { User } from 'discord.js'
+
+import { checkLevelIsValid } from './checkLevelIsValid.js'
 import { HASH_FOLDER, ZEEPKIST_THEME_NAME } from './config/constants.js'
 import { getLevel } from './getLevel.js'
 import { debug, info } from './log.js'
-import { CachedLevel } from './types.js'
+import { CachedLevel, LevelValidity } from './types.js'
 
 interface Hash {
   workshopPath: string
   hash: string
   level: CachedLevel
+  isValid: boolean
+  validity?: LevelValidity
+  invalidatedAt?: number
 }
 
 interface CreateLevelHash {
@@ -39,11 +45,13 @@ const hashLevel = (level: string) => {
 }
 
 export const createLevelHash = async (
-  workshopPath: string
+  workshopPath: string,
+  author: User
 ): Promise<CreateLevelHash> => {
   const level = await getLevel(workshopPath)
+  const levelValidity = await checkLevelIsValid(workshopPath, author)
 
-  if (!level) {
+  if (!level || !levelValidity) {
     info(`Level ${workshopPath} does not exist`, import.meta)
 
     return {
@@ -64,7 +72,7 @@ export const createLevelHash = async (
     info(`"${fileName}" has changed or is new`, import.meta)
 
     if (previousLevel) {
-      const newLevel = {
+      const newLevel: Hash = {
         workshopPath,
         hash: currentHash,
         level: {
@@ -75,12 +83,18 @@ export const createLevelHash = async (
           uuid: level.uuid,
           time: level.time,
           checkpoints: level.checkpoints
-        }
+        },
+        isValid: levelValidity.isValid
+      }
+
+      if (!levelValidity.isValid) {
+        newLevel.validity = levelValidity.validity
+        newLevel.invalidatedAt = Date.now()
       }
 
       hashes.splice(hashes.indexOf(previousLevel), 1, newLevel)
     } else {
-      hashes.push({
+      const updatedLevel: Hash = {
         workshopPath,
         hash: currentHash,
         level: {
@@ -91,10 +105,31 @@ export const createLevelHash = async (
           uuid: level.uuid,
           time: level.time,
           checkpoints: level.checkpoints
-        }
-      })
+        },
+        isValid: levelValidity.isValid
+      }
+
+      if (levelValidity.isValid) {
+        delete updatedLevel.validity
+      } else {
+        updatedLevel.validity = levelValidity.validity
+      }
+
+      hashes.push(updatedLevel)
     }
-  } else {
+  } else if (previousLevel) {
+    // Force-update existing invalid levels to contain validity information
+    if (!levelValidity.isValid && !previousLevel.validity) {
+      const updatedLevel = {
+        ...previousLevel,
+        isValid: levelValidity.isValid,
+        validity: levelValidity.validity,
+        invalidatedAt: Date.now()
+      }
+
+      hashes.splice(hashes.indexOf(previousLevel), 1, updatedLevel)
+    }
+
     debug(`Level ${fileName} has not changed`, import.meta, true)
   }
 
@@ -103,6 +138,10 @@ export const createLevelHash = async (
     isNew: !previousLevel,
     previousLevel: previousLevel?.level
   }
+}
+
+export const getLevelHash = (workshopId: string) => {
+  return hashes.find(hash => hash.workshopPath.split('/').at(-1) === workshopId)
 }
 
 export const saveLevelHashes = async () => {

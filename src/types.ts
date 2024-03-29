@@ -35,4 +35,6 @@ export interface LevelValidity {
   isOverTimeLimit: boolean
   isUnderCheckpointLimit: boolean
   isOverWidthLimit: boolean
+  isStartFinishProximityValid: boolean
+  startFinishProximity: number
 }
