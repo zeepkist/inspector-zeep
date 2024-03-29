@@ -223,8 +223,7 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
       isUnderTimeLimit ||
       isOverTimeLimit ||
       isUnderCheckpointLimit ||
-      isOverWidthLimit ||
-      !isStartFinishProximityValid
+      isOverWidthLimit
     ),
     validity: {
       isOverBlockLimit,

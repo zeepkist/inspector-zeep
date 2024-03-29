@@ -73,7 +73,7 @@ export const sendDiscussionMessage = async ({
   }
 
   if (!isStartFinishProximityValid) {
-    messageContent += `- Start and finish are too far apart for players to finish where they started. Found a distance of ${startFinishProximity} blocks, but should be no more than 5 blocks\n`
+    messageContent += `- :warning: Start and finish are ${startFinishProximity} blocks apart. If your level re-uses part of the start for the end of the level (still forming a complete circuit), disregard this warning - your level is still valid.\n`
   }
 
   messageContent +=

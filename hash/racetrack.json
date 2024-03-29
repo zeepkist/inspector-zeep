@@ -11,17 +11,7 @@
       "time": 48.94346,
       "checkpoints": 6
     },
-    "isValid": false,
-    "validity": {
-      "isOverBlockLimit": false,
-      "isUnderTimeLimit": false,
-      "isOverTimeLimit": false,
-      "isUnderCheckpointLimit": false,
-      "isOverWidthLimit": false,
-      "isStartFinishProximityValid": false,
-      "startFinishProximity": 18
-    },
-    "invalidatedAt": 1711733227312
+    "isValid": true
   },
   {
     "workshopPath": "./downloads/3195621610",
@@ -98,7 +88,7 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 1
     },
-    "invalidatedAt": 1711733236982
+    "invalidatedAt": 1711751442488
   },
   {
     "workshopPath": "./downloads/3190497917",
@@ -125,17 +115,7 @@
       "time": 38.75949,
       "checkpoints": 3
     },
-    "isValid": false,
-    "validity": {
-      "isOverBlockLimit": false,
-      "isUnderTimeLimit": false,
-      "isOverTimeLimit": false,
-      "isUnderCheckpointLimit": false,
-      "isOverWidthLimit": false,
-      "isStartFinishProximityValid": false,
-      "startFinishProximity": 11
-    },
-    "invalidatedAt": 1711736175411
+    "isValid": true
   },
   {
     "workshopPath": "./downloads/3190287948",

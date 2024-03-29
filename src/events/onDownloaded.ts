@@ -2,6 +2,7 @@ import { Message, ThreadChannel, User } from 'discord.js'
 
 import { checkLevelIsValid } from '../checkLevelIsValid.js'
 import { DOWNLOAD_FOLDER, SILENT_MODE } from '../config/constants.js'
+import { START_FINISH_PROXIMITY } from '../config/requirements.js'
 import { createLevelHash } from '../createLevelHash.js'
 import { addToPlaylist } from '../createPlaylist.js'
 import { event } from '../event.js'
@@ -24,6 +25,7 @@ export const onDownloaded = async ({
 }: onDownloadedOptions) => {
   const [message, user] = submission
   const workshopPath = `${DOWNLOAD_FOLDER}${workshopId}`
+  const hasStartFinishProximityWarning = START_FINISH_PROXIMITY !== 0
 
   const level = await checkLevelIsValid(workshopPath, user)
   const { hasChanged, isNew, previousLevel } = await createLevelHash(
@@ -44,7 +46,14 @@ export const onDownloaded = async ({
 
   if (level.isValid) {
     await addToPlaylist(workshopPath, workshopId, hasChanged || isNew)
-  } else if (!SILENT_MODE) {
+  }
+
+  if (
+    (!level.isValid ||
+      (hasStartFinishProximityWarning &&
+        !level.validity.isStartFinishProximityValid)) &&
+    !SILENT_MODE
+  ) {
     sendDiscussionMessage({
       channel: discussionChannel,
       level,
