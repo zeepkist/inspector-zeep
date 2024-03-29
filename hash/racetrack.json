@@ -10,20 +10,32 @@
       "uuid": "22032024-162239741-Riccio97-821081288834-1590",
       "time": 48.94346,
       "checkpoints": 6
-    }
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": false,
+      "startFinishProximity": 18
+    },
+    "invalidatedAt": 1711731567355
   },
   {
     "workshopPath": "./downloads/3195621610",
-    "hash": "7c09caf94fe41e2ff14449017300c3a2b4aba51469aab0aa52c046fe46713e56",
+    "hash": "0473e035f2c999dd6e7e083502ee9ced2e328af9757801192ced0eaeeb2b810c",
     "level": {
       "name": "ZSL - The Underground",
       "path": "./downloads/3195621610/ZSL - The Underground/ZSL - The Underground.zeeplevel",
-      "blocks": 571,
+      "blocks": 646,
       "author": "W351D3",
-      "uuid": "22032024-054635690-W351D3-400825830713-570",
-      "time": 41.48359,
+      "uuid": "22032024-191220001-W351D3-929908954588-645",
+      "time": 40.93364,
       "checkpoints": 4
-    }
+    },
+    "isValid": true
   },
   {
     "workshopPath": "./downloads/3194070500",
@@ -75,7 +87,18 @@
       "uuid": "18032024-165555322-Tigerplaysonpc-744252783393-30",
       "time": 48.73797,
       "checkpoints": 0
-    }
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": true,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 1
+    },
+    "invalidatedAt": 1711731577353
   },
   {
     "workshopPath": "./downloads/3190497917",
@@ -101,7 +124,18 @@
       "uuid": "18032024-152423282-Bulldog Massacre-750574902778-551",
       "time": 38.75949,
       "checkpoints": 3
-    }
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": false,
+      "startFinishProximity": 11
+    },
+    "invalidatedAt": 1711731577359
   },
   {
     "workshopPath": "./downloads/3190287948",
@@ -115,5 +149,75 @@
       "time": 49.68546,
       "checkpoints": 8
     }
+  },
+  {
+    "workshopPath": "./downloads/3204942682",
+    "hash": "23ff23c784e5fdc3f96eb97a10f03bd03ef6344be611d855beb4280bb6446e7d",
+    "level": {
+      "name": "ZSL - Oasis Racecourse",
+      "path": "./downloads/3204942682/ZSL - Oasis Racecourse/ZSL - Oasis Racecourse.zeeplevel",
+      "blocks": 2428,
+      "author": "[oops] Wombat!",
+      "uuid": "29032024-221018545-[oops] Wombat!-887846756360-2427",
+      "time": 48.44062,
+      "checkpoints": 9
+    },
+    "isValid": true
+  },
+  {
+    "workshopPath": "./downloads/3204642638",
+    "hash": "ae00022b9a8f9662ea40490a265a39dd0c1a69ea29a6132540fb6b0a5bc7dabd",
+    "level": {
+      "name": "ZSL - Vohxel Circuit",
+      "path": "./downloads/3204642638/ZSL - Vohxel Circuit/ZSL - Vohxel Circuit.zeeplevel",
+      "blocks": 900,
+      "author": "vohxel",
+      "uuid": "29032024-114536577-vohxel-979579460789-899",
+      "time": 57.16689,
+      "checkpoints": 6
+    },
+    "isValid": true
+  },
+  {
+    "workshopPath": "./downloads/3203118930",
+    "hash": "f58953307bbbb49c2d437024ebf90f8558cd749abcf60a97b2f54b22e50738fd",
+    "level": {
+      "name": "ZSL - LTB Community Circuit",
+      "path": "./downloads/3203118930/ZSL - LTB Community Circuit/ZSL - LTB Community Circuit.zeeplevel",
+      "blocks": 2184,
+      "author": "[RRG]ttv/Lilly the Bun",
+      "uuid": "27032024-135821631-[RRG]ttv/Lilly the Bun-721709669997-2183",
+      "time": 66.56816,
+      "checkpoints": 5
+    },
+    "isValid": true
+  },
+  {
+    "workshopPath": "./downloads/3202178284",
+    "hash": "892a14a730cfca4c182ae673ec39a238966416f805e7fc30c62c751154bd8a06",
+    "level": {
+      "name": "ZSL -Bahrainkist",
+      "path": "./downloads/3202178284/ZSL -Bahrainkist/ZSL -Bahrainkist.zeeplevel",
+      "blocks": 948,
+      "author": "Arder",
+      "uuid": "27032024-000459655-Arder-496218818116-947",
+      "time": 61.81382,
+      "checkpoints": 8
+    },
+    "isValid": true
+  },
+  {
+    "workshopPath": "./downloads/3199669249",
+    "hash": "bc8176586a31c5765c921167e7cd6fc70fbbd52f0705f0d98827c3cd5de0d23c",
+    "level": {
+      "name": "ZSL - Wall-sprint 8",
+      "path": "./downloads/3199669249/ZSL - Wall-sprint 8/ZSL - Wall-sprint 8.zeeplevel",
+      "blocks": 408,
+      "author": "Fonty dev",
+      "uuid": "24032024-231433100-Fonty dev-246733272004-407",
+      "time": 65.65242,
+      "checkpoints": 7
+    },
+    "isValid": true
   }
 ]
