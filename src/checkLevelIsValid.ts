@@ -214,6 +214,7 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
     workshopId: workshopPath.split('/').pop() ?? '',
     name: level.name,
     author,
+    levelAuthors: level.author,
     time: level.time,
     blocks: level.blocks.length,
     checkpoints: level.checkpoints,

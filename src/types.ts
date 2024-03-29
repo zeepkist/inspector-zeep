@@ -22,6 +22,7 @@ export interface VerifiedLevel {
   workshopId: string
   name: string
   author: User
+  levelAuthors: string
   time: number
   blocks: number
   checkpoints: number

@@ -92,6 +92,12 @@ export const sendJudgeMessage = async ({
     ])
   }
 
+  embed.addFields({
+    name: 'Authors',
+    value: level.levelAuthors,
+    inline: false
+  })
+
   const buttons = new ActionRowBuilder<ButtonBuilder>()
   const url = `https://steamcommunity.com/sharedfiles/filedetails/?id=${level.workshopId}`
 
