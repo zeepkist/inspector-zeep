@@ -14,22 +14,22 @@ interface onDownloadedOptions {
   submission: [Message, User]
   discussionChannel: ThreadChannel
   judgeChannel: ThreadChannel
-  hasAlreadyPinged: boolean
 }
 
 export const onDownloaded = async ({
   workshopId,
   submission,
   discussionChannel,
-  judgeChannel,
-  hasAlreadyPinged
+  judgeChannel
 }: onDownloadedOptions) => {
   const [message, user] = submission
   const workshopPath = `${DOWNLOAD_FOLDER}${workshopId}`
 
   const level = await checkLevelIsValid(workshopPath, user)
-  const { hasChanged, isNew, previousLevel } =
-    await createLevelHash(workshopPath)
+  const { hasChanged, isNew, previousLevel } = await createLevelHash(
+    workshopPath,
+    user
+  )
 
   if (!level) return
 
@@ -44,7 +44,7 @@ export const onDownloaded = async ({
 
   if (level.isValid) {
     await addToPlaylist(workshopPath, workshopId, hasChanged || isNew)
-  } else if (!hasAlreadyPinged && !SILENT_MODE) {
+  } else if (!SILENT_MODE) {
     sendDiscussionMessage({
       channel: discussionChannel,
       level,

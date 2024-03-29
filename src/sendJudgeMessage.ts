@@ -28,7 +28,9 @@ export const sendJudgeMessage = async ({
     isOverBlockLimit,
     isOverTimeLimit,
     isUnderCheckpointLimit,
-    isUnderTimeLimit
+    isUnderTimeLimit,
+    isStartFinishProximityValid,
+    startFinishProximity
   } = level.validity
   const title = `${isNew ? '🆕 ' : ''}${level.name}`
 
@@ -80,25 +82,28 @@ export const sendJudgeMessage = async ({
     )
   }
 
-  const buttons = new ActionRowBuilder<ButtonBuilder>()
-
-  if (level.isValid) {
-    const url = `https://steamcommunity.com/sharedfiles/filedetails/?id=${level.workshopId}`
-
-    buttons.addComponents([
-      new ButtonBuilder()
-        .setStyle(ButtonStyle.Link)
-        .setLabel('Subscribe to level')
-        .setURL(url)
+  if (startFinishProximity > 0) {
+    embed.addFields([
+      {
+        name: 'Start/Finish Proximity',
+        value: `${emoji(isStartFinishProximityValid)} ${startFinishProximity} blocks`,
+        inline: true
+      }
     ])
-
-    await channel.send({
-      embeds: [embed],
-      components: [buttons]
-    })
-  } else {
-    await channel.send({
-      embeds: [embed]
-    })
   }
+
+  const buttons = new ActionRowBuilder<ButtonBuilder>()
+  const url = `https://steamcommunity.com/sharedfiles/filedetails/?id=${level.workshopId}`
+
+  buttons.addComponents([
+    new ButtonBuilder()
+      .setStyle(ButtonStyle.Link)
+      .setLabel('Subscribe to level')
+      .setURL(url)
+  ])
+
+  await channel.send({
+    embeds: [embed],
+    components: [buttons]
+  })
 }

@@ -1,4 +1,4 @@
-import { Client, ThreadChannel, User } from 'discord.js'
+import { Client, ThreadChannel } from 'discord.js'
 
 import {
   DISCORD_DISCUSSION_CHANNEL_ID,
@@ -31,7 +31,6 @@ export const setupClient = async (client: Client) => {
   const discussionChannel = setupChannel(client, DISCORD_DISCUSSION_CHANNEL_ID)
   const submissionChannel = setupChannel(client, DISCORD_SUBMISSION_CHANNEL_ID)
   const judgeChannel = setupChannel(client, DISCORD_JUDGE_CHANNEL_ID)
-  const usersWithInvalidSubmissions = new Set<User['id']>()
 
   if (!discussionChannel || !submissionChannel || !judgeChannel) {
     // eslint-disable-next-line unicorn/no-process-exit
@@ -51,13 +50,6 @@ export const setupClient = async (client: Client) => {
       if (message.author.bot && message.createdTimestamp > twoDaysAgo) {
         debug(`Deleting bot message ${message.id}`, import.meta, true)
         message.delete()
-      } else if (message.author.bot) {
-        // don't ping user again if they've already been pinged in the last 2 days
-        // about their submission not being valid
-        const user = message.mentions.users.first()
-        if (!user) continue
-
-        usersWithInvalidSubmissions.add(user.id)
       }
     }
   }
@@ -65,7 +57,6 @@ export const setupClient = async (client: Client) => {
   return {
     discussionChannel,
     submissionChannel,
-    judgeChannel,
-    usersWithInvalidSubmissions
+    judgeChannel
   }
 }
