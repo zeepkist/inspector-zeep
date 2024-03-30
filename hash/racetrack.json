@@ -243,5 +243,28 @@
       "startFinishProximity": 8
     },
     "invalidatedAt": 1711760035765
+  },
+  {
+    "workshopPath": "./downloads/3206088229",
+    "hash": "93efd2e08345ded693395947701729b8bdc1cfedfeae1b1b6e590b2b52d1f2b5",
+    "level": {
+      "name": "ZSL - Lafayette",
+      "path": "./downloads/3206088229/ZSL - Lafayette/ZSL - Lafayette.zeeplevel",
+      "blocks": 3208,
+      "author": "That1Guy",
+      "uuid": "29032024-234444115-That1Guy-741041294843-3207",
+      "time": 45.50742,
+      "checkpoints": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 1
+    }
   }
 ]
