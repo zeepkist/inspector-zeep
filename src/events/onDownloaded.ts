@@ -49,10 +49,9 @@ export const onDownloaded = async ({
   }
 
   if (
-    (!level.isValid ||
-      (hasStartFinishProximityWarning &&
-        !level.validity.isStartFinishProximityValid)) &&
-    !SILENT_MODE
+    !level.isValid ||
+    (hasStartFinishProximityWarning &&
+      !level.validity.isStartFinishProximityValid)
   ) {
     sendDiscussionMessage({
       channel: discussionChannel,

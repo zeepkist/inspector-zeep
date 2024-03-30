@@ -68,6 +68,10 @@ export const createLevelHash = async (
     ? previousLevel && currentHash !== previousLevel.hash
     : true
 
+  const isLevelInvalid =
+    !levelValidity.isValid ||
+    !levelValidity.validity.isStartFinishProximityValid
+
   if (hasChanged) {
     info(`"${fileName}" has changed or is new`, import.meta)
 
@@ -84,17 +88,18 @@ export const createLevelHash = async (
           time: level.time,
           checkpoints: level.checkpoints
         },
-        isValid: levelValidity.isValid
+        isValid: levelValidity.isValid,
+        validity: levelValidity.validity,
+        invalidatedAt: 0
       }
 
-      if (!levelValidity.isValid) {
-        newLevel.validity = levelValidity.validity
+      if (isLevelInvalid) {
         newLevel.invalidatedAt = Date.now()
       }
 
       hashes.splice(hashes.indexOf(previousLevel), 1, newLevel)
     } else {
-      const updatedLevel: Hash = {
+      const existingLevel: Hash = {
         workshopPath,
         hash: currentHash,
         level: {
@@ -106,28 +111,34 @@ export const createLevelHash = async (
           time: level.time,
           checkpoints: level.checkpoints
         },
-        isValid: levelValidity.isValid
+        isValid: levelValidity.isValid,
+        validity: levelValidity.validity
       }
 
-      if (levelValidity.isValid) {
-        delete updatedLevel.validity
-      } else {
-        updatedLevel.validity = levelValidity.validity
+      if (isLevelInvalid) {
+        existingLevel.invalidatedAt = Date.now()
       }
 
-      hashes.push(updatedLevel)
+      hashes.push(existingLevel)
     }
   } else if (previousLevel) {
     // Force-update existing invalid levels to contain validity information
-    if (!levelValidity.isValid && !previousLevel.validity) {
-      const updatedLevel = {
+    if (
+      (!levelValidity.isValid ||
+        !levelValidity.validity.isStartFinishProximityValid) &&
+      !previousLevel.validity
+    ) {
+      const existingLevel = {
         ...previousLevel,
         isValid: levelValidity.isValid,
-        validity: levelValidity.validity,
-        invalidatedAt: Date.now()
+        validity: levelValidity.validity
       }
 
-      hashes.splice(hashes.indexOf(previousLevel), 1, updatedLevel)
+      if (isLevelInvalid) {
+        existingLevel.invalidatedAt = Date.now()
+      }
+
+      hashes.splice(hashes.indexOf(previousLevel), 1, existingLevel)
     }
 
     debug(`Level ${fileName} has not changed`, import.meta, true)

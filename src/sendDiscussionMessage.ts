@@ -1,5 +1,6 @@
 import { italic, ThreadChannel, User } from 'discord.js'
 
+import { SILENT_MODE } from './config/constants.js'
 import {
   BLOCK_LIMIT,
   MAXIMUM_TIME,
@@ -34,11 +35,11 @@ export const sendDiscussionMessage = async ({
 
   const hashedLevel = getLevelHash(level.workshopId)
   const twoDaysAgo = Date.now() - 1000 * 60 * 60 * 24 * 2
-  const FifteenMinutesAgo = Date.now() - 1000 * 60 * 15
+  const FiveMinutesAgo = Date.now() - 1000 * 60 * 5
   const invalidatedAt = hashedLevel?.invalidatedAt ?? 0
 
   // Don't send the message if the level has been invalidated less than three days ago
-  if (invalidatedAt > twoDaysAgo && invalidatedAt < FifteenMinutesAgo) {
+  if (invalidatedAt > twoDaysAgo && invalidatedAt < FiveMinutesAgo) {
     debug(
       `"${level.name}" has been invalidated less than two days ago, not pinging user`,
       import.meta
@@ -79,5 +80,5 @@ export const sendDiscussionMessage = async ({
   messageContent +=
     'You can resolve these issues by updating your workshop submission before the submission deadline! <:YannicWink:1108486419032309760>'
 
-  await channel.send(messageContent)
+  if (!SILENT_MODE) await channel.send(messageContent)
 }
