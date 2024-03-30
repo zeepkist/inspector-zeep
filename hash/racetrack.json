@@ -266,5 +266,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 1
     }
+  },
+  {
+    "workshopPath": "./downloads/3207050130",
+    "hash": "ecb74880d6b4555497521b8bc8ea30f5d8bad86b9242fc264aa0b2ee57bab88e",
+    "level": {
+      "name": "ZSL - Shambly Grand Prix",
+      "path": "./downloads/3207050130/ZSL - Shambly Grand Prix/ZSL - Shambly Grand Prix.zeeplevel",
+      "blocks": 1809,
+      "author": "Codewalt",
+      "uuid": "30032024-155121995-Codewalt-487586453735-1808",
+      "time": 70.12224,
+      "checkpoints": 7
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 2
+    }
   }
 ]
