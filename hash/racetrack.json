@@ -289,5 +289,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 2
     }
+  },
+  {
+    "workshopPath": "./downloads/3207110327",
+    "hash": "e1180af8311637c3c7f5cfe6ee3007121b6c75d6541a5ab5933f984cf1cd23c6",
+    "level": {
+      "name": "ZSL - Zeeptona 500",
+      "path": "./downloads/3207110327/ZSL - Zeeptona 500/ZSL - Zeeptona 500.zeeplevel",
+      "blocks": 283,
+      "author": "CoinnectedOfficial",
+      "uuid": "30032024-181459736-CoinnectedOfficial-599756503747-282",
+      "time": 59.97062,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 1
+    }
   }
 ]
