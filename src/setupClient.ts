@@ -9,7 +9,7 @@ import {
 import { getChannelMessages } from './getChannelMessages.js'
 import { debug, error } from './log.js'
 
-const twoDaysAgo = Date.now() - 1000 * 60 * 60 * 24 * 2
+const fiveDaysAgo = Date.now() - 1000 * 60 * 60 * 24 * 5
 
 const setupChannel = (client: Client, channelId = ''): ThreadChannel | void => {
   const channel = client.channels.cache.get(channelId)
@@ -47,9 +47,9 @@ export const setupClient = async (client: Client) => {
   if (!SILENT_MODE) {
     // Delete any bot messages sent in a previous run
     for await (const message of getChannelMessages(discussionChannel)) {
-      if (message.author.bot && message.createdTimestamp < twoDaysAgo) {
+      if (message.author.bot && message.createdTimestamp < fiveDaysAgo) {
         debug(
-          `Deleting bot message ${message.id} as it was created over 2 days ago`,
+          `Deleting bot message ${message.id} as it was created over 5 days ago`,
           import.meta,
           true
         )

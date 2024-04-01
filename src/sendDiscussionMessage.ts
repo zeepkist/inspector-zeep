@@ -34,12 +34,12 @@ export const sendDiscussionMessage = async ({
   } = level.validity
 
   const hashedLevel = getLevelHash(level.workshopId)
-  const twoDaysAgo = Date.now() - 1000 * 60 * 60 * 24 * 2
+  const fiveDaysAgo = Date.now() - 1000 * 60 * 60 * 24 * 5
   const FiveMinutesAgo = Date.now() - 1000 * 60 * 5
   const invalidatedAt = hashedLevel?.invalidatedAt ?? 0
 
-  // Don't send the message if the level has been invalidated less than three days ago
-  if (invalidatedAt > twoDaysAgo && invalidatedAt < FiveMinutesAgo) {
+  // Don't send the message if the level has been invalidated less than 5 days ago
+  if (invalidatedAt > fiveDaysAgo && invalidatedAt < FiveMinutesAgo) {
     debug(
       `"${level.name}" has been invalidated less than two days ago, not pinging user`,
       import.meta
