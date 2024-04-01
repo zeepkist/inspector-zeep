@@ -312,5 +312,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 1
     }
+  },
+  {
+    "workshopPath": "./downloads/3208595605",
+    "hash": "f24af6d00237e8def22fc6c5884f07590e3c8c8c444440cf6a69f8b371da6f32",
+    "level": {
+      "name": "ZSL - F-Zeepo",
+      "path": "./downloads/3208595605/ZSL - F-Zeepo/ZSL - F-Zeepo.zeeplevel",
+      "blocks": 306,
+      "author": "[CTR]OwlPlague [CTR]TheBamboozler [CTR]NathWalt",
+      "uuid": "01042024-005740277-[CTR]OwlPlague [CTR]TheBamboozler [CTR]NathWalt-571891952531-305",
+      "time": 45.26733,
+      "checkpoints": 8
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 3
+    }
   }
 ]
