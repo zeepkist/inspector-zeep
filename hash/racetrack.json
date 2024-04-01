@@ -358,5 +358,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 2
     }
+  },
+  {
+    "workshopPath": "./downloads/3209396169",
+    "hash": "e483520d790419956fe7a9117bca064c3436f795e2d193a263901b8a499d5736",
+    "level": {
+      "name": "ZSL - Alley Cat",
+      "path": "./downloads/3209396169/ZSL - Alley Cat/ZSL - Alley Cat.zeeplevel",
+      "blocks": 1095,
+      "author": "icRS & St Nic",
+      "uuid": "31032024-192706796-St Nicholas-707235478953-1094",
+      "time": 56.55031,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 3
+    }
   }
 ]
