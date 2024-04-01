@@ -4,8 +4,8 @@ import {
   DISCORD_DISCUSSION_CHANNEL_ID,
   DISCORD_JUDGE_CHANNEL_ID,
   DISCORD_SUBMISSION_CHANNEL_ID,
-  FIVE_DAYS_AGO,
-  SILENT_MODE
+  SILENT_MODE,
+  THREE_DAYS_AGO
 } from './config/constants.js'
 import { getChannelMessages } from './getChannelMessages.js'
 import { debug, error } from './log.js'
@@ -46,7 +46,7 @@ export const setupClient = async (client: Client) => {
   if (!SILENT_MODE) {
     // Delete any bot messages sent in a previous run
     for await (const message of getChannelMessages(discussionChannel)) {
-      if (message.author.bot && message.createdTimestamp < FIVE_DAYS_AGO) {
+      if (message.author.bot && message.createdTimestamp < THREE_DAYS_AGO) {
         debug(
           `Deleting bot message ${message.id} as it was created over 5 days ago`,
           import.meta,

@@ -1,9 +1,9 @@
 import { italic, ThreadChannel, User } from 'discord.js'
 
 import {
-  FIVE_DAYS_AGO,
   FIVE_MINUTES_AGO,
-  SILENT_MODE
+  SILENT_MODE,
+  THREE_DAYS_AGO
 } from './config/constants.js'
 import {
   BLOCK_LIMIT,
@@ -41,7 +41,7 @@ export const sendDiscussionMessage = async ({
   const invalidatedAt = hashedLevel?.invalidatedAt ?? 0
 
   // Don't send the message if the level has been invalidated less than 5 days ago
-  if (invalidatedAt > FIVE_DAYS_AGO && invalidatedAt < FIVE_MINUTES_AGO) {
+  if (invalidatedAt > THREE_DAYS_AGO && invalidatedAt < FIVE_MINUTES_AGO) {
     debug(
       `"${level.name}" has been invalidated less than five days ago, not pinging user`,
       import.meta
