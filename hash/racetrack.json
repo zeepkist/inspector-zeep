@@ -335,5 +335,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 3
     }
+  },
+  {
+    "workshopPath": "./downloads/3209243480",
+    "hash": "262586c25ccade7f51523b8d127ff952c2f0362c8a1a8d2c2c89f57082b821f1",
+    "level": {
+      "name": "zsl - roundabout",
+      "path": "./downloads/3209243480/zsl - roundabout/zsl - roundabout.zeeplevel",
+      "blocks": 67,
+      "author": "[heyo]Mr  Hubub",
+      "uuid": "01042024-122103019-[heyo]Mr  Hubub-931903393473-66",
+      "time": 34.59406,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 2
+    }
   }
 ]
