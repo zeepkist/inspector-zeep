@@ -19,3 +19,7 @@ export const DISCORD_SUBMISSION_CHANNEL_ID =
 export const DISCORD_JUDGE_CHANNEL_ID = process.env.DISCORD_JUDGE_CHANNEL_ID
 
 export const ZEEPKIST_THEME_NAME = process.env.ZEEPKIST_THEME_NAME
+
+export const FIVE_DAYS_AGO = Date.now() - 1000 * 60 * 60 * 24 * 5
+
+export const FIVE_MINUTES_AGO = Date.now() - 1000 * 60 * 5
