@@ -381,5 +381,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 3
     }
+  },
+  {
+    "workshopPath": "./downloads/3205461129",
+    "hash": "223993c8f18617c84c4aab3af926fce30ac6cfcc832d4f1332f22f02a62b746d",
+    "level": {
+      "name": "ZSL - The Frigid North Circuit",
+      "path": "./downloads/3205461129/ZSL - The Frigid North Circuit/ZSL - The Frigid North Circuit.zeeplevel",
+      "blocks": 398,
+      "author": "Lexer",
+      "uuid": "29032024-113758561-Lexer-644761911923-397",
+      "time": 55.03742,
+      "checkpoints": 8
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 1
+    }
   }
 ]
