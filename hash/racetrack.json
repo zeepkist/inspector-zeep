@@ -194,17 +194,27 @@
   },
   {
     "workshopPath": "./downloads/3202178284",
-    "hash": "892a14a730cfca4c182ae673ec39a238966416f805e7fc30c62c751154bd8a06",
+    "hash": "e331a1c2aff48fe6a0c66c87519f82e315f26fc8d8256a42ef5a063a0a1c564f",
     "level": {
       "name": "ZSL -Bahrainkist",
       "path": "./downloads/3202178284/ZSL -Bahrainkist/ZSL -Bahrainkist.zeeplevel",
-      "blocks": 948,
+      "blocks": 973,
       "author": "Arder",
-      "uuid": "27032024-000459655-Arder-496218818116-947",
-      "time": 61.81382,
+      "uuid": "02042024-212242179-Arder-488612028203-972",
+      "time": 61.79639,
       "checkpoints": 8
     },
-    "isValid": true
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 1
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3199669249",
@@ -338,14 +348,14 @@
   },
   {
     "workshopPath": "./downloads/3209243480",
-    "hash": "262586c25ccade7f51523b8d127ff952c2f0362c8a1a8d2c2c89f57082b821f1",
+    "hash": "aafbde300fdd0a746da59b6c89824b3c7ebe38ae36c781dbb935882f4e94f06b",
     "level": {
       "name": "zsl - roundabout",
       "path": "./downloads/3209243480/zsl - roundabout/zsl - roundabout.zeeplevel",
-      "blocks": 67,
+      "blocks": 132,
       "author": "[heyo]Mr  Hubub",
-      "uuid": "01042024-122103019-[heyo]Mr  Hubub-931903393473-66",
-      "time": 34.59406,
+      "uuid": "06042024-144145182-[heyo]Mr  Hubub-079250031103-131",
+      "time": 35.3294,
       "checkpoints": 3
     },
     "isValid": true,
@@ -357,7 +367,8 @@
       "isOverWidthLimit": false,
       "isStartFinishProximityValid": true,
       "startFinishProximity": 2
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3209396169",
@@ -403,6 +414,353 @@
       "isOverWidthLimit": false,
       "isStartFinishProximityValid": true,
       "startFinishProximity": 1
+    }
+  },
+  {
+    "workshopPath": "./downloads/3212687451",
+    "hash": "b40fb19707146f524e83a568e3b1941c1695a3e3944509dc5d2376fc81907ca7",
+    "level": {
+      "name": "ZSL - Spoooooooky Factory",
+      "path": "./downloads/3212687451/ZSL - Spoooooooky Factory/ZSL - Spoooooooky Factory.zeeplevel",
+      "blocks": 837,
+      "author": "[CTR] Sandals",
+      "uuid": "04042024-223157125-[CTR] Sandals-822725077816-836",
+      "time": 54.13396,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 2
+    }
+  },
+  {
+    "workshopPath": "./downloads/3212585088",
+    "hash": "0e6dd9d5ef104380a22b731f2c7b59e6ed49f79cf3053bd2a688b7030ec21c60",
+    "level": {
+      "name": "ZSL - Spaceway Raceway",
+      "path": "./downloads/3212585088/ZSL - Spaceway Raceway/ZSL - Spaceway Raceway.zeeplevel",
+      "blocks": 742,
+      "author": "groovy",
+      "uuid": "04042024-191009379-groovy-908995641899-741",
+      "time": 51.17118,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 2
+    }
+  },
+  {
+    "workshopPath": "./downloads/3212569423",
+    "hash": "55a55de6562d50a2939ceae04030815a5662ab51d25fcdf676d0c1042a9e0f99",
+    "level": {
+      "name": "ZSL - Zeepa Horizon",
+      "path": "./downloads/3212569423/ZSL - Zeepa Horizon/ZSL - Zeepa Horizon.zeeplevel",
+      "blocks": 1232,
+      "author": "Diabler & Reholmes92",
+      "uuid": "05042024-004707028-Diabler & Reholmes92-111053863311-1231",
+      "time": 65.85622,
+      "checkpoints": 8
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 2
+    }
+  },
+  {
+    "workshopPath": "./downloads/3212371688",
+    "hash": "72ceb108d4945ca985f1e41e11dd2f86c9b24c2eea1ad14ffc887c4b6dbecae9",
+    "level": {
+      "name": "ZSL-Library Don't Mix",
+      "path": "./downloads/3212371688/ZSL-Library Don't Mix/ZSL-Library Don't Mix.zeeplevel",
+      "blocks": 1191,
+      "author": "GearworkDragon",
+      "uuid": "04042024-125900753-GearworkDragon-983117221074-1190",
+      "time": 54.68477,
+      "checkpoints": 8
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 1
+    }
+  },
+  {
+    "workshopPath": "./downloads/3211828388",
+    "hash": "d32b8b84505a469a9571beb71f61bb6ba9f9fc88bb81a54528bafb89f3cc2443",
+    "level": {
+      "name": "ZSL - ZSL Stadium",
+      "path": "./downloads/3211828388/ZSL - ZSL Stadium/ZSL - ZSL Stadium.zeeplevel",
+      "blocks": 1569,
+      "author": "[TOG]Lazy_Echidna",
+      "uuid": "04042024-175058581-[TOG]Lazy_Echidna-402586879881-1568",
+      "time": 50.29516,
+      "checkpoints": 7
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 1
+    }
+  },
+  {
+    "workshopPath": "./downloads/3210204882",
+    "hash": "fcf741e9c8475a664d033c3286507b07b3c975155f505b5aceabe8085a059185",
+    "level": {
+      "name": "ZSL - Sundering Sunset",
+      "path": "./downloads/3210204882/ZSL - Sundering Sunset/ZSL - Sundering Sunset.zeeplevel",
+      "blocks": 1582,
+      "author": "Maou & Maki",
+      "uuid": "04042024-232314594-Maou & Maki-895881736136-1581",
+      "time": 47.77936,
+      "checkpoints": 9
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 1
+    }
+  },
+  {
+    "workshopPath": "./downloads/3210177334",
+    "hash": "ac6259bcc9e690a34440c55abb41f2929c2104fc0c7402f7c4ddc94cd8915d06",
+    "level": {
+      "name": "ZSL - The Final Lap ",
+      "path": "./downloads/3210177334/ZSL - The Final Lap/ZSL - The Final Lap .zeeplevel",
+      "blocks": 1506,
+      "author": "Hate Hater",
+      "uuid": "02042024-183511712-Hate Hater-894512935643-1505",
+      "time": 54.29037,
+      "checkpoints": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 3
+    }
+  },
+  {
+    "workshopPath": "./downloads/3214781923",
+    "hash": "50bdd2d196073df2708f306cf169f8dca20829647db28ceb358031af290c3897",
+    "level": {
+      "name": "ZSL - Verdant Highlands",
+      "path": "./downloads/3214781923/ZSL - Verdant Highlands/ZSL - Verdant Highlands.zeeplevel",
+      "blocks": 502,
+      "author": "Shadynook",
+      "uuid": "06042024-192046941-Shadynook-896115447310-501",
+      "time": 44.43943,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 2
+    }
+  },
+  {
+    "workshopPath": "./downloads/3214717170",
+    "hash": "8a47615cfc11028c352f53d8611b301bfed8ab1c06e5d0b6d87c5e5a9070b987",
+    "level": {
+      "name": "ZSL - Hillspeed Raceway",
+      "path": "./downloads/3214717170/ZSL - Hillspeed Raceway/ZSL - Hillspeed Raceway.zeeplevel",
+      "blocks": 3986,
+      "author": "Drebonda",
+      "uuid": "07042024-004431598-Drebonda-870159504549-3985",
+      "time": 70.76528,
+      "checkpoints": 7
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 3
+    }
+  },
+  {
+    "workshopPath": "./downloads/3214677590",
+    "hash": "3e0389b29929dfbff7b4df64c89b911094c02e47633b0cbfe77d65fb03259393",
+    "level": {
+      "name": "ZSL - Termina",
+      "path": "./downloads/3214677590/ZSL - Termina/ZSL - Termina.zeeplevel",
+      "blocks": 1088,
+      "author": "agix",
+      "uuid": "06042024-144804545-agix-298193817799-1087",
+      "time": 58.4975,
+      "checkpoints": 7
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 3
+    }
+  },
+  {
+    "workshopPath": "./downloads/3214311622",
+    "hash": "aa068a3e400e0f0eb6419b38b3f78a44695f6d125274926f20e60632c286fcf4",
+    "level": {
+      "name": "ZSL - Crater Raceway",
+      "path": "./downloads/3214311622/ZSL - Crater Raceway/ZSL - Crater Raceway.zeeplevel",
+      "blocks": 286,
+      "author": "[taco] DragonBoi",
+      "uuid": "06042024-105025395-[taco] DragonBoi-948689048303-285",
+      "time": 63.73682,
+      "checkpoints": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 1
+    }
+  },
+  {
+    "workshopPath": "./downloads/3213593707",
+    "hash": "27581a112507259a0f2e66aa2d3b5c3a999fc9cdb3611b31f9969e98070cf404",
+    "level": {
+      "name": "ZSL - ZKGP Mountain Circuit",
+      "path": "./downloads/3213593707/ZSL - ZKGP Mountain Circuit/ZSL - ZKGP Mountain Circuit.zeeplevel",
+      "blocks": 859,
+      "author": "Aghi Umbraphisch",
+      "uuid": "05042024-235249222-Aghi Umbraphisch-262894780318-858",
+      "time": 47.68716,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": false,
+      "startFinishProximity": 10
+    },
+    "invalidatedAt": 1712505913771
+  },
+  {
+    "workshopPath": "./downloads/3213521693",
+    "hash": "27d1bd3ee377ce3f1e9fe1d58816eb92c32be6bec5d406da9b360af4651cb78a",
+    "level": {
+      "name": "ZSL - Floating Fantasy Fortress",
+      "path": "./downloads/3213521693/ZSL - Floating Fantasy Fortress/ZSL - Floating Fantasy Fortress.zeeplevel",
+      "blocks": 968,
+      "author": "[meh] Renergy",
+      "uuid": "05042024-230706986-[meh] Renergy-900151173205-967",
+      "time": 42.13846,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": false,
+      "startFinishProximity": 5
+    },
+    "invalidatedAt": 1712505913779
+  },
+  {
+    "workshopPath": "./downloads/3215531283",
+    "hash": "0563576ec7ffae6bad9959bf777687f4173cd72f2cd39a6207d47df04f579f19",
+    "level": {
+      "name": "ZSL - Ski Slopes",
+      "path": "./downloads/3215531283/ZSL - Ski Slopes/ZSL - Ski Slopes.zeeplevel",
+      "blocks": 2676,
+      "author": "Parrazarre",
+      "uuid": "07042024-180132939-Parrazarre-188962976495-2675",
+      "time": 40.31394,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 2
+    }
+  },
+  {
+    "workshopPath": "./downloads/3215469754",
+    "hash": "076c1b8a420afad2b4e1d59779c4c4d22fe2a96d651f0042e642793574c00426",
+    "level": {
+      "name": "ZSL - Forest Raceway",
+      "path": "./downloads/3215469754/ZSL - Forest Raceway/ZSL - Forest Raceway.zeeplevel",
+      "blocks": 643,
+      "author": "[Lord] bernhard",
+      "uuid": "07042024-170716933-[Lord] bernhard-526594457885-642",
+      "time": 60.00403,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 2
     }
   }
 ]
