@@ -82,5 +82,8 @@ export const sendDiscussionMessage = async ({
   messageContent +=
     'You can resolve these issues by updating your workshop submission before the submission deadline! <:YannicWink:1108486419032309760>'
 
-  if (!SILENT_MODE) await channel.send(messageContent)
+  console.log(messageContent)
+
+  // TODO: Refactor invalidation logic
+  // if (!SILENT_MODE) await channel.send(messageContent)
 }
