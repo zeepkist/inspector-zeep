@@ -182,5 +182,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3224482876",
+    "hash": "bb2e876a2dfa011cf2f1fc38ff093f62154943a49749421ee6addef3d86530b5",
+    "level": {
+      "name": "ZSL - Fall Evening Race",
+      "path": "./downloads/3224482876/ZSL - Fall Evening Race/ZSL - Fall Evening Race.zeeplevel",
+      "blocks": 355,
+      "author": "StanTheMan",
+      "uuid": "16042024-222822738-StanTheMan-153677918363-354",
+      "time": 28.95576,
+      "checkpoints": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
