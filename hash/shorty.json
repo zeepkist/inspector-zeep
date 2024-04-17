@@ -275,5 +275,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3225172217",
+    "hash": "a5bb4ba20d87dc8b2bef00ef38387ce29e142244d9e5d912f0496715673a4aa8",
+    "level": {
+      "name": "ZSL - Snaking Pathway",
+      "path": "./downloads/3225172217/ZSL - Snaking Pathway/ZSL - Snaking Pathway.zeeplevel",
+      "blocks": 741,
+      "author": "justMaki",
+      "uuid": "17042024-182906921-justMaki-945206462188-740",
+      "time": 26.18906,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
