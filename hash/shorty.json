@@ -252,5 +252,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3224752185",
+    "hash": "5441d8be9ead78835dc11900a050c46e301ce7598d6b20141b7c57bd724e1b2c",
+    "level": {
+      "name": "zsl - hazy overlook",
+      "path": "./downloads/3224752185/zsl - hazy overlook/zsl - hazy overlook.zeeplevel",
+      "blocks": 122,
+      "author": "[heyo]Mr  Hubub",
+      "uuid": "17042024-011413803-[heyo]Mr  Hubub-270793571868-121",
+      "time": 22.45557,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
