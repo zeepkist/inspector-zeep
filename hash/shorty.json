@@ -70,14 +70,14 @@
   },
   {
     "workshopPath": "./downloads/3223725817",
-    "hash": "d3e78d645e67a7da5bba628a08a0cd6fd1fab780c66c31005d3b5102fd27f4ac",
+    "hash": "90b1a482656070471a94e0b2c029fac230db0491d96f2e9f77b7c0f497e94d49",
     "level": {
       "name": "ZSL - LTB Rallydrome",
       "path": "./downloads/3223725817/ZSL - LTB Rallydrome/ZSL - LTB Rallydrome.zeeplevel",
-      "blocks": 355,
+      "blocks": 504,
       "author": "[RRG]ttv/Lilly the Bun",
-      "uuid": "15042024-194927238-[RRG]ttv/Lilly the Bun-983466619474-354",
-      "time": 26.25951,
+      "uuid": "16042024-195539757-[RRG]ttv/Lilly the Bun-166944714777-503",
+      "time": 26.44843,
       "checkpoints": 5
     },
     "isValid": true,
@@ -89,7 +89,8 @@
       "isOverWidthLimit": false,
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3223552202",
@@ -194,6 +195,29 @@
       "uuid": "16042024-222822738-StanTheMan-153677918363-354",
       "time": 28.95576,
       "checkpoints": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
+  },
+  {
+    "workshopPath": "./downloads/3224566217",
+    "hash": "ed4b430e868946d9a6903af2e218044d20e33c4050de5cd399746a3b2099d4e4",
+    "level": {
+      "name": "ZSL - sled jumping",
+      "path": "./downloads/3224566217/ZSL - sled jumping/ZSL - sled jumping.zeeplevel",
+      "blocks": 257,
+      "author": "Wilbert",
+      "uuid": "15042024-232723264-Wilbert-870980668850-256",
+      "time": 23.47304,
+      "checkpoints": 4
     },
     "isValid": true,
     "validity": {
