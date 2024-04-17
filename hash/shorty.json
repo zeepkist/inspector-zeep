@@ -229,5 +229,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3224623904",
+    "hash": "8feff8e82ee8f6555e91932218cb2335ff78449e3fdd051b716075db02c74a0e",
+    "level": {
+      "name": "ZSL - Vulcan Hallow",
+      "path": "./downloads/3224623904/ZSL - Vulcan Hallow/ZSL - Vulcan Hallow.zeeplevel",
+      "blocks": 1235,
+      "author": "Codewalt",
+      "uuid": "16042024-184041960-Codewalt-644858573835-1234",
+      "time": 27.31381,
+      "checkpoints": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
