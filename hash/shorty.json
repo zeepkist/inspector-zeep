@@ -321,5 +321,51 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3226051848",
+    "hash": "e9dde0b6d8d7bee27aaa3880806d668c107c5b3ab6fdc1eb36781a6f27c254d4",
+    "level": {
+      "name": "ZSL - Saltyside City",
+      "path": "./downloads/3226051848/ZSL - Saltyside City/ZSL - Saltyside City.zeeplevel",
+      "blocks": 1597,
+      "author": "DeeDeeNaNaNa",
+      "uuid": "18042024-183330387-DeeDeeNaNaNa-194305301962-1596",
+      "time": 29.29911,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
+  },
+  {
+    "workshopPath": "./downloads/3226017554",
+    "hash": "6aaa1101b35f905b8136b8963ea16d3b9173743dde9652917829ad1fbe0424f5",
+    "level": {
+      "name": "ZSL - Im not saying it was aliens but",
+      "path": "./downloads/3226017554/ZSL - Im not saying it was aliens but/ZSL - Im not saying it was aliens but.zeeplevel",
+      "blocks": 2412,
+      "author": "rourie13",
+      "uuid": "18042024-131256905-rourie13-378658859648-2411",
+      "time": 29.85066,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
