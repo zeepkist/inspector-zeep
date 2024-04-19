@@ -368,5 +368,28 @@
       "startFinishProximity": 0
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3226246437",
+    "hash": "6ffd14c47f5dc7481f6ea1917062fc075afeabaf00f65936980038ac049ac10b",
+    "level": {
+      "name": "ZSL - Quasi veloci",
+      "path": "./downloads/3226246437/ZSL - Quasi veloci/ZSL - Quasi veloci.zeeplevel",
+      "blocks": 272,
+      "author": "Ionjig",
+      "uuid": "18042024-165223183-Ionjig-639153157456-271",
+      "time": 26.691,
+      "checkpoints": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
