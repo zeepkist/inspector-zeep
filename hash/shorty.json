@@ -391,5 +391,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3226266427",
+    "hash": "13bc9b11877aa33757fb6268e2db6e934ea3568edb170c9e2fb2d0a7606eb5ed",
+    "level": {
+      "name": "ZSL - Ramshackle Causeway",
+      "path": "./downloads/3226266427/ZSL - Ramshackle Causeway/ZSL - Ramshackle Causeway.zeeplevel",
+      "blocks": 395,
+      "author": "Shadynook",
+      "uuid": "18042024-193352376-Shadynook-235526558811-394",
+      "time": 20.81934,
+      "checkpoints": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
