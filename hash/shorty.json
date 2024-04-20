@@ -486,15 +486,39 @@
   },
   {
     "workshopPath": "./downloads/3227547156",
-    "hash": "08e34f4ab37d7ef4e7d97294d12942941542506d1ecfc459ea789bc9f45e609c",
+    "hash": "41f8f55f8d3be774f3366fb0efaa66ccdc220f6e5460013f7a54d7702e890326",
     "level": {
       "name": "ZSL - Coastal Cruise",
       "path": "./downloads/3227547156/ZSL - Coastal Cruise/ZSL - Coastal Cruise.zeeplevel",
-      "blocks": 1960,
+      "blocks": 1961,
       "author": "Last ^-^",
-      "uuid": "20042024-131759197-Last ^-^-819797411937-1959",
-      "time": 29.75601,
+      "uuid": "20042024-170813527-Last ^-^-115824897168-1960",
+      "time": 29.756,
       "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    },
+    "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3227728017",
+    "hash": "60c7fb4cdcfaeef58d7ed464fa964bd376ac781bd336b57e8c62ccd69fd9fee9",
+    "level": {
+      "name": "Coaster of Doom!",
+      "path": "./downloads/3227728017/Coaster of Doom!/Coaster of Doom!.zeeplevel",
+      "blocks": 27,
+      "author": "Sniffles",
+      "uuid": "20042024-110653674-Sniffles-394662811791-26",
+      "time": 28.54137,
+      "checkpoints": 2
     },
     "isValid": true,
     "validity": {
