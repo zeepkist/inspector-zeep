@@ -483,5 +483,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3227547156",
+    "hash": "08e34f4ab37d7ef4e7d97294d12942941542506d1ecfc459ea789bc9f45e609c",
+    "level": {
+      "name": "ZSL - Coastal Cruise",
+      "path": "./downloads/3227547156/ZSL - Coastal Cruise/ZSL - Coastal Cruise.zeeplevel",
+      "blocks": 1960,
+      "author": "Last ^-^",
+      "uuid": "20042024-131759197-Last ^-^-819797411937-1959",
+      "time": 29.75601,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
