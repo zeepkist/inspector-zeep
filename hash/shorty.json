@@ -460,5 +460,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3227151980",
+    "hash": "177941bf4a81f5820288000f81da840a5e6edd2b7b99d604eb1a19f674b66808",
+    "level": {
+      "name": "ZSL - Brevis Draconis",
+      "path": "./downloads/3227151980/ZSL - Brevis Draconis/ZSL - Brevis Draconis.zeeplevel",
+      "blocks": 117,
+      "author": "[Boiz]DragonBoi",
+      "uuid": "19042024-213954952-[Boiz]DragonBoi-150249474687-116",
+      "time": 24.11463,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
