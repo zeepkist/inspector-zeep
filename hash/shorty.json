@@ -576,5 +576,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3227794611",
+    "hash": "0c75e45e477b0a0780cb680980a00e2e48c84cf07ad2efe0c567ebf72aea71b7",
+    "level": {
+      "name": "ZSL - The Old Culvert",
+      "path": "./downloads/3227794611/ZSL - The Old Culvert/ZSL - The Old Culvert.zeeplevel",
+      "blocks": 582,
+      "author": "Hate Hater",
+      "uuid": "20042024-190844404-Hate Hater-790919529195-581",
+      "time": 28.43758,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
