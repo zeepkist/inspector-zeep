@@ -600,5 +600,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3229029431",
+    "hash": "8bd1d821a19c42eead8388334c77c3316fed0c6b3998ad3a96ee443d6536ba67",
+    "level": {
+      "name": "ZSL - Crimson Columns",
+      "path": "./downloads/3229029431/ZSL - Crimson Columns/ZSL - Crimson Columns.zeeplevel",
+      "blocks": 1301,
+      "author": "BB_Benji",
+      "uuid": "21042024-155956459-BB_Benji-044218500528-1300",
+      "time": 29.42618,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
