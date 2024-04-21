@@ -553,5 +553,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3228319151",
+    "hash": "0b4f1436e5733562f77e3a6600d89baf6e3589d47cd8a021e322f1d521238ed5",
+    "level": {
+      "name": "ZSL - Island Hopping 2",
+      "path": "./downloads/3228319151/ZSL - Island Hopping 2/ZSL - Island Hopping 2.zeeplevel",
+      "blocks": 528,
+      "author": "OgelGames",
+      "uuid": "21042024-152040230-OgelGames-532222833004-527",
+      "time": 24.45006,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
