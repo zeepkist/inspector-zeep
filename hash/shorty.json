@@ -669,5 +669,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3229614029",
+    "hash": "6a946bd0c8b26d0cfa6d1a2df696117496c846dcb5ccfd4efbddc2138df6c600",
+    "level": {
+      "name": "ZSL - twisting mastion",
+      "path": "./downloads/3229614029/ZSL - twisting mastion/ZSL - twisting mastion.zeeplevel",
+      "blocks": 703,
+      "author": "Wilbert",
+      "uuid": "22042024-103038236-Wilbert-574208626573-702",
+      "time": 25.78048,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
