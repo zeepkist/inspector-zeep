@@ -692,5 +692,51 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3229823759",
+    "hash": "7864978b708e130ba6f56fb307c28c11ec3485c10dbc23efa589c3d061fe70d1",
+    "level": {
+      "name": "ZSL - Uphill Battle",
+      "path": "./downloads/3229823759/ZSL - Uphill Battle/ZSL - Uphill Battle.zeeplevel",
+      "blocks": 193,
+      "author": "Hockmu",
+      "uuid": "22042024-211854168-Hockmu-418811534672-192",
+      "time": 24.4688,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
+  },
+  {
+    "workshopPath": "./downloads/3229774624",
+    "hash": "ce835c35544250962641f1cc3859194942354596869aff9f5e6568fdc42dabdf",
+    "level": {
+      "name": "ZSL - Short Showdown",
+      "path": "./downloads/3229774624/ZSL - Short Showdown/ZSL - Short Showdown.zeeplevel",
+      "blocks": 1484,
+      "author": "Renergy",
+      "uuid": "22042024-210541895-Renergy-715244636213-1483",
+      "time": 28.41719,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
