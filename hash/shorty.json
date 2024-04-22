@@ -646,5 +646,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3229520013",
+    "hash": "116417c9e9eaab32bdaff32fa9afe2b5badf09ccf57be7beeb5014403bf71e73",
+    "level": {
+      "name": "ZSL - Snek Byte",
+      "path": "./downloads/3229520013/ZSL - Snek Byte/ZSL - Snek Byte.zeeplevel",
+      "blocks": 454,
+      "author": "Travesty",
+      "uuid": "22042024-052354713-Travesty-618912534419-453",
+      "time": 27.78576,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
