@@ -738,5 +738,51 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3229873151",
+    "hash": "15434923021389b04985dbad3a79805324c91c7259bc154e8e9474715ffd81b0",
+    "level": {
+      "name": "ZSL - Natantes Magma",
+      "path": "./downloads/3229873151/ZSL - Natantes Magma/ZSL - Natantes Magma.zeeplevel",
+      "blocks": 288,
+      "author": "[XTR] NATHAN",
+      "uuid": "22042024-162449101-[XTR] NATHAN-126408947757-287",
+      "time": 26.01373,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
+  },
+  {
+    "workshopPath": "./downloads/3230543325",
+    "hash": "82352964060efa07361ccc154dd168aeaa0e29dad50351be9ad5824ab2dd08ec",
+    "level": {
+      "name": "ZSL - Crimson Columns",
+      "path": "./downloads/3230543325/ZSL - Crimson Columns/ZSL - Crimson Columns.zeeplevel",
+      "blocks": 1301,
+      "author": "BB_Benji",
+      "uuid": "23042024-133607862-BB_Benji-662367553327-1300",
+      "time": 29.42618,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
