@@ -784,5 +784,51 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3230684919",
+    "hash": "7f5ac8c087115b9075bf65a7f9e16952b975b521681c78b6634ec4d68654d0b0",
+    "level": {
+      "name": "ZSL - Quartz Cave",
+      "path": "./downloads/3230684919/ZSL - Quartz Cave/ZSL - Quartz Cave.zeeplevel",
+      "blocks": 319,
+      "author": "[Poop]Sheriff",
+      "uuid": "23042024-162847134-[Poop]Sheriff-764613873577-318",
+      "time": 24.6013,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
+  },
+  {
+    "workshopPath": "./downloads/3230700695",
+    "hash": "0fb81a1e5c78c14ab9159aadfec2d39bde01f322743b660e38ded96997dc5e5c",
+    "level": {
+      "name": "ZSL - wild woods",
+      "path": "./downloads/3230700695/ZSL - wild woods/ZSL - wild woods.zeeplevel",
+      "blocks": 617,
+      "author": "Wilbert",
+      "uuid": "23042024-180100742-Wilbert-154668904452-616",
+      "time": 28.69685,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
