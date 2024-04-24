@@ -853,5 +853,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3231183932",
+    "hash": "670f50a0a6aa79834768103d924901d49622d6f7c3dfaf8a7216fb19a33723a9",
+    "level": {
+      "name": "ZSL - Purple Gang Area",
+      "path": "./downloads/3231183932/ZSL - Purple Gang Area/ZSL - Purple Gang Area.zeeplevel",
+      "blocks": 604,
+      "author": "Riccio97",
+      "uuid": "24042024-170529259-Riccio97-925572686940-603",
+      "time": 23.83316,
+      "checkpoints": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
