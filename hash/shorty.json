@@ -830,5 +830,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3230861010",
+    "hash": "d7cbfb84233633b6bbd55649a6e2f058fb0c3cb98a33302616d7e4a5b168609c",
+    "level": {
+      "name": "ZSL - Ravenna",
+      "path": "./downloads/3230861010/ZSL - Ravenna/ZSL - Ravenna.zeeplevel",
+      "blocks": 325,
+      "author": "[oops] Wombat!",
+      "uuid": "24042024-162044900-[oops] Wombat!-982321371877-324",
+      "time": 26.54107,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
