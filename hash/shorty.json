@@ -876,5 +876,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3231532872",
+    "hash": "2a6e4f1c7c513e30586f38a30ac7c3c3ae7d04d565d09c0941e1f2e0438359a8",
+    "level": {
+      "name": "ZSL - How are you feeling",
+      "path": "./downloads/3231532872/ZSL - How are you feeling/ZSL - How are you feeling.zeeplevel",
+      "blocks": 1518,
+      "author": "AndMe42",
+      "uuid": "24042024-203250641-AndMe42-001440241824-1517",
+      "time": 27.03324,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
