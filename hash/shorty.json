@@ -899,5 +899,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3232205942",
+    "hash": "33930a1513913c72630c084f1318d0ec4eeed4f7ede551f1244a2acfb6de8060",
+    "level": {
+      "name": "ZSL - wild woods",
+      "path": "./downloads/3232205942/ZSL - wild woods/ZSL - wild woods.zeeplevel",
+      "blocks": 620,
+      "author": "Wilbert",
+      "uuid": "25042024-190642549-Wilbert-953135942963-619",
+      "time": 28.59498,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
