@@ -922,5 +922,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3232760554",
+    "hash": "833bb600690496f24111dc201f69d28001cffdc0501cb01813a162550f37b285",
+    "level": {
+      "name": "ZSL - Bonsai Bends",
+      "path": "./downloads/3232760554/ZSL - Bonsai Bends/ZSL - Bonsai Bends.zeeplevel",
+      "blocks": 2451,
+      "author": "Richhyyyy",
+      "uuid": "26042024-190545913-Richhyyyy-796599473751-2450",
+      "time": 25.96726,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
