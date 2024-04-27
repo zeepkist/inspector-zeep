@@ -968,5 +968,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3233558329",
+    "hash": "108177095dc8e10fed1bd9ac795f1737da1a5862cf23f3fdbf543eb2214aa908",
+    "level": {
+      "name": "ZSL - Mizithra",
+      "path": "./downloads/3233558329/ZSL - Mizithra/ZSL - Mizithra.zeeplevel",
+      "blocks": 272,
+      "author": "JobW",
+      "uuid": "27042024-165617391-JobW-095158850999-271",
+      "time": 22.5923,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
