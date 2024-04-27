@@ -486,14 +486,14 @@
   },
   {
     "workshopPath": "./downloads/3227547156",
-    "hash": "41f8f55f8d3be774f3366fb0efaa66ccdc220f6e5460013f7a54d7702e890326",
+    "hash": "7acfffdc6c44e61c66d34fb6dbaa58c20de9774e8f108ea8db240dabc10f123e",
     "level": {
       "name": "ZSL - Coastal Cruise",
       "path": "./downloads/3227547156/ZSL - Coastal Cruise/ZSL - Coastal Cruise.zeeplevel",
-      "blocks": 1961,
+      "blocks": 2063,
       "author": "Last ^-^",
-      "uuid": "20042024-170813527-Last ^-^-115824897168-1960",
-      "time": 29.756,
+      "uuid": "27042024-194919715-Last ^-^-848884110590-2062",
+      "time": 29.57217,
       "checkpoints": 3
     },
     "isValid": true,
