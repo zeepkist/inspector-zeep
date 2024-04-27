@@ -945,5 +945,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3223750219",
+    "hash": "dab1aca0ceb30077486799e9c2e3d82a62da23baf62f6c080cc14383a06e1eba",
+    "level": {
+      "name": "ZSL - Mountain Road",
+      "path": "./downloads/3223750219/ZSL - Mountain Road/ZSL - Mountain Road.zeeplevel",
+      "blocks": 1043,
+      "author": "Wack-o",
+      "uuid": "15042024-204908867-Wack-o-656356784950-1042",
+      "time": 29.13943,
+      "checkpoints": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
