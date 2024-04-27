@@ -533,14 +533,14 @@
   },
   {
     "workshopPath": "./downloads/3227788546",
-    "hash": "ffdffcc356117bb715e26daeb58f89f4b5e46f37972649190999b533183860e2",
+    "hash": "6826dd5661fa09590664a2de9665cd6020fd12e87d960d85725ac0f0ddf9dc7b",
     "level": {
       "name": "ZSL - Quasi veloci",
       "path": "./downloads/3227788546/ZSL - Quasi veloci/ZSL - Quasi veloci.zeeplevel",
-      "blocks": 311,
+      "blocks": 308,
       "author": "Ionjig",
-      "uuid": "23042024-080624366-Ionjig-327839140430-310",
-      "time": 26.5476,
+      "uuid": "27042024-094644243-Ionjig-029135355731-307",
+      "time": 28.9819,
       "checkpoints": 6
     },
     "isValid": true,
