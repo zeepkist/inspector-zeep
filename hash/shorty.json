@@ -991,5 +991,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3234021355",
+    "hash": "14e62b0192484d0dc10bf82178964f98325e2c5e3dcf2c21dba8f931906a5199",
+    "level": {
+      "name": "ZSL - Antiquity",
+      "path": "./downloads/3234021355/ZSL - Antiquity/ZSL - Antiquity.zeeplevel",
+      "blocks": 1026,
+      "author": "Maou & St Nic",
+      "uuid": "26042024-230908482-St Nicholas-562279264592-971",
+      "time": 28.40286,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
