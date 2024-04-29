@@ -1014,5 +1014,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3235192737",
+    "hash": "459a1405e4a1c04f16d62bf454bffd221efadaa4193f4b94aac67d4b9ea51a5a",
+    "level": {
+      "name": "ZSL - Socks and Sandals",
+      "path": "./downloads/3235192737/ZSL - Socks and Sandals/ZSL - Socks and Sandals.zeeplevel",
+      "blocks": 974,
+      "author": "[TOG]ioi8",
+      "uuid": "29042024-074525312-[TOG]ioi8-864947252094-973",
+      "time": 27.42545,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
