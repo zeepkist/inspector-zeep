@@ -1037,5 +1037,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3235494488",
+    "hash": "1c87498ef7fbd852c4dd3ab88b6b81e9c3181408444a65a673fb8b2b91427aee",
+    "level": {
+      "name": "ZSL - Fun with Friction",
+      "path": "./downloads/3235494488/ZSL - Fun with Friction/ZSL - Fun with Friction.zeeplevel",
+      "blocks": 266,
+      "author": "Lexer",
+      "uuid": "29042024-130948157-Lexer-279667702733-265",
+      "time": 23.45981,
+      "checkpoints": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
