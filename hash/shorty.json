@@ -1083,5 +1083,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3234471943",
+    "hash": "4640ec77acf7e2cd4df3b0035e1515f1d42a3d42c10a7771e33e76fd353ce448",
+    "level": {
+      "name": "ZSL - Splash Park North Zeep",
+      "path": "./downloads/3234471943/ZSL - Splash Park North Zeep/ZSL - Splash Park North Zeep.zeeplevel",
+      "blocks": 213,
+      "author": "Dylan",
+      "uuid": "28042024-155107119-Dylan-470132522705-212",
+      "time": 21.04607,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
