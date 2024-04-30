@@ -1060,5 +1060,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3236195220",
+    "hash": "d38c51bfbc1c72b3d70fbb2a339b45bc4a83c56c9f68b219c297652f1f20fdfe",
+    "level": {
+      "name": "ZSL - Quaint",
+      "path": "./downloads/3236195220/ZSL - Quaint/ZSL - Quaint.zeeplevel",
+      "blocks": 1053,
+      "author": "RoundNzt",
+      "uuid": "30042024-204747636-RoundNzt-132844583305-1052",
+      "time": 25.94882,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
