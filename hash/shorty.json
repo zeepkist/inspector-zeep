@@ -1106,5 +1106,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3236442175",
+    "hash": "96ca2c59ef7a916818d7186085402281dd16c71c05369e7549eb67b1fdbf890f",
+    "level": {
+      "name": "ZSL - Slungle",
+      "path": "./downloads/3236442175/ZSL - Slungle/ZSL - Slungle.zeeplevel",
+      "blocks": 383,
+      "author": "[CTR]Kernkob",
+      "uuid": "15042024-223735275-[CTR]Kernkob-898947533072-382",
+      "time": 29.27346,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
