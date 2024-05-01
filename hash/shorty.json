@@ -1129,5 +1129,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3236482684",
+    "hash": "aeaa12fd454e7d732f70991379e4cbefdae08ce4324dd573ecc3ecb0db66075c",
+    "level": {
+      "name": "ZSl-Bubbled Waters",
+      "path": "./downloads/3236482684/ZSl-Bubbled Waters/ZSl-Bubbled Waters.zeeplevel",
+      "blocks": 1430,
+      "author": "[ATB]reholmes92",
+      "uuid": "30042024-161606706-[ATB]reholmes92-929575751730-1429",
+      "time": 27.62299,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
