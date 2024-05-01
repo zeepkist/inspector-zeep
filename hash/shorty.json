@@ -1152,5 +1152,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3236679567",
+    "hash": "4da2542da2342bed8da9786a5630559ebb86515f07c858071b9dbc75370b243d",
+    "level": {
+      "name": "crystal cave",
+      "path": "./downloads/3236679567/crystal cave/crystal cave.zeeplevel",
+      "blocks": 324,
+      "author": "Tomathan",
+      "uuid": "01052024-120221421-Tomathan-177427948219-323",
+      "time": 26.76087,
+      "checkpoints": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
