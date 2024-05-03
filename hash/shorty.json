@@ -1199,5 +1199,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3238687342",
+    "hash": "834ba503318af41132772b5f16b8ecc0d53ba2daca502d7baf31046a7626dbd6",
+    "level": {
+      "name": "ZSL - Cut",
+      "path": "./downloads/3238687342/ZSL - Cut/ZSL - Cut.zeeplevel",
+      "blocks": 2617,
+      "author": "Diabler",
+      "uuid": "03052024-232118139-Diabler-101198853517-2616",
+      "time": 27.02342,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
