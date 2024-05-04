@@ -1268,5 +1268,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3238913109",
+    "hash": "a72d0ee3d3b49bc31e3b4b1b9b0bcd1a99754c8161c16248f36610e1153ea008",
+    "level": {
+      "name": "ZSL - Dance Like a Ninja",
+      "path": "./downloads/3238913109/ZSL - Dance Like a Ninja/ZSL - Dance Like a Ninja.zeeplevel",
+      "blocks": 1506,
+      "author": "[CTR]OwlPlague [CTR]TheBamboozler",
+      "uuid": "04052024-024811339-[CTR]OwlPlague [CTR]TheBamboozler-815942009437-1505",
+      "time": 27.90347,
+      "checkpoints": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
