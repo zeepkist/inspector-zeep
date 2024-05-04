@@ -1222,5 +1222,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3238657515",
+    "hash": "a42970f56bd4175452831271c9864586500c0ae051da447487f3b578c4653a15",
+    "level": {
+      "name": "ZSL-Thunder on the Horizon",
+      "path": "./downloads/3238657515/ZSL-Thunder on the Horizon/ZSL-Thunder on the Horizon.zeeplevel",
+      "blocks": 344,
+      "author": "GearworkDragon",
+      "uuid": "03052024-162105652-GearworkDragon-562755884573-343",
+      "time": 29.04324,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
