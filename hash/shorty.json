@@ -1291,5 +1291,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3239054140",
+    "hash": "f988f4c81089d58ab2b1b2ed482f75d8abde52748bc24336f6b0b3981b67888a",
+    "level": {
+      "name": "ZSL - Icy Slopes",
+      "path": "./downloads/3239054140/ZSL - Icy Slopes/ZSL - Icy Slopes.zeeplevel",
+      "blocks": 186,
+      "author": "L3mmy",
+      "uuid": "04052024-130526280-L3mmy-838372306734-185",
+      "time": 24.05545,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
