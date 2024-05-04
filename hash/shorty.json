@@ -1245,5 +1245,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3234890048",
+    "hash": "eda33c69ff16506ea17f2dd8eef02359f4fc67eae5e200a3071a2bae16e3223a",
+    "level": {
+      "name": "ZSL - MELTDOWN",
+      "path": "./downloads/3234890048/ZSL - MELTDOWN/ZSL - MELTDOWN.zeeplevel",
+      "blocks": 1290,
+      "author": "[WAM] zivecef",
+      "uuid": "03052024-182651047-[WAM] zivecef-463826707279-1289",
+      "time": 28.69165,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
