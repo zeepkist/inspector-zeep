@@ -1202,14 +1202,14 @@
   },
   {
     "workshopPath": "./downloads/3238687342",
-    "hash": "834ba503318af41132772b5f16b8ecc0d53ba2daca502d7baf31046a7626dbd6",
+    "hash": "0f86506ee70d2d377e74225d79276a81f9d70a51058547a58d799a9b67935b91",
     "level": {
       "name": "ZSL - Cut",
       "path": "./downloads/3238687342/ZSL - Cut/ZSL - Cut.zeeplevel",
-      "blocks": 2617,
+      "blocks": 3268,
       "author": "Diabler",
-      "uuid": "03052024-232118139-Diabler-101198853517-2616",
-      "time": 27.02342,
+      "uuid": "04052024-164627703-Diabler-966643285229-3267",
+      "time": 26.80708,
       "checkpoints": 5
     },
     "isValid": true,
@@ -1221,7 +1221,8 @@
       "isOverWidthLimit": false,
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3238657515",
@@ -1303,6 +1304,29 @@
       "uuid": "04052024-130526280-L3mmy-838372306734-185",
       "time": 24.05545,
       "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
+  },
+  {
+    "workshopPath": "./downloads/3239216730",
+    "hash": "40b80da21558bdbae7b604eeb6c4135419af8e23e975fd771dc841efde5e93f3",
+    "level": {
+      "name": "ZSL - Hidden Valley (sprint)",
+      "path": "./downloads/3239216730/ZSL - Hidden Valley (sprint)/ZSL - Hidden Valley (sprint).zeeplevel",
+      "blocks": 1107,
+      "author": "[TOG]Lazy_Echidna",
+      "uuid": "04052024-164549387-[TOG]Lazy_Echidna-818551628689-1106",
+      "time": 29.01555,
+      "checkpoints": 3
     },
     "isValid": true,
     "validity": {
