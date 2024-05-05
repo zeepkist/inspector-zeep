@@ -1430,5 +1430,29 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3240215601",
+    "hash": "704650d4984304c602f0b0eac80223484d8d49a0386148ab73bf23cc89203eb2",
+    "level": {
+      "name": "ZSL - Coral Tank",
+      "path": "./downloads/3240215601/ZSL - Coral Tank/ZSL - Coral Tank.zeeplevel",
+      "blocks": 869,
+      "author": "Parrazarre",
+      "uuid": "05052024-185328020-Parrazarre-663959354883-868",
+      "time": 29.3827,
+      "checkpoints": 0
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": true,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    },
+    "invalidatedAt": 1714928569100
   }
 ]
