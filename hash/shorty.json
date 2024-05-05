@@ -1361,5 +1361,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3239624731",
+    "hash": "273d50c5f17e1d20e51d622ddd80d6b99ab9c5d621faf3c3ae73a963e7d4183b",
+    "level": {
+      "name": "ZSL - 30s - The Wilderness",
+      "path": "./downloads/3239624731/ZSL - 30s - The Wilderness/ZSL - 30s - The Wilderness.zeeplevel",
+      "blocks": 360,
+      "author": "snuggyizme",
+      "uuid": "04052024-214042568-snuggyizme-727777855737-359",
+      "time": 29.94269,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
