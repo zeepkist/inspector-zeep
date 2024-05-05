@@ -1407,5 +1407,28 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0
     }
+  },
+  {
+    "workshopPath": "./downloads/3239863683",
+    "hash": "6c34102c4bfcd16f387c3a2aa66a76494f7c69c69ed42e187222e061fb98d85f",
+    "level": {
+      "name": "ZSL - Fungi Canyon",
+      "path": "./downloads/3239863683/ZSL - Fungi Canyon/ZSL - Fungi Canyon.zeeplevel",
+      "blocks": 306,
+      "author": "NworBic",
+      "uuid": "05052024-035943633-NworBic-654378753178-305",
+      "time": 24.95919,
+      "checkpoints": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0
+    }
   }
 ]
