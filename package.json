@@ -14,7 +14,7 @@
   "dependencies": {
     "colorette": "2.0.20",
     "discord.js": "14.15.2",
-    "rimraf": "5.0.5"
+    "rimraf": "5.0.6"
   },
   "devDependencies": {
     "@ava/typescript": "~5.0.0",
