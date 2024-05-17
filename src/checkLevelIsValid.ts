@@ -2,6 +2,7 @@ import { User } from 'discord.js'
 
 import {
   BLOCK_LIMIT,
+  FIXED_CHECKPOINTS,
   MAXIMUM_TIME,
   MAXIMUM_WIDTH,
   MINIMUM_CHECKPOINTS,
@@ -187,6 +188,36 @@ const validateStartFinishProximity = (name: string, lines: string[]) => {
   }
 }
 
+const validateFixedCheckpoints = (name: string, lines: string[]) => {
+  // console.debug('lines', lines)
+
+  const fixedCheckpointsFound = lines.filter(line =>
+    FIXED_CHECKPOINTS.some(checkpoint => line.startsWith(checkpoint))
+  )
+
+  const missingFixedCheckpoints = FIXED_CHECKPOINTS.filter(
+    checkpoint =>
+      !fixedCheckpointsFound.some(line => line.startsWith(checkpoint))
+  )
+
+  if (fixedCheckpointsFound.length !== FIXED_CHECKPOINTS.length) {
+    error(`"${name}" is missing fixed checkpoints`, import.meta)
+
+    for (const fixedCheckpoint of fixedCheckpointsFound) {
+      debug(`Found "${fixedCheckpoint}"`, import.meta, true)
+    }
+
+    for (const missingFixedCheckpoint of missingFixedCheckpoints) {
+      error(`Missing "${missingFixedCheckpoint}"`, import.meta)
+    }
+
+    return false
+  }
+
+  debug(`"${name}" has fixed checkpoints`, import.meta, true)
+  return true
+}
+
 export const checkLevelIsValid = async (workshopPath: string, author: User) => {
   const level = await getLevel(workshopPath)
   if (!level) return
@@ -210,6 +241,11 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
       ? { isStartFinishProximityValid: true, startFinishProximity: 0 }
       : validateStartFinishProximity(level.name, level.blocks)
 
+  const areFixedCheckpointsValid = validateFixedCheckpoints(
+    level.name,
+    level.blocks
+  )
+
   const response: VerifiedLevel = {
     workshopId: workshopPath.split('/').pop() ?? '',
     name: level.name,
@@ -223,7 +259,8 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
       isUnderTimeLimit ||
       isOverTimeLimit ||
       isUnderCheckpointLimit ||
-      isOverWidthLimit
+      isOverWidthLimit ||
+      !areFixedCheckpointsValid
     ),
     validity: {
       isOverBlockLimit,
@@ -232,7 +269,8 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
       isUnderCheckpointLimit,
       isOverWidthLimit,
       isStartFinishProximityValid,
-      startFinishProximity
+      startFinishProximity,
+      areFixedCheckpointsValid
     }
   }
 
