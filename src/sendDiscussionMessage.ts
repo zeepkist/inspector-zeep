@@ -34,7 +34,8 @@ export const sendDiscussionMessage = async ({
     isUnderCheckpointLimit,
     isOverWidthLimit,
     isStartFinishProximityValid,
-    startFinishProximity
+    startFinishProximity,
+    areFixedCheckpointsValid
   } = level.validity
 
   const hashedLevel = getLevelHash(level.workshopId)
@@ -77,6 +78,10 @@ export const sendDiscussionMessage = async ({
 
   if (!isStartFinishProximityValid) {
     messageContent += `- :warning: Start and finish are ${startFinishProximity} blocks apart. If your level re-uses part of the start for the end of the level (still forming a complete circuit), disregard this warning - your level is still valid.\n`
+  }
+
+  if (!areFixedCheckpointsValid) {
+    messageContent += `- Fixed checkpoints have been moved, scaled or rotated out of position\n`
   }
 
   messageContent +=
