@@ -30,7 +30,8 @@ export const sendJudgeMessage = async ({
     isUnderCheckpointLimit,
     isUnderTimeLimit,
     isStartFinishProximityValid,
-    startFinishProximity
+    startFinishProximity,
+    areFixedCheckpointsValid
   } = level.validity
   const title = `${isNew ? '🆕 ' : ''}${level.name}`
 
@@ -87,6 +88,16 @@ export const sendJudgeMessage = async ({
       {
         name: 'Start/Finish Proximity',
         value: `${emoji(isStartFinishProximityValid)} ${startFinishProximity} blocks`,
+        inline: true
+      }
+    ])
+  }
+
+  if (!areFixedCheckpointsValid) {
+    embed.addFields([
+      {
+        name: 'Fixed Checkpoints',
+        value: `${emoji(areFixedCheckpointsValid)} Checkpoints are not in the correct positions`,
         inline: true
       }
     ])
