@@ -1,0 +1,75 @@
+[
+  {
+    "workshopPath": "./downloads/3248657242",
+    "hash": "4caa3f5bf8af05102d4646934705c2b13a8efa2ceab27bb1f7c41b129c1d3b53",
+    "level": {
+      "name": "ZSL - Tilted & Rotated by 45 Degrees",
+      "path": "./downloads/3248657242/ZSL - Tilted & Rotated by 45 Degrees/ZSL - Tilted & Rotated by 45 Degrees.zeeplevel",
+      "blocks": 57,
+      "author": "Zyrxes",
+      "uuid": "17052024-171222467-Zyrxes-529046229967-56",
+      "time": 36.38494,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3247837485",
+    "hash": "8a0625dd902527fb0f0653238721e5fc54c1d03ce6e5501fe64d53a1dbc4b0f0",
+    "level": {
+      "name": "ZSL - Endless Pool",
+      "path": "./downloads/3247837485/ZSL - Endless Pool/ZSL - Endless Pool.zeeplevel",
+      "blocks": 227,
+      "author": "robertrdemare",
+      "uuid": "16052024-195238789-robertrdemare-620221112755-226",
+      "time": 63.99858,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3246268604",
+    "hash": "83dba4cc0daed6045428344e33614391f162c426ef9b2692f1e6120691cdc047",
+    "level": {
+      "name": "Zsl-Rustmaw Ridge",
+      "path": "./downloads/3246268604/Zsl-Rustmaw Ridge/Zsl-Rustmaw Ridge.zeeplevel",
+      "blocks": 757,
+      "author": "[ATB]reholmes92",
+      "uuid": "14052024-143136920-[ATB]reholmes92-841039236035-756",
+      "time": 42.4086,
+      "checkpoints": 4
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": false
+    },
+    "invalidatedAt": 1715988195512
+  }
+]
