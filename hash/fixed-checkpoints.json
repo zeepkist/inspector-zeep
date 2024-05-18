@@ -71,5 +71,29 @@
       "areFixedCheckpointsValid": false
     },
     "invalidatedAt": 1715988195512
+  },
+  {
+    "workshopPath": "./downloads/3249299869",
+    "hash": "af8b5f952ab6425a4e4c4772c2567d2ce4481423aceef1d656c89f3fcf8f3dad",
+    "level": {
+      "name": "ZSL - Bergkäse",
+      "path": "./downloads/3249299869/ZSL - Bergkäse/ZSL - Bergkäse.zeeplevel",
+      "blocks": 2101,
+      "author": "JobW & Maki",
+      "uuid": "18052024-192120325-Jobw & Maki-858142447222-2100",
+      "time": 44.44205,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
