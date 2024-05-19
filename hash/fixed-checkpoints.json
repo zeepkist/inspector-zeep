@@ -98,17 +98,17 @@
   },
   {
     "workshopPath": "./downloads/3249622222",
-    "hash": "d6f256f04360b6c669659f5be83889d83504d546d5cd3cfaac11802a7e5cb88b",
+    "hash": "39f27c0bbf48c28188d2a0ed3364acdde8d1cb3d0e828ae3f3733bdfd2d4397f",
     "level": {
       "name": "ZSL - Drobos",
       "path": "./downloads/3249622222/ZSL - Drobos/ZSL - Drobos.zeeplevel",
       "blocks": 457,
       "author": "Shadynook",
-      "uuid": "18052024-235803952-Shadynook-889286346877-456",
-      "time": 44.31474,
+      "uuid": "19052024-015523020-Shadynook-880967935627-456",
+      "time": 43.8099,
       "checkpoints": 4
     },
-    "isValid": false,
+    "isValid": true,
     "validity": {
       "isOverBlockLimit": false,
       "isUnderTimeLimit": false,
@@ -117,8 +117,8 @@
       "isOverWidthLimit": false,
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0,
-      "areFixedCheckpointsValid": false
+      "areFixedCheckpointsValid": true
     },
-    "invalidatedAt": 1716095338215
+    "invalidatedAt": 0
   }
 ]
