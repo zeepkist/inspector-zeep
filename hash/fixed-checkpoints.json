@@ -98,14 +98,14 @@
   },
   {
     "workshopPath": "./downloads/3249622222",
-    "hash": "689123d8e5f677e37d3f6f606486a8e5c0a9f1efcf6e3819665e57f947eba381",
+    "hash": "d9356bb50c774340b40725ab9eb6b9b5c532b8b338eb458e3991b3b4445d9992",
     "level": {
       "name": "ZSL - Drobos",
       "path": "./downloads/3249622222/ZSL - Drobos/ZSL - Drobos.zeeplevel",
-      "blocks": 453,
+      "blocks": 458,
       "author": "Shadynook",
-      "uuid": "19052024-021140048-Shadynook-218945004539-452",
-      "time": 44.54684,
+      "uuid": "21052024-172147958-Shadynook-795526535456-457",
+      "time": 43.31705,
       "checkpoints": 4
     },
     "isValid": true,
@@ -155,6 +155,30 @@
       "author": "NightDice",
       "uuid": "21052024-025903644-NightDice-568686880707-592",
       "time": 59.66867,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3251737622",
+    "hash": "61db2dc5fd8296ec01bf00ba3d24d063acdbb3dcd31c0b81db12f7f74b214a2e",
+    "level": {
+      "name": "ZSL - Tilted & Rotated by 45 Degrees(Patched)",
+      "path": "./downloads/3251737622/ZSL - Tilted & Rotated by 45 Degrees(Patched)/ZSL - Tilted & Rotated by 45 Degrees(Patched).zeeplevel",
+      "blocks": 69,
+      "author": "Zyrxes",
+      "uuid": "21052024-170438172-Zyrxes-338527028498-68",
+      "time": 36.25548,
       "checkpoints": 4
     },
     "isValid": true,
