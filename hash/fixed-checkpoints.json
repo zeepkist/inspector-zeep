@@ -120,5 +120,29 @@
       "areFixedCheckpointsValid": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3251058165",
+    "hash": "52d7155f7904f114059ba40a36dc2462e5db90d4b0f34602496d2b49a5442777",
+    "level": {
+      "name": "ZSL - I had no choice",
+      "path": "./downloads/3251058165/ZSL - I had no choice/ZSL - I had no choice.zeeplevel",
+      "blocks": 98,
+      "author": "Ionjig",
+      "uuid": "20052024-141114690-Ionjig-272260908335-97",
+      "time": 56.83497,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
