@@ -144,5 +144,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3251147807",
+    "hash": "55a78a5a7ff72c4a3bb481eef676883ca3a3a8458c5fa44b8fc7abb4a6e4d694",
+    "level": {
+      "name": "ZSL - Tropical Island",
+      "path": "./downloads/3251147807/ZSL - Tropical Island/ZSL - Tropical Island.zeeplevel",
+      "blocks": 593,
+      "author": "NightDice",
+      "uuid": "21052024-025903644-NightDice-568686880707-592",
+      "time": 59.66867,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
