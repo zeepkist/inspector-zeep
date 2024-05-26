@@ -217,5 +217,30 @@
       "areFixedCheckpointsValid": false
     },
     "invalidatedAt": 1716700112557
+  },
+  {
+    "workshopPath": "./downloads/3255025209",
+    "hash": "85a788b9f78419b18662b1a0d38bf9a0f77d5999eb736be680a45614d9fadd91",
+    "level": {
+      "name": "ZSL - Willful Devils",
+      "path": "./downloads/3255025209/ZSL - Willful Devils/ZSL - Willful Devils.zeeplevel",
+      "blocks": 464,
+      "author": "[FORK] A Broken Forklift",
+      "uuid": "26052024-124756287-[FORK] A Broken Forklift-439008904709-463",
+      "time": 54.73357,
+      "checkpoints": 4
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": false
+    },
+    "invalidatedAt": 1716743246579
   }
 ]
