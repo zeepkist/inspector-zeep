@@ -242,5 +242,29 @@
       "areFixedCheckpointsValid": false
     },
     "invalidatedAt": 1716743246579
+  },
+  {
+    "workshopPath": "./downloads/3255250322",
+    "hash": "59efe858c6b802a0deb3c937f624cb2082ae4faa5cae1b0ab5d596d4b3ec0c25",
+    "level": {
+      "name": "ZSL - Ghost Lights",
+      "path": "./downloads/3255250322/ZSL - Ghost Lights/ZSL - Ghost Lights.zeeplevel",
+      "blocks": 442,
+      "author": "[Bnuy]ttv/Lilly the Bun",
+      "uuid": "26052024-190922404-[Bnuy]ttv/Lilly the Bun-200313995674-441",
+      "time": 46.59926,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
