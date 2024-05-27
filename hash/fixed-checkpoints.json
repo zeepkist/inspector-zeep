@@ -290,5 +290,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3254349355",
+    "hash": "0bb01e72d811267315c1a0d7aca438a0c31117e91e6e65536186baee34b90891",
+    "level": {
+      "name": "ZSL-Flip The Wall",
+      "path": "./downloads/3254349355/ZSL-Flip The Wall/ZSL-Flip The Wall.zeeplevel",
+      "blocks": 1001,
+      "author": "maxie12",
+      "uuid": "25052024-220220653-maxie12-795273646152-1000",
+      "time": 74.53645,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
