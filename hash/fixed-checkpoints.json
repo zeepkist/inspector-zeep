@@ -314,5 +314,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3255927461",
+    "hash": "91c579d511b272cee7f0c411ef40328ac6695887f7dcab999c9abe05ea18c636",
+    "level": {
+      "name": "ZSL - Narrowing It Down One MMMore Time",
+      "path": "./downloads/3255927461/ZSL - Narrowing It Down One MMMore Time/ZSL - Narrowing It Down One MMMore Time.zeeplevel",
+      "blocks": 913,
+      "author": "GaryCXJk",
+      "uuid": "28052024-012135334-GaryCXJk-503432005979-912",
+      "time": 61.93598,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
