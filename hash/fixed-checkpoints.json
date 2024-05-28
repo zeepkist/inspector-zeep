@@ -338,5 +338,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3255986325",
+    "hash": "748dd1ff3408e2571ea7df4cfc672bd8afd1a7fc0b81309ab7a09ccaea30db79",
+    "level": {
+      "name": "ZSL - Flower Power",
+      "path": "./downloads/3255986325/ZSL - Flower Power/ZSL - Flower Power.zeeplevel",
+      "blocks": 740,
+      "author": "Diabler",
+      "uuid": "28052024-034746759-Diabler-062488454225-739",
+      "time": 37.54245,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
