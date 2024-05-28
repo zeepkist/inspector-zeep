@@ -362,5 +362,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3255799935",
+    "hash": "3c4c1a44106ca4516aa8e9d314719fc71c978f9773af3d0e73ec24a71c616a20",
+    "level": {
+      "name": "ZSL - Moonlit Malachite Mine",
+      "path": "./downloads/3255799935/ZSL - Moonlit Malachite Mine/ZSL - Moonlit Malachite Mine.zeeplevel",
+      "blocks": 299,
+      "author": "Lexer",
+      "uuid": "25052024-220601109-Lexer-658730719995-298",
+      "time": 35.65591,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
