@@ -386,5 +386,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3256297884",
+    "hash": "e14d510b6f7cf37076d490f237ed921c5018d4d54626851c38f60195d339652b",
+    "level": {
+      "name": "ZSL - Citrus Twist",
+      "path": "./downloads/3256297884/ZSL - Citrus Twist/ZSL - Citrus Twist.zeeplevel",
+      "blocks": 1217,
+      "author": "DeeDeeNaNaNa",
+      "uuid": "28052024-155000625-DeeDeeNaNaNa-645097189456-1216",
+      "time": 44.39654,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
