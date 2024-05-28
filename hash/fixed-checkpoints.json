@@ -389,14 +389,14 @@
   },
   {
     "workshopPath": "./downloads/3256297884",
-    "hash": "e14d510b6f7cf37076d490f237ed921c5018d4d54626851c38f60195d339652b",
+    "hash": "87b196085c1206e530e738fb98629ca83c00831032b3b5a050341fec66c71e8e",
     "level": {
       "name": "ZSL - Citrus Twist",
       "path": "./downloads/3256297884/ZSL - Citrus Twist/ZSL - Citrus Twist.zeeplevel",
-      "blocks": 1217,
+      "blocks": 1224,
       "author": "DeeDeeNaNaNa",
-      "uuid": "28052024-155000625-DeeDeeNaNaNa-645097189456-1216",
-      "time": 44.39654,
+      "uuid": "28052024-232622777-DeeDeeNaNaNa-171237706298-1223",
+      "time": 43.99601,
       "checkpoints": 4
     },
     "isValid": true,
@@ -409,6 +409,7 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
