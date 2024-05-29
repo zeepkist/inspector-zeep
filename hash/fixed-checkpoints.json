@@ -507,5 +507,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3257177684",
+    "hash": "bb3c09fae3f8a010b19f5408aa38083a9335f8fb58127abbba98d1788fc153b0",
+    "level": {
+      "name": "ZSL - Don't Look Back In Anger",
+      "path": "./downloads/3257177684/ZSL - Don't Look Back In Anger/ZSL - Don't Look Back In Anger.zeeplevel",
+      "blocks": 318,
+      "author": "icRS",
+      "uuid": "29052024-233723415-icRS-809859825574-317",
+      "time": 32.72595,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
