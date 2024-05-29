@@ -435,5 +435,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3256641191",
+    "hash": "e959b41931f1e7a358aee28616924f641bd99ffbb492e4d8b8f1d2ddebb2b8da",
+    "level": {
+      "name": "ZSL - Nothing strange here, right guys,        uh guys,",
+      "path": "./downloads/3256641191/ZSL - Nothing strange here, right guys,        uh guys,/ZSL - Nothing strange here, right guys,        uh guys,.zeeplevel",
+      "blocks": 2672,
+      "author": "Ionjig",
+      "uuid": "28052024-193223568-Ionjig-552239697084-2671",
+      "time": 48.40372,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
