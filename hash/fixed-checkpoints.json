@@ -411,5 +411,29 @@
       "areFixedCheckpointsValid": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3253042871",
+    "hash": "dc6f3e838c375b9e29c9c607a76ea8bc9c6d994fd518511abc3bb5538458b61b",
+    "level": {
+      "name": "zsl-help me find my mouse",
+      "path": "./downloads/3253042871/zsl-help me find my mouse/zsl-help me find my mouse.zeeplevel",
+      "blocks": 3953,
+      "author": "vortex",
+      "uuid": "23052024-193026223-vortex-120462151372-3952",
+      "time": 44.96076,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
