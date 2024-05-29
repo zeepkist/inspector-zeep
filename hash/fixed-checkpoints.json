@@ -459,5 +459,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3256750016",
+    "hash": "e298f940a411b841664274015df26cec7fd107aa9d4aaacfc9cd13603fe2380d",
+    "level": {
+      "name": "ZSL - Spearmint",
+      "path": "./downloads/3256750016/ZSL - Spearmint/ZSL - Spearmint.zeeplevel",
+      "blocks": 1408,
+      "author": "[CTR]Kernkob x [St]Nicholas",
+      "uuid": "28052024-222141022-St Nicholas-536832984766-1407",
+      "time": 42.66785,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
