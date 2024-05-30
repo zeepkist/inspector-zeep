@@ -531,5 +531,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3257424008",
+    "hash": "57c3e44b4a90a7c8cb975e388380dfbb113cf08e8c3e8d2c649990b373bb1778",
+    "level": {
+      "name": "ZSL - Something's off",
+      "path": "./downloads/3257424008/ZSL - Something's off/ZSL - Something's off.zeeplevel",
+      "blocks": 550,
+      "author": "[SLOW] Hate Hater",
+      "uuid": "30052024-131629029-[SLOW] Hate Hater-850851898194-549",
+      "time": 44.48771,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
