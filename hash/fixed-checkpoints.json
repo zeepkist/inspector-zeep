@@ -628,5 +628,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3257714938",
+    "hash": "247d6e7025aad841299062a09b73c4101298dae1d3cc101427c0fdf6061bae55",
+    "level": {
+      "name": "ZSL - Gartengitter",
+      "path": "./downloads/3257714938/ZSL - Gartengitter/ZSL - Gartengitter.zeeplevel",
+      "blocks": 621,
+      "author": "[Fren] Renergy",
+      "uuid": "30052024-214136277-[Fren] Renergy-143026899035-620",
+      "time": 37.83541,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
