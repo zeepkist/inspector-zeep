@@ -580,5 +580,29 @@
       "areFixedCheckpointsValid": false
     },
     "invalidatedAt": 1717110607166
+  },
+  {
+    "workshopPath": "./downloads/3257882048",
+    "hash": "41c14bebade930662579a203fb6daff013352f58590e325cf64c6ebd391d17a6",
+    "level": {
+      "name": "ZSL - Tattooine",
+      "path": "./downloads/3257882048/ZSL - Tattooine/ZSL - Tattooine.zeeplevel",
+      "blocks": 799,
+      "author": "[CTR]OwlPlague [poop]Sheriff [CTR]TheBamboozler",
+      "uuid": "30052024-202729260-[CTR]OwlPlague [poop]Sheriff [CTR]TheBamboozler-382810368242-798",
+      "time": 39.76731,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
