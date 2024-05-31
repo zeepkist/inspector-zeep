@@ -604,5 +604,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3257894734",
+    "hash": "ff4d835c41c1eaa88613e9d7efbdf3ed5ab32a82d41b1cc40f345b7b258e2413",
+    "level": {
+      "name": "ZSL - Rooted Outlook",
+      "path": "./downloads/3257894734/ZSL - Rooted Outlook/ZSL - Rooted Outlook.zeeplevel",
+      "blocks": 1251,
+      "author": "Codewalt",
+      "uuid": "30052024-180542160-Codewalt-473316056460-1250",
+      "time": 42.14977,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
