@@ -462,11 +462,11 @@
   },
   {
     "workshopPath": "./downloads/3256750016",
-    "hash": "e298f940a411b841664274015df26cec7fd107aa9d4aaacfc9cd13603fe2380d",
+    "hash": "c3c2adfa5250d3ddc21370953de350be5e51a893072d7d4aa048730940009095",
     "level": {
       "name": "ZSL - Spearmint",
       "path": "./downloads/3256750016/ZSL - Spearmint/ZSL - Spearmint.zeeplevel",
-      "blocks": 1408,
+      "blocks": 1416,
       "author": "[CTR]Kernkob x [St]Nicholas",
       "uuid": "28052024-222141022-St Nicholas-536832984766-1407",
       "time": 42.66785,
@@ -482,7 +482,8 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3257105027",
@@ -640,6 +641,30 @@
       "author": "[Fren] Renergy",
       "uuid": "30052024-214136277-[Fren] Renergy-143026899035-620",
       "time": 37.83541,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3258662638",
+    "hash": "a88f5c6f411c76cac57e811fd1601f3f4c384b12cd534d230d776c46b9eaf7e2",
+    "level": {
+      "name": "ZSL - Blasphemous",
+      "path": "./downloads/3258662638/ZSL - Blasphemous/ZSL - Blasphemous.zeeplevel",
+      "blocks": 2043,
+      "author": "agix",
+      "uuid": "31052024-220501137-agix-664740030166-2042",
+      "time": 57.4945,
       "checkpoints": 4
     },
     "isValid": true,
