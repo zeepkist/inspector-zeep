@@ -679,5 +679,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3259200265",
+    "hash": "b7386bbf3111f134f46f4b7e540aeb0b377559b4572913e0527641b0fb4aeb73",
+    "level": {
+      "name": "ZSL - The Ancient Mine",
+      "path": "./downloads/3259200265/ZSL - The Ancient Mine/ZSL - The Ancient Mine.zeeplevel",
+      "blocks": 3994,
+      "author": "That1Guy",
+      "uuid": "01062024-133442951-That1Guy-571871197012-3993",
+      "time": 62.5126,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
