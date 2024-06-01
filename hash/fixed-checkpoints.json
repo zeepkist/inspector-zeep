@@ -633,14 +633,14 @@
   },
   {
     "workshopPath": "./downloads/3257714938",
-    "hash": "247d6e7025aad841299062a09b73c4101298dae1d3cc101427c0fdf6061bae55",
+    "hash": "dee5ac6d819bf1e38fe62ce380e4c5d025f1781ad663c4c8a97a5edc14a12a13",
     "level": {
       "name": "ZSL - Gartengitter",
       "path": "./downloads/3257714938/ZSL - Gartengitter/ZSL - Gartengitter.zeeplevel",
-      "blocks": 621,
+      "blocks": 647,
       "author": "[Fren] Renergy",
-      "uuid": "30052024-214136277-[Fren] Renergy-143026899035-620",
-      "time": 37.83541,
+      "uuid": "01062024-164054994-[Fren] Renergy-409236185870-646",
+      "time": 37.8154,
       "checkpoints": 4
     },
     "isValid": true,
@@ -653,7 +653,8 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3258662638",
