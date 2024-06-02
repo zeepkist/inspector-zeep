@@ -438,14 +438,14 @@
   },
   {
     "workshopPath": "./downloads/3256641191",
-    "hash": "e959b41931f1e7a358aee28616924f641bd99ffbb492e4d8b8f1d2ddebb2b8da",
+    "hash": "880eacd53d7b719074bd27fe0a7de9d92fe2604ba4759b43524d3bf0a8b354df",
     "level": {
       "name": "ZSL - Nothing strange here, right guys,        uh guys,",
       "path": "./downloads/3256641191/ZSL - Nothing strange here, right guys,        uh guys,/ZSL - Nothing strange here, right guys,        uh guys,.zeeplevel",
       "blocks": 2672,
       "author": "Ionjig",
-      "uuid": "28052024-193223568-Ionjig-552239697084-2671",
-      "time": 48.40372,
+      "uuid": "02062024-082157944-Ionjig-832692636142-2671",
+      "time": 48.40891,
       "checkpoints": 4
     },
     "isValid": true,
@@ -458,7 +458,8 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3256750016",
@@ -714,6 +715,30 @@
       "author": "[NIL]Lazy_Echidna",
       "uuid": "02062024-144433028-[NIL]Lazy_Echidna-369534050592-1919",
       "time": 42.35706,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3259781000",
+    "hash": "7be7655ed8860f4285ad6302c6aaa87e5386b349cbcdc34cfbbb4422576a5101",
+    "level": {
+      "name": "ZSL - The Mountain",
+      "path": "./downloads/3259781000/ZSL - The Mountain/ZSL - The Mountain.zeeplevel",
+      "blocks": 1818,
+      "author": "Ben Irgendwas",
+      "uuid": "02062024-172257327-Ben Irgendwas-387279518935-1817",
+      "time": 72.00921,
       "checkpoints": 4
     },
     "isValid": true,
