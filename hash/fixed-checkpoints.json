@@ -703,5 +703,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3259676877",
+    "hash": "1ea7b0127c45fcba311fbc8eb3d4a41dc02187b7818cfed116244e511fea9fa2",
+    "level": {
+      "name": "ZSL - Foggy Mountain Trail",
+      "path": "./downloads/3259676877/ZSL - Foggy Mountain Trail/ZSL - Foggy Mountain Trail.zeeplevel",
+      "blocks": 1920,
+      "author": "[NIL]Lazy_Echidna",
+      "uuid": "02062024-144433028-[NIL]Lazy_Echidna-369534050592-1919",
+      "time": 42.35706,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
