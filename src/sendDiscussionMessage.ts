@@ -1,9 +1,9 @@
 import { italic, ThreadChannel, User } from 'discord.js'
 
 import {
+  FIVE_DAYS_AGO,
   FIVE_MINUTES_AGO,
-  SILENT_MODE,
-  FIVE_DAYS_AGO
+  SILENT_MODE
 } from './config/constants.js'
 import {
   BLOCK_LIMIT,
@@ -89,5 +89,5 @@ export const sendDiscussionMessage = async ({
 
   console.log(SILENT_MODE, channel.id, messageContent)
   // TODO: Refactor invalidation logic
-  if (!SILENT_MODE) await channel.send(messageContent)
+  // if (!SILENT_MODE) await channel.send(messageContent)
 }
