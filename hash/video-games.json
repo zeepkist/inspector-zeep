@@ -287,5 +287,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3268436103",
+    "hash": "bb23bf9402eb436cd748201f7a70fa553598f311d1ec5449cff1edaf775a3a22",
+    "level": {
+      "name": "ZSL - The Triforce",
+      "path": "./downloads/3268436103/ZSL - The Triforce/ZSL - The Triforce.zeeplevel",
+      "blocks": 3358,
+      "author": "[WAM]Odist",
+      "uuid": "16062024-033014801-[WAM]Odist-657633183407-3357",
+      "time": 45.82447,
+      "checkpoints": 7
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
