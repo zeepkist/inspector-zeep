@@ -311,5 +311,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3268533488",
+    "hash": "7409232ce53d06e56adcd90e267e434ee3e9712a4f1f74d59792f88e0d559dbe",
+    "level": {
+      "name": "Humilau City - Pokemon",
+      "path": "./downloads/3268533488/Humilau City - Pokemon/Humilau City - Pokemon.zeeplevel",
+      "blocks": 527,
+      "author": "crazymango",
+      "uuid": "15062024-141152621-crazymango-465410053820-526",
+      "time": 35.729,
+      "checkpoints": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
