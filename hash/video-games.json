@@ -338,14 +338,14 @@
   },
   {
     "workshopPath": "./downloads/3269450670",
-    "hash": "0a2b8185954cd926300bf4e9f3e1fa61c8b2784738343bf488c5abf6f040aade",
+    "hash": "bca686ded17cd8479ed8463791aa62d901c9847cdf21c8ed18bcdd5e4986bcc1",
     "level": {
       "name": "ZSL - Koopa Troopa Beach",
       "path": "./downloads/3269450670/ZSL - Koopa Troopa Beach/ZSL - Koopa Troopa Beach.zeeplevel",
-      "blocks": 325,
+      "blocks": 326,
       "author": "zailleh",
-      "uuid": "17062024-115457890-zailleh-272005518716-324",
-      "time": 74.70393,
+      "uuid": "17062024-133215889-zailleh-282806325295-325",
+      "time": 74.44859,
       "checkpoints": 5
     },
     "isValid": true,
@@ -358,6 +358,7 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
