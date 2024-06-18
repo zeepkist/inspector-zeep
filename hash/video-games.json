@@ -360,5 +360,29 @@
       "areFixedCheckpointsValid": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3266427538",
+    "hash": "0852d58b55bf793718d74426072e4a9a198557bfb458c353158090cce3d328ce",
+    "level": {
+      "name": "ZSL - Goobies",
+      "path": "./downloads/3266427538/ZSL - Goobies/ZSL - Goobies.zeeplevel",
+      "blocks": 1365,
+      "author": "BB_Benji",
+      "uuid": "14062024-132645835-BB_Benji-219964788278-1364",
+      "time": 53.60242,
+      "checkpoints": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
