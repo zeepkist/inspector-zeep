@@ -290,15 +290,15 @@
   },
   {
     "workshopPath": "./downloads/3268436103",
-    "hash": "bb23bf9402eb436cd748201f7a70fa553598f311d1ec5449cff1edaf775a3a22",
+    "hash": "8bd9a0faefccaf13460187972dc10fcfabaa0f4d76b5f825850b76c9041c4078",
     "level": {
       "name": "ZSL - The Triforce",
       "path": "./downloads/3268436103/ZSL - The Triforce/ZSL - The Triforce.zeeplevel",
-      "blocks": 3358,
+      "blocks": 3404,
       "author": "[WAM]Odist",
-      "uuid": "16062024-033014801-[WAM]Odist-657633183407-3357",
-      "time": 45.82447,
-      "checkpoints": 7
+      "uuid": "19062024-225938106-[WAM]Odist-910923810683-3403",
+      "time": 44.85913,
+      "checkpoints": 8
     },
     "isValid": true,
     "validity": {
@@ -310,7 +310,8 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3268533488",
