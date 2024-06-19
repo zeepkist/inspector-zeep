@@ -385,5 +385,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3271219805",
+    "hash": "8086d545693e1722878d7807f691aab53d46f38caf5b6c948f5679cd36c4e3ac",
+    "level": {
+      "name": "ZSL - Tetromino",
+      "path": "./downloads/3271219805/ZSL - Tetromino/ZSL - Tetromino.zeeplevel",
+      "blocks": 1745,
+      "author": "Shadynook",
+      "uuid": "19062024-174443132-Shadynook-796145081652-1744",
+      "time": 41.85527,
+      "checkpoints": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
