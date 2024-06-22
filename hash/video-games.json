@@ -266,14 +266,14 @@
   },
   {
     "workshopPath": "./downloads/3264615872",
-    "hash": "c781fe967b87de1fcf9cee7876cbc7c6412e152e3f15cef4653639e5042c1656",
+    "hash": "e1dd870c6666c8bd43a9f8e9da3329e773d838461348f0f150671ca67b11e2bb",
     "level": {
       "name": "ZSL - Zwimpie Circuit DS",
       "path": "./downloads/3264615872/ZSL - Zwimpie Circuit DS/ZSL - Zwimpie Circuit DS.zeeplevel",
-      "blocks": 2411,
-      "author": "[KURK] Quickracer10 - [KURK] lil_zwimpie",
-      "uuid": "09062024-203922476-[KURK] Quickracer10 - [KURK] lil_zwimpie-647405482899-2410",
-      "time": 56.21983,
+      "blocks": 2430,
+      "author": "[KURK] Quickracer10",
+      "uuid": "22062024-230524162-[KURK] Quickracer10-956389800367-2429",
+      "time": 56.15843,
       "checkpoints": 7
     },
     "isValid": true,
@@ -286,7 +286,8 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3268436103",
