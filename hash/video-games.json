@@ -409,5 +409,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3272204499",
+    "hash": "12367e624947ef32d6e417681d7934dc6e50f9c9393441c51f186b6153efdf24",
+    "level": {
+      "name": "ZSL - 1-1 Mario",
+      "path": "./downloads/3272204499/ZSL - 1-1 Mario/ZSL - 1-1 Mario.zeeplevel",
+      "blocks": 2849,
+      "author": "maxie12",
+      "uuid": "22062024-105616661-maxie12-295595559952-2848",
+      "time": 68.23479,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
