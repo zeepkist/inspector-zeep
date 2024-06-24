@@ -434,5 +434,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3274482429",
+    "hash": "a778867fa06dfd0374a495cbe750803a70ead1e1071508fba44d9a01043f2cd7",
+    "level": {
+      "name": "ZSL - Bowser in the dark world",
+      "path": "./downloads/3274482429/ZSL - Bowser in the dark world/ZSL - Bowser in the dark world.zeeplevel",
+      "blocks": 1308,
+      "author": "AndMe44",
+      "uuid": "23062024-223336091-AndMe44-525148025532-1307",
+      "time": 61.66659,
+      "checkpoints": 11
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
