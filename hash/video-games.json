@@ -459,5 +459,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3275137748",
+    "hash": "9f4d65da47a046afd4bbeaab143c2d3d4866e613e28690f91669e87eba273b92",
+    "level": {
+      "name": "ZSL - Mortal Zeepkist",
+      "path": "./downloads/3275137748/ZSL - Mortal Zeepkist/ZSL - Mortal Zeepkist.zeeplevel",
+      "blocks": 2136,
+      "author": "[TOG]ioi8",
+      "uuid": "25062024-080302956-[TOG]ioi8-995845011568-2135",
+      "time": 53.82426,
+      "checkpoints": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
