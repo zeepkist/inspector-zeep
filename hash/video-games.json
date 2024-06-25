@@ -98,15 +98,15 @@
   },
   {
     "workshopPath": "./downloads/3266672300",
-    "hash": "6331ea6ae570fb7e40351ac1c345e3ac993e1de9c52f8851ca6dda8655903956",
+    "hash": "61d8cb1c18e19e1de0e85b6ec8f33da916783fefae826799abca507d605a9ee6",
     "level": {
       "name": "ZSL - Zeep TD 1",
       "path": "./downloads/3266672300/ZSL - Zeep TD 1/ZSL - Zeep TD 1.zeeplevel",
-      "blocks": 1524,
+      "blocks": 1525,
       "author": "NightDice",
-      "uuid": "25062024-021450443-NightDice-989503180821-1523",
-      "time": 59.02552,
-      "checkpoints": 4
+      "uuid": "25062024-025056343-NightDice-117465095785-1524",
+      "time": 59.25378,
+      "checkpoints": 5
     },
     "isValid": true,
     "validity": {
