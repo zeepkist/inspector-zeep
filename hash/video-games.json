@@ -483,5 +483,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3275649889",
+    "hash": "7e32d82328877ffbce84b55bafdc138c0d8bfbf2a677658e446d96f6a9471875",
+    "level": {
+      "name": "ZSL - Planet Zebes",
+      "path": "./downloads/3275649889/ZSL - Planet Zebes/ZSL - Planet Zebes.zeeplevel",
+      "blocks": 2169,
+      "author": "Agix [CTR]OwlPlague [CTR]TheBamboozler",
+      "uuid": "26062024-005340446-Agix [CTR]OwlPlague [CTR]TheBamboozler-571374684033-2168",
+      "time": 61.85361,
+      "checkpoints": 8
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
