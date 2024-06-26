@@ -507,5 +507,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3275903509",
+    "hash": "706711899189fbdc4148ca3b9897e72ddaad4e01385db4022aa6963efd5c8314",
+    "level": {
+      "name": "ZSL - Outset Island",
+      "path": "./downloads/3275903509/ZSL - Outset Island/ZSL - Outset Island.zeeplevel",
+      "blocks": 3566,
+      "author": "Diabler & Metalted",
+      "uuid": "26062024-164034479-Diabler & Metalted-669823270317-3566",
+      "time": 41.78123,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
