@@ -531,5 +531,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3276217822",
+    "hash": "f784faea87859853e1722c4fec11aab86e39a745b606d3ed8926998cd84f5c0d",
+    "level": {
+      "name": "ZSL - Twisting Netherstorm",
+      "path": "./downloads/3276217822/ZSL - Twisting Netherstorm/ZSL - Twisting Netherstorm.zeeplevel",
+      "blocks": 1451,
+      "author": "reholmes92 and Sahne mit Bohnen",
+      "uuid": "26062024-173904923-reholmes92 and Sahne mit Bohnen-095360086694-1450",
+      "time": 57.70584,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
