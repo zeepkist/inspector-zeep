@@ -555,5 +555,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3276276394",
+    "hash": "8ec356f3789b2b585f58c4815becead97b174ba04c6555aa2ffe55f2581e73ed",
+    "level": {
+      "name": "ZSL - The Dwelling (Spelunky 2)",
+      "path": "./downloads/3276276394/ZSL - The Dwelling (Spelunky 2)/ZSL - The Dwelling (Spelunky 2).zeeplevel",
+      "blocks": 2067,
+      "author": "Bluekittyracer",
+      "uuid": "26062024-212942584-Bluekittyracer-354929391067-2066",
+      "time": 58.19424,
+      "checkpoints": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
