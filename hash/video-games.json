@@ -651,5 +651,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3273839840",
+    "hash": "26ba1dbe17e22f2517254ea35461a7e03718a9a976ce3cd96b490331c6f4cf2d",
+    "level": {
+      "name": "ZSL - Forzeep horizon",
+      "path": "./downloads/3273839840/ZSL - Forzeep horizon/ZSL - Forzeep horizon.zeeplevel",
+      "blocks": 2345,
+      "author": "[Zeep]Tommygaming5132",
+      "uuid": "16062024-174841966-[Zeep]Tommygaming5132-858644449896-2344",
+      "time": 44.25367,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
