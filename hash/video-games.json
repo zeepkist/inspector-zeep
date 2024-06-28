@@ -579,5 +579,53 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3276866948",
+    "hash": "41851727f58cc06c2ddff15975898762abb6f5409aa06b4ac481cfd6d8cdb1c2",
+    "level": {
+      "name": "ZSL - NR2003 Walkin's Glen",
+      "path": "./downloads/3276866948/ZSL - NR2003 Walkin's Glen/ZSL - NR2003 Walkin's Glen.zeeplevel",
+      "blocks": 295,
+      "author": "jjbassfisher",
+      "uuid": "27062024-204125834-jjbassfisher-850006585382-294",
+      "time": 68.05028,
+      "checkpoints": 11
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3276861702",
+    "hash": "daba9e527847f849232d6701c764af42be3aea08ed5ee77485082916612886c8",
+    "level": {
+      "name": "ZSL - Mortal Zeepkist",
+      "path": "./downloads/3276861702/ZSL - Mortal Zeepkist/ZSL - Mortal Zeepkist.zeeplevel",
+      "blocks": 2149,
+      "author": "[TOG]ioi8",
+      "uuid": "27062024-212905077-[TOG]ioi8-659947690841-2148",
+      "time": 52.17456,
+      "checkpoints": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
