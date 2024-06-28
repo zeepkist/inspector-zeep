@@ -627,5 +627,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3277409845",
+    "hash": "439fe1b90d90ae6e609ec897502c39672b8d1606683bf99f273e995e0035bb69",
+    "level": {
+      "name": "ZSL - Card Castle",
+      "path": "./downloads/3277409845/ZSL - Card Castle/ZSL - Card Castle.zeeplevel",
+      "blocks": 1402,
+      "author": "RoundNzt",
+      "uuid": "28062024-232144852-RoundNzt-332001441885-1401",
+      "time": 47.69457,
+      "checkpoints": 8
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
