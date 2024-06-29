@@ -726,14 +726,14 @@
   },
   {
     "workshopPath": "./downloads/3277870555",
-    "hash": "20fc36d52312f54cd64a33c29c76357701f9a9384afc6243d5d5f7992d122d88",
+    "hash": "fe3971fbf24f2817fe0107ebbe1ebd38a50c6611561c184988ebc0a5b081748c",
     "level": {
       "name": "ZSL - Audiosurf",
       "path": "./downloads/3277870555/ZSL - Audiosurf/ZSL - Audiosurf.zeeplevel",
-      "blocks": 561,
+      "blocks": 573,
       "author": "[TOG]Lazy_Echidna",
-      "uuid": "29062024-140719567-[TOG]Lazy_Echidna-869971768192-560",
-      "time": 41.20351,
+      "uuid": "29062024-151714472-[TOG]Lazy_Echidna-139074601844-572",
+      "time": 41.03077,
       "checkpoints": 10
     },
     "isValid": true,
@@ -746,6 +746,7 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
