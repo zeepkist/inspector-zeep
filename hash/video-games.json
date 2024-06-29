@@ -723,5 +723,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3277870555",
+    "hash": "20fc36d52312f54cd64a33c29c76357701f9a9384afc6243d5d5f7992d122d88",
+    "level": {
+      "name": "ZSL - Audiosurf",
+      "path": "./downloads/3277870555/ZSL - Audiosurf/ZSL - Audiosurf.zeeplevel",
+      "blocks": 561,
+      "author": "[TOG]Lazy_Echidna",
+      "uuid": "29062024-140719567-[TOG]Lazy_Echidna-869971768192-560",
+      "time": 41.20351,
+      "checkpoints": 10
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
