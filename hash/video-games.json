@@ -699,5 +699,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3277705415",
+    "hash": "9453d8861ca7002d2dce6a39997b7ebe203fcf15dfff3053b9b6353e55c833be",
+    "level": {
+      "name": "ZSL - Hockolicious",
+      "path": "./downloads/3277705415/ZSL - Hockolicious/ZSL - Hockolicious.zeeplevel",
+      "blocks": 3802,
+      "author": "Ionjig",
+      "uuid": "28062024-233638197-Ionjig-097117376334-3801",
+      "time": 69.65895,
+      "checkpoints": 13
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
