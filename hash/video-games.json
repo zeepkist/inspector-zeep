@@ -675,5 +675,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3277580675",
+    "hash": "09f9fc67ed98fb345c6f0fb5a5ac71d7e978835b9fb28d2f26416dae89e5f277",
+    "level": {
+      "name": "ZSL-Race the Gungeon",
+      "path": "./downloads/3277580675/ZSL-Race the Gungeon/ZSL-Race the Gungeon.zeeplevel",
+      "blocks": 1764,
+      "author": "GearworkDragon",
+      "uuid": "28062024-210629807-GearworkDragon-471040098091-1763",
+      "time": 54.95562,
+      "checkpoints": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
