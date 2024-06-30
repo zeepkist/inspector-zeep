@@ -774,5 +774,29 @@
       "areFixedCheckpointsValid": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3278379703",
+    "hash": "bdccc1bf20d2ffc0469d12101b3ec88e555056a1484a15299537896c1862d6ee",
+    "level": {
+      "name": "ZSL - Celeste Prologue",
+      "path": "./downloads/3278379703/ZSL - Celeste Prologue/ZSL - Celeste Prologue.zeeplevel",
+      "blocks": 2400,
+      "author": "Parrazarre",
+      "uuid": "30062024-025714495-Parrazarre-798886228409-2399",
+      "time": 42.72507,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
