@@ -822,5 +822,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3278539131",
+    "hash": "d19073e5a3d8477a71a1cb22aac7b518e3fa0517c0d62b4ded366c896055e2f4",
+    "level": {
+      "name": "ZSL - Animal Crossing",
+      "path": "./downloads/3278539131/ZSL - Animal Crossing/ZSL - Animal Crossing.zeeplevel",
+      "blocks": 3943,
+      "author": "Runic-Raptor",
+      "uuid": "30062024-021058434-Runic-Raptor-496958585582-3942",
+      "time": 69.69378,
+      "checkpoints": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
