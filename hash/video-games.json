@@ -752,14 +752,14 @@
   },
   {
     "workshopPath": "./downloads/3278304322",
-    "hash": "dd9937b4586c58231b1333fc275bd5a3c86c739955de01c43088c36c68427768",
+    "hash": "8ba84a9bbbb26d7e1c53f936b92a8abe2a8217a4d07e92c17a9075e01cb49a0d",
     "level": {
       "name": "ZSL- Rock Rock Mt ",
       "path": "./downloads/3278304322/ZSL- Rock Rock Mt/ZSL- Rock Rock Mt .zeeplevel",
-      "blocks": 1287,
+      "blocks": 1289,
       "author": "[Fly] Socks242",
-      "uuid": "29062024-175553248-[Fly] Socks242-230531509124-1286",
-      "time": 55.07682,
+      "uuid": "29062024-184142184-[Fly] Socks242-507738368833-1288",
+      "time": 54.55669,
       "checkpoints": 3
     },
     "isValid": true,
@@ -772,6 +772,7 @@
       "isStartFinishProximityValid": true,
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
