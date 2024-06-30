@@ -798,5 +798,29 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3278472361",
+    "hash": "e696ed9f32e7a3ea2652c3010db3c22782342f63eed9552c00d94dadeb2df54d",
+    "level": {
+      "name": "ZSL - Downhill Jam",
+      "path": "./downloads/3278472361/ZSL - Downhill Jam/ZSL - Downhill Jam.zeeplevel",
+      "blocks": 1469,
+      "author": "[dog] schmxrg & St Nicholas",
+      "uuid": "29062024-195403030-[dog] schmxrg-450620346234-1468",
+      "time": 42.80461,
+      "checkpoints": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
   }
 ]
