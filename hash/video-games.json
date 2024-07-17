@@ -98,15 +98,15 @@
   },
   {
     "workshopPath": "./downloads/3266672300",
-    "hash": "61d8cb1c18e19e1de0e85b6ec8f33da916783fefae826799abca507d605a9ee6",
+    "hash": "0ce36e29ef7492a09f529e40f559413c281fa0bf239f96ce7beb33f5e6d3e8d4",
     "level": {
       "name": "ZSL - Zeep TD 1",
       "path": "./downloads/3266672300/ZSL - Zeep TD 1/ZSL - Zeep TD 1.zeeplevel",
-      "blocks": 1525,
+      "blocks": 1399,
       "author": "NightDice",
-      "uuid": "25062024-025056343-NightDice-117465095785-1524",
-      "time": 59.25378,
-      "checkpoints": 5
+      "uuid": "13062024-004319462-NightDice-710330769146-1398",
+      "time": 63.56371,
+      "checkpoints": 4
     },
     "isValid": true,
     "validity": {
@@ -267,14 +267,14 @@
   },
   {
     "workshopPath": "./downloads/3264615872",
-    "hash": "e1dd870c6666c8bd43a9f8e9da3329e773d838461348f0f150671ca67b11e2bb",
+    "hash": "c781fe967b87de1fcf9cee7876cbc7c6412e152e3f15cef4653639e5042c1656",
     "level": {
       "name": "ZSL - Zwimpie Circuit DS",
       "path": "./downloads/3264615872/ZSL - Zwimpie Circuit DS/ZSL - Zwimpie Circuit DS.zeeplevel",
-      "blocks": 2430,
-      "author": "[KURK] Quickracer10",
-      "uuid": "22062024-230524162-[KURK] Quickracer10-956389800367-2429",
-      "time": 56.15843,
+      "blocks": 2411,
+      "author": "[KURK] Quickracer10 - [KURK] lil_zwimpie",
+      "uuid": "09062024-203922476-[KURK] Quickracer10 - [KURK] lil_zwimpie-647405482899-2410",
+      "time": 56.21983,
       "checkpoints": 7
     },
     "isValid": true,
@@ -834,6 +834,30 @@
       "uuid": "30062024-021058434-Runic-Raptor-496958585582-3942",
       "time": 69.69378,
       "checkpoints": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3278938070",
+    "hash": "72088adc54037b5bc24ee1a409ba77dc5359b50ae73a4ea474fed658a72ef67c",
+    "level": {
+      "name": "ZSL - Sky Meadow",
+      "path": "./downloads/3278938070/ZSL - Sky Meadow/ZSL - Sky Meadow.zeeplevel",
+      "blocks": 3295,
+      "author": "Maki & Lexer",
+      "uuid": "30062024-151627691-Maki & Lexer-507919056841-3294",
+      "time": 64.55804,
+      "checkpoints": 8
     },
     "isValid": true,
     "validity": {

@@ -6,6 +6,7 @@ import {
   ThreadChannel
 } from 'discord.js'
 
+import { CHANGER_GATE_MODES_REQUIRED } from './config/requirements.js'
 import { CachedLevel, VerifiedLevel } from './types.js'
 
 interface JudgeMessageOptions {
@@ -31,7 +32,8 @@ export const sendJudgeMessage = async ({
     isUnderTimeLimit,
     isStartFinishProximityValid,
     startFinishProximity,
-    areFixedCheckpointsValid
+    areFixedCheckpointsValid,
+    hasRequiredChangerGateModes
   } = level.validity
   const title = `${isNew ? '🆕 ' : ''}${level.name}`
 
@@ -98,6 +100,44 @@ export const sendJudgeMessage = async ({
       {
         name: 'Fixed Checkpoints',
         value: `${emoji(areFixedCheckpointsValid)} Checkpoints are not in the correct positions`,
+        inline: true
+      }
+    ])
+  }
+
+  if (CHANGER_GATE_MODES_REQUIRED.size > 0) {
+    embed.addFields([
+      {
+        name: 'Has Required Changer Gates',
+        value: `${emoji(hasRequiredChangerGateModes)} ${
+          hasRequiredChangerGateModes
+            ? 'Has all required changer gate modes'
+            : 'Missing required changer gate modes'
+        }`,
+        inline: true
+      }
+    ])
+  }
+
+  if (level.changerGateModes.size > 0) {
+    const changerGateModes = [...level.changerGateModes]
+      .map(({ mode, emoji }) => `${emoji} ${mode}`)
+      .join(', ')
+
+    embed.addFields([
+      {
+        name: 'Changer Gate Modes',
+        value: changerGateModes,
+        inline: false
+      }
+    ])
+  }
+
+  if (level.logicBlocks > 0) {
+    embed.addFields([
+      {
+        name: 'Logic Blocks',
+        value: `${level.logicBlocks} logic blocks`,
         inline: true
       }
     ])
