@@ -406,17 +406,17 @@
   },
   {
     "workshopPath": "./downloads/3286409886",
-    "hash": "954e37ac6f14d626cc13326f9749fcf7ebe922c4268664d55d7d0b08ba91410b",
+    "hash": "4441e265b461d4f7ef91e2fa9807ca8d9511e51ef83fb149d8eecd9c662a3c80",
     "level": {
       "name": "ZSL - Burgundy Dunes",
       "path": "./downloads/3286409886/ZSL - Burgundy Dunes/ZSL - Burgundy Dunes.zeeplevel",
-      "blocks": 660,
+      "blocks": 661,
       "author": "Shadynook",
-      "uuid": "14072024-161411227-Shadynook-651399899507-659",
-      "time": 46.87498,
+      "uuid": "17072024-171803189-Shadynook-546329024698-660",
+      "time": 46.29052,
       "checkpoints": 7,
       "changerGateModes": {},
-      "logicBlocks": 0
+      "logicBlocks": 1
     },
     "isValid": true,
     "validity": {
@@ -429,7 +429,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3285799317",
