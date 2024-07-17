@@ -17,27 +17,27 @@ const changerGateBlockIdsByMode = new Set<ChangerGateBlockIdsByMode>([
   {
     blockIds: new Set([1978, 1979, 1990]),
     mode: 'Invert Steering',
-    emoji: 'invert_steering'
+    emoji: '<:invert_steering:1263232209452794057>'
   },
   {
     blockIds: new Set([1980, 1981, 1991]),
     mode: 'Invert Arms Up Braking',
-    emoji: 'invert_arms_up_braking'
+    emoji: '<:invert_arms_up_braking:1263232208278126685>'
   },
   {
     blockIds: new Set([1982, 1983, 1992]),
     mode: 'Offroad Wheels',
-    emoji: 'offroad_wheels'
+    emoji: '<:offroad_wheels:1263232210861817937>'
   },
   {
     blockIds: new Set([1984, 1985, 1993]),
     mode: 'Paraglider',
-    emoji: 'paraglider'
+    emoji: '<:paraglider:1263232212153929870>'
   },
   {
     blockIds: new Set([1608, 1610, 1987]),
     mode: 'Soap Wheels',
-    emoji: 'soap_wheels'
+    emoji: '<:soap_wheels:1263232213634257066>'
   }
 ])
 

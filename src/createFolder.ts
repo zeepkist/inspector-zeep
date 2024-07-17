@@ -1,4 +1,4 @@
-import { mkdir, readdir } from 'node:fs/promises'
+import { mkdir, readdir, access } from 'node:fs/promises'
 
 import { rimraf } from 'rimraf'
 
@@ -9,9 +9,18 @@ interface NodeJSWithCodeError extends Error {
   code?: string
 }
 
+const folderExists = async (folder: string): Promise<boolean> => {
+  try {
+    await access(folder);
+    return true;
+  } catch {
+    return false;
+  }
+};
+
 export const createFolder = async (folder: string, cleanFolder = false) => {
   try {
-    if (cleanFolder) {
+    if (cleanFolder && await folderExists(folder)) {
       const filesToDelete = await readdir(folder)
 
       for (const file of filesToDelete) {

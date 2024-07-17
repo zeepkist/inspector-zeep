@@ -121,8 +121,8 @@ export const sendJudgeMessage = async ({
 
   if (level.changerGateModes.size > 0) {
     const changerGateModes = [...level.changerGateModes]
-      .map(({ mode, emoji }) => `${emoji} ${mode}`)
-      .join(', ')
+      .map(({ emoji }) => `${emoji}`)
+      .join(' ')
 
     embed.addFields([
       {
