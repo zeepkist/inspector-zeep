@@ -1,0 +1,677 @@
+[
+  {
+    "workshopPath": "./downloads/3290581603",
+    "hash": "06656f133656dde1571e4e82725e966a0609686e688ccc7973eabcd2a41710ba",
+    "level": {
+      "name": "ZSL - OFFROAD Glider",
+      "path": "./downloads/3290581603/ZSL - OFFROAD Glider/ZSL - OFFROAD Glider.zeeplevel",
+      "blocks": 66,
+      "author": "Unknown",
+      "uuid": "16072024-163950335-Unknown-992736400214-65",
+      "time": 59.05868,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3290244844",
+    "hash": "de0b7786fc5e9e74542e53f40b16fdde7d03fe2d9cbb69a95740cc893084e96e",
+    "level": {
+      "name": "ZSL-Lunar Highlands",
+      "path": "./downloads/3290244844/ZSL-Lunar Highlands/ZSL-Lunar Highlands.zeeplevel",
+      "blocks": 430,
+      "author": "GearworkDragon",
+      "uuid": "15072024-202322816-GearworkDragon-817989336115-429",
+      "time": 51.12086,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3287902876",
+    "hash": "35ff75a2c16bcafdd7ee5eefbb23af5aca8a58a0330b339bdad896b127058fde",
+    "level": {
+      "name": "ZSL -  Quad Peaks Rally Stage 2",
+      "path": "./downloads/3287902876/ZSL -  Quad Peaks Rally Stage 2/ZSL -  Quad Peaks Rally Stage 2.zeeplevel",
+      "blocks": 903,
+      "author": "[CRT]Codewalt",
+      "uuid": "15072024-172741373-[CRT]Codewalt-456270628468-902",
+      "time": 57.86671,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3286803926",
+    "hash": "8f2f4fabb08948d197811636d37f1eb36bf0018fdf089818d6874fb95ce221ba",
+    "level": {
+      "name": "ZSL - Quiet Vale",
+      "path": "./downloads/3286803926/ZSL - Quiet Vale/ZSL - Quiet Vale.zeeplevel",
+      "blocks": 596,
+      "author": "imagineaclevernamehere",
+      "uuid": "15072024-172158094-imagineaclevernamehere-093553692195-595",
+      "time": 48.60179,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3289391161",
+    "hash": "1ddcf3da1776f7188a04140802b4ac47b158f0a1b50af8219877d946b824d6c3",
+    "level": {
+      "name": "ZSL - Snowy Rally",
+      "path": "./downloads/3289391161/ZSL - Snowy Rally/ZSL - Snowy Rally.zeeplevel",
+      "blocks": 1165,
+      "author": "[TG]Tommygaming5132",
+      "uuid": "14072024-213009809-[TG]Tommygaming5132-369297984509-1164",
+      "time": 36.43731,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3289952584",
+    "hash": "9c1485e05556a083630eead914e5346955ab6e6fa568a77a08c6c664d8829ed3",
+    "level": {
+      "name": "ZSL - Kistzeep Pipeline",
+      "path": "./downloads/3289952584/ZSL - Kistzeep Pipeline/ZSL - Kistzeep Pipeline.zeeplevel",
+      "blocks": 1358,
+      "author": "Travesty",
+      "uuid": "15072024-074456425-Travesty-353730510673-1357",
+      "time": 68.71288,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3289640088",
+    "hash": "fb6b242630ee419283248d9b92e8b7d0665370a7249de74133e671e3eda5707b",
+    "level": {
+      "name": "ZSL - Carhenge",
+      "path": "./downloads/3289640088/ZSL - Carhenge/ZSL - Carhenge.zeeplevel",
+      "blocks": 1123,
+      "author": "[CTR]Owlplague + Reholmes92 + St Nicholas",
+      "uuid": "14072024-210512639-St Nicholas-955889874857-1122",
+      "time": 57.4546,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 24
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3289604621",
+    "hash": "0ef1309942ed9318d19359b6732f9feec1458812b85457f77e9cabf5010088e9",
+    "level": {
+      "name": "ZSL - Zeepham Sands",
+      "path": "./downloads/3289604621/ZSL - Zeepham Sands/ZSL - Zeepham Sands.zeeplevel",
+      "blocks": 1661,
+      "author": "DeeDeeNaNaNa",
+      "uuid": "15072024-014350080-DeeDeeNaNaNa-690800609420-1660",
+      "time": 50.18203,
+      "checkpoints": 11,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3289444833",
+    "hash": "90f2732c9a4e560fb3dd6c82a6dfb6a7ec483a3614b49308b6de96a24ccf898b",
+    "level": {
+      "name": "ZSL-50 sec downhill",
+      "path": "./downloads/3289444833/ZSL-50 sec downhill/ZSL-50 sec downhill.zeeplevel",
+      "blocks": 984,
+      "author": "Cakeyeater",
+      "uuid": "14072024-170028936-Cakeyeater-389759368586-983",
+      "time": 45.02193,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3287650551",
+    "hash": "90096edd7b00e8ebb81902a3dfd7d93853e7abfb6f65dde32dda8261804309c5",
+    "level": {
+      "name": "ZSL - just some Offroad Track",
+      "path": "./downloads/3287650551/ZSL - just some Offroad Track/ZSL - just some Offroad Track.zeeplevel",
+      "blocks": 736,
+      "author": "Renergy",
+      "uuid": "12072024-174700336-Renergy-701499678502-735",
+      "time": 56.58815,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3288761052",
+    "hash": "6ec12f20e7a642cf6faa0667a35b61738931dcfbc429d5c237ac85d2e0c5ec13",
+    "level": {
+      "name": "ZSL - Monster Truck Mayhem",
+      "path": "./downloads/3288761052/ZSL - Monster Truck Mayhem/ZSL - Monster Truck Mayhem.zeeplevel",
+      "blocks": 2726,
+      "author": "b17bobby",
+      "uuid": "15072024-104809745-b17bobby-450702068903-2725",
+      "time": 44.95176,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3287221426",
+    "hash": "846b437623978f56a4324c78067e3f5732b13a53b4652345d2bb5be8132795bb",
+    "level": {
+      "name": "ZSL - Rotini Plateau",
+      "path": "./downloads/3287221426/ZSL - Rotini Plateau/ZSL - Rotini Plateau.zeeplevel",
+      "blocks": 602,
+      "author": "[WOAG]PlusMicron",
+      "uuid": "11072024-194747593-[WOAG]PlusMicron-878537961583-601",
+      "time": 56.33808,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3285756010",
+    "hash": "bee994c83e6d1bc90bb517eedf756239d0d7b078bf0de4cc4000df4116442053",
+    "level": {
+      "name": "ZSL - FleshByte",
+      "path": "./downloads/3285756010/ZSL - FleshByte/ZSL - FleshByte.zeeplevel",
+      "blocks": 87,
+      "author": "[KORN] balogan75",
+      "uuid": "09072024-160046584-[KORN] balogan75-451583245824-86",
+      "time": 56.7135,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3286895051",
+    "hash": "9810e77266e0b7e0ba58408a180e51703039682c4081d6ef450bb08e483217e7",
+    "level": {
+      "name": "ZSL - Rocks on the Road",
+      "path": "./downloads/3286895051/ZSL - Rocks on the Road/ZSL - Rocks on the Road.zeeplevel",
+      "blocks": 171,
+      "author": "deathracerexplosions",
+      "uuid": "11072024-211946914-deathracerexplosions-204407015276-170",
+      "time": 59.04368,
+      "checkpoints": 2,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3286618598",
+    "hash": "16aa94b0fa03a0bff1ed449567f62565078a9c6c545250d83e3c325593066fc1",
+    "level": {
+      "name": "ZSL - Seaside Skies",
+      "path": "./downloads/3286618598/ZSL - Seaside Skies/ZSL - Seaside Skies.zeeplevel",
+      "blocks": 3095,
+      "author": "[ZKEG]SwiftEvolta",
+      "uuid": "11072024-040612615-[ZKEG]SwiftEvolta-238207416363-3094",
+      "time": 66.31125,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3286409886",
+    "hash": "954e37ac6f14d626cc13326f9749fcf7ebe922c4268664d55d7d0b08ba91410b",
+    "level": {
+      "name": "ZSL - Burgundy Dunes",
+      "path": "./downloads/3286409886/ZSL - Burgundy Dunes/ZSL - Burgundy Dunes.zeeplevel",
+      "blocks": 660,
+      "author": "Shadynook",
+      "uuid": "14072024-161411227-Shadynook-651399899507-659",
+      "time": 46.87498,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3285799317",
+    "hash": "aa1812a334d8fccb447732d35ceb5fe2a73203f5ce3950abffda8620e809429f",
+    "level": {
+      "name": "ZSL - Through The Falls",
+      "path": "./downloads/3285799317/ZSL - Through The Falls/ZSL - Through The Falls.zeeplevel",
+      "blocks": 1153,
+      "author": "Certified Bruh Moment™",
+      "uuid": "09072024-193317796-Certified Bruh Moment™-729106431965-1152",
+      "time": 60.71085,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3284888712",
+    "hash": "4214a1800fd8540ba3ba6606323e41cb8e849d558d0c9d89aaa17a699825d6b6",
+    "level": {
+      "name": "ZSL - Muddy Rally",
+      "path": "./downloads/3284888712/ZSL - Muddy Rally/ZSL - Muddy Rally.zeeplevel",
+      "blocks": 309,
+      "author": "Meowvelous_Purrrson",
+      "uuid": "08072024-084521613-Meowvelous_Purrrson-604319968686-308",
+      "time": 55.71643,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3285637000",
+    "hash": "77dffc242aaddda86ba22cc139ae2c7e09b0eb46157c472aeb6fbb4b0f9610e3",
+    "level": {
+      "name": "ZSL - Journey Home",
+      "path": "./downloads/3285637000/ZSL - Journey Home/ZSL - Journey Home.zeeplevel",
+      "blocks": 2223,
+      "author": "Norfina",
+      "uuid": "09072024-185509291-Norfina-197511451902-2222",
+      "time": 72.23572,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3285253245",
+    "hash": "d3fee582ecf0f4f489cdbe2beff5f98fb4cd7ed8be4b4ead6b0864d4cd0d51ae",
+    "level": {
+      "name": "ZLS - Support",
+      "path": "./downloads/3285253245/ZLS - Support/ZLS - Support.zeeplevel",
+      "blocks": 495,
+      "author": "Flabort",
+      "uuid": "08072024-213106869-Flabort-090168377667-494",
+      "time": 44.38509,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3284972474",
+    "hash": "6fad155204346fa1b616282d04e9240ce6b586aa7826070cc5f94c229ef02452",
+    "level": {
+      "name": "ZSL - Jungle Airstrip",
+      "path": "./downloads/3284972474/ZSL - Jungle Airstrip/ZSL - Jungle Airstrip.zeeplevel",
+      "blocks": 3166,
+      "author": "3rd Brexiteer",
+      "uuid": "14072024-201707001-3rd Brexiteer-137185906204-3165",
+      "time": 62.60468,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3284329824",
+    "hash": "c8b12e18d4085936c962c2dd0c919c2be3b03165db4c2dd4abe0f178177e61bc",
+    "level": {
+      "name": "ZSL - Deserty Cave",
+      "path": "./downloads/3284329824/ZSL - Deserty Cave/ZSL - Deserty Cave.zeeplevel",
+      "blocks": 838,
+      "author": "superdogdaniel",
+      "uuid": "07072024-210804990-superdogdaniel-123126799131-837",
+      "time": 52.77303,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3283509178",
+    "hash": "6ebc569fba8bc2f218abff4a085055a7d32fc0936cd25f6f2181c9f42a543a7e",
+    "level": {
+      "name": "ZSL - Zeep-X",
+      "path": "./downloads/3283509178/ZSL - Zeep-X/ZSL - Zeep-X.zeeplevel",
+      "blocks": 696,
+      "author": "MerlintheWZRD",
+      "uuid": "06072024-230632252-MerlintheWZRD-485275290476-695",
+      "time": 47.13172,
+      "checkpoints": 13,
+      "changerGateModes": {},
+      "logicBlocks": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3284294128",
+    "hash": "ac253bead149c62e40fe1e0a01230c0ef79574a23998379e8d3b4d5f227ef8fb",
+    "level": {
+      "name": "ZSL- In The Forest",
+      "path": "./downloads/3284294128/ZSL- In The Forest/ZSL- In The Forest.zeeplevel",
+      "blocks": 1029,
+      "author": "[ZET] Wheelie",
+      "uuid": "07072024-142006511-[ZET] Wheelie-478773161058-1028",
+      "time": 33.23934,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3283993047",
+    "hash": "4d96815e92ee76687c7fb8ab0d11007add8f67abfd4678aa00b6b3d5eec025cf",
+    "level": {
+      "name": "ZSL - Crankworx Pump Track",
+      "path": "./downloads/3283993047/ZSL - Crankworx Pump Track/ZSL - Crankworx Pump Track.zeeplevel",
+      "blocks": 85,
+      "author": "[TTR] Tigerplaysonpc",
+      "uuid": "07072024-133129595-[TTR] Tigerplaysonpc-296222623393-84",
+      "time": 32.95264,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  }
+]
