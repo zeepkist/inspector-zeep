@@ -7,11 +7,12 @@ import {
   MAXIMUM_WIDTH,
   MINIMUM_CHECKPOINTS,
   MINIMUM_TIME,
-  START_FINISH_PROXIMITY
+  START_FINISH_PROXIMITY,
+  CHANGER_GATE_MODES_REQUIRED
 } from './config/requirements.js'
 import { getLevel } from './getLevel.js'
 import { debug, error } from './log.js'
-import type { VerifiedLevel } from './types.js'
+import type { ChangerGate, VerifiedLevel } from './types.js'
 
 const getDistanceInBlocks = (distance: number) => Math.ceil(distance / 16)
 
@@ -218,6 +219,29 @@ const validateFixedCheckpoints = (name: string, lines: string[]) => {
   return true
 }
 
+const validateRequiredChangerGateModes = (name: string, changerGateModes: Set<ChangerGate>) => {
+  if (CHANGER_GATE_MODES_REQUIRED.size === 0) return true
+
+  const missingChangerGateModes = new Set(
+    [...CHANGER_GATE_MODES_REQUIRED].filter(
+      changerGateMode => ![...changerGateModes].some(mode => mode.mode === changerGateMode)
+    )
+  )
+
+  if (missingChangerGateModes.size > 0) {
+    error(`"${name}" is missing changer gate modes`, import.meta)
+
+    for (const missingChangerGateMode of missingChangerGateModes) {
+      error(`Missing "${missingChangerGateMode}"`, import.meta)
+    }
+
+    return false
+  }
+
+  debug(`"${name}" has required changer gate modes`, import.meta, true)
+  return true
+}
+
 export const checkLevelIsValid = async (workshopPath: string, author: User) => {
   const level = await getLevel(workshopPath)
   if (!level) return
@@ -246,6 +270,11 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
     level.blocks
   )
 
+  const hasRequiredChangerGateModes = validateRequiredChangerGateModes(
+    level.name,
+    level.changerGateModes
+  )
+
   const response: VerifiedLevel = {
     workshopId: workshopPath.split('/').pop() ?? '',
     name: level.name,
@@ -254,13 +283,16 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
     time: level.time,
     blocks: level.blocks.length,
     checkpoints: level.checkpoints,
+    changerGateModes: level.changerGateModes,
+    logicBlocks: level.logicBlocks,
     isValid: !(
       isOverBlockLimit ||
       isUnderTimeLimit ||
       isOverTimeLimit ||
       isUnderCheckpointLimit ||
       isOverWidthLimit ||
-      !areFixedCheckpointsValid
+      !areFixedCheckpointsValid ||
+      !hasRequiredChangerGateModes
     ),
     validity: {
       isOverBlockLimit,
@@ -270,7 +302,8 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
       isOverWidthLimit,
       isStartFinishProximityValid,
       startFinishProximity,
-      areFixedCheckpointsValid
+      areFixedCheckpointsValid,
+      hasRequiredChangerGateModes
     }
   }
 

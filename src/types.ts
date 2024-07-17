@@ -3,6 +3,15 @@ import { Message, User } from 'discord.js'
 export type Submission = [Message, User]
 export type Submissions = Map<string, Submission>
 
+export type ChangerGateBlockIdsByMode = {
+  blockIds: Set<number>
+  mode: string
+  emoji: string
+}
+
+export type ChangerGate = Omit<ChangerGateBlockIdsByMode, "blockIds">
+
+
 export interface Level {
   level: string
   name: string
@@ -12,6 +21,8 @@ export interface Level {
   uuid: string
   time: number
   checkpoints: number
+  changerGateModes: Set<ChangerGate>
+  logicBlocks: number
 }
 
 export interface CachedLevel extends Omit<Level, 'level' | 'blocks'> {
@@ -26,6 +37,8 @@ export interface VerifiedLevel {
   time: number
   blocks: number
   checkpoints: number
+  changerGateModes: Set<ChangerGate>
+  logicBlocks: number
   isValid: boolean
   validity: LevelValidity
 }
@@ -39,4 +52,5 @@ export interface LevelValidity {
   isStartFinishProximityValid: boolean
   startFinishProximity: number
   areFixedCheckpointsValid: boolean
+  hasRequiredChangerGateModes: boolean
 }

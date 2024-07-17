@@ -86,7 +86,9 @@ export const createLevelHash = async (
           author: level.author,
           uuid: level.uuid,
           time: level.time,
-          checkpoints: level.checkpoints
+          checkpoints: level.checkpoints,
+          changerGateModes: level.changerGateModes,
+          logicBlocks: level.logicBlocks
         },
         isValid: levelValidity.isValid,
         validity: levelValidity.validity,
@@ -109,7 +111,9 @@ export const createLevelHash = async (
           author: level.author,
           uuid: level.uuid,
           time: level.time,
-          checkpoints: level.checkpoints
+          checkpoints: level.checkpoints,
+          changerGateModes: level.changerGateModes,
+          logicBlocks: level.logicBlocks
         },
         isValid: levelValidity.isValid,
         validity: levelValidity.validity

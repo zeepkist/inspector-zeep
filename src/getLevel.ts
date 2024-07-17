@@ -1,10 +1,44 @@
 import { opendir, readFile } from 'node:fs/promises'
 
 import { warn } from './log.js'
-import { Level } from './types.js'
+import { ChangerGateBlockIdsByMode, ChangerGate, Level } from './types.js'
+
 
 const checkpointBlockIds = new Set([
   22, 372, 373, 1275, 1276, 1277, 1278, 1279, 1615
+])
+
+const logicBlockIds = new Set([
+  1727, 1728, 1729, 1730, 1744, 2285, 2286
+])
+
+// 33rd argument === 1 = checkpoint changer gate setting on
+const changerGateBlockIdsByMode = new Set<ChangerGateBlockIdsByMode>([
+  {
+    blockIds: new Set([1978, 1979, 1990]),
+    mode: 'Invert Steering',
+    emoji: 'invert_steering'
+  },
+  {
+    blockIds: new Set([1980, 1981, 1991]),
+    mode: 'Invert Arms Up Braking',
+    emoji: 'invert_arms_up_braking'
+  },
+  {
+    blockIds: new Set([1982, 1983, 1992]),
+    mode: 'Offroad Wheels',
+    emoji: 'offroad_wheels'
+  },
+  {
+    blockIds: new Set([1984, 1985, 1993]),
+    mode: 'Paraglider',
+    emoji: 'paraglider'
+  },
+  {
+    blockIds: new Set([1608, 1610, 1987]),
+    mode: 'Soap Wheels',
+    emoji: 'soap_wheels'
+  }
 ])
 
 const getFiles = async (path: string) => {
@@ -23,7 +57,55 @@ const getFiles = async (path: string) => {
 const getCheckpoints = (blocks: string[]) => {
   return blocks.filter(line => {
     const blockId = Number.parseInt(line.split(',')[0])
-    return checkpointBlockIds.has(blockId)
+    const hasTraditionalCheckpoint = checkpointBlockIds.has(blockId)
+
+    if (hasTraditionalCheckpoint) return true
+
+    for (const changerGateGroup of changerGateBlockIdsByMode) {
+      const hasChangerGate = changerGateGroup.blockIds.has(blockId)
+
+      if (hasChangerGate) {
+        const changerGateSetting = Number.parseInt(line.split(',')[32])
+
+        if (changerGateSetting === 1) {
+          return true
+        }
+      }
+    }
+
+    return false
+  }).length
+}
+
+const getChangerGateModes = (blocks: string[]) => {
+  const modes = new Set<ChangerGate>()
+
+  blocks.filter(line => {
+    const blockId = Number.parseInt(line.split(',')[0])
+
+    for (const changerGateGroup of changerGateBlockIdsByMode) {
+      const hasChangerGate = changerGateGroup.blockIds.has(blockId)
+
+      if (hasChangerGate) modes.add({
+        mode: changerGateGroup.mode,
+        emoji: changerGateGroup.emoji
+      })
+    }
+  })
+
+  const deduplicatedModes = Array.from(modes).filter((mode, index, self) => {
+    return index === self.findIndex(t => (
+      t.mode === mode.mode
+    ))
+  })
+
+  return new Set(deduplicatedModes)
+}
+
+const getLogicBlocks = (blocks: string[]) => {
+  return blocks.filter(line => {
+    const blockId = Number.parseInt(line.split(',')[0])
+    return logicBlockIds.has(blockId)
   }).length
 }
 
@@ -46,6 +128,8 @@ export const getLevel = async (workshopPath: string) => {
   const uuid = levelLines[0].split(',')[2]
   const time = Number.parseFloat(levelLines[2].split(',')[0])
   const checkpoints = getCheckpoints(blocks)
+  const changerGateModes = getChangerGateModes(blocks)
+  const logicBlocks = getLogicBlocks(blocks)
 
   const response: Level = {
     level,
@@ -55,7 +139,9 @@ export const getLevel = async (workshopPath: string) => {
     author,
     uuid,
     time,
-    checkpoints
+    checkpoints,
+    changerGateModes,
+    logicBlocks
   }
 
   return response
