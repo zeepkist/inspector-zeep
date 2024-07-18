@@ -674,5 +674,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3291561739",
+    "hash": "de65901bef57872e10f0dd066186dd2ec0873bc47953e0ef33107e637af47603",
+    "level": {
+      "name": "ZSL- Crater Canyon Crunch",
+      "path": "./downloads/3291561739/ZSL- Crater Canyon Crunch/ZSL- Crater Canyon Crunch.zeeplevel",
+      "blocks": 353,
+      "author": "[ZET]vectortrajector",
+      "uuid": "17072024-201822002-[ZET]vectortrajector-291172266916-352",
+      "time": 53.31373,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
