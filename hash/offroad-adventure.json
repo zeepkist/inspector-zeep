@@ -28,14 +28,14 @@
   },
   {
     "workshopPath": "./downloads/3290244844",
-    "hash": "de0b7786fc5e9e74542e53f40b16fdde7d03fe2d9cbb69a95740cc893084e96e",
+    "hash": "33ef86a21952630a2e89c70b234c5807d831ae614c27d5d65bf8c63f3801a308",
     "level": {
       "name": "ZSL-Lunar Highlands",
       "path": "./downloads/3290244844/ZSL-Lunar Highlands/ZSL-Lunar Highlands.zeeplevel",
-      "blocks": 430,
+      "blocks": 616,
       "author": "GearworkDragon",
-      "uuid": "15072024-202322816-GearworkDragon-817989336115-429",
-      "time": 51.12086,
+      "uuid": "19072024-092819662-GearworkDragon-805910860834-615",
+      "time": 50.14582,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -51,7 +51,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3287902876",
