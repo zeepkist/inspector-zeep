@@ -728,5 +728,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3292421082",
+    "hash": "e68bfb7b68d5fc88a2dcb9513c7223f4d42e810db9964e828797e8aa8d31724e",
+    "level": {
+      "name": "ZSL - Little Kingdom",
+      "path": "./downloads/3292421082/ZSL - Little Kingdom/ZSL - Little Kingdom.zeeplevel",
+      "blocks": 677,
+      "author": "Riccio97",
+      "uuid": "19072024-135631950-Riccio97-628306880988-676",
+      "time": 39.47718,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
