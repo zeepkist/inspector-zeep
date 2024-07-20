@@ -756,5 +756,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3289416766",
+    "hash": "c55686fb5be40038e960a745885469a5afd56f3c1c4db0e9f34a5471668f4927",
+    "level": {
+      "name": "ZSL-OffPiste",
+      "path": "./downloads/3289416766/ZSL-OffPiste/ZSL-OffPiste.zeeplevel",
+      "blocks": 1820,
+      "author": "maxie12",
+      "uuid": "15072024-203220131-maxie12-489313402749-1819",
+      "time": 47.41593,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
