@@ -893,5 +893,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3294123280",
+    "hash": "788f3fe6f297bf9ed26795a082bb0932ba227c5ebf7c1281ee340acf7162d289",
+    "level": {
+      "name": "ZSL - De Pindarots",
+      "path": "./downloads/3294123280/ZSL - De Pindarots/ZSL - De Pindarots.zeeplevel",
+      "blocks": 1307,
+      "author": "[ZMS] Metalted",
+      "uuid": "21072024-211240957-[ZMS] Metalted-867886864675-1306",
+      "time": 51.96974,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
