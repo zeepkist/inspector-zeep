@@ -839,5 +839,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3293829979",
+    "hash": "4a46d41977e67f66961c8cec5b9011f9bf41eb5127165056f9bd7bec156d6761",
+    "level": {
+      "name": "ZUNE",
+      "path": "./downloads/3293829979/ZUNE/ZUNE.zeeplevel",
+      "blocks": 3070,
+      "author": "Burrito_Legend",
+      "uuid": "21072024-143618108-Burrito_Legend-472850254360-3069",
+      "time": 69.88859,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
