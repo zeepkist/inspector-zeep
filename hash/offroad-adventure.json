@@ -866,5 +866,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3294088250",
+    "hash": "1b8fee507b48065267bd7d2fc57690e60b2b774903b92fee8180f04664fda8ba",
+    "level": {
+      "name": "ZSL - Pale Orchard",
+      "path": "./downloads/3294088250/ZSL - Pale Orchard/ZSL - Pale Orchard.zeeplevel",
+      "blocks": 2887,
+      "author": "Maki and Last",
+      "uuid": "21072024-194010849-Maki and Last-127622591627-2886",
+      "time": 49.9309,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
