@@ -164,14 +164,14 @@
   },
   {
     "workshopPath": "./downloads/3289640088",
-    "hash": "fb6b242630ee419283248d9b92e8b7d0665370a7249de74133e671e3eda5707b",
+    "hash": "d543af0832052f55cdf2ab9bd00c704ffc94801bbce7e14e4730a2c77cae799d",
     "level": {
       "name": "ZSL - Carhenge",
       "path": "./downloads/3289640088/ZSL - Carhenge/ZSL - Carhenge.zeeplevel",
-      "blocks": 1123,
+      "blocks": 1126,
       "author": "[CTR]Owlplague + Reholmes92 + St Nicholas",
-      "uuid": "14072024-210512639-St Nicholas-955889874857-1122",
-      "time": 57.4546,
+      "uuid": "20072024-165529951-St Nicholas-511516504572-1125",
+      "time": 56.6724,
       "checkpoints": 8,
       "changerGateModes": {},
       "logicBlocks": 24
@@ -187,18 +187,19 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3289604621",
-    "hash": "0ef1309942ed9318d19359b6732f9feec1458812b85457f77e9cabf5010088e9",
+    "hash": "43981e8bab2a8d0cd41f58da5a9e166ee958606f864187df07e76e70fc6e8e04",
     "level": {
       "name": "ZSL - Zeepham Sands",
       "path": "./downloads/3289604621/ZSL - Zeepham Sands/ZSL - Zeepham Sands.zeeplevel",
-      "blocks": 1661,
+      "blocks": 1694,
       "author": "DeeDeeNaNaNa",
-      "uuid": "15072024-014350080-DeeDeeNaNaNa-690800609420-1660",
-      "time": 50.18203,
+      "uuid": "20072024-033030127-DeeDeeNaNaNa-129755532668-1693",
+      "time": 48.9207,
       "checkpoints": 11,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -214,7 +215,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3289444833",
@@ -794,6 +796,33 @@
       "author": "[CTR]TheBamboozler",
       "uuid": "20072024-083206258-[CTR]TheBamboozler-119043557812-1202",
       "time": 49.37803,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3293724569",
+    "hash": "802abad4ecdf0a3868f29bd193d29a953fa57edadc03c53062ce0c644f4a15c8",
+    "level": {
+      "name": "ZSL - Provenance",
+      "path": "./downloads/3293724569/ZSL - Provenance/ZSL - Provenance.zeeplevel",
+      "blocks": 399,
+      "author": "[CTR]Kernkob",
+      "uuid": "21072024-011653754-[CTR]Kernkob-735552468190-398",
+      "time": 46.0008,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
