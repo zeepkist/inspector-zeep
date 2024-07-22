@@ -974,5 +974,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3294849065",
+    "hash": "64b6f2c3fd8912ce993ec6cec73971aa399a9d28902b1f0edd0bc2bee04b61d9",
+    "level": {
+      "name": "ZSL - Endor",
+      "path": "./downloads/3294849065/ZSL - Endor/ZSL - Endor.zeeplevel",
+      "blocks": 1642,
+      "author": "schmxrg",
+      "uuid": "22072024-143830302-schmxrg-335752005500-1641",
+      "time": 52.11967,
+      "checkpoints": 12,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
