@@ -920,5 +920,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3294301395",
+    "hash": "d8580f681c7812a0c5e881a68c3e2cc6c508f652c1d70f2737733776101bdf19",
+    "level": {
+      "name": "ZSL - Redstone Rainforest",
+      "path": "./downloads/3294301395/ZSL - Redstone Rainforest/ZSL - Redstone Rainforest.zeeplevel",
+      "blocks": 1761,
+      "author": "cornshot",
+      "uuid": "21072024-191356570-cornshot-685191220849-1760",
+      "time": 47.27488,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 25
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
