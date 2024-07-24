@@ -1002,5 +1002,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3295926545",
+    "hash": "6904af827ed15bc1b2a9d9d0b4c9f6e44bd8f0d6a1dcc4d7ee8c4011b4ebd056",
+    "level": {
+      "name": "ZSL - GJ 504B",
+      "path": "./downloads/3295926545/ZSL - GJ 504B/ZSL - GJ 504B.zeeplevel",
+      "blocks": 1162,
+      "author": "//////void",
+      "uuid": "24072024-112803134-//////void & Roader-324482009842-1161",
+      "time": 44.789,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 88
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
