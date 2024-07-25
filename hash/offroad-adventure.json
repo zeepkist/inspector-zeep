@@ -1056,5 +1056,59 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3296613702",
+    "hash": "2df18945ca91eab81e139e8afa01cb6179a89ce371fda871f4ca1363ab52b3e9",
+    "level": {
+      "name": "ZSL - Sandy City Rally",
+      "path": "./downloads/3296613702/ZSL - Sandy City Rally/ZSL - Sandy City Rally.zeeplevel",
+      "blocks": 2135,
+      "author": "Lexer",
+      "uuid": "25072024-110802120-Lexer-386917183952-2134",
+      "time": 40.75306,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3296589138",
+    "hash": "77c198310e8683abdc7333ad22e065646a2731933937cfd6a45d538744436eb7",
+    "level": {
+      "name": "ZSL - Bluegrass",
+      "path": "./downloads/3296589138/ZSL - Bluegrass/ZSL - Bluegrass.zeeplevel",
+      "blocks": 277,
+      "author": "agix",
+      "uuid": "25072024-092351894-agix-742760736312-276",
+      "time": 43.57824,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
