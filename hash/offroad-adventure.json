@@ -1029,5 +1029,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3296195537",
+    "hash": "086880a62ce6af14e2df2090d9082229c65670813099cefbf792181bab77fd10",
+    "level": {
+      "name": "ZSL - To The King!",
+      "path": "./downloads/3296195537/ZSL - To The King!/ZSL - To The King!.zeeplevel",
+      "blocks": 3498,
+      "author": "Diabler",
+      "uuid": "25072024-012723654-Diabler-813894491454-3497",
+      "time": 48.08876,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 312
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
