@@ -1138,5 +1138,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3297185376",
+    "hash": "d05fe083da5f6dc91e9f59098f085bece3f68c3d01d2b3c14e2efd9639d6fa0c",
+    "level": {
+      "name": "ZSL - ReG Raceway",
+      "path": "./downloads/3297185376/ZSL - ReG Raceway/ZSL - ReG Raceway.zeeplevel",
+      "blocks": 1267,
+      "author": "[TOG]Lazy_Echidna",
+      "uuid": "26072024-175734189-[TOG]Lazy_Echidna-543747940432-1266",
+      "time": 49.80385,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 10
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
