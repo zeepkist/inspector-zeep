@@ -1111,5 +1111,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3296952057",
+    "hash": "1ab5ff809ea102a3c0a08c0bee216b9122d5aa6ce0463571652f84c8e94e0511",
+    "level": {
+      "name": "ZSL - Attack of the Giant Radioactive Spiders",
+      "path": "./downloads/3296952057/ZSL - Attack of the Giant Radioactive Spiders/ZSL - Attack of the Giant Radioactive Spiders.zeeplevel",
+      "blocks": 4000,
+      "author": "SoggyMuffin",
+      "uuid": "26072024-030125778-SoggyMuffin-569743601140-3999",
+      "time": 63.58357,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
