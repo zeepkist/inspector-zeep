@@ -1165,5 +1165,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3297946394",
+    "hash": "e495865525bc847336d9d35e2ede9db8ed9e30d1f4253d6fab0fe8b1be043f26",
+    "level": {
+      "name": "ZSL - 45",
+      "path": "./downloads/3297946394/ZSL - 45/ZSL - 45.zeeplevel",
+      "blocks": 2693,
+      "author": "Ionjig",
+      "uuid": "27072024-110404353-Ionjig-396524068311-2692",
+      "time": 64.67002,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 37
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
