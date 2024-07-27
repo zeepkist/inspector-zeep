@@ -1192,5 +1192,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3298103816",
+    "hash": "81fcda7b5a58fbdb960b319e2059d0547c4e8b7cb91d8d3aeb41405c920d9c87",
+    "level": {
+      "name": "ZSL - Late For The Mud Race",
+      "path": "./downloads/3298103816/ZSL - Late For The Mud Race/ZSL - Late For The Mud Race.zeeplevel",
+      "blocks": 1323,
+      "author": "MrMackCheeseBalls",
+      "uuid": "27072024-180834742-MrMackCheeseBalls-725737759019-1322",
+      "time": 57.56163,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
