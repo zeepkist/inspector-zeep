@@ -1273,5 +1273,59 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3298512900",
+    "hash": "d4477397b2eee1dfe34ae2ecfa6391f056c13e67980f8d900214fa92b246b098",
+    "level": {
+      "name": "ZSL - Monstr",
+      "path": "./downloads/3298512900/ZSL - Monstr/ZSL - Monstr.zeeplevel",
+      "blocks": 319,
+      "author": "Khord & L3mmy & ttv/Lilly the Bun",
+      "uuid": "28072024-102527216-Khord-812700516649-318",
+      "time": 53.74787,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3298506334",
+    "hash": "857205620d00661d869c2d0cd1fea3af1aa84d4857972a3daa80b6a7329c94c1",
+    "level": {
+      "name": "ZSL - Twin Realms",
+      "path": "./downloads/3298506334/ZSL - Twin Realms/ZSL - Twin Realms.zeeplevel",
+      "blocks": 2614,
+      "author": "Daconqueror64",
+      "uuid": "28072024-235729843-Daconqueror64-879118318827-2613",
+      "time": 66.66616,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
