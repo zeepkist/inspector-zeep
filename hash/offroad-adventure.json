@@ -1219,5 +1219,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3298452838",
+    "hash": "7156301f401d8fc6cb33f7bd93782a423eafa4f7f79e76b394ba50b67f010cc7",
+    "level": {
+      "name": "ZSL - Fandango",
+      "path": "./downloads/3298452838/ZSL - Fandango/ZSL - Fandango.zeeplevel",
+      "blocks": 298,
+      "author": "Orange Sheets",
+      "uuid": "28072024-154001910-Orange Sheets-476561160781-297",
+      "time": 38.85881,
+      "checkpoints": 2,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
