@@ -17,7 +17,7 @@ export const FIXED_CHECKPOINTS = []
 export const CHANGER_GATE_MODES_REQUIRED = new Set([
   //'Invert Steering',
   //'Invert Arms Up Braking',
-  'Offroad Wheels',
-  //'Paraglider',
+  //'Offroad Wheels',
+  'Paraglider',
   //'Soap Wheels'
 ])
