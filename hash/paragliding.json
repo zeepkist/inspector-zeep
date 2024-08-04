@@ -1,0 +1,56 @@
+[
+  {
+    "workshopPath": "./downloads/3302495539",
+    "hash": "12c08158981bb31b8f46a9273afab13dc820900525a5db80b354ef3457284eda",
+    "level": {
+      "name": "ZSL - Around the World",
+      "path": "./downloads/3302495539/ZSL - Around the World/ZSL - Around the World.zeeplevel",
+      "blocks": 264,
+      "author": "b17bobby",
+      "uuid": "03082024-222746492-b17bobby-425783925522-263",
+      "time": 74.67313,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3280767564",
+    "hash": "5701492f28c9541c26a67daaa90e22d32c0ffe258b54a98d57c5f956d5e4f386",
+    "level": {
+      "name": "Other World Gliding",
+      "path": "./downloads/3280767564/Other World Gliding/Other World Gliding.zeeplevel",
+      "blocks": 1001,
+      "author": "Adrii",
+      "uuid": "03082024-194522148-Adrii-826257116742-1000",
+      "time": 44.85817,
+      "checkpoints": 11,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  }
+]
