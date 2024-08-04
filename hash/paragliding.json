@@ -53,5 +53,32 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3302960906",
+    "hash": "73a2dabd46430868ecad676aefb0d985837e2a76e51cddb09e5d955eee308476",
+    "level": {
+      "name": "ZSL - John",
+      "path": "./downloads/3302960906/ZSL - John/ZSL - John.zeeplevel",
+      "blocks": 1098,
+      "author": "Renergy",
+      "uuid": "04082024-201214514-Renergy-625008155159-1097",
+      "time": 43.84236,
+      "checkpoints": 12,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
