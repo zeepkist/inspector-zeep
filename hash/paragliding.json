@@ -28,17 +28,17 @@
   },
   {
     "workshopPath": "./downloads/3280767564",
-    "hash": "5701492f28c9541c26a67daaa90e22d32c0ffe258b54a98d57c5f956d5e4f386",
+    "hash": "c2d12167c6978783a10f144beb00ff7ac22d3b6e517f031f83e6e1ea326fbd78",
     "level": {
-      "name": "Other World Gliding",
-      "path": "./downloads/3280767564/Other World Gliding/Other World Gliding.zeeplevel",
-      "blocks": 1001,
+      "name": "Asteroid Gliding",
+      "path": "./downloads/3280767564/Asteroid Gliding/Asteroid Gliding.zeeplevel",
+      "blocks": 1250,
       "author": "Adrii",
-      "uuid": "03082024-194522148-Adrii-826257116742-1000",
-      "time": 44.85817,
+      "uuid": "04082024-005111288-Adrii-516673083640-1249",
+      "time": 40.05764,
       "checkpoints": 11,
       "changerGateModes": {},
-      "logicBlocks": 0
+      "logicBlocks": 85
     },
     "isValid": true,
     "validity": {
@@ -51,6 +51,7 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
