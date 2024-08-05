@@ -135,5 +135,32 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 1722892873256
+  },
+  {
+    "workshopPath": "./downloads/3303530894",
+    "hash": "e36f6c739a1fab2b8e6c2ca0d8856985c84d049575ecff68d1a5b40f762770d1",
+    "level": {
+      "name": "floating objects",
+      "path": "./downloads/3303530894/floating objects/floating objects.zeeplevel",
+      "blocks": 93,
+      "author": "purpl&pink",
+      "uuid": "05082024-173043316-purpl&pink-595752102431-92",
+      "time": 51.05501,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
