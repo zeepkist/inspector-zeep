@@ -107,5 +107,33 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3303657039",
+    "hash": "78620263be05500ca935c6723ebb51269e1d1ab4bc460e1f8a3acaa7a0eb7038",
+    "level": {
+      "name": "ZSL mountain monorail slope",
+      "path": "./downloads/3303657039/ZSL mountain monorail slope/ZSL mountain monorail slope.zeeplevel",
+      "blocks": 1063,
+      "author": "jt_worsley",
+      "uuid": "05082024-134325710-jt_worsley-376856175789-1062",
+      "time": 32.5875,
+      "checkpoints": 0,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": true,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 1722892873256
   }
 ]
