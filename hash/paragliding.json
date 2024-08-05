@@ -80,5 +80,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3303317364",
+    "hash": "b18c11ed1a490e223bbbb1493fb2a2badaf58f180c12dc15e35fc375259033e6",
+    "level": {
+      "name": "ZSL - Skyfall",
+      "path": "./downloads/3303317364/ZSL - Skyfall/ZSL - Skyfall.zeeplevel",
+      "blocks": 293,
+      "author": "Tigerplaysonpc",
+      "uuid": "05082024-094017402-Tigerplaysonpc-784459635221-292",
+      "time": 42.31735,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
