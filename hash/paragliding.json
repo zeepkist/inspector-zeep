@@ -189,5 +189,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3304019037",
+    "hash": "c252362c9d897fdddf27048eb04c0a15ba591a5ad462cc56eb0cfc2c64c9be44",
+    "level": {
+      "name": "ZSL-Zeepmonster VS You",
+      "path": "./downloads/3304019037/ZSL-Zeepmonster VS You/ZSL-Zeepmonster VS You.zeeplevel",
+      "blocks": 154,
+      "author": "KIDDIE_KAR",
+      "uuid": "06082024-144956203-KIDDIE_KAR-337471881607-153",
+      "time": 30.91013,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
