@@ -162,5 +162,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3303794187",
+    "hash": "64074885739a7748248199bdbff4c32ab1d37d8fe9a197a18bf42d9f7d48253e",
+    "level": {
+      "name": "ZSL - Paars Lucht Zeepkist",
+      "path": "./downloads/3303794187/ZSL - Paars Lucht Zeepkist/ZSL - Paars Lucht Zeepkist.zeeplevel",
+      "blocks": 2102,
+      "author": "[CRT]Codewalt",
+      "uuid": "05082024-200239724-[CRT]Codewalt-760661897110-2101",
+      "time": 56.89022,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
