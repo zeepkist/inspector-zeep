@@ -216,5 +216,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3304268460",
+    "hash": "6acc716a7474f481e3b4cdb65ef0e82367629ae95c3290a37d848bbc9cc35a8e",
+    "level": {
+      "name": "ZSL - New England Glide",
+      "path": "./downloads/3304268460/ZSL - New England Glide/ZSL - New England Glide.zeeplevel",
+      "blocks": 2489,
+      "author": "Modern-X Studios",
+      "uuid": "06082024-123627981-Modern-X Studios-109582847925-2488",
+      "time": 56.50661,
+      "checkpoints": 14,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
