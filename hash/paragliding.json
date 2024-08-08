@@ -297,5 +297,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3305400049",
+    "hash": "6b1ab3d8b31b8c4190b0053c8c4c71b116d8a3c390fdd4d0de1f0890d642e542",
+    "level": {
+      "name": "ZSL - Sulfur Ruins",
+      "path": "./downloads/3305400049/ZSL - Sulfur Ruins/ZSL - Sulfur Ruins.zeeplevel",
+      "blocks": 818,
+      "author": "tl s w  t",
+      "uuid": "08082024-163159871-tl s w  t-835965815772-817",
+      "time": 56.36115,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
