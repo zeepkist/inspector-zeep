@@ -243,5 +243,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3303097459",
+    "hash": "e5e1bbc3fc21f276520ddea5b77046aa668f6534fa6e29e47a46c43712df9e2a",
+    "level": {
+      "name": "ZSL - Barroll",
+      "path": "./downloads/3303097459/ZSL - Barroll/ZSL - Barroll.zeeplevel",
+      "blocks": 75,
+      "author": "Meowvelous_Purrrson",
+      "uuid": "04082024-151533137-Meowvelous_Purrrson-339939070667-74",
+      "time": 36.11644,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
