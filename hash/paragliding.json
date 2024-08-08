@@ -270,5 +270,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3305336041",
+    "hash": "f25a9f8ab017655aab2495dfb4ca76f70728e43f35e2ffcb2769bd6f947a91a9",
+    "level": {
+      "name": "ZSL - Artificial Archipelago",
+      "path": "./downloads/3305336041/ZSL - Artificial Archipelago/ZSL - Artificial Archipelago.zeeplevel",
+      "blocks": 432,
+      "author": "superdogdaniel",
+      "uuid": "04082024-162354925-superdogdaniel-205313852108-431",
+      "time": 54.59257,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
