@@ -324,5 +324,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3306452815",
+    "hash": "3d04b963f285b2985399ede836d153c1de10f8d83e24121fa87100b98f072af6",
+    "level": {
+      "name": "ZSL - Mythical-Mountain",
+      "path": "./downloads/3306452815/ZSL - Mythical-Mountain/ZSL - Mythical-Mountain.zeeplevel",
+      "blocks": 2408,
+      "author": "Ben Irgendwas",
+      "uuid": "10082024-173451426-Ben Irgendwas-430557830767-2407",
+      "time": 58.33371,
+      "checkpoints": 11,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
