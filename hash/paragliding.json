@@ -351,5 +351,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3307454841",
+    "hash": "ec9710714f5a383c1598de170fe984333d4aa7a67c0261553bbb5401501b30a2",
+    "level": {
+      "name": "ZSL - Space-Race",
+      "path": "./downloads/3307454841/ZSL - Space-Race/ZSL - Space-Race.zeeplevel",
+      "blocks": 181,
+      "author": "ፕዘቿ_ፕዐጠ_ርልፕ",
+      "uuid": "11082024-175928843-ፕዘቿ_ፕዐጠ_ርልፕ-000062096039-180",
+      "time": 66.4101,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
