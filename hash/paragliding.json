@@ -378,5 +378,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3307525822",
+    "hash": "a5169458576da0768a32a58a917a926c0aa3b3d77561433981215ca10469fe05",
+    "level": {
+      "name": "ZSL - Monarch Wings",
+      "path": "./downloads/3307525822/ZSL - Monarch Wings/ZSL - Monarch Wings.zeeplevel",
+      "blocks": 369,
+      "author": "[CTR]Kernkob",
+      "uuid": "11082024-211022640-[CTR]Kernkob-903513528902-368",
+      "time": 41.07837,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
