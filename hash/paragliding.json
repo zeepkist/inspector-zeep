@@ -405,5 +405,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3307673450",
+    "hash": "0714ee65166882075af346d13e6aad70a97800a723a66f69df1458ed776589b2",
+    "level": {
+      "name": "ZSL - Flying squirrel nut heist",
+      "path": "./downloads/3307673450/ZSL - Flying squirrel nut heist/ZSL - Flying squirrel nut heist.zeeplevel",
+      "blocks": 1438,
+      "author": "Marblejames11",
+      "uuid": "12082024-041324135-Marblejames11-662917127246-1437",
+      "time": 71.03784,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
