@@ -432,5 +432,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3308387937",
+    "hash": "3a4a59c66a34c42b66b2de479f02bd0369e903cdcbf20dd1e93efd0827a58861",
+    "level": {
+      "name": "ZSL - City skyline",
+      "path": "./downloads/3308387937/ZSL - City skyline/ZSL - City skyline.zeeplevel",
+      "blocks": 1360,
+      "author": "[TG]Tommygaming5132",
+      "uuid": "13082024-160146392-[TG]Tommygaming5132-228632268103-1359",
+      "time": 65.81525,
+      "checkpoints": 14,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
