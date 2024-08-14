@@ -486,5 +486,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3309026153",
+    "hash": "05a7f0031f63a197bfe3708b72eb587ded5e91c6bd4274e22bcb5e2fc631b7dd",
+    "level": {
+      "name": "ZSL - Skymall",
+      "path": "./downloads/3309026153/ZSL - Skymall/ZSL - Skymall.zeeplevel",
+      "blocks": 1809,
+      "author": "Shadynook & St Nicholas",
+      "uuid": "13082024-232147667-St Nicholas-634403106073-1808",
+      "time": 50.90921,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
