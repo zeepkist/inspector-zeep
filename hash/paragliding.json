@@ -513,5 +513,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3309085784",
+    "hash": "8e99bc0c7aedf2bac020e2092b3e2a8d8ddee408d4d4c4651e0cc58ad50c4380",
+    "level": {
+      "name": "ZSL - Zeep Drone Racing",
+      "path": "./downloads/3309085784/ZSL - Zeep Drone Racing/ZSL - Zeep Drone Racing.zeeplevel",
+      "blocks": 1163,
+      "author": "[TOG]ioi8",
+      "uuid": "14082024-130100922-[TOG]ioi8-132810711790-1162",
+      "time": 56.54482,
+      "checkpoints": 16,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
