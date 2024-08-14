@@ -459,5 +459,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3308782793",
+    "hash": "9ad0c68cca7c0ac9c9843a8a14b98815a73914f12ea0ffbce1a09942ed709951",
+    "level": {
+      "name": "ZSL - Quidditch",
+      "path": "./downloads/3308782793/ZSL - Quidditch/ZSL - Quidditch.zeeplevel",
+      "blocks": 2060,
+      "author": "[Bunn]Spuzzle",
+      "uuid": "14082024-010150611-[Bunn]Spuzzle-103559855745-2059",
+      "time": 49.82309,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
