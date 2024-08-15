@@ -540,5 +540,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3309666083",
+    "hash": "28727de0c2e123866e84c0723789a338d86ce453a57e4fe05b59ad05cfca06ae",
+    "level": {
+      "name": "ZSL - Pearly Gates",
+      "path": "./downloads/3309666083/ZSL - Pearly Gates/ZSL - Pearly Gates.zeeplevel",
+      "blocks": 662,
+      "author": "Weside",
+      "uuid": "15082024-112347296-Weside-554508967861-661",
+      "time": 46.57739,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
