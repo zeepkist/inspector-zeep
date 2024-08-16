@@ -567,5 +567,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3310284956",
+    "hash": "edac50eefc23093f2173bfaf725fed531fa5ef8ea3fc1851501f9e1ff896131a",
+    "level": {
+      "name": "ZSL - Escaping Baba Yaga's Forest",
+      "path": "./downloads/3310284956/ZSL - Escaping Baba Yaga's Forest/ZSL - Escaping Baba Yaga's Forest.zeeplevel",
+      "blocks": 2033,
+      "author": "[TOG]Lazy_Echidna",
+      "uuid": "16082024-164913189-[TOG]Lazy_Echidna-494367259123-2032",
+      "time": 43.34233,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
