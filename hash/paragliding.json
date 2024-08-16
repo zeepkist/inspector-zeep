@@ -595,5 +595,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3307831580",
+    "hash": "b6679dabcdcd441cf7b26bbea4ff43f260c35a662aa571968bd59114a8c67519",
+    "level": {
+      "name": "canyon",
+      "path": "./downloads/3307831580/canyon/canyon.zeeplevel",
+      "blocks": 705,
+      "author": "kittco36",
+      "uuid": "17082024-005440449-kittco36-563200576236-704",
+      "time": 47.69737,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
