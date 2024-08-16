@@ -489,13 +489,13 @@
   },
   {
     "workshopPath": "./downloads/3309026153",
-    "hash": "05a7f0031f63a197bfe3708b72eb587ded5e91c6bd4274e22bcb5e2fc631b7dd",
+    "hash": "300acf8f6f3cf48733fc27502c84ff5ca0e917583fc03317bc1948de4832d9ff",
     "level": {
       "name": "ZSL - Skymall",
       "path": "./downloads/3309026153/ZSL - Skymall/ZSL - Skymall.zeeplevel",
-      "blocks": 1809,
+      "blocks": 1811,
       "author": "Shadynook & St Nicholas",
-      "uuid": "13082024-232147667-St Nicholas-634403106073-1808",
+      "uuid": "16082024-081652603-St Nicholas-136088120863-1810",
       "time": 50.90921,
       "checkpoints": 7,
       "changerGateModes": {},
@@ -512,7 +512,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3309085784",
