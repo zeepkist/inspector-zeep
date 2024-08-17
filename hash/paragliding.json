@@ -649,5 +649,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3308521953",
+    "hash": "ac370ff9203556896212d0023b57c1462961e0ef6c6802476405f870bb551917",
+    "level": {
+      "name": "ZSL - Floating on Sunshine",
+      "path": "./downloads/3308521953/ZSL - Floating on Sunshine/ZSL - Floating on Sunshine.zeeplevel",
+      "blocks": 1147,
+      "author": "[ZET] Hate Hater",
+      "uuid": "13082024-210451009-[ZET] Hate Hater-849091062745-1146",
+      "time": 45.98447,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
