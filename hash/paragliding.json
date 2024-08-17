@@ -622,5 +622,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3310854845",
+    "hash": "2e53837667952c18078b65976615d5a90150f42239b99257df319c7f20d7aa61",
+    "level": {
+      "name": "ZSL - Weeeeeeee!",
+      "path": "./downloads/3310854845/ZSL - Weeeeeeee!/ZSL - Weeeeeeee!.zeeplevel",
+      "blocks": 650,
+      "author": "[CTR]jandje",
+      "uuid": "17082024-141132979-[CTR]jandje-704396479339-649",
+      "time": 46.4543,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
