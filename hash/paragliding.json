@@ -730,5 +730,59 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3312532005",
+    "hash": "20faaf35b1ba8b46bc1047efe0d6f239f6ee7f95e7f4187e19bc29bd78a2ccbf",
+    "level": {
+      "name": "ZSL - Juan",
+      "path": "./downloads/3312532005/ZSL - Juan/ZSL - Juan.zeeplevel",
+      "blocks": 342,
+      "author": "Lexer",
+      "uuid": "19082024-151616492-Lexer-184926744777-341",
+      "time": 39.06866,
+      "checkpoints": 14,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3312533686",
+    "hash": "a4f9e540953953462ccb0a127ec69c42090d66d10bf6b9d6817ec4865851f873",
+    "level": {
+      "name": "ZSL - Airtoth",
+      "path": "./downloads/3312533686/ZSL - Airtoth/ZSL - Airtoth.zeeplevel",
+      "blocks": 2545,
+      "author": "justMaki",
+      "uuid": "19082024-225911180-justMaki-077979924477-2544",
+      "time": 47.70156,
+      "checkpoints": 16,
+      "changerGateModes": {},
+      "logicBlocks": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
