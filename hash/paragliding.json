@@ -703,5 +703,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3312502131",
+    "hash": "7f4137d2f3295d901fe8da95e78c621c1a4fa00e6601981122d28a044989ea34",
+    "level": {
+      "name": "ZSL - Alien Monuments",
+      "path": "./downloads/3312502131/ZSL - Alien Monuments/ZSL - Alien Monuments.zeeplevel",
+      "blocks": 1385,
+      "author": "[HRR] readfreak7",
+      "uuid": "19082024-162747301-[HRR] readfreak7-525042785926-1384",
+      "time": 56.47423,
+      "checkpoints": 14,
+      "changerGateModes": {},
+      "logicBlocks": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
