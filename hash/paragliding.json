@@ -676,5 +676,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3312009600",
+    "hash": "b9cf75a362e9800c9deb4f7988c99396ecff711ca9818577ae8d55d10d2efe8c",
+    "level": {
+      "name": "ZSL - Paraglider Trials",
+      "path": "./downloads/3312009600/ZSL - Paraglider Trials/ZSL - Paraglider Trials.zeeplevel",
+      "blocks": 397,
+      "author": "That1Guy",
+      "uuid": "18082024-181859090-That1Guy-075181920517-396",
+      "time": 41.87448,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
