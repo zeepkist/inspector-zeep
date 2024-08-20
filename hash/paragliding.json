@@ -784,5 +784,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3312702649",
+    "hash": "21ef03a1df3f34e8fea50eb6b9b93159203a1f82a7e4a37802a182e8de4bdfb5",
+    "level": {
+      "name": "ZSL - Galactic Descend",
+      "path": "./downloads/3312702649/ZSL - Galactic Descend/ZSL - Galactic Descend.zeeplevel",
+      "blocks": 1467,
+      "author": "AndMe46",
+      "uuid": "19082024-233439441-AndMe46-762457656633-1466",
+      "time": 46.62958,
+      "checkpoints": 14,
+      "changerGateModes": {},
+      "logicBlocks": 94
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
