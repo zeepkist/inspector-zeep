@@ -811,5 +811,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3313824344",
+    "hash": "bb5a5aafacdbafb12db4a25a160d3d9cc681ad2445589f69c393fe6b14b5069c",
+    "level": {
+      "name": "ZSL - Zeepcity",
+      "path": "./downloads/3313824344/ZSL - Zeepcity/ZSL - Zeepcity.zeeplevel",
+      "blocks": 1832,
+      "author": "[TG]Tommygaming5132",
+      "uuid": "21082024-180938539-[TG]Tommygaming5132-790230886956-1831",
+      "time": 63.71851,
+      "checkpoints": 14,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
