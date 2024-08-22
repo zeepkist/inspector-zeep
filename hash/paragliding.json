@@ -838,5 +838,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3314259788",
+    "hash": "1b374e86cee462c374f1f3fb02d06f5040aa934d6d073856dd6812287b1acee8",
+    "level": {
+      "name": "ZSL - Saint Carmine",
+      "path": "./downloads/3314259788/ZSL - Saint Carmine/ZSL - Saint Carmine.zeeplevel",
+      "blocks": 1338,
+      "author": "sf is a bbt",
+      "uuid": "22082024-084658610-sf is a bbt-790790675528-1337",
+      "time": 48.5491,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
