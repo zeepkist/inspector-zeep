@@ -679,14 +679,14 @@
   },
   {
     "workshopPath": "./downloads/3312009600",
-    "hash": "b9cf75a362e9800c9deb4f7988c99396ecff711ca9818577ae8d55d10d2efe8c",
+    "hash": "04682bb1db86588cb51d92ef6cf3f8691eba57431063789c9ad57d37339c53db",
     "level": {
       "name": "ZSL - Paraglider Trials",
       "path": "./downloads/3312009600/ZSL - Paraglider Trials/ZSL - Paraglider Trials.zeeplevel",
-      "blocks": 397,
+      "blocks": 398,
       "author": "That1Guy",
-      "uuid": "18082024-181859090-That1Guy-075181920517-396",
-      "time": 41.87448,
+      "uuid": "22082024-155828512-That1Guy-415380160660-397",
+      "time": 43.49769,
       "checkpoints": 8,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -702,7 +702,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3312502131",
