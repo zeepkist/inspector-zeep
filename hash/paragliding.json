@@ -865,5 +865,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3314479061",
+    "hash": "364a24888eaf12d6a6d0e6501f21a0a5b7dd47c46d9ae3bfabf63eadf7e269f7",
+    "level": {
+      "name": "ZSL- Red or Green",
+      "path": "./downloads/3314479061/ZSL- Red or Green/ZSL- Red or Green.zeeplevel",
+      "blocks": 75,
+      "author": "[ZET] Wheelie",
+      "uuid": "22082024-084600543-[ZET] Wheelie-338116267026-74",
+      "time": 34.82857,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
