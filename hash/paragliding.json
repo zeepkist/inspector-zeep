@@ -892,5 +892,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3314825552",
+    "hash": "3f67c305c2d878e78ad6a45fbcc3a04266b3801ae807b88adc15e6511b8a8357",
+    "level": {
+      "name": "ZSL - Undergrowth Sanctuary",
+      "path": "./downloads/3314825552/ZSL - Undergrowth Sanctuary/ZSL - Undergrowth Sanctuary.zeeplevel",
+      "blocks": 978,
+      "author": "LemØn",
+      "uuid": "22082024-225818264-LemØn-356947045062-977",
+      "time": 72.72295,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 15
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
