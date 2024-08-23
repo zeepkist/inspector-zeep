@@ -974,5 +974,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3315290914",
+    "hash": "e5aed2891fa2f1b96e09da8906496848dd4f0ee1dcc3ca51d836527296f3d02d",
+    "level": {
+      "name": "ZSL-The World Beyond",
+      "path": "./downloads/3315290914/ZSL-The World Beyond/ZSL-The World Beyond.zeeplevel",
+      "blocks": 1291,
+      "author": "GearworkDragon",
+      "uuid": "23082024-104206567-GearworkDragon-474498855322-1290",
+      "time": 58.31999,
+      "checkpoints": 11,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
