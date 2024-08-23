@@ -1028,5 +1028,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3311431191",
+    "hash": "e93b3ab63529221438290eb30414d94623275302372261990f7bdc718cd72940",
+    "level": {
+      "name": "ZSL - Planetoids",
+      "path": "./downloads/3311431191/ZSL - Planetoids/ZSL - Planetoids.zeeplevel",
+      "blocks": 3283,
+      "author": "maxie12",
+      "uuid": "24082024-002622213-maxie12-165997694434-3282",
+      "time": 39.81744,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
