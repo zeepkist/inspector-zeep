@@ -920,5 +920,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3315114032",
+    "hash": "d146db8dc78feab6c15ce2e233cf53007feb4358434564f76c3e3395d1dff8ed",
+    "level": {
+      "name": "ZSL - Seagliders",
+      "path": "./downloads/3315114032/ZSL - Seagliders/ZSL - Seagliders.zeeplevel",
+      "blocks": 1412,
+      "author": "schmxrg",
+      "uuid": "23082024-023351728-schmxrg-909378603735-1411",
+      "time": 48.3875,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 30
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
