@@ -1001,5 +1001,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3315535467",
+    "hash": "4cde5828567adc747787255a7ff0c36fa1a53dab8a9356c9ec3adef3b874f1f6",
+    "level": {
+      "name": "ZSL - rocky islands glide",
+      "path": "./downloads/3315535467/ZSL - rocky islands glide/ZSL - rocky islands glide.zeeplevel",
+      "blocks": 861,
+      "author": "Michael97",
+      "uuid": "23082024-213237619-Michael97-007716662402-860",
+      "time": 69.49677,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
