@@ -947,5 +947,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3315170550",
+    "hash": "2cd5a66683fa4aa5d76dfc46dcda1c31acdc19d8671ab94d5e115c2e4d0cf88e",
+    "level": {
+      "name": "ZSL - Airborne Embers",
+      "path": "./downloads/3315170550/ZSL - Airborne Embers/ZSL - Airborne Embers.zeeplevel",
+      "blocks": 2456,
+      "author": "Diabler & Metalted",
+      "uuid": "20240823-11110263-DiablerMetalted-293857812387-2456",
+      "time": 46.1019,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 674
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
