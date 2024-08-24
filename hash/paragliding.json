@@ -1082,5 +1082,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3315809915",
+    "hash": "d95cae38486f6550d93601dca66d5bb3cc181f6fcfe7698c2ee866318e2ba118",
+    "level": {
+      "name": "ZSL - Lava Tube Cave",
+      "path": "./downloads/3315809915/ZSL - Lava Tube Cave/ZSL - Lava Tube Cave.zeeplevel",
+      "blocks": 366,
+      "author": "mythorchid",
+      "uuid": "23082024-215552169-mythorchid-948334240656-365",
+      "time": 65.3992,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
