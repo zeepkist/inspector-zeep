@@ -977,14 +977,14 @@
   },
   {
     "workshopPath": "./downloads/3315290914",
-    "hash": "e5aed2891fa2f1b96e09da8906496848dd4f0ee1dcc3ca51d836527296f3d02d",
+    "hash": "4ec50c87e105b7778e01c7cd8bccfff1a677066eae3ab0cbbcec71b524b9c225",
     "level": {
       "name": "ZSL-The World Beyond",
       "path": "./downloads/3315290914/ZSL-The World Beyond/ZSL-The World Beyond.zeeplevel",
       "blocks": 1291,
       "author": "GearworkDragon",
-      "uuid": "23082024-104206567-GearworkDragon-474498855322-1290",
-      "time": 58.31999,
+      "uuid": "24082024-114222066-GearworkDragon-784388514446-1290",
+      "time": 58.09732,
       "checkpoints": 11,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -1000,7 +1000,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3315535467",
@@ -1094,6 +1095,33 @@
       "uuid": "23082024-215552169-mythorchid-948334240656-365",
       "time": 65.3992,
       "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3316274287",
+    "hash": "48d28acbda14b2e82189d63819d87817ab8a02da8489a7042aebf71866d09782",
+    "level": {
+      "name": "ZSL - Gliding Wild",
+      "path": "./downloads/3316274287/ZSL - Gliding Wild/ZSL - Gliding Wild.zeeplevel",
+      "blocks": 2451,
+      "author": "Mack cheesy gaming",
+      "uuid": "24082024-100543600-Mack cheesy gaming-641483884342-2450",
+      "time": 51.77379,
+      "checkpoints": 12,
       "changerGateModes": {},
       "logicBlocks": 0
     },
