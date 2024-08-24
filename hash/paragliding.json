@@ -1055,5 +1055,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3315786379",
+    "hash": "33e80063379ef57c8e224841ead795e666b7f4563eaf229b56f72d1941c7cca2",
+    "level": {
+      "name": "ZSL - Gliding Wild",
+      "path": "./downloads/3315786379/ZSL - Gliding Wild/ZSL - Gliding Wild.zeeplevel",
+      "blocks": 2451,
+      "author": "Mack cheesy gaming",
+      "uuid": "23082024-210630113-Mack cheesy gaming-713563787292-2450",
+      "time": 51.05011,
+      "checkpoints": 12,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
