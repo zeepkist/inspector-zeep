@@ -924,14 +924,14 @@
   },
   {
     "workshopPath": "./downloads/3315114032",
-    "hash": "d146db8dc78feab6c15ce2e233cf53007feb4358434564f76c3e3395d1dff8ed",
+    "hash": "46eb2157bee3220a8a2617eefc636adf87e3e2c2998fa522d56541e1bf22a20a",
     "level": {
       "name": "ZSL - Seagliders",
       "path": "./downloads/3315114032/ZSL - Seagliders/ZSL - Seagliders.zeeplevel",
-      "blocks": 1412,
+      "blocks": 1423,
       "author": "schmxrg",
-      "uuid": "23082024-023351728-schmxrg-909378603735-1411",
-      "time": 48.3875,
+      "uuid": "24082024-210538039-schmxrg-024327299532-1422",
+      "time": 48.03322,
       "checkpoints": 10,
       "changerGateModes": {},
       "logicBlocks": 30
@@ -947,7 +947,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3315170550",
@@ -1123,6 +1124,33 @@
       "uuid": "24082024-100543600-Mack cheesy gaming-641483884342-2450",
       "time": 51.77379,
       "checkpoints": 12,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3316634693",
+    "hash": "46f90b170c93e9869151223be8660f2c0ba814f32c691f03321c005ddb278585",
+    "level": {
+      "name": "ZSL - Valley Express",
+      "path": "./downloads/3316634693/ZSL - Valley Express/ZSL - Valley Express.zeeplevel",
+      "blocks": 2714,
+      "author": "Frothy",
+      "uuid": "24082024-202443919-Frothy-220483944054-2713",
+      "time": 61.78239,
+      "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
     },
