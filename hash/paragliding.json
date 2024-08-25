@@ -1220,5 +1220,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3317187873",
+    "hash": "f9497923c4ebc708741d7764fd21162eae83ec46d92f3b9dee53c935ad1052a7",
+    "level": {
+      "name": "ZSL - ZeepSwarm",
+      "path": "./downloads/3317187873/ZSL - ZeepSwarm/ZSL - ZeepSwarm.zeeplevel",
+      "blocks": 3407,
+      "author": "mate108",
+      "uuid": "25082024-185640227-mate108-581470392758-3406",
+      "time": 47.21441,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
