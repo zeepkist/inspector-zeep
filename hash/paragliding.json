@@ -1193,5 +1193,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3317160619",
+    "hash": "8f6567b13c27ccd5a8537758441fad4075b61df329b43ec946181068759c53d5",
+    "level": {
+      "name": "ZSL - The Audacious Spirit",
+      "path": "./downloads/3317160619/ZSL - The Audacious Spirit/ZSL - The Audacious Spirit.zeeplevel",
+      "blocks": 638,
+      "author": "[FORK] A Broken Forklift",
+      "uuid": "25082024-115615787-[FORK] A Broken Forklift-026945341504-637",
+      "time": 59.33284,
+      "checkpoints": 11,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
