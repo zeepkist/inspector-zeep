@@ -1166,5 +1166,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3317110241",
+    "hash": "2a9bbacf7c03650d4953f876a0db229772e4a76c8ad21ddc491106e9763f5bb6",
+    "level": {
+      "name": "ZSL - Space Ace",
+      "path": "./downloads/3317110241/ZSL - Space Ace/ZSL - Space Ace.zeeplevel",
+      "blocks": 834,
+      "author": "Daconqueror64",
+      "uuid": "26082024-010322750-Daconqueror64-251771252308-833",
+      "time": 54.43855,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 47
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
