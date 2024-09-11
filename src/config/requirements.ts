@@ -1,5 +1,5 @@
 export const BLOCK_LIMIT = 4000 // 4000
-export const MINIMUM_TIME = 30 // seconds
+export const MINIMUM_TIME = 20 // seconds
 export const MAXIMUM_TIME = 75 // seconds
 export const MINIMUM_CHECKPOINTS = 2
 // eslint-disable-next-line @typescript-eslint/no-inferrable-types
@@ -18,6 +18,6 @@ export const CHANGER_GATE_MODES_REQUIRED = new Set([
   //'Invert Steering',
   //'Invert Arms Up Braking',
   //'Offroad Wheels',
-  'Paraglider',
+  //'Paraglider',
   //'Soap Wheels'
 ])
