@@ -1,0 +1,299 @@
+[
+  {
+    "workshopPath": "./downloads/3329225467",
+    "hash": "73127f77d34d37faca927ea0cfecd12a7ca88d1d9fe3fed38e51ab5b5aea9550",
+    "level": {
+      "name": "ZSL - Sweet Sundae Showdown",
+      "path": "./downloads/3329225467/ZSL - Sweet Sundae Showdown/ZSL - Sweet Sundae Showdown.zeeplevel",
+      "blocks": 821,
+      "author": "Frothy",
+      "uuid": "11092024-105039059-Frothy-498390620644-820",
+      "time": 42.18968,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3328138854",
+    "hash": "e37399ae22b48694eb791a861b2d6a8cc9fc166b362058a93368aab3136accb0",
+    "level": {
+      "name": "ZSL - Honey I Shrunk the ZK Lobby",
+      "path": "./downloads/3328138854/ZSL - Honey I Shrunk the ZK Lobby/ZSL - Honey I Shrunk the ZK Lobby.zeeplevel",
+      "blocks": 295,
+      "author": "[R0nC] cham824",
+      "uuid": "09092024-151226091-[R0nC] cham824-076173840742-294",
+      "time": 74.62345,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3327695916",
+    "hash": "267044e7866a4a6d77b92ee3cbc0d80209bf7b2a66d4a10d2516eb3fdb54d5f9",
+    "level": {
+      "name": "ZSL-Glowstick Speedway",
+      "path": "./downloads/3327695916/ZSL-Glowstick Speedway/ZSL-Glowstick Speedway.zeeplevel",
+      "blocks": 2243,
+      "author": "[Makr]reholmes92",
+      "uuid": "08092024-201628039-[Makr]reholmes92-966810000894-2242",
+      "time": 63.0227,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3327668105",
+    "hash": "39d9486483449899cbb39c1fc09ca70744e18206444af51d4b5603cc20ebb70c",
+    "level": {
+      "name": "ZSL - Toolbox Tumble",
+      "path": "./downloads/3327668105/ZSL - Toolbox Tumble/ZSL - Toolbox Tumble.zeeplevel",
+      "blocks": 868,
+      "author": "Shadynook",
+      "uuid": "09092024-073608231-Shadynook-624807550016-867",
+      "time": 41.06537,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3327586375",
+    "hash": "4a43dba4dfce94fe9c3e28278cd06666c63f32f26608a241daec206a19daf409",
+    "level": {
+      "name": "ZSL - Overgrown Lawn",
+      "path": "./downloads/3327586375/ZSL - Overgrown Lawn/ZSL - Overgrown Lawn.zeeplevel",
+      "blocks": 3002,
+      "author": "[CRT]Codewalt",
+      "uuid": "08092024-153259799-[CRT]Codewalt-658079412796-3001",
+      "time": 38.28469,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3326954537",
+    "hash": "21378bcbd09e5f374097deba4c7cf4b2350827a91446d4af97d909d0a0ba3d12",
+    "level": {
+      "name": "ZSL - Pond Parade",
+      "path": "./downloads/3326954537/ZSL - Pond Parade/ZSL - Pond Parade.zeeplevel",
+      "blocks": 893,
+      "author": "St Nicholas",
+      "uuid": "09092024-111532394-St Nicholas-811027606219-892",
+      "time": 59.808,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3326754174",
+    "hash": "29aed45ae787c120d339b741b3427df9f7a689e26aca1842274d04c6f48af34d",
+    "level": {
+      "name": "ZSL - Shogi Rushdown",
+      "path": "./downloads/3326754174/ZSL - Shogi Rushdown/ZSL - Shogi Rushdown.zeeplevel",
+      "blocks": 1112,
+      "author": "Last",
+      "uuid": "08092024-003746325-Last-496687266626-1111",
+      "time": 38.65819,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3327308356",
+    "hash": "c2d322a788d020117f662d698e3f555b1c62943ad9e6304247b1e243240c7b39",
+    "level": {
+      "name": "ZSL - Tommygaming's room",
+      "path": "./downloads/3327308356/ZSL - Tommygaming's room/ZSL - Tommygaming's room.zeeplevel",
+      "blocks": 1230,
+      "author": "[TG]Tommygaming5132",
+      "uuid": "08092024-172937870-[TG]Tommygaming5132-674603358817-1229",
+      "time": 41.94819,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3325386663",
+    "hash": "51db385831d95caadf5081584f4d06e3448c1db2440fa3b7842af701c1a1325a",
+    "level": {
+      "name": "ZSL-Anthill Hideout",
+      "path": "./downloads/3325386663/ZSL-Anthill Hideout/ZSL-Anthill Hideout.zeeplevel",
+      "blocks": 1474,
+      "author": "GearworkDragon",
+      "uuid": "05092024-210023509-GearworkDragon-750893396648-1473",
+      "time": 53.58628,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3324261780",
+    "hash": "5b23ad6cb0b9078126d635ec4f3367d7f551a8278ad8dc30df887dcd67f1e302",
+    "level": {
+      "name": "ZSL - There's an error in the code",
+      "path": "./downloads/3324261780/ZSL - There's an error in the code/ZSL - There's an error in the code.zeeplevel",
+      "blocks": 180,
+      "author": "[TTR] Tigerplaysonpc",
+      "uuid": "04092024-094313283-[TTR] Tigerplaysonpc-176404714234-179",
+      "time": 52.35219,
+      "checkpoints": 2,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3324489842",
+    "hash": "fca21dcfd5d1ecd1c5a72d0fde7196d1f265db44c8490408aaffeb28ae1c8503",
+    "level": {
+      "name": "ZSL - Little Big Zeep - Gardens",
+      "path": "./downloads/3324489842/ZSL - Little Big Zeep - Gardens/ZSL - Little Big Zeep - Gardens.zeeplevel",
+      "blocks": 382,
+      "author": "[HTMK]SwiftEvolta",
+      "uuid": "04092024-165514915-[HTMK]SwiftEvolta-253290398527-381",
+      "time": 39.41495,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  }
+]
