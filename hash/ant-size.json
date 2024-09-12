@@ -109,14 +109,14 @@
   },
   {
     "workshopPath": "./downloads/3327586375",
-    "hash": "4a43dba4dfce94fe9c3e28278cd06666c63f32f26608a241daec206a19daf409",
+    "hash": "b9b59641ffef9ab55426f9d125f502eb6f63a1d65234109166e88784b3803857",
     "level": {
       "name": "ZSL - Overgrown Lawn",
       "path": "./downloads/3327586375/ZSL - Overgrown Lawn/ZSL - Overgrown Lawn.zeeplevel",
-      "blocks": 3002,
+      "blocks": 3012,
       "author": "[CRT]Codewalt",
-      "uuid": "08092024-153259799-[CRT]Codewalt-658079412796-3001",
-      "time": 38.28469,
+      "uuid": "12092024-125550293-[CRT]Codewalt-241625759842-3011",
+      "time": 39.09874,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -132,7 +132,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3326954537",
