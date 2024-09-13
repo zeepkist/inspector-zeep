@@ -296,5 +296,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3330268819",
+    "hash": "7d721778b09fe7a203cc2abe81526c00920df7f6540da5306e4142ffe0c6d9cc",
+    "level": {
+      "name": "ZSL - Island Rush",
+      "path": "./downloads/3330268819/ZSL - Island Rush/ZSL - Island Rush.zeeplevel",
+      "blocks": 144,
+      "author": "Northwind",
+      "uuid": "13092024-154134804-Northwind-960631783044-143",
+      "time": 41.11225,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
