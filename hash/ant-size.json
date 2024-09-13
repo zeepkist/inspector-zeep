@@ -82,14 +82,14 @@
   },
   {
     "workshopPath": "./downloads/3327668105",
-    "hash": "39d9486483449899cbb39c1fc09ca70744e18206444af51d4b5603cc20ebb70c",
+    "hash": "8050a5108b105d6712d69b168766c540c43169519a4eba911120f76bdee7c078",
     "level": {
       "name": "ZSL - Toolbox Tumble",
       "path": "./downloads/3327668105/ZSL - Toolbox Tumble/ZSL - Toolbox Tumble.zeeplevel",
-      "blocks": 868,
+      "blocks": 892,
       "author": "Shadynook",
-      "uuid": "09092024-073608231-Shadynook-624807550016-867",
-      "time": 41.06537,
+      "uuid": "13092024-134606532-Shadynook-159033003829-891",
+      "time": 40.39259,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 3
@@ -105,7 +105,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3327586375",
