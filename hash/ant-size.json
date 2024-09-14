@@ -324,5 +324,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3330770231",
+    "hash": "5864091f9fff33d0bff7b558ce419ca66e651840a0a7c54c1bfcd68ffb93827a",
+    "level": {
+      "name": "ZSL - Ghost In The Machine",
+      "path": "./downloads/3330770231/ZSL - Ghost In The Machine/ZSL - Ghost In The Machine.zeeplevel",
+      "blocks": 1905,
+      "author": "Bram2323",
+      "uuid": "14092024-105845517-Bram2323-147841663315-1904",
+      "time": 35.59078,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 701
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
