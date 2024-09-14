@@ -192,14 +192,14 @@
   },
   {
     "workshopPath": "./downloads/3327308356",
-    "hash": "c2d322a788d020117f662d698e3f555b1c62943ad9e6304247b1e243240c7b39",
+    "hash": "9a94c6de3b7fb84e6e56275c317507f89d8353acf17a012ca81bfa02eccce0c8",
     "level": {
       "name": "ZSL - Tommygaming's room",
       "path": "./downloads/3327308356/ZSL - Tommygaming's room/ZSL - Tommygaming's room.zeeplevel",
-      "blocks": 1230,
+      "blocks": 1240,
       "author": "[TG]Tommygaming5132",
-      "uuid": "08092024-172937870-[TG]Tommygaming5132-674603358817-1229",
-      "time": 41.94819,
+      "uuid": "14092024-172511601-[TG]Tommygaming5132-576709795924-1239",
+      "time": 40.6644,
       "checkpoints": 8,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -215,7 +215,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3325386663",
