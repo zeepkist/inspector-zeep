@@ -351,5 +351,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3330927278",
+    "hash": "87b368a85b09b6347fa198a3be1caa92fdf409d8dde175ec58939d94718d278c",
+    "level": {
+      "name": "ZSL - Desert Ant Diorama",
+      "path": "./downloads/3330927278/ZSL - Desert Ant Diorama/ZSL - Desert Ant Diorama.zeeplevel",
+      "blocks": 350,
+      "author": "Riccio97",
+      "uuid": "14092024-162959245-Riccio97-524187153722-349",
+      "time": 42.07282,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
