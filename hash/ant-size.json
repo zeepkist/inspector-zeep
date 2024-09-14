@@ -406,5 +406,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3331109134",
+    "hash": "2fade7f06acb1423560824b5caf1a7b862fc366166982dec2303780614a8af9d",
+    "level": {
+      "name": "ZSL - Letter Go",
+      "path": "./downloads/3331109134/ZSL - Letter Go/ZSL - Letter Go.zeeplevel",
+      "blocks": 2804,
+      "author": "Mµ",
+      "uuid": "14092024-152301993-Mµ-178145671792-2803",
+      "time": 71.88706,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
