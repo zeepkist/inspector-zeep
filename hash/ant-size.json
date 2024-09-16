@@ -515,5 +515,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3329376617",
+    "hash": "e1361d5934b57c05b829f29e097ae03580e14816db4af2e8aefd548b881fba28",
+    "level": {
+      "name": "ZSL - Emergency Surgery for Fred!",
+      "path": "./downloads/3329376617/ZSL - Emergency Surgery for Fred!/ZSL - Emergency Surgery for Fred!.zeeplevel",
+      "blocks": 459,
+      "author": "[TOG]ioi8",
+      "uuid": "15092024-205826580-[TOG]ioi8-444270011671-458",
+      "time": 48.29966,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 33
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
