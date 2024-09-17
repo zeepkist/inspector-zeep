@@ -569,5 +569,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3332950896",
+    "hash": "3b17e6873d6a263142356b2b26c233fce2a7a7557b11c938f3fc52da5b54b9a9",
+    "level": {
+      "name": "ZSL - Wondrous Workshop",
+      "path": "./downloads/3332950896/ZSL - Wondrous Workshop/ZSL - Wondrous Workshop.zeeplevel",
+      "blocks": 1380,
+      "author": "[Bunn]Spuzzle",
+      "uuid": "17092024-144528164-[Bunn]Spuzzle-199695084406-1379",
+      "time": 48.29121,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
