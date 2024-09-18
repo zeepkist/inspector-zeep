@@ -221,14 +221,14 @@
   },
   {
     "workshopPath": "./downloads/3325386663",
-    "hash": "51db385831d95caadf5081584f4d06e3448c1db2440fa3b7842af701c1a1325a",
+    "hash": "d7021f1683dd5cf949076fd23f48704ba6fad2c32b45fdee5718843cdc769b78",
     "level": {
       "name": "ZSL-Anthill Hideout",
       "path": "./downloads/3325386663/ZSL-Anthill Hideout/ZSL-Anthill Hideout.zeeplevel",
-      "blocks": 1474,
+      "blocks": 1486,
       "author": "GearworkDragon",
-      "uuid": "05092024-210023509-GearworkDragon-750893396648-1473",
-      "time": 53.58628,
+      "uuid": "18092024-160451826-GearworkDragon-062707314004-1485",
+      "time": 53.66941,
       "checkpoints": 8,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -244,7 +244,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3324261780",
