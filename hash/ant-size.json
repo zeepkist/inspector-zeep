@@ -623,5 +623,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3333218216",
+    "hash": "b10850de6bbae1c9568180a6667b6608a07a5bda8befc5acd400f2330dc00fe8",
+    "level": {
+      "name": "ZSL - sAnt Castle",
+      "path": "./downloads/3333218216/ZSL - sAnt Castle/ZSL - sAnt Castle.zeeplevel",
+      "blocks": 566,
+      "author": "Maou & Maki",
+      "uuid": "18092024-133909561-Maou & Maki-152253118727-565",
+      "time": 57.82875,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
