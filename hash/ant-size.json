@@ -596,5 +596,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3333212772",
+    "hash": "bc05a3e703f7f80cf77bafaf031572ba55a2f7389101b68276c1b5ab6017cebc",
+    "level": {
+      "name": "ZSL - Leapfrog",
+      "path": "./downloads/3333212772/ZSL - Leapfrog/ZSL - Leapfrog.zeeplevel",
+      "blocks": 758,
+      "author": "Marblejames11",
+      "uuid": "18092024-022134167-Marblejames11-692346008930-757",
+      "time": 46.88969,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
