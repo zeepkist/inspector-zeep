@@ -651,5 +651,33 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3333409700",
+    "hash": "001e09913d6a988c39277431ffc97691cfcce2ad0c9939a21a35eb4888e8d215",
+    "level": {
+      "name": "ZSL - A Piece Of Cake",
+      "path": "./downloads/3333409700/ZSL - A Piece Of Cake/ZSL - A Piece Of Cake.zeeplevel",
+      "blocks": 3022,
+      "author": "Diabler",
+      "uuid": "19092024-012300790-Diabler-290107431386-3021",
+      "time": 27.38124,
+      "checkpoints": 0,
+      "changerGateModes": {},
+      "logicBlocks": 80
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": true,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 1726709950199
   }
 ]
