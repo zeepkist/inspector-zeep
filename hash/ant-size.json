@@ -679,5 +679,32 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 1726709950199
+  },
+  {
+    "workshopPath": "./downloads/3333673421",
+    "hash": "3549eab823912529e199951b9e34684d8a7cd3c2bd59a4be131aa0d3ff58ef76",
+    "level": {
+      "name": "ZSL - Roll Initiative!",
+      "path": "./downloads/3333673421/ZSL - Roll Initiative!/ZSL - Roll Initiative!.zeeplevel",
+      "blocks": 1971,
+      "author": "Lexer",
+      "uuid": "19092024-002404440-Lexer-925337556532-1970",
+      "time": 30.16334,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
