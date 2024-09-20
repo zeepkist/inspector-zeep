@@ -706,5 +706,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3334364629",
+    "hash": "ca59dfba6ea5569749eb1aecdda32588bad9319d10683f0bd58c8ce89e17bdd3",
+    "level": {
+      "name": "ZSL-Shrink Portal",
+      "path": "./downloads/3334364629/ZSL-Shrink Portal/ZSL-Shrink Portal.zeeplevel",
+      "blocks": 3823,
+      "author": "maxie12",
+      "uuid": "19092024-192106248-maxie12-317600087321-3822",
+      "time": 33.3155,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
