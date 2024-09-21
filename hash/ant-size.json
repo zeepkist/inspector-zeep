@@ -573,14 +573,14 @@
   },
   {
     "workshopPath": "./downloads/3332950896",
-    "hash": "3b17e6873d6a263142356b2b26c233fce2a7a7557b11c938f3fc52da5b54b9a9",
+    "hash": "9b53cb1d692aec603741fc279327fc73f5cf4d13a7a7e77306da7b45589a417f",
     "level": {
       "name": "ZSL - Wondrous Workshop",
       "path": "./downloads/3332950896/ZSL - Wondrous Workshop/ZSL - Wondrous Workshop.zeeplevel",
-      "blocks": 1380,
+      "blocks": 1398,
       "author": "[Bunn]Spuzzle",
-      "uuid": "17092024-144528164-[Bunn]Spuzzle-199695084406-1379",
-      "time": 48.29121,
+      "uuid": "21092024-141107825-[Bunn]Spuzzle-702663990837-1397",
+      "time": 48.52087,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -596,7 +596,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3333212772",
