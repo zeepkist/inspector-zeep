@@ -38,6 +38,31 @@ const changerGateBlockIdsByMode = new Set<ChangerGateBlockIdsByMode>([
     blockIds: new Set([1608, 1610, 1987]),
     mode: 'Soap Wheels',
     emoji: '<:soap_wheels:1263232213634257066>'
+  },
+  {
+    blockIds: new Set([72, 1611, 1613, 1988]),
+    mode: 'First Person',
+    emoji: '<:first_person:1287485186443055154>'
+  },
+  {
+    blockIds: new Set([73, 1612, 1614, 1989]),
+    mode: 'Third Person',
+    emoji: '<:third_person:1287485204814102680>'
+  },
+  {
+    blockIds: logicBlockIds,
+    mode: 'Logic',
+    emoji: '<:logic:1287485221182684161>'
+  },
+  {
+    blockIds: new Set([2279, 2280]),
+    mode: 'Music',
+    emoji: '<:music:1287485243229732864>'
+  },
+  {
+    blockIds: new Set([1607, 1609, 1986]),
+    mode: 'Reset',
+    emoji: '<:reset:1287485253015044187>'
   }
 ])
 
