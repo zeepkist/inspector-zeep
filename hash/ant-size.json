@@ -789,5 +789,59 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 1727011370583
+  },
+  {
+    "workshopPath": "./downloads/3335933474",
+    "hash": "bfc45a6d8fabc51378b86e77aa4e97ad55377afadeb74ebb63076f8a863cc441",
+    "level": {
+      "name": "ZSL - Forest Grove",
+      "path": "./downloads/3335933474/ZSL - Forest Grove/ZSL - Forest Grove.zeeplevel",
+      "blocks": 341,
+      "author": "icRS",
+      "uuid": "22092024-173905459-icRS-392944862708-340",
+      "time": 48.07934,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3335932893",
+    "hash": "bf36a3a7f23047cc512faffd2dc43f7fa6a9839a0f5a7364f32195a326f8f825",
+    "level": {
+      "name": "ZSL - Serene Shores (PM4)",
+      "path": "./downloads/3335932893/ZSL - Serene Shores (PM4)/ZSL - Serene Shores (PM4).zeeplevel",
+      "blocks": 2622,
+      "author": "[KURK] Quickracer10 - [KURK] lil_zwimpie",
+      "uuid": "22092024-183740744-Quickracer10-530792652268-2621",
+      "time": 52.664,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
