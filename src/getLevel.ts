@@ -52,7 +52,7 @@ const changerGateBlockIdsByMode = new Set<ChangerGateBlockIdsByMode>([
   {
     blockIds: logicBlockIds,
     mode: 'Logic',
-    emoji: '<:logic:1287485221182684161>'
+    emoji: '<:logic:1287485221884924059>'
   },
   {
     blockIds: new Set([2279, 2280]),
