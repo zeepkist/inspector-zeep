@@ -1,0 +1,57 @@
+[
+  {
+    "workshopPath": "./downloads/3341252091",
+    "hash": "401909dce0fee68fa7d66e89b03da802f2786079e7776ff8b3514aeffa79778b",
+    "level": {
+      "name": "Mini Golf",
+      "path": "./downloads/3341252091/Mini Golf/Mini Golf.zeeplevel",
+      "blocks": 207,
+      "author": "/< & Tigerplaysonpc",
+      "uuid": "10082022-013828840-Tigerplaysonpc-812320259292-206",
+      "time": 139.156,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": true,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 1727821551933
+  },
+  {
+    "workshopPath": "./downloads/3340996405",
+    "hash": "bf9262140c0e9684dd85c8768ec84b0185499d29fd6ce60cafc68541d65e1d7f",
+    "level": {
+      "name": "ZSL - Dread The 18th",
+      "path": "./downloads/3340996405/ZSL - Dread The 18th/ZSL - Dread The 18th.zeeplevel",
+      "blocks": 1738,
+      "author": "[CRT]Codewalt",
+      "uuid": "30092024-223821286-[CRT]Codewalt-178503179032-1737",
+      "time": 54.0355,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 7
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  }
+]
