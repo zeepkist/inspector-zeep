@@ -53,5 +53,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3341769799",
+    "hash": "535b87131c579d43d8b214de0829aad08096b273797e0ff98113e34fd4789724",
+    "level": {
+      "name": "ZSL - Crazy Golfing",
+      "path": "./downloads/3341769799/ZSL - Crazy Golfing/ZSL - Crazy Golfing.zeeplevel",
+      "blocks": 108,
+      "author": "[TTR] Tigerplaysonpc & /<",
+      "uuid": "02102024-162132664-[TTR] Tigerplaysonpc & /<-508433691010-107",
+      "time": 60.00283,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
