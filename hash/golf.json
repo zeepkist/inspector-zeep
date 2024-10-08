@@ -81,5 +81,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3345471968",
+    "hash": "b08920db0a988845bf6f24cca1d2c430257f49668054830a9f6a623fabf5d49d",
+    "level": {
+      "name": "ZSL - Happy Hills",
+      "path": "./downloads/3345471968/ZSL - Happy Hills/ZSL - Happy Hills.zeeplevel",
+      "blocks": 2431,
+      "author": "BB_Benji",
+      "uuid": "08102024-155852121-BB_Benji-596344988808-2430",
+      "time": 67.26566,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
