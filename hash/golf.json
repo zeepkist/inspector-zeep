@@ -108,5 +108,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3347689952",
+    "hash": "1abf6c3c06f7e68494aea184c170031bfca7a4f9f82c847b6962f3ba0d7e3d5c",
+    "level": {
+      "name": "ZSL- zwimptour golf",
+      "path": "./downloads/3347689952/ZSL- zwimptour golf/ZSL- zwimptour golf.zeeplevel",
+      "blocks": 2060,
+      "author": "[KURK] lil_zwimpie",
+      "uuid": "12102024-233630350-[KURK] lil_zwimpie-731230909128-2059",
+      "time": 36.08152,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
