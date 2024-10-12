@@ -111,14 +111,14 @@
   },
   {
     "workshopPath": "./downloads/3347689952",
-    "hash": "1abf6c3c06f7e68494aea184c170031bfca7a4f9f82c847b6962f3ba0d7e3d5c",
+    "hash": "058cd44ad01ac8a6ec4bd8c9b592d536c474438da57f0477211426c71711c8b6",
     "level": {
-      "name": "ZSL- zwimptour golf",
-      "path": "./downloads/3347689952/ZSL- zwimptour golf/ZSL- zwimptour golf.zeeplevel",
-      "blocks": 2060,
+      "name": "ZSL -  Zwimptour golf",
+      "path": "./downloads/3347689952/ZSL -  Zwimptour golf/ZSL -  Zwimptour golf.zeeplevel",
+      "blocks": 2062,
       "author": "[KURK] lil_zwimpie",
-      "uuid": "12102024-233630350-[KURK] lil_zwimpie-731230909128-2059",
-      "time": 36.08152,
+      "uuid": "13102024-004856199-[KURK] lil_zwimpie-777097880847-2061",
+      "time": 35.53204,
       "checkpoints": 8,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -134,6 +134,7 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
