@@ -136,5 +136,32 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3347741067",
+    "hash": "6dd144700914686bfd185aaae93b8f26f8b4b9345c15035f25436e4b48afc002",
+    "level": {
+      "name": "ZSL-Golf Gardens",
+      "path": "./downloads/3347741067/ZSL-Golf Gardens/ZSL-Golf Gardens.zeeplevel",
+      "blocks": 798,
+      "author": "GearworkDragon",
+      "uuid": "12102024-182128051-GearworkDragon-585488936276-797",
+      "time": 41.27295,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
