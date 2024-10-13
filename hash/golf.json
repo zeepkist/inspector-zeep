@@ -163,5 +163,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3348325379",
+    "hash": "7ff105fdde50b6c5a04012a9ee08442ddc857e1b2a8d4fbd243f338df1ae06d3",
+    "level": {
+      "name": "ZSL - LET'S GO GOLFING",
+      "path": "./downloads/3348325379/ZSL - LET'S GO GOLFING/ZSL - LET'S GO GOLFING.zeeplevel",
+      "blocks": 1941,
+      "author": "Lexer+Maki+St Nic",
+      "uuid": "13102024-122955212-St Nicholas-727540194012-1940",
+      "time": 43.41475,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
