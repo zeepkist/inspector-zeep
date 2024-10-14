@@ -217,5 +217,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3348947603",
+    "hash": "bc432557b96754e48e73f8c9e6a9c2d41c769b6f6ba39844e4c1d986407711e3",
+    "level": {
+      "name": "ZSL - Dreamy Golf",
+      "path": "./downloads/3348947603/ZSL - Dreamy Golf/ZSL - Dreamy Golf.zeeplevel",
+      "blocks": 782,
+      "author": "Bram2323",
+      "uuid": "14102024-234009957-Bram2323-994564187571-781",
+      "time": 59.78532,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 150
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
