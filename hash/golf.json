@@ -190,5 +190,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3348462771",
+    "hash": "dc7cbb80bf568376c0a9e548af6b74753d0ebe4d410c365227d7a5b7c6859e79",
+    "level": {
+      "name": "ZSL - Maple Hill - Hole 1",
+      "path": "./downloads/3348462771/ZSL - Maple Hill - Hole 1/ZSL - Maple Hill - Hole 1.zeeplevel",
+      "blocks": 1130,
+      "author": "Shadynook",
+      "uuid": "13102024-193641676-Shadynook-726807382709-1129",
+      "time": 36.00176,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
