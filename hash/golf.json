@@ -271,5 +271,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3349206293",
+    "hash": "c5de1d492cb80173d118b53b838fc2ea0ac492c1249174696a5b5aa0e2a130dc",
+    "level": {
+      "name": "ZSL - Crazy Caddy",
+      "path": "./downloads/3349206293/ZSL - Crazy Caddy/ZSL - Crazy Caddy.zeeplevel",
+      "blocks": 1871,
+      "author": "[TOG]ioi8",
+      "uuid": "15102024-083908676-[TOG]ioi8-556914222050-1870",
+      "time": 63.33883,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 11
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
