@@ -244,5 +244,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3349093563",
+    "hash": "28633859924996e9297bd1f3722d251209fe1ccb3741f7f34d5b3d9e15a2ad02",
+    "level": {
+      "name": "ZSL - Mulligan",
+      "path": "./downloads/3349093563/ZSL - Mulligan/ZSL - Mulligan.zeeplevel",
+      "blocks": 325,
+      "author": "agix",
+      "uuid": "14102024-231751442-agix-766747540940-324",
+      "time": 35.536,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
