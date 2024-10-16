@@ -298,5 +298,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3349674321",
+    "hash": "dbc0f54d5c1679804847dc5998719d0b4145b519444293f00760a9e2e846ffe4",
+    "level": {
+      "name": "ZSL - Rockfore",
+      "path": "./downloads/3349674321/ZSL - Rockfore/ZSL - Rockfore.zeeplevel",
+      "blocks": 1988,
+      "author": "[ZMS] Metalted",
+      "uuid": "16102024-132538096-[ZMS] Metalted-392614524033-1988",
+      "time": 49.26463,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 21
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
