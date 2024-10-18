@@ -379,5 +379,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3350845980",
+    "hash": "073c420d4c3dd9fb6ea985d61583c7e763b3dd45051b398dacf93b4c76e2f2c0",
+    "level": {
+      "name": "ZSL - speedy golf nightmare",
+      "path": "./downloads/3350845980/ZSL - speedy golf nightmare/ZSL - speedy golf nightmare.zeeplevel",
+      "blocks": 2651,
+      "author": "M4rv1nDD",
+      "uuid": "18102024-204152604-M4rv1nDD-700493186871-2650",
+      "time": 71.39968,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
