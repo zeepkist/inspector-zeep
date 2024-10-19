@@ -514,5 +514,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3351543720",
+    "hash": "fc490cfb7f9bc039393ed979df299afcc9da2d61918392eb863f0652f620bf19",
+    "level": {
+      "name": "ZSL - Saitama's Golf",
+      "path": "./downloads/3351543720/ZSL - Saitama's Golf/ZSL - Saitama's Golf.zeeplevel",
+      "blocks": 2056,
+      "author": "Diabler",
+      "uuid": "19102024-231232417-Diabler-722367295838-2055",
+      "time": 52.51645,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 24
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
