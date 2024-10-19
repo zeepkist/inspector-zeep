@@ -460,5 +460,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3344922401",
+    "hash": "3188c29c786ddb4cd09a38db18ddb293851de2e864cfe50f8786defab3444966",
+    "level": {
+      "name": "ZSL - Dread The 18th",
+      "path": "./downloads/3344922401/ZSL - Dread The 18th/ZSL - Dread The 18th.zeeplevel",
+      "blocks": 1750,
+      "author": "[CRT]Codewalt",
+      "uuid": "01102024-212958825-[CRT]Codewalt-179519760735-1749",
+      "time": 52.55436,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 7
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
