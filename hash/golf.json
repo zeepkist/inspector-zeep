@@ -487,5 +487,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3350794330",
+    "hash": "e37452ddca3c2613a87925444a8a93252d2c44a963a5326d69818b8d7b557180",
+    "level": {
+      "name": "ZSL - Wall In One",
+      "path": "./downloads/3350794330/ZSL - Wall In One/ZSL - Wall In One.zeeplevel",
+      "blocks": 278,
+      "author": "Northwind",
+      "uuid": "18102024-195247360-Northwind-086899372835-277",
+      "time": 38.59958,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
