@@ -406,5 +406,59 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3350980266",
+    "hash": "eb3ecfd0ca47de6a4022f627bb548c9553afc9708960440fdeca2fbe436aada5",
+    "level": {
+      "name": "ZSL - A Fairway Drive",
+      "path": "./downloads/3350980266/ZSL - A Fairway Drive/ZSL - A Fairway Drive.zeeplevel",
+      "blocks": 2081,
+      "author": "[lazy]MackCheesy",
+      "uuid": "18102024-171522490-[lazy]MackCheesy-581795998226-2080",
+      "time": 47.46819,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3349434074",
+    "hash": "0c4f00aa56cd51d85f17e88a7eef46f7283b5c6a9fff133b2d4da05fa5be999f",
+    "level": {
+      "name": "ZSL - Sunrise Golfing",
+      "path": "./downloads/3349434074/ZSL - Sunrise Golfing/ZSL - Sunrise Golfing.zeeplevel",
+      "blocks": 221,
+      "author": "[MIU] balogan75",
+      "uuid": "05102024-144653052-[MIU] balogan75-180046225311-220",
+      "time": 54.32101,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
