@@ -568,5 +568,59 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3351781989",
+    "hash": "6d369558b8c90bbc23fca6d6e8bc9846f8b0dc9a7f4d780150fad0435fdd29dc",
+    "level": {
+      "name": "ZSL-Misfire Mania",
+      "path": "./downloads/3351781989/ZSL-Misfire Mania/ZSL-Misfire Mania.zeeplevel",
+      "blocks": 1047,
+      "author": "maxie12 + Reholmes92",
+      "uuid": "19102024-113201689-maxie12-070540497320-1046",
+      "time": 54.00884,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3352057057",
+    "hash": "519c00c7893ddf086cd18a741cbecc4d7a8a124b36ad22b56f1d23b1b94a3846",
+    "level": {
+      "name": "ZSL - The 19th",
+      "path": "./downloads/3352057057/ZSL - The 19th/ZSL - The 19th.zeeplevel",
+      "blocks": 1929,
+      "author": "DeeDeeNaNaNa",
+      "uuid": "20102024-171325797-DeeDeeNaNaNa-549014122683-1928",
+      "time": 52.46421,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
