@@ -541,5 +541,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3351749671",
+    "hash": "de8fa23ac1e1255bb07b403ab6b699b599974964db30d25a06131fdda8e5d93f",
+    "level": {
+      "name": "ZSL - Cosmic Puttway",
+      "path": "./downloads/3351749671/ZSL - Cosmic Puttway/ZSL - Cosmic Puttway.zeeplevel",
+      "blocks": 938,
+      "author": "AndMe16",
+      "uuid": "20102024-010214785-AndMe16-703005703926-937",
+      "time": 42.08373,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
