@@ -1,0 +1,164 @@
+[
+  {
+    "workshopPath": "./downloads/3355868257",
+    "hash": "c991e5e01351062519118b496ddc20ed24289faa79a773c7c1aad26d0c890e40",
+    "level": {
+      "name": "ZSL - SubGenius toobs",
+      "path": "./downloads/3355868257/ZSL - SubGenius toobs/ZSL - SubGenius toobs.zeeplevel",
+      "blocks": 117,
+      "author": "imagineaclevernamehere",
+      "uuid": "28102024-075005709-imagineaclevernamehere-465137514912-116",
+      "time": 48.07563,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3356648009",
+    "hash": "1228c17cd92663d4ac47879dab35752213842c70264a68cef2e10c17e121c25c",
+    "level": {
+      "name": "ZSL - WOAH Toobs",
+      "path": "./downloads/3356648009/ZSL - WOAH Toobs/ZSL - WOAH Toobs.zeeplevel",
+      "blocks": 127,
+      "author": "[TTR] Tigerplaysonpc",
+      "uuid": "29102024-103815786-[TTR] Tigerplaysonpc-370167458366-126",
+      "time": 49.13546,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3356433439",
+    "hash": "c66a4352eab8dae9ec15df77f48c988717b13152944238114bd319ea32da20e8",
+    "level": {
+      "name": "ZSL - Pipeline",
+      "path": "./downloads/3356433439/ZSL - Pipeline/ZSL - Pipeline.zeeplevel",
+      "blocks": 324,
+      "author": "Encryptkid",
+      "uuid": "28102024-163854238-Encryptkid-181168771234-323",
+      "time": 67.6861,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3356407862",
+    "hash": "9d583f230429d2b9fc5be9c14822da8d9deb8dcd0ad6d841c80f404ec30aae81",
+    "level": {
+      "name": "ZSL - Tooooobs",
+      "path": "./downloads/3356407862/ZSL - Tooooobs/ZSL - Tooooobs.zeeplevel",
+      "blocks": 790,
+      "author": "Tommygaming5132",
+      "uuid": "28102024-214233023-Tommygaming5132-364201861601-789",
+      "time": 40.78823,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3356430598",
+    "hash": "70a6fc45cb198daf40aa90a11ac9115ac66f430113b8d4ed109611a582836a95",
+    "level": {
+      "name": "ZSL- Tubing",
+      "path": "./downloads/3356430598/ZSL- Tubing/ZSL- Tubing.zeeplevel",
+      "blocks": 46,
+      "author": "[ZET] Wheelie",
+      "uuid": "28102024-162954660-[ZET] Wheelie-528508471654-45",
+      "time": 36.28651,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3355893237",
+    "hash": "4ded813f67d02bdc427f54236103f594b14cd56438a5be6e28f2b6bbc05a7651",
+    "level": {
+      "name": "ZSL - Parva Fistulae",
+      "path": "./downloads/3355893237/ZSL - Parva Fistulae/ZSL - Parva Fistulae.zeeplevel",
+      "blocks": 746,
+      "author": "[XTR] NATHAN",
+      "uuid": "27102024-162645775-[XTR] NATHAN-768511353929-745",
+      "time": 27.53629,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  }
+]
