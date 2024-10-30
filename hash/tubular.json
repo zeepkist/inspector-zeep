@@ -160,5 +160,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3356964348",
+    "hash": "d83e1890acfc8c7f5f1bfe77c05bb2d1d3ae738848e7f8a973f6576daf5f107a",
+    "level": {
+      "name": "ZSL - Spiralloween",
+      "path": "./downloads/3356964348/ZSL - Spiralloween/ZSL - Spiralloween.zeeplevel",
+      "blocks": 79,
+      "author": "Mortishade",
+      "uuid": "30102024-001140694-Mortishade-231062475220-78",
+      "time": 34.14824,
+      "checkpoints": 2,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
