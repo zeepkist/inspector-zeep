@@ -187,5 +187,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3357501008",
+    "hash": "44ac69a9b525e9bd8325089ddd43494cac0f051f3475db7be6538f0765f1d7ea",
+    "level": {
+      "name": "Fractured Frost",
+      "path": "./downloads/3357501008/Fractured Frost/Fractured Frost.zeeplevel",
+      "blocks": 1206,
+      "author": "GearworkDragon",
+      "uuid": "30102024-202254788-GearworkDragon-785918219146-1205",
+      "time": 66.9446,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
