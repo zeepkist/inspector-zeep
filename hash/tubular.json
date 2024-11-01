@@ -190,13 +190,13 @@
   },
   {
     "workshopPath": "./downloads/3357501008",
-    "hash": "3616eedb5cd5e8becb9c50a914ce79f56ac6746c54bee088a34fbaf6a9529419",
+    "hash": "44f8677a444941d2643f9bec8ad0150ad2b10fea683215ec62abbc1510f98029",
     "level": {
-      "name": "Fractured Frost",
-      "path": "./downloads/3357501008/Fractured Frost/Fractured Frost.zeeplevel",
+      "name": "ZSL-Fractured Frost",
+      "path": "./downloads/3357501008/ZSL-Fractured Frost/ZSL-Fractured Frost.zeeplevel",
       "blocks": 1112,
       "author": "GearworkDragon",
-      "uuid": "31102024-203855131-GearworkDragon-534656769034-1111",
+      "uuid": "01112024-074010663-GearworkDragon-423581098411-1111",
       "time": 62.03779,
       "checkpoints": 8,
       "changerGateModes": {},
@@ -215,5 +215,32 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3358204943",
+    "hash": "1cc338b53fef13a1f51e4f990091ab14d481606e18509787f0e5727b3367a5e5",
+    "level": {
+      "name": "ZSL - Pipe Dream",
+      "path": "./downloads/3358204943/ZSL - Pipe Dream/ZSL - Pipe Dream.zeeplevel",
+      "blocks": 73,
+      "author": "DoombyDeath88",
+      "uuid": "02112024-000258632-DoombyDeath88-355680575030-72",
+      "time": 35.16428,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
