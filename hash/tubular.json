@@ -242,5 +242,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3358559432",
+    "hash": "670f731216e5bec0b2060842198d7eb11f76780eac5f1da34a06dd2729a15d84",
+    "level": {
+      "name": "ZSL - Spilled Coffee",
+      "path": "./downloads/3358559432/ZSL - Spilled Coffee/ZSL - Spilled Coffee.zeeplevel",
+      "blocks": 170,
+      "author": "[CTR]Kernkob",
+      "uuid": "01112024-184830189-[CTR]Kernkob-664016709340-169",
+      "time": 41.30319,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
