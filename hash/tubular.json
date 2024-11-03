@@ -269,5 +269,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3359653421",
+    "hash": "f9c03fca69b86de8ab914cfb7977ad9dbca5cbfe3c082800a54d40ffc34ba241",
+    "level": {
+      "name": "ZSL- High-rise Jungle",
+      "path": "./downloads/3359653421/ZSL- High-rise Jungle/ZSL- High-rise Jungle.zeeplevel",
+      "blocks": 771,
+      "author": "[ZET] Ploddip",
+      "uuid": "03112024-174838848-[ZET] Ploddip-397317917459-770",
+      "time": 48.7978,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
