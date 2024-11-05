@@ -323,5 +323,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3360707678",
+    "hash": "cbfe11829f2d52275d1c7ff09df6d8baf7626989a0fb02fa35a275aaa9ab65a9",
+    "level": {
+      "name": "ZSL - Transport Tubes by MomCorp",
+      "path": "./downloads/3360707678/ZSL - Transport Tubes by MomCorp/ZSL - Transport Tubes by MomCorp.zeeplevel",
+      "blocks": 3398,
+      "author": "[CRT]Codewalt x ioi8",
+      "uuid": "05112024-094946747-[CRT]Codewalt x ioi8 -287577786638-3397",
+      "time": 48.9831,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
