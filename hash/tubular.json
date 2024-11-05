@@ -296,5 +296,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3360559824",
+    "hash": "3411e5ff3a52200682304e4571c27d8b3309974c776e49ddb8bdba0b4050af56",
+    "level": {
+      "name": "ZSL - Neptune Highway",
+      "path": "./downloads/3360559824/ZSL - Neptune Highway/ZSL - Neptune Highway.zeeplevel",
+      "blocks": 933,
+      "author": "Riccio97",
+      "uuid": "05112024-124543652-Riccio97-228831102577-932",
+      "time": 39.92233,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
