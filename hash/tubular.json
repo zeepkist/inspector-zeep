@@ -378,5 +378,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3361561442",
+    "hash": "73ad9b79ac549efc34756fff3ae239f262d87de6a267a577e391628f82308248",
+    "level": {
+      "name": "ZSL - Chartreuse",
+      "path": "./downloads/3361561442/ZSL - Chartreuse/ZSL - Chartreuse.zeeplevel",
+      "blocks": 535,
+      "author": "Shadynook",
+      "uuid": "06112024-174018489-Shadynook-829904992988-534",
+      "time": 42.08406,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
