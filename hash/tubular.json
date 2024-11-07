@@ -351,5 +351,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3361495328",
+    "hash": "fd34683faff5deb8090dbfce473c1394bd8f4ad5d5d912b71887ed05ff19a883",
+    "level": {
+      "name": "ZSL - Tubular Worlds",
+      "path": "./downloads/3361495328/ZSL - Tubular Worlds/ZSL - Tubular Worlds.zeeplevel",
+      "blocks": 1336,
+      "author": "[ZMS] Metalted",
+      "uuid": "07112024-125437580-[ZMS] Metalted-724805435671-1335",
+      "time": 43.81731,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 75
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
