@@ -432,5 +432,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3362178304",
+    "hash": "db5cd2c34efb3d7800746e2b368b45dc7fbfcda943a599c414d5e89d2bfd1156",
+    "level": {
+      "name": "ZSL - Fautumn",
+      "path": "./downloads/3362178304/ZSL - Fautumn/ZSL - Fautumn.zeeplevel",
+      "blocks": 1436,
+      "author": "justMaki",
+      "uuid": "08112024-182218449-justMaki-627505765590-1435",
+      "time": 54.69297,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
