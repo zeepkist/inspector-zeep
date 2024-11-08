@@ -459,5 +459,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3362328662",
+    "hash": "068d281a95a242505909f1f529d4ada0296436cc16fb6e67b7613e750da2e7e5",
+    "level": {
+      "name": "ZSL - Pipeage",
+      "path": "./downloads/3362328662/ZSL - Pipeage/ZSL - Pipeage.zeeplevel",
+      "blocks": 278,
+      "author": "ARCHIEEE",
+      "uuid": "08112024-225706672-ARCHIEEE-175340117365-277",
+      "time": 47.48095,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
