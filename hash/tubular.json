@@ -514,5 +514,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3362782436",
+    "hash": "fcc7377f780d557d3382648374684feb7356fce8bd2f2852559b49f0f98d98e5",
+    "level": {
+      "name": "ZSL - Angle control",
+      "path": "./downloads/3362782436/ZSL - Angle control/ZSL - Angle control.zeeplevel",
+      "blocks": 913,
+      "author": "Weside",
+      "uuid": "09112024-114207172-Weside-269553177231-912",
+      "time": 60.28531,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
