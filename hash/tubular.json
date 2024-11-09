@@ -408,15 +408,15 @@
   },
   {
     "workshopPath": "./downloads/3362083169",
-    "hash": "41a78fbf198a1829c0b7eadcd65828f4d060824810e2f36143a9f79fc541e46f",
+    "hash": "8bffc39a2d6adbd3cb94562f9144c54d3d9a8b7e844ab5c31d033db191f91c73",
     "level": {
       "name": "ZSL - The Fridge",
       "path": "./downloads/3362083169/ZSL - The Fridge/ZSL - The Fridge.zeeplevel",
-      "blocks": 1183,
+      "blocks": 1188,
       "author": "Hate Hater",
-      "uuid": "08112024-143439694-Hate Hater-444475210540-1182",
-      "time": 44.59814,
-      "checkpoints": 4,
+      "uuid": "09112024-001618795-Hate Hater-747144639703-1187",
+      "time": 47.25531,
+      "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
     },
@@ -431,7 +431,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3362178304",
