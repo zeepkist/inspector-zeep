@@ -487,5 +487,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3358751119",
+    "hash": "57fa70903a0ab90db9b3d612a6ab5320c1dae9a5fd0e281700f8a843c8d156c4",
+    "level": {
+      "name": "ZSL - ZeepNightmares",
+      "path": "./downloads/3358751119/ZSL - ZeepNightmares/ZSL - ZeepNightmares.zeeplevel",
+      "blocks": 667,
+      "author": "maxie12",
+      "uuid": "09112024-164613732-maxie12-636428063763-666",
+      "time": 51.35975,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
