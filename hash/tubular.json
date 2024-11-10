@@ -541,5 +541,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3363106571",
+    "hash": "d0497da263b393b09036abdd9244b7fda87a883b303f8a40c9141821684fde30",
+    "level": {
+      "name": "ZSL-Roseate",
+      "path": "./downloads/3363106571/ZSL-Roseate/ZSL-Roseate.zeeplevel",
+      "blocks": 290,
+      "author": "Modern-X Studios",
+      "uuid": "03112024-124047815-Modern-X Studios-182986271144-289",
+      "time": null,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
