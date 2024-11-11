@@ -568,5 +568,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3363852867",
+    "hash": "a05448ab89586dd5153fe4b393de135e92c8480cbac299f81e5245bfc48cdc1a",
+    "level": {
+      "name": "ZSL - Snowfall",
+      "path": "./downloads/3363852867/ZSL - Snowfall/ZSL - Snowfall.zeeplevel",
+      "blocks": 1282,
+      "author": "Agix ~ Schmxrg ~ St Nic",
+      "uuid": "10112024-225312497-St Nicholas-839306752843-1281",
+      "time": 46.926,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 122
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
