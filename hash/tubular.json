@@ -595,5 +595,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3364164382",
+    "hash": "6245cffc3e6cde945e2755b85246d5ec207574915d11e563ff807934cae12ffd",
+    "level": {
+      "name": "ZSL-Zeeple Zoo",
+      "path": "./downloads/3364164382/ZSL-Zeeple Zoo/ZSL-Zeeple Zoo.zeeplevel",
+      "blocks": 212,
+      "author": "Shinikage221",
+      "uuid": "11112024-111702503-Shinikage221-255730732820-211",
+      "time": 39.26429,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
