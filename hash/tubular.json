@@ -622,5 +622,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3364608841",
+    "hash": "36aca1b4096ed71ba26d51f202eeab7747b5a3b3fe322048043cbeebca9167ab",
+    "level": {
+      "name": "ZSL - Northwind's Quarry",
+      "path": "./downloads/3364608841/ZSL - Northwind's Quarry/ZSL - Northwind's Quarry.zeeplevel",
+      "blocks": 178,
+      "author": "Northwind",
+      "uuid": "12112024-165909511-Northwind-045756618091-177",
+      "time": 43.55936,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
