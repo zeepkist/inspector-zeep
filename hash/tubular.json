@@ -650,5 +650,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3365092998",
+    "hash": "17792de0cca787132f2bbbdcd383995bb392b3470b948bdf66176ace556cdeb9",
+    "level": {
+      "name": "ZSL - Project VROOOM",
+      "path": "./downloads/3365092998/ZSL - Project VROOOM/ZSL - Project VROOOM.zeeplevel",
+      "blocks": 1115,
+      "author": "Diabler",
+      "uuid": "13112024-150520662-Diabler-590925414408-1114",
+      "time": 45.41295,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
