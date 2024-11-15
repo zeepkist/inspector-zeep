@@ -677,5 +677,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3365908711",
+    "hash": "05e9e48ec5ca1ec2abb5fbf67ff279c3c252c04b2f46502feb3367daa642c9a5",
+    "level": {
+      "name": "ZSL - Blossoming Hell",
+      "path": "./downloads/3365908711/ZSL - Blossoming Hell/ZSL - Blossoming Hell.zeeplevel",
+      "blocks": 451,
+      "author": "[WAM]zivecef",
+      "uuid": "14112024-192001366-[WAM]zivecef-027354082222-450",
+      "time": 42.17744,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
