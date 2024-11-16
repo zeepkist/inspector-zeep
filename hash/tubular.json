@@ -731,5 +731,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3366904424",
+    "hash": "87f67c025bfa7b1b508f1246868346f9c4da5fc4e852a3c831259784436228e2",
+    "level": {
+      "name": "ZSL - Twisty 2b",
+      "path": "./downloads/3366904424/ZSL - Twisty 2b/ZSL - Twisty 2b.zeeplevel",
+      "blocks": 229,
+      "author": "Lexer",
+      "uuid": "16112024-104353516-Lexer-598899148037-228",
+      "time": 39.91164,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
