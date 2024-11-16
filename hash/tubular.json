@@ -704,5 +704,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3366736846",
+    "hash": "5959b1fc08fa953047f527937203344e9e97287946d499546f46677fc60e3e7b",
+    "level": {
+      "name": "ZSL - Satisfaction",
+      "path": "./downloads/3366736846/ZSL - Satisfaction/ZSL - Satisfaction.zeeplevel",
+      "blocks": 977,
+      "author": "Bram2323",
+      "uuid": "16112024-140832311-Bram2323-520449720806-976",
+      "time": 41.21007,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
