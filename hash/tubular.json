@@ -758,5 +758,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3367044392",
+    "hash": "f04c663694afa3dce16b61d8edbfc4b31f3a3571d2855ec40af4845a3b650e55",
+    "level": {
+      "name": "ZSL - City Circuit",
+      "path": "./downloads/3367044392/ZSL - City Circuit/ZSL - City Circuit.zeeplevel",
+      "blocks": 2278,
+      "author": "[CTR] Sandals",
+      "uuid": "16112024-164858984-[CTR] Sandals-949514970640-2277",
+      "time": 38.24489,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
