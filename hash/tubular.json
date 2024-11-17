@@ -839,5 +839,59 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3367250659",
+    "hash": "17c81726dcff784c5be036d36838798ff73a7cca063af4e0092b353d9ac833a2",
+    "level": {
+      "name": "ZSL - Tubular rush",
+      "path": "./downloads/3367250659/ZSL - Tubular rush/ZSL - Tubular rush.zeeplevel",
+      "blocks": 230,
+      "author": "[TOG]Lazy_Echidna",
+      "uuid": "17112024-070736523-[TOG]Lazy_Echidna-270517368580-229",
+      "time": 56.7751,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3367222658",
+    "hash": "2d526f58b70e08d4c556b6d5869d2fa24e5338e3cc692d4961f638d2c811cdf8",
+    "level": {
+      "name": "ZSL - Xenopulse",
+      "path": "./downloads/3367222658/ZSL - Xenopulse/ZSL - Xenopulse.zeeplevel",
+      "blocks": 1047,
+      "author": "AndMe16",
+      "uuid": "16112024-235438574-AndMe16-147362727814-1046",
+      "time": 42.3196,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
