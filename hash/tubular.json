@@ -893,5 +893,167 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3360895740",
+    "hash": "9af1f31cdb0a1c4ad141f332e7d28821e11ddea32421e593c97b3ee633c0b9b3",
+    "level": {
+      "name": "ZSL - Tubes & Stuffs",
+      "path": "./downloads/3360895740/ZSL - Tubes & Stuffs/ZSL - Tubes & Stuffs.zeeplevel",
+      "blocks": 69,
+      "author": "[H2O]AnIntenseMoist",
+      "uuid": "05112024-204807083-[H2O]AnIntenseMoist-499251362422-68",
+      "time": 39.14641,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3366012954",
+    "hash": "ec0c816f544ca2333ffa42685097eb8799fa8ab3c676866e2eb3bad1b8fe441f",
+    "level": {
+      "name": "christmas trak of the year",
+      "path": "./downloads/3366012954/christmas trak of the year/christmas trak of the year.zeeplevel",
+      "blocks": 104,
+      "author": "Logan",
+      "uuid": "14112024-224731955-Logan-670424462918-103",
+      "time": 29.64125,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3366335530",
+    "hash": "0853ec6862bddf86160de7c9a8cd2540cf2ca101e83b97efebc22fb33aacd5fd",
+    "level": {
+      "name": "ZLS - Cloud Islands",
+      "path": "./downloads/3366335530/ZLS - Cloud Islands/ZLS - Cloud Islands.zeeplevel",
+      "blocks": 244,
+      "author": "vortex",
+      "uuid": "15112024-150204402-vortex-740480826462-243",
+      "time": 50.84642,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3366644645",
+    "hash": "4620b0d2f2f0c87d1f38d6862b14317f044ed23ebc86e008420b97a2a0fe75e7",
+    "level": {
+      "name": "ZSL-Another Place",
+      "path": "./downloads/3366644645/ZSL-Another Place/ZSL-Another Place.zeeplevel",
+      "blocks": 204,
+      "author": "/\\//'/'/?()",
+      "uuid": "16112024-095145040-/\\//'/'/?()-334281781603-203",
+      "time": 49.98432,
+      "checkpoints": 2,
+      "changerGateModes": {},
+      "logicBlocks": 9
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3367156254",
+    "hash": "13421093e08bfe494ad7ea3024c2f64d93cdcbfae0c69b53e8ec574a6f326582",
+    "level": {
+      "name": "ZSL Spaceship pipe Race",
+      "path": "./downloads/3367156254/ZSL Spaceship pipe Race/ZSL Spaceship pipe Race.zeeplevel",
+      "blocks": 658,
+      "author": "DragonShadow84290",
+      "uuid": "16112024-205207238-DragonShadow84290-836566948036-657",
+      "time": 56.30217,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3367184118",
+    "hash": "72503506f7c7e33e324de1a0b0889532a8d3063b11cfab49a804164129cf3ad6",
+    "level": {
+      "name": "ZSL-Roseate ",
+      "path": "./downloads/3367184118/ZSL-Roseate/ZSL-Roseate .zeeplevel",
+      "blocks": 318,
+      "author": "Modern-X Studios",
+      "uuid": "09112024-185159265-Modern-X Studios-083287334861-317",
+      "time": 63.0574,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
