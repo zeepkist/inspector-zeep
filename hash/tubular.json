@@ -1055,5 +1055,59 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3367592689",
+    "hash": "17dd94dec2804b424a719b9832d51d7c313301b93c93089e68d4433946d8f26f",
+    "level": {
+      "name": "ZSL - String theory",
+      "path": "./downloads/3367592689/ZSL - String theory/ZSL - String theory.zeeplevel",
+      "blocks": 502,
+      "author": "ZOMAN",
+      "uuid": "17112024-181533319-ZOMAN-729128282901-501",
+      "time": 37.99648,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3367578522",
+    "hash": "765b491552fad3077827d1efcf5da017aea8599fe52818d483f757a17308f823",
+    "level": {
+      "name": "ZSL - mmMMmm Toooob",
+      "path": "./downloads/3367578522/ZSL - mmMMmm Toooob/ZSL - mmMMmm Toooob.zeeplevel",
+      "blocks": 509,
+      "author": "[TBD] Renergy",
+      "uuid": "17112024-175016694-[TBD] Renergy-422508405944-508",
+      "time": 39.82224,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
