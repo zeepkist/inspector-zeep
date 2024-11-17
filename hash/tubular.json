@@ -785,5 +785,59 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3367171541",
+    "hash": "56ad56d5235bb13eb7482f31d2c962368b7c3798b8085b391d3f4db963da8f81",
+    "level": {
+      "name": "ZSL - The Ancient Path (Into the Pyramid)!",
+      "path": "./downloads/3367171541/ZSL - The Ancient Path (Into the Pyramid)!/ZSL - The Ancient Path (Into the Pyramid)!.zeeplevel",
+      "blocks": 1927,
+      "author": "ferinine",
+      "uuid": "16112024-213245999-ferinine-460602438677-1926",
+      "time": 54.52,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3367159677",
+    "hash": "cefeac68503e53c93faafaa6e1d27b9fb38d18bd1b14d8f98b0aae07724b99d6",
+    "level": {
+      "name": "ZSL - Ivy Island",
+      "path": "./downloads/3367159677/ZSL - Ivy Island/ZSL - Ivy Island.zeeplevel",
+      "blocks": 381,
+      "author": "NworBic",
+      "uuid": "16112024-195455963-NworBic-619630541889-380",
+      "time": 40.59025,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
