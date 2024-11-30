@@ -271,14 +271,14 @@
   },
   {
     "workshopPath": "./downloads/3372530945",
-    "hash": "b404286b6d2eaacad575e8141e83e6eb7164a16d1954d5582acb006966c80874",
+    "hash": "24648422931fa3a662675faa0a4947a21f212bf3d1b3008d0e3ddb7158af65b2",
     "level": {
       "name": "ZSL - The Between",
       "path": "./downloads/3372530945/ZSL - The Between/ZSL - The Between.zeeplevel",
-      "blocks": 338,
+      "blocks": 443,
       "author": "Talmori",
-      "uuid": "27112024-091956390-Talmori-594172448157-337",
-      "time": 59.51725,
+      "uuid": "01122024-084825286-Talmori-986891158043-442",
+      "time": 59.33853,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -294,7 +294,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3372338930",
