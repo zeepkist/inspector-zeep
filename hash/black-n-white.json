@@ -620,5 +620,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3374978073",
+    "hash": "d73a18d2587e8bf461924e11ce38d3ab7478644db10b0f7ec9c55354bcce82a0",
+    "level": {
+      "name": "ZSL - Detravaderre Abbey",
+      "path": "./downloads/3374978073/ZSL - Detravaderre Abbey/ZSL - Detravaderre Abbey.zeeplevel",
+      "blocks": 830,
+      "author": "DeeDeeNaNaNa",
+      "uuid": "30112024-192350897-DeeDeeNaNaNa-428520300000-829",
+      "time": 49.9553,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
