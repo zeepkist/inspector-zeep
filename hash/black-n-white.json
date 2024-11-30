@@ -1,0 +1,543 @@
+[
+  {
+    "workshopPath": "./downloads/3374140997",
+    "hash": "6febe2a012d3981e8a3783282adb9c46b8ede696b7edfb713b9ec5a2189d8afa",
+    "level": {
+      "name": "ZSL - Red All Over",
+      "path": "./downloads/3374140997/ZSL - Red All Over/ZSL - Red All Over.zeeplevel",
+      "blocks": 619,
+      "author": "[CTR] PoopSheriff",
+      "uuid": "29112024-160838270-[CTR] PoopSheriff-042003241624-618",
+      "time": 46.80981,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3374021149",
+    "hash": "61a6fbb78c953e53cb7661a5ea43ce1a2b8a4d56d8a2ad54f11f3efdd21bb117",
+    "level": {
+      "name": "ZSL - Complete Darkness",
+      "path": "./downloads/3374021149/ZSL - Complete Darkness/ZSL - Complete Darkness.zeeplevel",
+      "blocks": 79,
+      "author": "[gay] dapper_duck",
+      "uuid": "28112024-230035013-[gay] dapper_duck-729574893736-78",
+      "time": 44.05552,
+      "checkpoints": 26,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3373594000",
+    "hash": "19bf23a42c393ce9936712032465efb651132030f3dee6f02027155e8af40d7b",
+    "level": {
+      "name": "ZSL - Gray Forest",
+      "path": "./downloads/3373594000/ZSL - Gray Forest/ZSL - Gray Forest.zeeplevel",
+      "blocks": 248,
+      "author": "EMel_",
+      "uuid": "28112024-201155547-EMel_-791447225054-247",
+      "time": 59.38022,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3372952894",
+    "hash": "637317fbea9a7d6ec5e5b8fd6023befad80cec137d28cc27e9ce660224287d4c",
+    "level": {
+      "name": "ZSL - Wait, where did those colored cars come from!",
+      "path": "./downloads/3372952894/ZSL - Wait, where did those colored cars come from!/ZSL - Wait, where did those colored cars come from!.zeeplevel",
+      "blocks": 400,
+      "author": "Tommygaming5132",
+      "uuid": "27112024-212047474-Tommygaming5132-955765057372-399",
+      "time": 42.28703,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3373304324",
+    "hash": "20bf18ae0bba538533aa00c13ba95100951697f022d8e9675a5f530356911587",
+    "level": {
+      "name": "ZSL - Lucidus",
+      "path": "./downloads/3373304324/ZSL - Lucidus/ZSL - Lucidus.zeeplevel",
+      "blocks": 829,
+      "author": "Northwind",
+      "uuid": "28112024-164830107-Northwind-407090889077-828",
+      "time": 45.74006,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3373126602",
+    "hash": "0fa84ba8d6778a1f6cee6fd42e903a6a650868e9103005dfdadcb8490bc3d5bf",
+    "level": {
+      "name": "ZSL - Fragt Port v2",
+      "path": "./downloads/3373126602/ZSL - Fragt Port v2/ZSL - Fragt Port v2.zeeplevel",
+      "blocks": 2549,
+      "author": "M4rv1nDD",
+      "uuid": "29112024-214504313-M4rv1nDD-204832315861-2548",
+      "time": 55.90655,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3373021254",
+    "hash": "2a130dc77c784132853c6d0bd008409ef61f65edf7941e2171e58fcb5f8059a3",
+    "level": {
+      "name": "ZSL - darkest light ",
+      "path": "./downloads/3373021254/ZSL - darkest light/ZSL - darkest light .zeeplevel",
+      "blocks": 3134,
+      "author": "[TBD] rtyyyyb",
+      "uuid": "27112024-232131511-[TBD] rtyyyyb-209695709205-3133",
+      "time": 42.46045,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3372504068",
+    "hash": "b9067bdb67ced05d5867023b9ac898c5af79cd85fe8cc22de93b9446253f15fa",
+    "level": {
+      "name": "zsl - Monochromatic Shopping",
+      "path": "./downloads/3372504068/zsl - Monochromatic Shopping/zsl - Monochromatic Shopping.zeeplevel",
+      "blocks": 1535,
+      "author": "Mortishade",
+      "uuid": "28112024-215856239-Mortishade-368007596624-1534",
+      "time": 64.29233,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3371844127",
+    "hash": "fd2f7409c9c62c789b86bb3405f9f326bb6636ec14726832a7426fbdbf3add32",
+    "level": {
+      "name": "ZSL - Nyctophobia",
+      "path": "./downloads/3371844127/ZSL - Nyctophobia/ZSL - Nyctophobia.zeeplevel",
+      "blocks": 152,
+      "author": "Broroboros",
+      "uuid": "27112024-164512982-Broroboros-287180837465-151",
+      "time": 72.0379,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3372643228",
+    "hash": "db9119203762e532650af203ed2bd6cc66ab071756900f98fd4a193df6d0b78a",
+    "level": {
+      "name": "ZSL - Yokuatsu",
+      "path": "./downloads/3372643228/ZSL - Yokuatsu/ZSL - Yokuatsu.zeeplevel",
+      "blocks": 561,
+      "author": "[CTR]Kernkob",
+      "uuid": "26112024-204613850-[CTR]Kernkob-879959433891-560",
+      "time": 38.85739,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3372530945",
+    "hash": "b404286b6d2eaacad575e8141e83e6eb7164a16d1954d5582acb006966c80874",
+    "level": {
+      "name": "ZSL - The Between",
+      "path": "./downloads/3372530945/ZSL - The Between/ZSL - The Between.zeeplevel",
+      "blocks": 338,
+      "author": "Talmori",
+      "uuid": "27112024-091956390-Talmori-594172448157-337",
+      "time": 59.51725,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3372338930",
+    "hash": "e0043aa55faf226f0109675520002b7995582f2821602e25a6a345a85453f909",
+    "level": {
+      "name": "ZSL - Molto Allegro Bianco e Nero",
+      "path": "./downloads/3372338930/ZSL - Molto Allegro Bianco e Nero/ZSL - Molto Allegro Bianco e Nero.zeeplevel",
+      "blocks": 239,
+      "author": "[TOG]Lazy_Echidna",
+      "uuid": "26112024-151624998-[TOG]Lazy_Echidna-828101418323-238",
+      "time": 40.12151,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3372304647",
+    "hash": "07aca9402bd35b0a89f88f0275cf8f51f8eba33113b19aed0fcdd8fdd7c6a805",
+    "level": {
+      "name": "ZSL - Trial of Light",
+      "path": "./downloads/3372304647/ZSL - Trial of Light/ZSL - Trial of Light.zeeplevel",
+      "blocks": 297,
+      "author": "KosmicKitten_Official",
+      "uuid": "26112024-225350278-KosmicKitten_Official-772452849637-296",
+      "time": 34.97658,
+      "checkpoints": 2,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3372171950",
+    "hash": "61bb9f20a1768633db7de6742165a1dc3124fb4824ac989042f6b4973b9f0fb0",
+    "level": {
+      "name": "ZSL - Terminal Judgement",
+      "path": "./downloads/3372171950/ZSL - Terminal Judgement/ZSL - Terminal Judgement.zeeplevel",
+      "blocks": 2952,
+      "author": "[MM] mori_cinis",
+      "uuid": "25112024-180624860-[MM] mori_cinis-280690349674-2951",
+      "time": 53.95353,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3372162626",
+    "hash": "e27999257d723e2ae968490bfb5eaa95ecefacc4330a2d235618600132e36005",
+    "level": {
+      "name": "ZSL - Spiritfall Isles",
+      "path": "./downloads/3372162626/ZSL - Spiritfall Isles/ZSL - Spiritfall Isles.zeeplevel",
+      "blocks": 1134,
+      "author": "[Makr]reholmes92",
+      "uuid": "26112024-144019566-[Makr]reholmes92-035105229830-1133",
+      "time": 53.78062,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3372050214",
+    "hash": "58eb3f6a4a6038bc03d5603741809c8eaaee5084ccb91f3c5a5cda47da36d3ec",
+    "level": {
+      "name": "ZSL- Checkered Dreams",
+      "path": "./downloads/3372050214/ZSL- Checkered Dreams/ZSL- Checkered Dreams.zeeplevel",
+      "blocks": 672,
+      "author": "DragonShadow84290",
+      "uuid": "26112024-225445632-DragonShadow84290-642643329694-671",
+      "time": 57.34334,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3372044704",
+    "hash": "6013982a27f3b8805a7c78d86ad5b5cc343602466c1f1b91bf6904df823b1e48",
+    "level": {
+      "name": "ZSL S5R4 - chEsscalation",
+      "path": "./downloads/3372044704/ZSL S5R4 - chEsscalation/ZSL S5R4 - chEsscalation.zeeplevel",
+      "blocks": 362,
+      "author": "Ultimate Billy",
+      "uuid": "25112024-221114218-Ultimate Billy-640752561880-361",
+      "time": 45.47728,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3371933089",
+    "hash": "81f2a36617e10f023cea30d5e884f257ba5129aa9500532349b9eecfaa8440fe",
+    "level": {
+      "name": "ZSL - Faded Out",
+      "path": "./downloads/3371933089/ZSL - Faded Out/ZSL - Faded Out.zeeplevel",
+      "blocks": 54,
+      "author": "[TTR] Tigerplaysonpc",
+      "uuid": "25112024-163820311-[TTR] Tigerplaysonpc-016725740042-53",
+      "time": 38.38306,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3371852945",
+    "hash": "0bf91327ec8868b34a8e1a0aad9758007458c4bbebc8168467a302c6c3c8c2ca",
+    "level": {
+      "name": "ZSL - Tempus In Zerum Dissolvitur",
+      "path": "./downloads/3371852945/ZSL - Tempus In Zerum Dissolvitur/ZSL - Tempus In Zerum Dissolvitur.zeeplevel",
+      "blocks": 118,
+      "author": "-MB- Deathstroke405",
+      "uuid": "25112024-052548740--MB- Deathstroke405-065462545688-117",
+      "time": 74.82588,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3372397682",
+    "hash": "8d7a12b7892a1f4878f3eee8f449a5e7512fdc19607656af172e1d7c106a81c1",
+    "level": {
+      "name": "ZSL - Bland Desruction Site",
+      "path": "./downloads/3372397682/ZSL - Bland Desruction Site/ZSL - Bland Desruction Site.zeeplevel",
+      "blocks": 32,
+      "author": "balogan75",
+      "uuid": "26112024-104120377-balogan75-813930515042-31",
+      "time": 17.90494,
+      "checkpoints": 1,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": true,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": true,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 1732978729105
+  }
+]
