@@ -539,5 +539,32 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 1732978729105
+  },
+  {
+    "workshopPath": "./downloads/3374722127",
+    "hash": "2545ee4107a97ec7359887fedca8a80348495c0d774215bec35e6dc81087bf9e",
+    "level": {
+      "name": "ZSL - Into Darkness",
+      "path": "./downloads/3374722127/ZSL - Into Darkness/ZSL - Into Darkness.zeeplevel",
+      "blocks": 1408,
+      "author": "[AFK]Encryptkid",
+      "uuid": "30112024-084355510-[AFK]Encryptkid-487258506186-1407",
+      "time": 40.86205,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
