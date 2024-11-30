@@ -566,5 +566,59 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3374790109",
+    "hash": "045ea6fb91ea3958012057c81539e887e559f481148adc8e02c3e9f3d7020e82",
+    "level": {
+      "name": "zsl - Monochromatic Shopping",
+      "path": "./downloads/3374790109/zsl - Monochromatic Shopping/zsl - Monochromatic Shopping.zeeplevel",
+      "blocks": 1649,
+      "author": "Mortishade",
+      "uuid": "30112024-165935108-Mortishade-339951800397-1648",
+      "time": 64.19776,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3374766435",
+    "hash": "4d1f254950525fa365e5be79b12cbd397f711053d235d5ec7bacae22f9ace11a",
+    "level": {
+      "name": "ZSL - Onyx Flux",
+      "path": "./downloads/3374766435/ZSL - Onyx Flux/ZSL - Onyx Flux.zeeplevel",
+      "blocks": 1021,
+      "author": "Shadynook",
+      "uuid": "30112024-093318989-Shadynook-957044642683-1020",
+      "time": 47.06547,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 42
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
