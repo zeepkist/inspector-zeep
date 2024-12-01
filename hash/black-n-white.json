@@ -675,5 +675,33 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3375272043",
+    "hash": "b87c0f759d0a40dcc170dd23b8191dd8bbf887e037d2bfc499db28652477b353",
+    "level": {
+      "name": "ZSL- My Camara Has A Black&White Setting!!",
+      "path": "./downloads/3375272043/ZSL- My Camara Has A Black&White Setting!!/ZSL- My Camara Has A Black&White Setting!!.zeeplevel",
+      "blocks": 243,
+      "author": "[ZET] Wheelie",
+      "uuid": "30112024-203820601-[ZET] Wheelie-713623065085-242",
+      "time": 31.93805,
+      "checkpoints": 0,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": true,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 1733022814403
   }
 ]
