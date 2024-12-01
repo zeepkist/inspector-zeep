@@ -648,5 +648,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3375202912",
+    "hash": "0597780716e2d6f895ef44a32770972f79a261eb4fce6efedd01942420fd61aa",
+    "level": {
+      "name": "ZSL - Garyn The Dark",
+      "path": "./downloads/3375202912/ZSL - Garyn The Dark/ZSL - Garyn The Dark.zeeplevel",
+      "blocks": 306,
+      "author": "GaryCXJk",
+      "uuid": "01122024-012611595-GaryCXJk-152017366478-305",
+      "time": 45.6831,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
