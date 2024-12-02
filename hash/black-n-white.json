@@ -703,5 +703,32 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3376294893",
+    "hash": "b512f3f01684110ef27188befec1a347079be3b849ac08775e114189df3e0d7f",
+    "level": {
+      "name": "ZSL - Landing Strip",
+      "path": "./downloads/3376294893/ZSL - Landing Strip/ZSL - Landing Strip.zeeplevel",
+      "blocks": 83,
+      "author": "gatlinggun511",
+      "uuid": "02122024-004645412-gatlinggun511-266655836572-82",
+      "time": 40.35651,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
