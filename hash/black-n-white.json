@@ -730,5 +730,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3376708066",
+    "hash": "1236c71c3d9a1278a0c775dea9d1489293c3deb42970414647ad263cd1fc08f5",
+    "level": {
+      "name": "ZSL - The Manhattan Project",
+      "path": "./downloads/3376708066/ZSL - The Manhattan Project/ZSL - The Manhattan Project.zeeplevel",
+      "blocks": 2147,
+      "author": "[ZET]Nyancatya",
+      "uuid": "02122024-143408645-[ZET]Nyancatya-862236986812-2146",
+      "time": 59.0617,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
