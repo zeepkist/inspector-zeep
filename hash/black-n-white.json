@@ -757,5 +757,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3377501849",
+    "hash": "46c935af5ec91198adf09fde73233abc2438040d3431814bcf32aec4adc75bc9",
+    "level": {
+      "name": "ZSL - Threats Unseen",
+      "path": "./downloads/3377501849/ZSL - Threats Unseen/ZSL - Threats Unseen.zeeplevel",
+      "blocks": 291,
+      "author": "Fletch",
+      "uuid": "03122024-142110097-Fletch-782907896902-290",
+      "time": 42.57576,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 103
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
