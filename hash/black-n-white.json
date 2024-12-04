@@ -570,14 +570,14 @@
   },
   {
     "workshopPath": "./downloads/3374790109",
-    "hash": "045ea6fb91ea3958012057c81539e887e559f481148adc8e02c3e9f3d7020e82",
+    "hash": "7ad228ff782fce9992b375103c58cd0ca1594afbe4316e8db78d21e4459bc686",
     "level": {
       "name": "zsl - Monochromatic Shopping",
       "path": "./downloads/3374790109/zsl - Monochromatic Shopping/zsl - Monochromatic Shopping.zeeplevel",
-      "blocks": 1649,
+      "blocks": 1665,
       "author": "Mortishade",
-      "uuid": "30112024-165935108-Mortishade-339951800397-1648",
-      "time": 64.19776,
+      "uuid": "04122024-182504579-Mortishade-101499367995-1664",
+      "time": 61.6839,
       "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -593,7 +593,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3374766435",
@@ -787,15 +788,43 @@
   },
   {
     "workshopPath": "./downloads/3377629093",
-    "hash": "d696eccd242251deb1d4fd2060946c6ff0a1ce4d473e6c4887d3baa9306b6ae2",
+    "hash": "99dfe5b382ba25cad4503897952e7a90323c370e25f893db692c02e581948559",
     "level": {
       "name": "ZSL - Null Space",
       "path": "./downloads/3377629093/ZSL - Null Space/ZSL - Null Space.zeeplevel",
-      "blocks": 441,
+      "blocks": 433,
       "author": "ttv/Lilly the Bun",
-      "uuid": "03122024-193411168-ttv/Lilly the Bun-105800223033-440",
-      "time": 50.33258,
+      "uuid": "04122024-131308480-ttv/Lilly the Bun-757172990306-432",
+      "time": 50.94157,
       "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3377971649",
+    "hash": "d7f0ecdd2857aa96ee0bfa124b0380e304b4755af86d785b1c6fd92fc33eaa85",
+    "level": {
+      "name": "ZSL - Cap Kingdom",
+      "path": "./downloads/3377971649/ZSL - Cap Kingdom/ZSL - Cap Kingdom.zeeplevel",
+      "blocks": 1321,
+      "author": "An Ode To Ted",
+      "uuid": "04122024-232533363-[WAM]Odist-705439742774-1320",
+      "time": 36.86222,
+      "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
     },
