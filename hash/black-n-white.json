@@ -840,5 +840,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3378137267",
+    "hash": "dfa84bf70b6cb748013d2c23df9cfc0e5785aa131094ed08adba3e89555522c7",
+    "level": {
+      "name": "ZSL - Red All Over",
+      "path": "./downloads/3378137267/ZSL - Red All Over/ZSL - Red All Over.zeeplevel",
+      "blocks": 632,
+      "author": "[CTR] PoopSheriff",
+      "uuid": "04122024-151744472-[CTR] PoopSheriff-041801920270-631",
+      "time": 46.68865,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
