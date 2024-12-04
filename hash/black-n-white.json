@@ -784,5 +784,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3377629093",
+    "hash": "d696eccd242251deb1d4fd2060946c6ff0a1ce4d473e6c4887d3baa9306b6ae2",
+    "level": {
+      "name": "ZSL - Null Space",
+      "path": "./downloads/3377629093/ZSL - Null Space/ZSL - Null Space.zeeplevel",
+      "blocks": 441,
+      "author": "ttv/Lilly the Bun",
+      "uuid": "03122024-193411168-ttv/Lilly the Bun-105800223033-440",
+      "time": 50.33258,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
