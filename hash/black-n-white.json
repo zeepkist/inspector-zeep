@@ -894,5 +894,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3378884747",
+    "hash": "72580bb78734409427f3a3a7394a4a4059e6b1edd999f4f7344beb99757c167a",
+    "level": {
+      "name": "ZSL - Achromatic Entanglement",
+      "path": "./downloads/3378884747/ZSL - Achromatic Entanglement/ZSL - Achromatic Entanglement.zeeplevel",
+      "blocks": 425,
+      "author": "Mokster",
+      "uuid": "06122024-015555598-Mokster-043559938161-424",
+      "time": 42.71548,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
