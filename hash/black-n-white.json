@@ -948,5 +948,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3379861579",
+    "hash": "7f65a2ef4108026ee99b853586b6e9febc88dae997718b31c039ab44759ef906",
+    "level": {
+      "name": "ZSL - darkest light ",
+      "path": "./downloads/3379861579/ZSL - darkest light/ZSL - darkest light .zeeplevel",
+      "blocks": 3138,
+      "author": "[TBD] rtyyyyb",
+      "uuid": "07122024-125455491-[TBD] rtyyyyb-761831254795-3137",
+      "time": 42.69505,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
