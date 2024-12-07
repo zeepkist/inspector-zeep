@@ -136,14 +136,14 @@
   },
   {
     "workshopPath": "./downloads/3373126602",
-    "hash": "0fa84ba8d6778a1f6cee6fd42e903a6a650868e9103005dfdadcb8490bc3d5bf",
+    "hash": "0e318dfb2c64f1a989eac29d59f184f896167de617680c604db68489ef449a40",
     "level": {
-      "name": "ZSL - Fragt Port v2",
-      "path": "./downloads/3373126602/ZSL - Fragt Port v2/ZSL - Fragt Port v2.zeeplevel",
-      "blocks": 2549,
+      "name": "ZSL - Fragt Port v3",
+      "path": "./downloads/3373126602/ZSL - Fragt Port v3/ZSL - Fragt Port v3.zeeplevel",
+      "blocks": 2499,
       "author": "M4rv1nDD",
-      "uuid": "29112024-214504313-M4rv1nDD-204832315861-2548",
-      "time": 55.90655,
+      "uuid": "07122024-232433830-M4rv1nDD-008218688024-2498",
+      "time": 54.5914,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -159,7 +159,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3373021254",
