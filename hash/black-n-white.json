@@ -924,13 +924,13 @@
   },
   {
     "workshopPath": "./downloads/3379838059",
-    "hash": "0f295e12cda7587892de9b958d920faf750946719e31bd014698a3242ef64719",
+    "hash": "ae04bfe5bfe3133e6aa7c858e9248604f10f76403ac6eda9fd5f6f9165275e1d",
     "level": {
       "name": "ZSL - Spectre",
       "path": "./downloads/3379838059/ZSL - Spectre/ZSL - Spectre.zeeplevel",
-      "blocks": 1289,
+      "blocks": 1287,
       "author": "Incantations of Hell",
-      "uuid": "07122024-114912109-Incantations of Hell-465932794305-1288",
+      "uuid": "07122024-221548296-Incantations of Hell-838972410822-1286",
       "time": 54.8922,
       "checkpoints": 6,
       "changerGateModes": {},
@@ -947,7 +947,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3379861579",
