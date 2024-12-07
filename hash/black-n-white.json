@@ -921,5 +921,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3379838059",
+    "hash": "0f295e12cda7587892de9b958d920faf750946719e31bd014698a3242ef64719",
+    "level": {
+      "name": "ZSL - Spectre",
+      "path": "./downloads/3379838059/ZSL - Spectre/ZSL - Spectre.zeeplevel",
+      "blocks": 1289,
+      "author": "Incantations of Hell",
+      "uuid": "07122024-114912109-Incantations of Hell-465932794305-1288",
+      "time": 54.8922,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
