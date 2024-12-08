@@ -977,5 +977,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3380447036",
+    "hash": "625e909e7b3ce15b2af8afb13767004921024d3fce14bb725e76c76c80743a25",
+    "level": {
+      "name": "ZSL - Stuck in Monochrome",
+      "path": "./downloads/3380447036/ZSL - Stuck in Monochrome/ZSL - Stuck in Monochrome.zeeplevel",
+      "blocks": 1077,
+      "author": "[ZET]MackCheesy",
+      "uuid": "07122024-210127936-[ZET]MackCheesy-154063795551-1076",
+      "time": 57.94011,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
