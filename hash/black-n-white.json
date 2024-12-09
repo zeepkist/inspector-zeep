@@ -1034,14 +1034,14 @@
   },
   {
     "workshopPath": "./downloads/3381152613",
-    "hash": "807aa83d1834cd2ea02495cd76cd79d836a4a20ef2548b14cd5ed3b007c7c3f2",
+    "hash": "f9ffdeddd37002a4eb82bce9a4be87f0b498f6c4343a2771bc5e5eef5796f769",
     "level": {
       "name": "ZSL- Checkered Dreams V2",
       "path": "./downloads/3381152613/ZSL- Checkered Dreams V2/ZSL- Checkered Dreams V2.zeeplevel",
-      "blocks": 878,
+      "blocks": 876,
       "author": "DragonShadow84290",
-      "uuid": "09122024-130019173-DragonShadow84290-309541277729-877",
-      "time": 54.11737,
+      "uuid": "09122024-162414376-DragonShadow84290-635949713900-875",
+      "time": 58.2331,
       "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -1057,6 +1057,7 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
