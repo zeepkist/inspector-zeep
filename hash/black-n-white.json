@@ -1004,5 +1004,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3381110030",
+    "hash": "7f5efcb45bad8d63bfc29738bad0ed8541e1967b6c22773d62ff5b6246c738ca",
+    "level": {
+      "name": "TrustInTheForce-Sometimes",
+      "path": "./downloads/3381110030/TrustInTheForce-Sometimes/TrustInTheForce-Sometimes.zeeplevel",
+      "blocks": 74,
+      "author": "Sioox | Robin",
+      "uuid": "09122024-004407224-Sioox | Robin-478538814373-73",
+      "time": 32.87821,
+      "checkpoints": 2,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
