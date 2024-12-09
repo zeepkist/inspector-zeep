@@ -1031,5 +1031,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3381152613",
+    "hash": "807aa83d1834cd2ea02495cd76cd79d836a4a20ef2548b14cd5ed3b007c7c3f2",
+    "level": {
+      "name": "ZSL- Checkered Dreams V2",
+      "path": "./downloads/3381152613/ZSL- Checkered Dreams V2/ZSL- Checkered Dreams V2.zeeplevel",
+      "blocks": 878,
+      "author": "DragonShadow84290",
+      "uuid": "09122024-130019173-DragonShadow84290-309541277729-877",
+      "time": 54.11737,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
