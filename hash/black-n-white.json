@@ -1086,5 +1086,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3381060720",
+    "hash": "510d0bbc844e71ebfeb258cf6765994769cf882931867e2f76ed1b25bfd36006",
+    "level": {
+      "name": "ZSL - Hypno up, Hypno down",
+      "path": "./downloads/3381060720/ZSL - Hypno up, Hypno down/ZSL - Hypno up, Hypno down.zeeplevel",
+      "blocks": 383,
+      "author": "maxie12",
+      "uuid": "08122024-232542970-maxie12-227480848871-382",
+      "time": 47.95794,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
