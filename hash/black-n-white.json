@@ -1059,5 +1059,32 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3382091868",
+    "hash": "0d0f209b14d2ca31cd779c0ca2ca142f2ac5084bd3b789d7945f6ccf9f6b1594",
+    "level": {
+      "name": "ZSL grey greys",
+      "path": "./downloads/3382091868/ZSL grey greys/ZSL grey greys.zeeplevel",
+      "blocks": 1187,
+      "author": "Space_cat9999",
+      "uuid": "10122024-125448365-Space_cat9999-758860160915-1186",
+      "time": 63.4303,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
