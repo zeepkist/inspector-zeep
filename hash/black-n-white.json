@@ -1168,5 +1168,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3382684309",
+    "hash": "21bf51b925b08c3f841aedca3d6f2c753dbc6c87e77f4e905db29df0f6fb7d7e",
+    "level": {
+      "name": "ZSL - Middle Land",
+      "path": "./downloads/3382684309/ZSL - Middle Land/ZSL - Middle Land.zeeplevel",
+      "blocks": 217,
+      "author": "Lexer",
+      "uuid": "11122024-124143285-Lexer-045079655845-216",
+      "time": 41.5597,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
