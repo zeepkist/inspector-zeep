@@ -1195,5 +1195,59 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3380253123",
+    "hash": "12052c427c7cf2c835a94de83804e3baad83d975fc044a998961906ffa153789",
+    "level": {
+      "name": "ZSL - Permafrost",
+      "path": "./downloads/3380253123/ZSL - Permafrost/ZSL - Permafrost.zeeplevel",
+      "blocks": 780,
+      "author": "[ZET]Stick",
+      "uuid": "10122024-185932109-[ZET]Stick-350799678944-779",
+      "time": 53.83346,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3379655704",
+    "hash": "e002e1627f8f8e4ffc6e4bb8fed4236f4575202dd038bfa88b66b123579c697b",
+    "level": {
+      "name": "ZSL - Bleak Forest",
+      "path": "./downloads/3379655704/ZSL - Bleak Forest/ZSL - Bleak Forest.zeeplevel",
+      "blocks": 503,
+      "author": "[ZET] Ploddip",
+      "uuid": "02122024-231715305-[ZET] Ploddip-095001046737-502",
+      "time": 57.59728,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
