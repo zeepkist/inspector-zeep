@@ -1276,5 +1276,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3382898424",
+    "hash": "17fc803f0c510a192524b1547fd01c4674013e16acf81dce499e2f5be8ad456c",
+    "level": {
+      "name": "ZSL - Hidden City",
+      "path": "./downloads/3382898424/ZSL - Hidden City/ZSL - Hidden City.zeeplevel",
+      "blocks": 627,
+      "author": "Half-Qilin",
+      "uuid": "11122024-212633175-Half-Qilin-946790434207-626",
+      "time": 59.71633,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
