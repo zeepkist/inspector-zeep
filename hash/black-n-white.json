@@ -408,13 +408,13 @@
   },
   {
     "workshopPath": "./downloads/3372050214",
-    "hash": "58eb3f6a4a6038bc03d5603741809c8eaaee5084ccb91f3c5a5cda47da36d3ec",
+    "hash": "a964204efec5f74cf0e4674e0384b734cfe2600c952c7cc0279ee6fd8fecc578",
     "level": {
-      "name": "ZSL- Checkered Dreams",
-      "path": "./downloads/3372050214/ZSL- Checkered Dreams/ZSL- Checkered Dreams.zeeplevel",
+      "name": "ZSL- Checkered Dreams old",
+      "path": "./downloads/3372050214/ZSL- Checkered Dreams old/ZSL- Checkered Dreams old.zeeplevel",
       "blocks": 672,
       "author": "DragonShadow84290",
-      "uuid": "26112024-225445632-DragonShadow84290-642643329694-671",
+      "uuid": "07122024-143152067-DragonShadow84290-320547435301-671",
       "time": 57.34334,
       "checkpoints": 3,
       "changerGateModes": {},
@@ -431,7 +431,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3372044704",
@@ -1198,14 +1199,14 @@
   },
   {
     "workshopPath": "./downloads/3380253123",
-    "hash": "12052c427c7cf2c835a94de83804e3baad83d975fc044a998961906ffa153789",
+    "hash": "ff24b855a98b854b041193e0b7b3de1d4a5ce5f9a5076ae3f60a13824b662791",
     "level": {
       "name": "ZSL - Permafrost",
       "path": "./downloads/3380253123/ZSL - Permafrost/ZSL - Permafrost.zeeplevel",
-      "blocks": 780,
+      "blocks": 867,
       "author": "[ZET]Stick",
-      "uuid": "10122024-185932109-[ZET]Stick-350799678944-779",
-      "time": 53.83346,
+      "uuid": "12122024-171604156-[ZET]Stick-787330939782-866",
+      "time": null,
       "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -1221,7 +1222,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3379655704",
@@ -1288,6 +1290,114 @@
       "uuid": "11122024-212633175-Half-Qilin-946790434207-626",
       "time": 59.71633,
       "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3383839377",
+    "hash": "cee920f40825f044b468b29c9041e78803bef82d2592ffeb017489244993d78c",
+    "level": {
+      "name": "ZSL - i struggle with naming my maps",
+      "path": "./downloads/3383839377/ZSL - i struggle with naming my maps/ZSL - i struggle with naming my maps.zeeplevel",
+      "blocks": 790,
+      "author": "[TBD] Renergy",
+      "uuid": "13122024-231105887-[TBD] Renergy-982461266576-789",
+      "time": 39.63497,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3383782485",
+    "hash": "ce64fcf3b7ca63e4ed8ceb15c4185342d1996600ba462aa0447b8e76111757f0",
+    "level": {
+      "name": "ZSL - noynaC sdrawkcaB",
+      "path": "./downloads/3383782485/ZSL - noynaC sdrawkcaB/ZSL - noynaC sdrawkcaB.zeeplevel",
+      "blocks": 275,
+      "author": "L3mmy",
+      "uuid": "13122024-222157611-L3mmy-111706563461-274",
+      "time": 39.94136,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3383714765",
+    "hash": "4a15c8e1ae6a2e4865d6e8256d47c0ab3e198d54c75d0f79854f4033f46d91a1",
+    "level": {
+      "name": "ZSL-Cloud Flight",
+      "path": "./downloads/3383714765/ZSL-Cloud Flight/ZSL-Cloud Flight.zeeplevel",
+      "blocks": 548,
+      "author": "Mr_Fireman42",
+      "uuid": "13122024-214431335-Mr_Fireman42-830631927177-547",
+      "time": 67.69546,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3383249214",
+    "hash": "4c5287826653bb992a1f84f055551cbebd04d28532cde791ddebef0ce0412ebd",
+    "level": {
+      "name": "ZSL - Coil Whine",
+      "path": "./downloads/3383249214/ZSL - Coil Whine/ZSL - Coil Whine.zeeplevel",
+      "blocks": 208,
+      "author": "variableferret",
+      "uuid": "12122024-153359861-variableferret-995670594114-207",
+      "time": 43.49758,
+      "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
     },
