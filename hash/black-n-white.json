@@ -136,14 +136,14 @@
   },
   {
     "workshopPath": "./downloads/3373126602",
-    "hash": "0e318dfb2c64f1a989eac29d59f184f896167de617680c604db68489ef449a40",
+    "hash": "1f7f88eaa952d06f374309f3870ce1ad22a42e1f9a866355ff1209a59fdae068",
     "level": {
-      "name": "ZSL - Fragt Port v3",
-      "path": "./downloads/3373126602/ZSL - Fragt Port v3/ZSL - Fragt Port v3.zeeplevel",
-      "blocks": 2499,
+      "name": "ZSL - Fragt Port ",
+      "path": "./downloads/3373126602/ZSL - Fragt Port/ZSL - Fragt Port .zeeplevel",
+      "blocks": 2698,
       "author": "M4rv1nDD",
-      "uuid": "07122024-232433830-M4rv1nDD-008218688024-2498",
-      "time": 54.5914,
+      "uuid": "14122024-223532593-M4rv1nDD-410962926132-2697",
+      "time": 51.49171,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -1199,14 +1199,14 @@
   },
   {
     "workshopPath": "./downloads/3380253123",
-    "hash": "ff24b855a98b854b041193e0b7b3de1d4a5ce5f9a5076ae3f60a13824b662791",
+    "hash": "25b248c119f7884f52aab899c12bfaf2e79045b68cd5ec5186be4005c483736f",
     "level": {
       "name": "ZSL - Permafrost",
       "path": "./downloads/3380253123/ZSL - Permafrost/ZSL - Permafrost.zeeplevel",
       "blocks": 867,
       "author": "[ZET]Stick",
-      "uuid": "12122024-171604156-[ZET]Stick-787330939782-866",
-      "time": null,
+      "uuid": "14122024-194236009-[ZET]Stick-785327831705-866",
+      "time": 52.87632,
       "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -1335,14 +1335,14 @@
   },
   {
     "workshopPath": "./downloads/3383782485",
-    "hash": "ce64fcf3b7ca63e4ed8ceb15c4185342d1996600ba462aa0447b8e76111757f0",
+    "hash": "9440cdade31d2d02d78b6c47987b5923df8b25e201e2ec63ee452b8c8b6988be",
     "level": {
       "name": "ZSL - noynaC sdrawkcaB",
       "path": "./downloads/3383782485/ZSL - noynaC sdrawkcaB/ZSL - noynaC sdrawkcaB.zeeplevel",
-      "blocks": 275,
+      "blocks": 286,
       "author": "L3mmy",
-      "uuid": "13122024-222157611-L3mmy-111706563461-274",
-      "time": 39.94136,
+      "uuid": "14122024-134813453-L3mmy-033003225007-285",
+      "time": 39.81296,
       "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -1358,7 +1358,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3383714765",
@@ -1398,6 +1399,87 @@
       "uuid": "12122024-153359861-variableferret-995670594114-207",
       "time": 43.49758,
       "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3384617289",
+    "hash": "56a6753a98f1f4bc7bc801c62bcdfcbad6cb9599b9806db7813d728e1cef612f",
+    "level": {
+      "name": "ZSL - Negative Space",
+      "path": "./downloads/3384617289/ZSL - Negative Space/ZSL - Negative Space.zeeplevel",
+      "blocks": 1025,
+      "author": "SomeRsilent",
+      "uuid": "15122024-010402906-SomeRsilent-225818479513-1024",
+      "time": 71.17963,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3384058179",
+    "hash": "5084f390f9317e0c7482a28fab7f96f718d8c21da53f56b32a826dd86473d37d",
+    "level": {
+      "name": "ZSL - Snow In The Dark",
+      "path": "./downloads/3384058179/ZSL - Snow In The Dark/ZSL - Snow In The Dark.zeeplevel",
+      "blocks": 62,
+      "author": "Unknown",
+      "uuid": "14122024-215132742-Unknown-411998700567-61",
+      "time": 65.95341,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3384473465",
+    "hash": "5d5cb6460ef88c47b782b1f67e2d262c8296e82ebdeaacadf3c2f5d5084b2cdb",
+    "level": {
+      "name": "ZSL - Ink Cavern",
+      "path": "./downloads/3384473465/ZSL - Ink Cavern/ZSL - Ink Cavern.zeeplevel",
+      "blocks": 1826,
+      "author": "lokja",
+      "uuid": "14122024-212713286-lokja-392496413777-1825",
+      "time": 53.23513,
+      "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
     },
