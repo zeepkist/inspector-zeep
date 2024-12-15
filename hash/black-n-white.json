@@ -136,17 +136,17 @@
   },
   {
     "workshopPath": "./downloads/3373126602",
-    "hash": "1f7f88eaa952d06f374309f3870ce1ad22a42e1f9a866355ff1209a59fdae068",
+    "hash": "f4f700b7fb865c6e5c6f949cee768870f8223719735d2d086d937f2abd2f5133",
     "level": {
       "name": "ZSL - Fragt Port ",
       "path": "./downloads/3373126602/ZSL - Fragt Port/ZSL - Fragt Port .zeeplevel",
-      "blocks": 2698,
+      "blocks": 2848,
       "author": "M4rv1nDD",
-      "uuid": "14122024-223532593-M4rv1nDD-410962926132-2697",
-      "time": 51.49171,
-      "checkpoints": 6,
+      "uuid": "15122024-042325149-M4rv1nDD-200438561312-2847",
+      "time": 51.49036,
+      "checkpoints": 7,
       "changerGateModes": {},
-      "logicBlocks": 0
+      "logicBlocks": 1
     },
     "isValid": true,
     "validity": {
@@ -1480,6 +1480,60 @@
       "uuid": "14122024-212713286-lokja-392496413777-1825",
       "time": 53.23513,
       "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3384887841",
+    "hash": "1dc889d119b92eef423999b1074a3726a686a64b88319b5625345f229bbcd957",
+    "level": {
+      "name": "ZSL - Storm Chaser",
+      "path": "./downloads/3384887841/ZSL - Storm Chaser/ZSL - Storm Chaser.zeeplevel",
+      "blocks": 2189,
+      "author": "HurryGo",
+      "uuid": "15122024-050822117-HurryGo-050866208211-2188",
+      "time": 70.69868,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3384720055",
+    "hash": "67fa386bcb105cb3e584188b83487a13e09be622b96df9067bbc9f3536b42da9",
+    "level": {
+      "name": "ZSL - Memento",
+      "path": "./downloads/3384720055/ZSL - Memento/ZSL - Memento.zeeplevel",
+      "blocks": 96,
+      "author": "Wotterbytes",
+      "uuid": "15122024-004012290-Wotterbytes-107908466385-95",
+      "time": 43.10429,
+      "checkpoints": 3,
       "changerGateModes": {},
       "logicBlocks": 0
     },
