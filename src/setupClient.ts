@@ -40,7 +40,7 @@ export const setupClient = async (client: Client) => {
   if (submissionChannel.locked && !SILENT_MODE) {
     error(`Submission channel ${submissionChannel.name} is locked`, import.meta)
     // eslint-disable-next-line unicorn/no-process-exit
-    process.exit(1)
+    process.exit(0) // Exit with code 0 to prevent GitHub Actions from failing in-between events
   }
 
   if (!SILENT_MODE) {
