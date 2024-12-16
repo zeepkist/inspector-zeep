@@ -1549,5 +1549,86 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3385112176",
+    "hash": "e2556cc5260e438257841530367e235fa3ae3b9463f38e0fb84fdd57524174cb",
+    "level": {
+      "name": "ZSL - Just as colorful as my imagination",
+      "path": "./downloads/3385112176/ZSL - Just as colorful as my imagination/ZSL - Just as colorful as my imagination.zeeplevel",
+      "blocks": 390,
+      "author": "ZOMAN",
+      "uuid": "15122024-185749563-ZOMAN-124488254441-389",
+      "time": 40.70713,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3385099885",
+    "hash": "1558f9053262e46269fead881f255327cf4f30e87f2715f86d831d46e7015ea3",
+    "level": {
+      "name": "ZSL - very pale",
+      "path": "./downloads/3385099885/ZSL - very pale/ZSL - very pale.zeeplevel",
+      "blocks": 212,
+      "author": "[DNF] md_PL_",
+      "uuid": "15122024-183820928-[DNF] md_PL_-193142392140-211",
+      "time": 21.61919,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3384999606",
+    "hash": "56197ab8a02cfaaebbc381542761bdb11eedf651c7747b59d288752e5b787f3a",
+    "level": {
+      "name": "ZSL-Warehouse District 22",
+      "path": "./downloads/3384999606/ZSL-Warehouse District 22/ZSL-Warehouse District 22.zeeplevel",
+      "blocks": 323,
+      "author": "[ZET]vectortrajector",
+      "uuid": "15122024-090917729-[ZET]vectortrajector-608043900506-322",
+      "time": 36.63382,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
