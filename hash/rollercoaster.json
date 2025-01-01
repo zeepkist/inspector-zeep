@@ -1,0 +1,219 @@
+[
+  {
+    "workshopPath": "./downloads/3397904953",
+    "hash": "8399f5b225313ad358eeab36f257092c4a2473e447104f5eb0d53fbc900f73dc",
+    "level": {
+      "name": "ZSL - The Wild Willow",
+      "path": "./downloads/3397904953/ZSL - The Wild Willow/ZSL - The Wild Willow.zeeplevel",
+      "blocks": 1290,
+      "author": "Wotterbytes",
+      "uuid": "28122024-114751112-Wotterbytes-931567759813-1289",
+      "time": 60.81141,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3397808984",
+    "hash": "2e8d9a97a64b947a4ae7bda23144e5a86d1219dcc7224d676e48810b8f20727c",
+    "level": {
+      "name": "ZSL - Timber Ridge",
+      "path": "./downloads/3397808984/ZSL - Timber Ridge/ZSL - Timber Ridge.zeeplevel",
+      "blocks": 1000,
+      "author": "Shadynook",
+      "uuid": "01012025-011206564-Shadynook-837684884426-999",
+      "time": 43.41761,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3395383935",
+    "hash": "8140beb5adb0127fd49b751a2cd8700be9786b25e893cbe95dd20446bf63e981",
+    "level": {
+      "name": "Coaster Madness",
+      "path": "./downloads/3395383935/Coaster Madness/Coaster Madness.zeeplevel",
+      "blocks": 2069,
+      "author": "[WMBO]Barnacle Boy",
+      "uuid": "29122024-153436020-[WMBO]Barnacle Boy-210936709419-2068",
+      "time": 82.87107,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": true,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 1735757478962
+  },
+  {
+    "workshopPath": "./downloads/3394079530",
+    "hash": "8b75804f0e8d14119c3f534441e355d20436aab0bf029c0fd45f6376b36ea0f4",
+    "level": {
+      "name": "ZSL - Diatonic Shoe",
+      "path": "./downloads/3394079530/ZSL - Diatonic Shoe/ZSL - Diatonic Shoe.zeeplevel",
+      "blocks": 137,
+      "author": "balogan75",
+      "uuid": "28122024-094301584-balogan75-041132117359-136",
+      "time": 62.38129,
+      "checkpoints": 2,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3394936450",
+    "hash": "81b89f614278b462a2929c95e1b61c9090ece2a9a1ce6c325d966f3bb9d31089",
+    "level": {
+      "name": "ZSL - RC Firebird ",
+      "path": "./downloads/3394936450/ZSL - RC Firebird/ZSL - RC Firebird .zeeplevel",
+      "blocks": 2835,
+      "author": "[TTR] Tigerplaysonpc & OfMany",
+      "uuid": "29122024-094902728-[TTR] Tigerplaysonpc & OfMany-115652364537-2834",
+      "time": 45.59742,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3394044072",
+    "hash": "19016fc754d39b06e90f10117f0d92f8b226af10347d9880406dcec04becffd1",
+    "level": {
+      "name": "ZSL - Tengu Temple",
+      "path": "./downloads/3394044072/ZSL - Tengu Temple/ZSL - Tengu Temple.zeeplevel",
+      "blocks": 3783,
+      "author": "Mortishade",
+      "uuid": "28122024-145244532-Mortishade-972815747984-3782",
+      "time": 52.66759,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3393802482",
+    "hash": "978a3e3a465c2667f4ce13240a0f885398f4146d9a1ef43e850b521a8620aa53",
+    "level": {
+      "name": "ZSL - Disrepair",
+      "path": "./downloads/3393802482/ZSL - Disrepair/ZSL - Disrepair.zeeplevel",
+      "blocks": 1220,
+      "author": "variableferret",
+      "uuid": "27122024-215929500-variableferret-679903013905-1219",
+      "time": 41.7297,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3392509576",
+    "hash": "00a707bbc76afb0e947640bb4cfe6404ebafb85618d65b7f661a9050ce02f635",
+    "level": {
+      "name": "ZSL - Riccio Watercoaster",
+      "path": "./downloads/3392509576/ZSL - Riccio Watercoaster/ZSL - Riccio Watercoaster.zeeplevel",
+      "blocks": 391,
+      "author": "Riccio97",
+      "uuid": "26122024-192930208-Riccio97-772411190258-390",
+      "time": 60.20975,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  }
+]
