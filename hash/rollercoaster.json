@@ -215,5 +215,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3399160215",
+    "hash": "4d25d81d6fc184afb9de6ec8c1e90e28f983a36b5f369f36f2e359ecd020271a",
+    "level": {
+      "name": "ZSL - The Trans-cidental Expedition",
+      "path": "./downloads/3399160215/ZSL - The Trans-cidental Expedition/ZSL - The Trans-cidental Expedition.zeeplevel",
+      "blocks": 1068,
+      "author": "ttv/Lilly the Bun & L3mmy",
+      "uuid": "02012025-184415514-ttv/Lilly the Bun & L3mmy-397865919511-1067",
+      "time": 56.16041,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
