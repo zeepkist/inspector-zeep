@@ -245,14 +245,14 @@
   },
   {
     "workshopPath": "./downloads/3399253412",
-    "hash": "706866d1a7ee469c43c8dbc370f73904b1cf0b0f0ce2186c51b0c4f8787567da",
+    "hash": "1a98cf5196a1d71a15d7f44ee857029dc8b0dc180a0dd49d0457bfbf1b9f9181",
     "level": {
       "name": "ZSL - Neptune's Torrent",
       "path": "./downloads/3399253412/ZSL - Neptune's Torrent/ZSL - Neptune's Torrent.zeeplevel",
       "blocks": 3014,
       "author": "[Trnt] Torrent Stormbringer",
-      "uuid": "02012025-220945845-[Trnt] Torrent Stormbringer-636173854091-3013",
-      "time": 55.79535,
+      "uuid": "03012025-153155996-[Trnt] Torrent Stormbringer-319078234950-3013",
+      "time": 54.77832,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -268,6 +268,7 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
