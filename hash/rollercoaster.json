@@ -270,5 +270,32 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3399898005",
+    "hash": "1f9f4cde1e468de8657aa513fc2a489525811038888ff25630e594a0510589e1",
+    "level": {
+      "name": "ZSL - Tengu Temple",
+      "path": "./downloads/3399898005/ZSL - Tengu Temple/ZSL - Tengu Temple.zeeplevel",
+      "blocks": 3784,
+      "author": "Mortishade",
+      "uuid": "04012025-002052491-Mortishade-826051862416-3783",
+      "time": 52.06224,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
