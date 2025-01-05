@@ -324,5 +324,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3400848175",
+    "hash": "ed957805550af75d4a009cffee3ca50fea4f41eeddc6c02c7ead9a5c77d32d5d",
+    "level": {
+      "name": "ZSL - Incredible Zulk",
+      "path": "./downloads/3400848175/ZSL - Incredible Zulk/ZSL - Incredible Zulk.zeeplevel",
+      "blocks": 1260,
+      "author": "Toothygaming & Tanaka",
+      "uuid": "04012025-224516283-Toothygaming & Tanaka-846574461161-1259",
+      "time": 58.2666,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
