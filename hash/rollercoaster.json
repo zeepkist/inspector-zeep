@@ -297,5 +297,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3400778981",
+    "hash": "f55d36da2fea17d24fd1d726292a88e6d79534e9c8cd59bd3fbf812dd83d1096",
+    "level": {
+      "name": "ZSL - Devilish Twists",
+      "path": "./downloads/3400778981/ZSL - Devilish Twists/ZSL - Devilish Twists.zeeplevel",
+      "blocks": 271,
+      "author": "[CODE]Encryptkid",
+      "uuid": "04012025-171906771-[CODE]Encryptkid-246217523047-270",
+      "time": 44.2774,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
