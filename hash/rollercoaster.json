@@ -378,5 +378,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3403439480",
+    "hash": "f9fb796a47770b2d38947187fb786a032a5e8de5e063d8cc6067e5beca95e2cf",
+    "level": {
+      "name": "ZSL - Flight of Demons",
+      "path": "./downloads/3403439480/ZSL - Flight of Demons/ZSL - Flight of Demons.zeeplevel",
+      "blocks": 1859,
+      "author": "lokja",
+      "uuid": "08012025-195158644-lokja-289713186327-1858",
+      "time": 48.55668,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
