@@ -432,5 +432,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3403573102",
+    "hash": "028ae53f8720b374dd8cf3ea40fdd9cf7c484b7454a953a48aff0979c6d7dc06",
+    "level": {
+      "name": "ZSL - Roller Rush",
+      "path": "./downloads/3403573102/ZSL - Roller Rush/ZSL - Roller Rush.zeeplevel",
+      "blocks": 1786,
+      "author": "Maxie12 + Hate Hater",
+      "uuid": "09012025-014727018-Maxie12 + Hate Hater-228399833506-1785",
+      "time": 52.12513,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
