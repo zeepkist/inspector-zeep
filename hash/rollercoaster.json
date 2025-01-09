@@ -513,5 +513,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3404123290",
+    "hash": "73f4dbb49f4acc58546d2efb42df790cc56012a872f4275e9e1df3de2434799a",
+    "level": {
+      "name": "ZSL - Along for the Ride",
+      "path": "./downloads/3404123290/ZSL - Along for the Ride/ZSL - Along for the Ride.zeeplevel",
+      "blocks": 370,
+      "author": "Lexer",
+      "uuid": "09012025-134718735-Lexer-350834020162-369",
+      "time": 37.34251,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
