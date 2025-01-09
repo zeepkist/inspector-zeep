@@ -459,5 +459,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3403680840",
+    "hash": "2a2fb943ebebc09eaa6e415fd77bb76964dbf96aa39867803138c915bb81b7d1",
+    "level": {
+      "name": "ZSL - Loop Coaster",
+      "path": "./downloads/3403680840/ZSL - Loop Coaster/ZSL - Loop Coaster.zeeplevel",
+      "blocks": 156,
+      "author": "OgelGames",
+      "uuid": "09012025-150645277-OgelGames-286567687518-155",
+      "time": 36.91055,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
