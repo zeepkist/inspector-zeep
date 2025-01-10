@@ -594,5 +594,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3404524532",
+    "hash": "a02f4837396336e5a255b57de691200a761565b557ea0552b7beb6a965f2e095",
+    "level": {
+      "name": "ZSL - Touch The Sky",
+      "path": "./downloads/3404524532/ZSL - Touch The Sky/ZSL - Touch The Sky.zeeplevel",
+      "blocks": 362,
+      "author": "[ZET] Ploddip",
+      "uuid": "09012025-223807182-[ZET] Ploddip-933927653953-361",
+      "time": 69.99612,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
