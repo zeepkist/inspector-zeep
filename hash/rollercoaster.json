@@ -540,5 +540,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3404233220",
+    "hash": "6b7e9dc8fb6dff901a406a803ab840e4dd00dc0964f88cd9bccdda783361eacf",
+    "level": {
+      "name": "ZSL-Ice Breaker",
+      "path": "./downloads/3404233220/ZSL-Ice Breaker/ZSL-Ice Breaker.zeeplevel",
+      "blocks": 677,
+      "author": "GoBigGoHotWheels",
+      "uuid": "09012025-183807486-GoBigGoHotWheels-590482805420-676",
+      "time": 57.69092,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
