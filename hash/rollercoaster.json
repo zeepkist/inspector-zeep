@@ -567,5 +567,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3404737885",
+    "hash": "d15621054e78ed83bf8eeeed166634bb68615afa095ca661a56fed0c84807589",
+    "level": {
+      "name": "ZSL - Enter The Grid",
+      "path": "./downloads/3404737885/ZSL - Enter The Grid/ZSL - Enter The Grid.zeeplevel",
+      "blocks": 669,
+      "author": "[MM] mori_cinis",
+      "uuid": "10012025-095336288-[MM] mori_cinis-749247266668-668",
+      "time": 63.9533,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
