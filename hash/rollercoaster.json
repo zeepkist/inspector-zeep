@@ -622,5 +622,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3404980589",
+    "hash": "989f9d3a752bb7741b45070f9b6868eb01e7b20e5bb1ba230b7426716ed95b27",
+    "level": {
+      "name": "ZSL - Fire In The Hole coaster ",
+      "path": "./downloads/3404980589/ZSL - Fire In The Hole coaster/ZSL - Fire In The Hole coaster .zeeplevel",
+      "blocks": 243,
+      "author": "[CLWN]DryDoc",
+      "uuid": "10012025-221710212-[CLWN]DryDoc-193329884583-242",
+      "time": 58.43529,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
