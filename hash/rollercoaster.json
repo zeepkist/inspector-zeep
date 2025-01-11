@@ -570,14 +570,14 @@
   },
   {
     "workshopPath": "./downloads/3404737885",
-    "hash": "d15621054e78ed83bf8eeeed166634bb68615afa095ca661a56fed0c84807589",
+    "hash": "931d57d8805926ef0bec410656a3017ba6a3ba5fe181b7ea62b13aa6f0cadfff",
     "level": {
       "name": "ZSL - Enter The Grid",
       "path": "./downloads/3404737885/ZSL - Enter The Grid/ZSL - Enter The Grid.zeeplevel",
       "blocks": 669,
       "author": "[MM] mori_cinis",
-      "uuid": "10012025-095336288-[MM] mori_cinis-749247266668-668",
-      "time": 63.9533,
+      "uuid": "10012025-170133514-[MM] mori_cinis-153082168042-668",
+      "time": 63.04082,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -593,7 +593,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3404524532",
