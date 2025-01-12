@@ -731,5 +731,87 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3406255771",
+    "hash": "4d71a0380128a761b89e468a1cf97b95c5d43959cf4776128b9f67aa98539f0a",
+    "level": {
+      "name": "ZSL - wood cove",
+      "path": "./downloads/3406255771/ZSL - wood cove/ZSL - wood cove.zeeplevel",
+      "blocks": 1364,
+      "author": "rtyyyyb",
+      "uuid": " Northwind",
+      "time": 47.49932,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3406255486",
+    "hash": "9cc41166272f5cd14a34c732f73beb1da21ce81e816c77e3d1edbabd0491cdac",
+    "level": {
+      "name": "ZSL Rocky Hills Coaster",
+      "path": "./downloads/3406255486/ZSL Rocky Hills Coaster/ZSL Rocky Hills Coaster.zeeplevel",
+      "blocks": 714,
+      "author": "kwade2340",
+      "uuid": "12012025-115818819-kwade2340-115997649286-713",
+      "time": 87.73357,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": true,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 1736712837817
+  },
+  {
+    "workshopPath": "./downloads/3406236770",
+    "hash": "f1b322a02498155a414942d952b2074be115537327b6e2cd49e55bbee310db4a",
+    "level": {
+      "name": "ZSL - Gold Mine",
+      "path": "./downloads/3406236770/ZSL - Gold Mine/ZSL - Gold Mine.zeeplevel",
+      "blocks": 549,
+      "author": "Diabler",
+      "uuid": "12012025-183554928-Diabler-958163496229-548",
+      "time": 39.63899,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
