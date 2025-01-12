@@ -677,5 +677,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3405972535",
+    "hash": "321d8bd6914e578480e5f2d0dcd4e580085b087afc25e3c9f73c9436aff43e2b",
+    "level": {
+      "name": "ZSL - Cloud Coaster",
+      "path": "./downloads/3405972535/ZSL - Cloud Coaster/ZSL - Cloud Coaster.zeeplevel",
+      "blocks": 751,
+      "author": "ferinine",
+      "uuid": "12012025-061323496-ferinine-778496341555-750",
+      "time": 60.02267,
+      "checkpoints": 11,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
