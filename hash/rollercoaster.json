@@ -704,5 +704,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3406216187",
+    "hash": "7164141bbcfa822162fb7b06d4c72dd450bc9f5d553b860c1605035a256dd8b5",
+    "level": {
+      "name": "ZSL - Offseason Visit",
+      "path": "./downloads/3406216187/ZSL - Offseason Visit/ZSL - Offseason Visit.zeeplevel",
+      "blocks": 1954,
+      "author": "Linzi - Maki - St Nic",
+      "uuid": "12012025-082230649-St Nicholas-905008667527-1953",
+      "time": 62.18518,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
