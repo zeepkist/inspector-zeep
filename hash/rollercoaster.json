@@ -650,5 +650,32 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3405847865",
+    "hash": "449646489d389938c2ef9ca758f45a98959dbf88bb6bda784ff3b6f192f6233b",
+    "level": {
+      "name": "ZSL -  Twin Peaks Express",
+      "path": "./downloads/3405847865/ZSL -  Twin Peaks Express/ZSL -  Twin Peaks Express.zeeplevel",
+      "blocks": 1419,
+      "author": "johnbananablue",
+      "uuid": "12012025-005029475-johnbananablue-546170153489-1418",
+      "time": 37.9317,
+      "checkpoints": 2,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
