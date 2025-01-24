@@ -295,5 +295,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3413150003",
+    "hash": "0119f3a7947fff6167ae89eb70d8ab668d7ea11662b5af0fb5c65a070aa560fa",
+    "level": {
+      "name": "ZSL - Circuit of the Zeepkist",
+      "path": "./downloads/3413150003/ZSL - Circuit of the Zeepkist/ZSL - Circuit of the Zeepkist.zeeplevel",
+      "blocks": 2453,
+      "author": "Tommygaming5132",
+      "uuid": "24012025-131656577-Tommygaming5132-967072790959-2452",
+      "time": 48.24995,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
