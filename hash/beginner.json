@@ -403,5 +403,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3414025243",
+    "hash": "ee0d6213e230cd9325ce04a96b1f697d91b5ebaa75e40063309d12e2f169b4c1",
+    "level": {
+      "name": "ZSL - Easy Breezy",
+      "path": "./downloads/3414025243/ZSL - Easy Breezy/ZSL - Easy Breezy.zeeplevel",
+      "blocks": 966,
+      "author": "variableferret",
+      "uuid": "25012025-014736420-variableferret-693630765574-965",
+      "time": 46.22571,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
