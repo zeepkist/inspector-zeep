@@ -244,14 +244,14 @@
   },
   {
     "workshopPath": "./downloads/3412581901",
-    "hash": "1fc7782ea8959f55f5d82c616a7af0cb14a13743b1440b9dc155b0aea10e4f87",
+    "hash": "812c3320befe5f6ef4179ca55401e207dea3e9273e53c62b287a87de22cb15f4",
     "level": {
       "name": "ZSL-Noob Farms",
       "path": "./downloads/3412581901/ZSL-Noob Farms/ZSL-Noob Farms.zeeplevel",
-      "blocks": 1710,
+      "blocks": 1713,
       "author": "GoBigGoHotWheels",
-      "uuid": "22012025-142355975-GoBigGoHotWheels-240962022709-1709",
-      "time": 38.98958,
+      "uuid": "25012025-110500899-GoBigGoHotWheels-588561154935-1712",
+      "time": 37.78122,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -267,7 +267,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3412365723",
@@ -415,6 +416,33 @@
       "uuid": "25012025-014736420-variableferret-693630765574-965",
       "time": 46.22571,
       "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3414347456",
+    "hash": "faeed577a181d464dd36d510caf11aa694af60e914544669b77313e538f1cec4",
+    "level": {
+      "name": "ZSL - Lykling",
+      "path": "./downloads/3414347456/ZSL - Lykling/ZSL - Lykling.zeeplevel",
+      "blocks": 748,
+      "author": "Mortishade",
+      "uuid": "25012025-171332716-Mortishade-835834977217-747",
+      "time": 42.70157,
+      "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
     },
