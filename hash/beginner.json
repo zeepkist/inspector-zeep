@@ -485,5 +485,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3414528984",
+    "hash": "07458a5fc5f692f83c0bcdb94a102e476ed90335b673a2e73d11e24ab38c5f48",
+    "level": {
+      "name": "ZSL - Futuristic Freeway",
+      "path": "./downloads/3414528984/ZSL - Futuristic Freeway/ZSL - Futuristic Freeway.zeeplevel",
+      "blocks": 301,
+      "author": "b17bobby",
+      "uuid": "24012025-201450459-b17bobby-096792779112-300",
+      "time": 43.11383,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
