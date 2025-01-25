@@ -349,5 +349,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3413928033",
+    "hash": "5edcf78d20fec9d05343d43e3f109218cdad4b2163b327b622031fcfc90c62c1",
+    "level": {
+      "name": "ZSL - EZ adventure",
+      "path": "./downloads/3413928033/ZSL - EZ adventure/ZSL - EZ adventure.zeeplevel",
+      "blocks": 2114,
+      "author": "[d1o] Weside",
+      "uuid": "24012025-213419498-[d1o] Weside-992914385623-2113",
+      "time": 45.32944,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
