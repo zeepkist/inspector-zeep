@@ -376,5 +376,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3413991115",
+    "hash": "bfc7c5540f1844dd492b115b0bdc562647cebe6da22f41a20bbe5295e2081c88",
+    "level": {
+      "name": "ZSL - Fun at the Park",
+      "path": "./downloads/3413991115/ZSL - Fun at the Park/ZSL - Fun at the Park.zeeplevel",
+      "blocks": 801,
+      "author": "Coolmc2222",
+      "uuid": "24012025-223002357-Coolmc2222-170205155162-800",
+      "time": 42.27547,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
