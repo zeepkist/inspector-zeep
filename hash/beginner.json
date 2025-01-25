@@ -322,5 +322,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3413878806",
+    "hash": "76de93e9c6d38ad5c46fcdc58fd9fa511517a3290a442114726d3a6bbc69547a",
+    "level": {
+      "name": "ZSL - Over the Hills",
+      "path": "./downloads/3413878806/ZSL - Over the Hills/ZSL - Over the Hills.zeeplevel",
+      "blocks": 501,
+      "author": "Broroboros",
+      "uuid": "25012025-113033938-Broroboros-971617377967-500",
+      "time": 49.44394,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
