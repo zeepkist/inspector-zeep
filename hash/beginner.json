@@ -539,5 +539,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3414993424",
+    "hash": "4abb3e678bfedf916562b2c07098f018d44eb9cdbaf7641174559e92c345b78b",
+    "level": {
+      "name": "ZSL - Color Entanglement",
+      "path": "./downloads/3414993424/ZSL - Color Entanglement/ZSL - Color Entanglement.zeeplevel",
+      "blocks": 213,
+      "author": "[BoF3] Zeke Ryu'kai",
+      "uuid": "26012025-070147448-[BoF3] Zeke Ryu'kai-808206269450-212",
+      "time": 40.47882,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 114
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
