@@ -620,5 +620,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3415209502",
+    "hash": "56de0cbfbbf029163c6df9905ded8aa31f6cede9c21f85648248d7a606820aa2",
+    "level": {
+      "name": "ZSL-floating paradise",
+      "path": "./downloads/3415209502/ZSL-floating paradise/ZSL-floating paradise.zeeplevel",
+      "blocks": 715,
+      "author": "vortex",
+      "uuid": "26012025-132413794-vortex-545169918699-714",
+      "time": 43.9883,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
