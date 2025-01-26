@@ -512,5 +512,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3414735699",
+    "hash": "ee251277f9cc0a1cd6956ec9d5d9b1d5beb04fe98955980c436c1353bcb6b88c",
+    "level": {
+      "name": "ZSL - Easy Space",
+      "path": "./downloads/3414735699/ZSL - Easy Space/ZSL - Easy Space.zeeplevel",
+      "blocks": 740,
+      "author": "[ZET] Jakie",
+      "uuid": "25012025-221529308-[ZET] Jakie-851131080690-739",
+      "time": 42.25651,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
