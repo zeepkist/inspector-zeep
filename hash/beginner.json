@@ -566,5 +566,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3415215378",
+    "hash": "989b9b116463b3ceddc6c0fdcd9c204a03748143f757f8dd35797144f9bf553d",
+    "level": {
+      "name": "ZSL- Looping Left",
+      "path": "./downloads/3415215378/ZSL- Looping Left/ZSL- Looping Left.zeeplevel",
+      "blocks": 455,
+      "author": "BB_Benji",
+      "uuid": "26012025-133146544-BB_Benji-498632108930-454",
+      "time": 43.20036,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 8
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
