@@ -648,5 +648,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3415515046",
+    "hash": "6da15e3c0d557d4dd9313cc4cc6d978a4109336e5c3e6c3a49475edb4454aeee",
+    "level": {
+      "name": "ZSL - Mesa Tango",
+      "path": "./downloads/3415515046/ZSL - Mesa Tango/ZSL - Mesa Tango.zeeplevel",
+      "blocks": 1423,
+      "author": "Shadynook",
+      "uuid": "26012025-223809585-Shadynook-582344221107-1422",
+      "time": 39.37734,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
