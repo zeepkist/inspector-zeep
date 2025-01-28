@@ -756,5 +756,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3416541148",
+    "hash": "743d06cce84a33e0e16647fce6c3e42dd113d75187b8f9e64a4e6c02d48796f1",
+    "level": {
+      "name": "ZSL - Posipalium",
+      "path": "./downloads/3416541148/ZSL - Posipalium/ZSL - Posipalium.zeeplevel",
+      "blocks": 1049,
+      "author": "L3mmy & Maki",
+      "uuid": "28012025-214750103-L3mmy & Maki-377432580271-1048",
+      "time": 42.611,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 8
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
