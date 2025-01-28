@@ -729,5 +729,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3415918889",
+    "hash": "6a62670e644dbcdb5bcd309459b578d434b9ee08ea9e11a83a357832f43bf122",
+    "level": {
+      "name": "ZSL- Easten robot Dragon",
+      "path": "./downloads/3415918889/ZSL- Easten robot Dragon/ZSL- Easten robot Dragon.zeeplevel",
+      "blocks": 1012,
+      "author": "DragonShadow84290",
+      "uuid": "28012025-131504762-DragonShadow84290-946350816507-1011",
+      "time": 38.72264,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
