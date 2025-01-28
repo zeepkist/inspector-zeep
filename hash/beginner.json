@@ -702,5 +702,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3416319989",
+    "hash": "629c11ea15f2d3259b3f3064b9baf540095916b7096d964564e0acce11f5a96d",
+    "level": {
+      "name": "ZSL-A Study in Scarf Flap",
+      "path": "./downloads/3416319989/ZSL-A Study in Scarf Flap/ZSL-A Study in Scarf Flap.zeeplevel",
+      "blocks": 309,
+      "author": "[ZET]vectortrajector",
+      "uuid": "28012025-080621246-[ZET]vectortrajector-119835940840-308",
+      "time": 31.15608,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
