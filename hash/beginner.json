@@ -675,5 +675,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3416044043",
+    "hash": "3d8ff738cae37a3accad4e9f14926a6a9bb355569796ac3f2898518e6ea20baf",
+    "level": {
+      "name": "ZSL - Countryside Scramble",
+      "path": "./downloads/3416044043/ZSL - Countryside Scramble/ZSL - Countryside Scramble.zeeplevel",
+      "blocks": 1091,
+      "author": "[CRT]Codewalt",
+      "uuid": "27012025-164509454-[CRT]Codewalt-677810374891-1090",
+      "time": 30.55186,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
