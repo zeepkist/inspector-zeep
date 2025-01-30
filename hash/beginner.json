@@ -837,5 +837,59 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3417768273",
+    "hash": "7461e3ab59514e90d6ed55f7c9aafdd83ee4bd85bfd07b88a33f9a489d149b58",
+    "level": {
+      "name": "ZSL - Zeep Tour",
+      "path": "./downloads/3417768273/ZSL - Zeep Tour/ZSL - Zeep Tour.zeeplevel",
+      "blocks": 66,
+      "author": "gatlinggun511",
+      "uuid": "30012025-175122360-gatlinggun511-072107408661-65",
+      "time": 48.77711,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3417758788",
+    "hash": "df0dd84c289be5eaeadf525134549433051aec799fcca1d749e195bf5e207b25",
+    "level": {
+      "name": "ZSL - Blokkendoos",
+      "path": "./downloads/3417758788/ZSL - Blokkendoos/ZSL - Blokkendoos.zeeplevel",
+      "blocks": 512,
+      "author": "GaryCXJk",
+      "uuid": "30012025-232612785-GaryCXJk-915821306200-511",
+      "time": 43.97758,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
