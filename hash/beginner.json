@@ -919,5 +919,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3418005434",
+    "hash": "1fb350d32b79dc245bff66e125d161a3154edca0e58e416ac9be7ed003cfb280",
+    "level": {
+      "name": "ZSL - Can't Stop Us Now!",
+      "path": "./downloads/3418005434/ZSL - Can't Stop Us Now!/ZSL - Can't Stop Us Now!.zeeplevel",
+      "blocks": 2309,
+      "author": "Bram2323",
+      "uuid": "31012025-112053087-Bram2323-832638550152-2308",
+      "time": 46.91111,
+      "checkpoints": 12,
+      "changerGateModes": {},
+      "logicBlocks": 1132
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
