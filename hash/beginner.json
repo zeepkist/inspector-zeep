@@ -1000,5 +1000,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3419051298",
+    "hash": "3addc3123d9d27247e819177026c1a12a704d1c035037ca950e2eb3baafaef32",
+    "level": {
+      "name": "ZSL - Dokan Course",
+      "path": "./downloads/3419051298/ZSL - Dokan Course/ZSL - Dokan Course.zeeplevel",
+      "blocks": 191,
+      "author": "MRJames246",
+      "uuid": "01022025-194651753-MRJames246-907656206871-190",
+      "time": 43.95748,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
