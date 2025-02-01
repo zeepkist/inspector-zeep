@@ -946,5 +946,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3418639265",
+    "hash": "6ea2a1eee3fc8c6d0f87533aba718fb65c551fdd404d6c61f6ae87db0178e8bf",
+    "level": {
+      "name": "ZSL - Meliora",
+      "path": "./downloads/3418639265/ZSL - Meliora/ZSL - Meliora.zeeplevel",
+      "blocks": 160,
+      "author": "OgelGames",
+      "uuid": "01022025-200525214-OgelGames-728844687641-159",
+      "time": 40.77688,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
