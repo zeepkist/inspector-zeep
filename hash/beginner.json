@@ -1027,5 +1027,86 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3417289776",
+    "hash": "6dc13901f9762dede0f99c8c635938858eb624d6932afdcbb0b31d3970cc0023",
+    "level": {
+      "name": "ZSL - Wykablu Island",
+      "path": "./downloads/3417289776/ZSL - Wykablu Island/ZSL - Wykablu Island.zeeplevel",
+      "blocks": 869,
+      "author": "[FORK] A Broken Forklift",
+      "uuid": "29012025-225948331-[FORK] A Broken Forklift-100820658668-868",
+      "time": 45.89031,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3419810240",
+    "hash": "f7ec601abb516025f2d1b11e707f43eec6d226faa9285086d587d88699daeaf2",
+    "level": {
+      "name": "ZSL - Easy Breezy V2",
+      "path": "./downloads/3419810240/ZSL - Easy Breezy V2/ZSL - Easy Breezy V2.zeeplevel",
+      "blocks": 966,
+      "author": "variableferret",
+      "uuid": "02022025-132936486-variableferret-807915520415-965",
+      "time": 48.18455,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3419804618",
+    "hash": "4c147b13d54822246749d8eaa49b851f1d3cc32e280f650475b7118b55269938",
+    "level": {
+      "name": "ZSL - Lykling",
+      "path": "./downloads/3419804618/ZSL - Lykling/ZSL - Lykling.zeeplevel",
+      "blocks": 786,
+      "author": "Mortishade",
+      "uuid": "02022025-192031240-Mortishade-666214995381-785",
+      "time": 41.20856,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
