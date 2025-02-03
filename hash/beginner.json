@@ -1217,5 +1217,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3420096459",
+    "hash": "a985d8fb3ccc06696d1841a34ac0d0ba2e1e06b86dc714cf4c5e8d4eaa425ded",
+    "level": {
+      "name": "ZSL - Are you not Amused",
+      "path": "./downloads/3420096459/ZSL - Are you not Amused/ZSL - Are you not Amused.zeeplevel",
+      "blocks": 944,
+      "author": "Toothygaming & Lilly_the_Bun",
+      "uuid": "02022025-230131629-Toothygaming & Lilly_the_Bun-659106889232-943",
+      "time": 40.78177,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
