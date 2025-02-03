@@ -1244,5 +1244,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3420432227",
+    "hash": "59040319b17c9466eb671cd40d517c7a79c3bf0846aa638ad081a36a1243c24f",
+    "level": {
+      "name": "ZSL - The Pit",
+      "path": "./downloads/3420432227/ZSL - The Pit/ZSL - The Pit.zeeplevel",
+      "blocks": 613,
+      "author": "[TOG]Lazy_Echidna",
+      "uuid": "03022025-182144997-[TOG]Lazy_Echidna-778392820045-612",
+      "time": 45.49043,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
