@@ -1190,5 +1190,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3420062387",
+    "hash": "ada0373741747c1f79cc4caf91f7ee51de8b29aadbd24f4bacc091164826ce62",
+    "level": {
+      "name": "ZSL Cosmic Road final version",
+      "path": "./downloads/3420062387/ZSL Cosmic Road final version/ZSL Cosmic Road final version.zeeplevel",
+      "blocks": 994,
+      "author": "Space_cat9999",
+      "uuid": "02022025-212541608-Space_cat9999-233834213697-993",
+      "time": 40.44349,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
