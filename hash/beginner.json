@@ -488,14 +488,14 @@
   },
   {
     "workshopPath": "./downloads/3414528984",
-    "hash": "07458a5fc5f692f83c0bcdb94a102e476ed90335b673a2e73d11e24ab38c5f48",
+    "hash": "8ef220df09b0cd055cde2955d9fd560d78d66873fc23f818d41e6583de6f1fc3",
     "level": {
       "name": "ZSL - Futuristic Freeway",
       "path": "./downloads/3414528984/ZSL - Futuristic Freeway/ZSL - Futuristic Freeway.zeeplevel",
-      "blocks": 301,
+      "blocks": 304,
       "author": "b17bobby",
-      "uuid": "24012025-201450459-b17bobby-096792779112-300",
-      "time": 43.11383,
+      "uuid": "02022025-144334315-b17bobby-239804568642-303",
+      "time": 42.33086,
       "checkpoints": 3,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -511,7 +511,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3414735699",
@@ -1093,6 +1094,87 @@
       "uuid": "02022025-192031240-Mortishade-666214995381-785",
       "time": 41.20856,
       "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3420021752",
+    "hash": "d9c554d6f9e268c1b3acd8800ae429baf22e7b0688d1c0b2324dbbc2e833877c",
+    "level": {
+      "name": "ZSL- Easten robot Dragon V2",
+      "path": "./downloads/3420021752/ZSL- Easten robot Dragon V2/ZSL- Easten robot Dragon V2.zeeplevel",
+      "blocks": 1029,
+      "author": "DragonShadow84290",
+      "uuid": "02022025-193028313-DragonShadow84290-195390116626-1028",
+      "time": 41.49332,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3419868414",
+    "hash": "e846c34dde53f26f1edf860c0ed087738ae0676ad58e6776bfae52c3cf9bd3fe",
+    "level": {
+      "name": "ZSL - Candy chaos",
+      "path": "./downloads/3419868414/ZSL - Candy chaos/ZSL - Candy chaos.zeeplevel",
+      "blocks": 802,
+      "author": "Tommygaming5132",
+      "uuid": "02022025-205003819-Tommygaming5132-528689214307-801",
+      "time": 35.69708,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3419985875",
+    "hash": "1e8bc335ed8653dcffd6f9d947b6f9efe81deae10c01bbd33b2c039238819468",
+    "level": {
+      "name": "ZSL - One Short Day",
+      "path": "./downloads/3419985875/ZSL - One Short Day/ZSL - One Short Day.zeeplevel",
+      "blocks": 2370,
+      "author": "OLR94",
+      "uuid": "03022025-000531493-OLR94-760843242379-2369",
+      "time": 34.7171,
+      "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
     },
