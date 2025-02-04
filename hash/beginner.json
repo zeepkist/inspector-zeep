@@ -1301,14 +1301,14 @@
   },
   {
     "workshopPath": "./downloads/3420861157",
-    "hash": "4592a624317bed40ce16e1ada7e821c6a9214464606d74ba8dc0cb08d4b8e425",
+    "hash": "b33c496491f5ae376da4d053e0c4931aed77966df9871bbac692e8a3bbad8025",
     "level": {
       "name": "ZSL - Steep",
       "path": "./downloads/3420861157/ZSL - Steep/ZSL - Steep.zeeplevel",
       "blocks": 667,
       "author": "RadAbsRad",
-      "uuid": "04022025-113145302-RadAbsRad-552260363658-666",
-      "time": 42.12951,
+      "uuid": "04022025-141507625-RadAbsRad-213222749786-666",
+      "time": 42.14475,
       "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -1324,6 +1324,7 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
