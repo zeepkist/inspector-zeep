@@ -1326,5 +1326,32 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3420659941",
+    "hash": "c6c6c04dd7e9c5127ab28fb6af11795729790163ab4d6ce0c970b1cf8ef34005",
+    "level": {
+      "name": "ZSL - EZ-42069",
+      "path": "./downloads/3420659941/ZSL - EZ-42069/ZSL - EZ-42069.zeeplevel",
+      "blocks": 441,
+      "author": "[ZET] Ploddip",
+      "uuid": "03022025-233828012-[ZET] Ploddip-289465397524-440",
+      "time": 36.69816,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
