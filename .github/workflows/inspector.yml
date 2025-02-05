@@ -3,7 +3,8 @@ name: Inspector Zeep
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+  # - cron: '0 * * * *' # Every hour
+    - cron: '0 15 * * *' # 15:00 daily
 
 env:
   FORCE_COLOR: true
