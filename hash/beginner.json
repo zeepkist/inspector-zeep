@@ -1274,14 +1274,14 @@
   },
   {
     "workshopPath": "./downloads/3420823707",
-    "hash": "e5372c006f62e9bef43f71c157d9eb2f7862c9d2a39b8f0515f58341fcf81981",
+    "hash": "81fa73d301650f5f22b42018b6a8beeb357d51899b5f45ad997879eb5135c713",
     "level": {
       "name": "ZSL - Luigi's Mansion",
       "path": "./downloads/3420823707/ZSL - Luigi's Mansion/ZSL - Luigi's Mansion.zeeplevel",
-      "blocks": 1967,
+      "blocks": 1979,
       "author": "M4rv1nDD",
-      "uuid": "04022025-093706711-M4rv1nDD-785109711659-1966",
-      "time": 47.2778,
+      "uuid": "05022025-112358120-M4rv1nDD-276233918021-1978",
+      "time": 47.34156,
       "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 1
@@ -1297,7 +1297,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3420861157",
