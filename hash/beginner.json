@@ -1380,5 +1380,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3421326329",
+    "hash": "0878a0fa7eac182e15ef95f7f9d50da1cbdd379f5870ec9a8754d8833ed235ce",
+    "level": {
+      "name": "ZSL - Sky Gardens",
+      "path": "./downloads/3421326329/ZSL - Sky Gardens/ZSL - Sky Gardens.zeeplevel",
+      "blocks": 937,
+      "author": "Achmetha0626",
+      "uuid": "04022025-205841664-Achmetha0626-814751623569-936",
+      "time": 42.79051,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
