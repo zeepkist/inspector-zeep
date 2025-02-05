@@ -1353,5 +1353,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3421284094",
+    "hash": "4e71237730bb0922ada47446bf62ae48bf157d16e5e21569d0e422730b2e99e8",
+    "level": {
+      "name": "ZSL - Voracious Vines",
+      "path": "./downloads/3421284094/ZSL - Voracious Vines/ZSL - Voracious Vines.zeeplevel",
+      "blocks": 2066,
+      "author": "JStudios6118 & LegacySK",
+      "uuid": "04022025-165637179-JStudios6118-478893131759-2065",
+      "time": 46.84745,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
