@@ -543,14 +543,14 @@
   },
   {
     "workshopPath": "./downloads/3414993424",
-    "hash": "c2950d0c5f69770739a11a8120c7476f1a42cf0f1d396e393170d958627491e4",
+    "hash": "484c0ae16dcb009c721c5f5de48228758226803dcf4edf472b5fea42bacb7574",
     "level": {
       "name": "ZSL - Color Entanglement",
       "path": "./downloads/3414993424/ZSL - Color Entanglement/ZSL - Color Entanglement.zeeplevel",
       "blocks": 237,
       "author": "[BoF3] Zeke Ryu'kai",
-      "uuid": "26012025-211107859-[BoF3] Zeke Ryu'kai-977888082401-236",
-      "time": 40.94817,
+      "uuid": "04022025-213713294-[BoF3] Zeke Ryu'kai-778508223287-236",
+      "time": 39.77587,
       "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 114
@@ -1392,6 +1392,33 @@
       "uuid": "04022025-205841664-Achmetha0626-814751623569-936",
       "time": 42.79051,
       "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3421320447",
+    "hash": "1449ad5818289f34f2a2393511d3de6753afae2484ced2a5f698052eff2ea1d1",
+    "level": {
+      "name": "ZSL - Paths",
+      "path": "./downloads/3421320447/ZSL - Paths/ZSL - Paths.zeeplevel",
+      "blocks": 822,
+      "author": "[The]Lamp",
+      "uuid": "04022025-203717784-[The]Lamp-934498179943-821",
+      "time": 45.74501,
+      "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
     },
