@@ -1435,5 +1435,113 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3422062560",
+    "hash": "0a572720a07f1a08ea5098a6ed060a562b4d6639771bdfda7c51a33d71bb097a",
+    "level": {
+      "name": "zsl - Webfishing",
+      "path": "./downloads/3422062560/zsl - Webfishing/zsl - Webfishing.zeeplevel",
+      "blocks": 1225,
+      "author": "An Actual g00se",
+      "uuid": "06022025-021457813-An Actual g00se-809836525486-1224",
+      "time": 44.57704,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3422066248",
+    "hash": "712b1809d9e6afa4c2fc01ed1d0dd1f80aac8ebbd7c08c670fd3a9633a2ef21c",
+    "level": {
+      "name": "ZSL - Over the Hills",
+      "path": "./downloads/3422066248/ZSL - Over the Hills/ZSL - Over the Hills.zeeplevel",
+      "blocks": 540,
+      "author": "Broroboros",
+      "uuid": "06022025-212352087-Broroboros-827632570788-539",
+      "time": 47.50306,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3422005619",
+    "hash": "4f3c5f67ce1566803a1a30568a98b2f12af1f3f3c948406ad986ef2631829ffa",
+    "level": {
+      "name": "ZSL - Cresting Waves",
+      "path": "./downloads/3422005619/ZSL - Cresting Waves/ZSL - Cresting Waves.zeeplevel",
+      "blocks": 1001,
+      "author": "Travesty",
+      "uuid": "05022025-224630361-Travesty-234078517913-1000",
+      "time": 47.98662,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3421991217",
+    "hash": "344ea33d5819bf5bebbcfdaec44b0346eacf49f47c5a73c45df4eb84b510e7f1",
+    "level": {
+      "name": "ZSL - Misty Morning",
+      "path": "./downloads/3421991217/ZSL - Misty Morning/ZSL - Misty Morning.zeeplevel",
+      "blocks": 421,
+      "author": "[TBD] Hate Hater",
+      "uuid": "06022025-062322352-[TBD] Hate Hater-434257352457-420",
+      "time": 36.77049,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
