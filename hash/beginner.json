@@ -543,14 +543,14 @@
   },
   {
     "workshopPath": "./downloads/3414993424",
-    "hash": "484c0ae16dcb009c721c5f5de48228758226803dcf4edf472b5fea42bacb7574",
+    "hash": "183b5d5dad93a17f8d00b726e2643153f237bd84535822931d8a68c353ccd8a6",
     "level": {
       "name": "ZSL - Color Entanglement",
       "path": "./downloads/3414993424/ZSL - Color Entanglement/ZSL - Color Entanglement.zeeplevel",
-      "blocks": 237,
+      "blocks": 252,
       "author": "[BoF3] Zeke Ryu'kai",
-      "uuid": "04022025-213713294-[BoF3] Zeke Ryu'kai-778508223287-236",
-      "time": 39.77587,
+      "uuid": "06022025-201628813-[BoF3] Zeke Ryu'kai-809759938729-251",
+      "time": 39.55753,
       "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 114
@@ -1139,14 +1139,14 @@
   },
   {
     "workshopPath": "./downloads/3419868414",
-    "hash": "e846c34dde53f26f1edf860c0ed087738ae0676ad58e6776bfae52c3cf9bd3fe",
+    "hash": "3b6696c92181b616f091fd402bf8e98c854c69045a20ff86252a144e61e1dccb",
     "level": {
       "name": "ZSL - Candy chaos",
       "path": "./downloads/3419868414/ZSL - Candy chaos/ZSL - Candy chaos.zeeplevel",
-      "blocks": 802,
+      "blocks": 835,
       "author": "Tommygaming5132",
-      "uuid": "02022025-205003819-Tommygaming5132-528689214307-801",
-      "time": 35.69708,
+      "uuid": "06022025-204914326-Tommygaming5132-423140018295-834",
+      "time": 35.687,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -1162,7 +1162,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3419985875",
@@ -1528,6 +1529,114 @@
       "uuid": "06022025-062322352-[TBD] Hate Hater-434257352457-420",
       "time": 36.77049,
       "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3422599153",
+    "hash": "742441bdf37dc79a2221da8072f7c1e0b9229c065602655d6e223036d8c4db3b",
+    "level": {
+      "name": "ZSL - Don't Follow The Lights",
+      "path": "./downloads/3422599153/ZSL - Don't Follow The Lights/ZSL - Don't Follow The Lights.zeeplevel",
+      "blocks": 2356,
+      "author": "[Pain]ferinine",
+      "uuid": "07022025-024326168-[Pain]ferinine-903198726677-2355",
+      "time": 45.86164,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 10
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3422392457",
+    "hash": "8866b31842edab357ebc21d64ee425b2db6363b4a6cd2c1ce2a335c706613c11",
+    "level": {
+      "name": "ZSL - Green Green Grass",
+      "path": "./downloads/3422392457/ZSL - Green Green Grass/ZSL - Green Green Grass.zeeplevel",
+      "blocks": 684,
+      "author": "icRS",
+      "uuid": "06022025-213236373-icRS-238085381875-683",
+      "time": 34.96815,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3422429642",
+    "hash": "eeaaa1a040f1de2c2b51191ad7aedeeda80aad336056127823fb5cf848cb2253",
+    "level": {
+      "name": "zsl - Webfishing",
+      "path": "./downloads/3422429642/zsl - Webfishing/zsl - Webfishing.zeeplevel",
+      "blocks": 1225,
+      "author": "An Actual g00se",
+      "uuid": "06022025-145319919-An Actual g00se-383607249247-1224",
+      "time": 45.26306,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3422291041",
+    "hash": "de0a258d24c32dc05221dc3ecc4ce658fa906e55715a5ab2ad893bc4641e7800",
+    "level": {
+      "name": "ZSL-floating paradise fixed",
+      "path": "./downloads/3422291041/ZSL-floating paradise fixed/ZSL-floating paradise fixed.zeeplevel",
+      "blocks": 729,
+      "author": "vortex",
+      "uuid": "06022025-132138952-vortex-731295583063-728",
+      "time": 44.86892,
+      "checkpoints": 9,
       "changerGateModes": {},
       "logicBlocks": 0
     },
