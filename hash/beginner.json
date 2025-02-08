@@ -1139,14 +1139,14 @@
   },
   {
     "workshopPath": "./downloads/3419868414",
-    "hash": "3b6696c92181b616f091fd402bf8e98c854c69045a20ff86252a144e61e1dccb",
+    "hash": "48edc9568546331ce287e69ad8cab015a83cb0efb0fc464601eaaf9b61963e0d",
     "level": {
       "name": "ZSL - Candy chaos",
       "path": "./downloads/3419868414/ZSL - Candy chaos/ZSL - Candy chaos.zeeplevel",
-      "blocks": 835,
+      "blocks": 890,
       "author": "Tommygaming5132",
-      "uuid": "06022025-204914326-Tommygaming5132-423140018295-834",
-      "time": 35.687,
+      "uuid": "07022025-191708277-Tommygaming5132-324270502990-889",
+      "time": 36.41102,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -1639,6 +1639,114 @@
       "checkpoints": 9,
       "changerGateModes": {},
       "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3423341511",
+    "hash": "10387f2ed7c38436bebfde12cf87095cf3410d1c5f254cb8a5ebbf724558dbe1",
+    "level": {
+      "name": "zsl - sunrise treck",
+      "path": "./downloads/3423341511/zsl - sunrise treck/zsl - sunrise treck.zeeplevel",
+      "blocks": 376,
+      "author": "[BOB]Roader",
+      "uuid": "08022025-124547213-[BOB]Roader-170555030699-375",
+      "time": 45.03486,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3422879580",
+    "hash": "edfc499980004784f14bbc6c2e576b0459f301403ea6fdba269e439660af809c",
+    "level": {
+      "name": "ZSL - Sandy Sightseeing",
+      "path": "./downloads/3422879580/ZSL - Sandy Sightseeing/ZSL - Sandy Sightseeing.zeeplevel",
+      "blocks": 258,
+      "author": "Lexer",
+      "uuid": "07022025-110535649-Lexer-453571894610-257",
+      "time": 33.74894,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3423043825",
+    "hash": "60ce861f731d3cf1b11aff1d0a96ce6748e544336105c2bbfc179628620279da",
+    "level": {
+      "name": "ZSL - Moai Madness",
+      "path": "./downloads/3423043825/ZSL - Moai Madness/ZSL - Moai Madness.zeeplevel",
+      "blocks": 798,
+      "author": "Diabler",
+      "uuid": "08022025-000652643-Diabler-803489901889-797",
+      "time": 40.29482,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 266
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3423018308",
+    "hash": "9d3ac3fd244cc22044ffe3aaf606ec3ac6149aa5b0b764e082b4b3f3c644b573",
+    "level": {
+      "name": "ZSL - Can't Stop Us Now!",
+      "path": "./downloads/3423018308/ZSL - Can't Stop Us Now!/ZSL - Can't Stop Us Now!.zeeplevel",
+      "blocks": 2153,
+      "author": "Bram2323",
+      "uuid": "08022025-120050296-Bram2323-350715452712-2152",
+      "time": 45.69009,
+      "checkpoints": 12,
+      "changerGateModes": {},
+      "logicBlocks": 1003
     },
     "isValid": true,
     "validity": {
