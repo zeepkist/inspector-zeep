@@ -1790,13 +1790,13 @@
   },
   {
     "workshopPath": "./downloads/3423955085",
-    "hash": "2f6d6f59cef421d84ae229b42a0d30563f8c03e2c528e01521204b0a83efaaf3",
+    "hash": "824abf31a9c4da7de49e98c28810fad7000fb282cb87b5426784d89bbb790c88",
     "level": {
       "name": "ZSL - Brio",
       "path": "./downloads/3423955085/ZSL - Brio/ZSL - Brio.zeeplevel",
-      "blocks": 3950,
+      "blocks": 3956,
       "author": "[CTR]Mμ & [CTR]GuAlexItar",
-      "uuid": "09022025-013752517-[CTR]Mμ-639283651644-3949",
+      "uuid": "09022025-124735034-[CTR]Mμ-321493414132-3955",
       "time": 46.73227,
       "checkpoints": 6,
       "changerGateModes": {},
@@ -1813,7 +1813,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3423950669",
@@ -1852,6 +1853,87 @@
       "author": "Joking",
       "uuid": "08022025-100446510-Joking-809117372647-552",
       "time": 43.30079,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3423904560",
+    "hash": "e0761a48d18536f317c092b258a8716d1254a195ba74b668a504be556fefc58f",
+    "level": {
+      "name": "ZSL - Brake Tutorial",
+      "path": "./downloads/3423904560/ZSL - Brake Tutorial/ZSL - Brake Tutorial.zeeplevel",
+      "blocks": 622,
+      "author": "AndrewIF",
+      "uuid": "08022025-224921448-AndrewIF-387036100078-621",
+      "time": 48.12287,
+      "checkpoints": 2,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3423123278",
+    "hash": "2d3f32c0510cf4d01d18fe3d6c3042e3d86a9ef372c408ce7fe249528aa9cbf8",
+    "level": {
+      "name": "ZSL - Piece Of Cake",
+      "path": "./downloads/3423123278/ZSL - Piece Of Cake/ZSL - Piece Of Cake.zeeplevel",
+      "blocks": 1312,
+      "author": "[ZET]Stick",
+      "uuid": "08022025-200315392-[ZET]Stick-333940451441-1311",
+      "time": 35.22812,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3422999913",
+    "hash": "bf8b62d6b37dd4f12beb2b9fa0d725d846a2ef57aacfa8498a32f8b3bced70b1",
+    "level": {
+      "name": "ZSL - Beginner Islands",
+      "path": "./downloads/3422999913/ZSL - Beginner Islands/ZSL - Beginner Islands.zeeplevel",
+      "blocks": 697,
+      "author": "[Lord] bernhard",
+      "uuid": "07022025-224624202-[Lord] bernhard-344574460275-696",
+      "time": 43.58213,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
