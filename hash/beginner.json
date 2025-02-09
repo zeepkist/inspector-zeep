@@ -1760,5 +1760,113 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3424030599",
+    "hash": "f5f3b51813b1a345c1d983325ff5b772288b43e99af9253647633a43a45672d2",
+    "level": {
+      "name": "ZSL - Downhill Seasons2",
+      "path": "./downloads/3424030599/ZSL - Downhill Seasons2/ZSL - Downhill Seasons2.zeeplevel",
+      "blocks": 1470,
+      "author": "Thalonius",
+      "uuid": "09022025-091346268-Thalonius-065958192052-1469",
+      "time": 49.87752,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3423955085",
+    "hash": "2f6d6f59cef421d84ae229b42a0d30563f8c03e2c528e01521204b0a83efaaf3",
+    "level": {
+      "name": "ZSL - Brio",
+      "path": "./downloads/3423955085/ZSL - Brio/ZSL - Brio.zeeplevel",
+      "blocks": 3950,
+      "author": "[CTR]Mμ & [CTR]GuAlexItar",
+      "uuid": "09022025-013752517-[CTR]Mμ-639283651644-3949",
+      "time": 46.73227,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3423950669",
+    "hash": "f38185601f731d6f483dac7af740f37ca4526e1a4e319b952d0fadfbe6e32e89",
+    "level": {
+      "name": "ZSL - One-Path Two-Path",
+      "path": "./downloads/3423950669/ZSL - One-Path Two-Path/ZSL - One-Path Two-Path.zeeplevel",
+      "blocks": 341,
+      "author": "groovy",
+      "uuid": "09022025-015750160-groovy-113678453803-340",
+      "time": 44.27861,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3423500840",
+    "hash": "c2958c7e43f85aa8b63d8cdec2d856de170263cc68ba662c96ecd125a642390b",
+    "level": {
+      "name": "ZSL-Lazy Little Track",
+      "path": "./downloads/3423500840/ZSL-Lazy Little Track/ZSL-Lazy Little Track.zeeplevel",
+      "blocks": 553,
+      "author": "Joking",
+      "uuid": "08022025-100446510-Joking-809117372647-552",
+      "time": 43.30079,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
