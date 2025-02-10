@@ -3,7 +3,6 @@ name: Inspector Zeep
 on:
   workflow_dispatch:
   schedule:
-  # - cron: '0 * * * *' # Every hour
     - cron: '0 15 * * *' # 15:00 daily
 
 env:
@@ -50,6 +49,14 @@ jobs:
           DISCORD_JUDGE_CHANNEL_ID: ${{ vars.DISCORD_JUDGE_CHANNEL_ID }}
           ZEEPKIST_THEME_NAME: ${{ vars.ZEEPKIST_THEME_NAME }}
           STEAMCMD_PATH: ${{ vars.STEAMCMD_PATH }}
+
+      - name: Upload Downloads Artifact
+        if: ${{ success() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: Downloads
+          path: downloads
+
 
       - name: Commit Hash Cache
         if: ${{ success() }}
