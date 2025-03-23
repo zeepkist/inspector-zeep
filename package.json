@@ -65,5 +65,10 @@
   "engines": {
     "node": ">=20.6.0"
   },
-  "engineStrict": true
+  "engineStrict": true,
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  }
 }
