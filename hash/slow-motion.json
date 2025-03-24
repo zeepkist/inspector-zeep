@@ -403,5 +403,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3450920917",
+    "hash": "0096a881c8e709eb1a05264e6879f01eaa63cc8a1c1e63027050f02fa32a4b38",
+    "level": {
+      "name": "ZSL - Wine Vine Winding ",
+      "path": "./downloads/3450920917/ZSL - Wine Vine Winding/ZSL - Wine Vine Winding .zeeplevel",
+      "blocks": 1215,
+      "author": "[TBD] Hate Hater",
+      "uuid": "24032025-001104065-[TBD] Hate Hater-275226817579-1214",
+      "time": 37.0999,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
