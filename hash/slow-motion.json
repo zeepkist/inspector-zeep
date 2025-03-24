@@ -430,5 +430,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3451321324",
+    "hash": "9468f66429dbaffa526bb389e7e36eb097ea1b9b52f12b36d2e4bbb3e76fc7a7",
+    "level": {
+      "name": "ZSL - L'Escargot",
+      "path": "./downloads/3451321324/ZSL - L'Escargot/ZSL - L'Escargot.zeeplevel",
+      "blocks": 126,
+      "author": "imagineaclevernamehere",
+      "uuid": "24032025-181353413-imagineaclevernamehere-373457236870-125",
+      "time": 50.97103,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
