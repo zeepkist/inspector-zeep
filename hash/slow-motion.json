@@ -457,5 +457,59 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3451623985",
+    "hash": "633700c0c224813b6e46bfd7659662f444e6d7c7afd9c6ffafd62e38b8518fe6",
+    "level": {
+      "name": "ZSL - Mortua Terra",
+      "path": "./downloads/3451623985/ZSL - Mortua Terra/ZSL - Mortua Terra.zeeplevel",
+      "blocks": 136,
+      "author": "OgelGames",
+      "uuid": "25032025-153356092-OgelGames-840686086210-135",
+      "time": 38.67522,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3451543830",
+    "hash": "2375b5b33df54ad102957324165cfeed3cf2462d91461f77ada2d51c6256bd1c",
+    "level": {
+      "name": "ZSL - Mountain Town",
+      "path": "./downloads/3451543830/ZSL - Mountain Town/ZSL - Mountain Town.zeeplevel",
+      "blocks": 1001,
+      "author": "vinraymi",
+      "uuid": "24032025-202701183-vinraymi-857829474438-1000",
+      "time": 30.73396,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
