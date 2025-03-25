@@ -538,5 +538,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3451892932",
+    "hash": "b3b5f6ed6b448ce6db0ce970178c238569b32a267a0cda02c75335ddd2fa1a65",
+    "level": {
+      "name": "ZSL - Half-Tilted",
+      "path": "./downloads/3451892932/ZSL - Half-Tilted/ZSL - Half-Tilted.zeeplevel",
+      "blocks": 217,
+      "author": "Shinikage221",
+      "uuid": "25032025-090148819-Shinikage221-427174443847-216",
+      "time": 42.14226,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
