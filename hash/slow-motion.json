@@ -511,5 +511,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3451819639",
+    "hash": "c5dacd180fce075ab98641af33669abfee5140e831c6eb3154816c3016fcb78c",
+    "level": {
+      "name": "ZSL - Wood Vibrations",
+      "path": "./downloads/3451819639/ZSL - Wood Vibrations/ZSL - Wood Vibrations.zeeplevel",
+      "blocks": 424,
+      "author": "[CSC]icRS",
+      "uuid": "25032025-135936289-[CSC]icRS-262322775910-423",
+      "time": 40.53626,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
