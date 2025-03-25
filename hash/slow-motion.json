@@ -565,5 +565,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3451605259",
+    "hash": "0db17d845a5c10922fa5d3b764229d739da76008388380519f34562cc8d0aef9",
+    "level": {
+      "name": "ZSL - Roadhouse",
+      "path": "./downloads/3451605259/ZSL - Roadhouse/ZSL - Roadhouse.zeeplevel",
+      "blocks": 579,
+      "author": "Achmetha0626",
+      "uuid": "24032025-205031905-Achmetha0626-042181243996-578",
+      "time": 32.79097,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
