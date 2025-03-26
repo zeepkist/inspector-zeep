@@ -592,5 +592,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3452184502",
+    "hash": "1437727c5f5bd094c4ad77a0ac85a2efdb2f987075cad8bc6bffca112a40c1f1",
+    "level": {
+      "name": "ZSL - Rooftop Racers",
+      "path": "./downloads/3452184502/ZSL - Rooftop Racers/ZSL - Rooftop Racers.zeeplevel",
+      "blocks": 609,
+      "author": "mori_cinis",
+      "uuid": "25032025-170326348-mori_cinis-929877433530-608",
+      "time": 45.63784,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
