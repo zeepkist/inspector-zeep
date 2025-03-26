@@ -646,5 +646,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3452420007",
+    "hash": "58f246077314a1550a95a85bfc8b37046bda110f7a339a50eed9144f2df73715",
+    "level": {
+      "name": "ZSL - Cerebral",
+      "path": "./downloads/3452420007/ZSL - Cerebral/ZSL - Cerebral.zeeplevel",
+      "blocks": 706,
+      "author": "Shadynook",
+      "uuid": "26032025-092617006-Shadynook-995029299349-705",
+      "time": 32.63234,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
