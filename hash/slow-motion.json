@@ -619,5 +619,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3452383803",
+    "hash": "c94122087eab7eb23f86692dd81f602adb959e520aa63b581af8bfabfe0a76ad",
+    "level": {
+      "name": "ZSL - Legna Azzura",
+      "path": "./downloads/3452383803/ZSL - Legna Azzura/ZSL - Legna Azzura.zeeplevel",
+      "blocks": 230,
+      "author": "[CSC]Mokster",
+      "uuid": "26032025-140634996-[CSC]Mokster-437314465653-229",
+      "time": 36.97982,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
