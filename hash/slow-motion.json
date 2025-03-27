@@ -728,5 +728,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3452743206",
+    "hash": "bf304c546db28807d91966707ecb1c251592119fbb3aecfc1ac576dea15087c0",
+    "level": {
+      "name": "ZSL - Kentucky",
+      "path": "./downloads/3452743206/ZSL - Kentucky/ZSL - Kentucky.zeeplevel",
+      "blocks": 492,
+      "author": "GoBigGoHotWheels",
+      "uuid": "26032025-203517705-GoBigGoHotWheels-727929328657-491",
+      "time": 43.67032,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
