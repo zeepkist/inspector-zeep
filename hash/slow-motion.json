@@ -701,5 +701,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3452708529",
+    "hash": "fcf1751707592d3b253805c160ff4476448894181409a0fce3f8cd8dc049ff41",
+    "level": {
+      "name": "ZSL - Responsible Driver",
+      "path": "./downloads/3452708529/ZSL - Responsible Driver/ZSL - Responsible Driver.zeeplevel",
+      "blocks": 334,
+      "author": "Weside",
+      "uuid": "26032025-200000170-Weside-819436256516-333",
+      "time": 40.4999,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
