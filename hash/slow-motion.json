@@ -706,15 +706,15 @@
   },
   {
     "workshopPath": "./downloads/3452708529",
-    "hash": "fcf1751707592d3b253805c160ff4476448894181409a0fce3f8cd8dc049ff41",
+    "hash": "7997fe8266de72149377ecc7e5888a853e4c9fbe28deab121333815ef3f25aa0",
     "level": {
       "name": "ZSL - Responsible Driver",
       "path": "./downloads/3452708529/ZSL - Responsible Driver/ZSL - Responsible Driver.zeeplevel",
-      "blocks": 334,
+      "blocks": 327,
       "author": "Weside",
-      "uuid": "26032025-200000170-Weside-819436256516-333",
-      "time": 40.4999,
-      "checkpoints": 6,
+      "uuid": "28032025-190331250-Weside-169499943294-326",
+      "time": 47.69559,
+      "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 0
     },
@@ -729,7 +729,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3452743206",
