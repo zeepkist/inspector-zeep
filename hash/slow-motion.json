@@ -756,5 +756,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3453365020",
+    "hash": "e4c23a0f29fff2c3e66c9c860f182e1854da86f6595a410bd685958cee142791",
+    "level": {
+      "name": "Highway Maintenance",
+      "path": "./downloads/3453365020/Highway Maintenance/Highway Maintenance.zeeplevel",
+      "blocks": 140,
+      "author": "[AGU]Cakeyeater",
+      "uuid": "27032025-225832305-[AGU]Cakeyeater-007425625394-139",
+      "time": 45.94532,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
