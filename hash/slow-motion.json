@@ -787,14 +787,14 @@
   },
   {
     "workshopPath": "./downloads/3453604025",
-    "hash": "676c38450aecce494a8bfc25417bd88f8c017feb079fc7d83735e548a687528d",
+    "hash": "b706136270d853ebb375d1324759458ac4019878b543d380936416b4d86f5bce",
     "level": {
       "name": "ZSL - Zeepkasteel",
       "path": "./downloads/3453604025/ZSL - Zeepkasteel/ZSL - Zeepkasteel.zeeplevel",
-      "blocks": 551,
+      "blocks": 645,
       "author": "RubenBML",
-      "uuid": "28032025-152717967-RubenBML-053275935175-550",
-      "time": 51.49589,
+      "uuid": "28032025-221250156-RubenBML-159109992631-644",
+      "time": 51.79344,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -810,6 +810,7 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
