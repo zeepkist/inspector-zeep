@@ -595,14 +595,14 @@
   },
   {
     "workshopPath": "./downloads/3452184502",
-    "hash": "5dfd40ffd01e9c367c2a9385207dbd44d76e9c620e2b209ac697f9f2ad74aede",
+    "hash": "1a2e9753d7166dd4e11c3eb6ddae24b6dca551998d0d5c720e0214004e45af5a",
     "level": {
       "name": "ZSL - Rooftop Racers",
       "path": "./downloads/3452184502/ZSL - Rooftop Racers/ZSL - Rooftop Racers.zeeplevel",
-      "blocks": 616,
+      "blocks": 617,
       "author": "mori_cinis",
-      "uuid": "27032025-045445380-mori_cinis-160128793168-615",
-      "time": 44.99695,
+      "uuid": "28032025-100538019-mori_cinis-113555036852-616",
+      "time": 46.6691,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -651,14 +651,14 @@
   },
   {
     "workshopPath": "./downloads/3452420007",
-    "hash": "58f246077314a1550a95a85bfc8b37046bda110f7a339a50eed9144f2df73715",
+    "hash": "4fce8444031935032ad639215e079ce58614d7f734c90f35bd6c64a451f34e12",
     "level": {
       "name": "ZSL - Cerebral",
       "path": "./downloads/3452420007/ZSL - Cerebral/ZSL - Cerebral.zeeplevel",
-      "blocks": 706,
+      "blocks": 723,
       "author": "Shadynook",
-      "uuid": "26032025-092617006-Shadynook-995029299349-705",
-      "time": 32.63234,
+      "uuid": "28032025-150815845-Shadynook-704927075536-722",
+      "time": 32.5212,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -674,7 +674,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3452574070",
