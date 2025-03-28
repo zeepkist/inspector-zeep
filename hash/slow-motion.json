@@ -783,5 +783,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3453604025",
+    "hash": "676c38450aecce494a8bfc25417bd88f8c017feb079fc7d83735e548a687528d",
+    "level": {
+      "name": "ZSL - Zeepkasteel",
+      "path": "./downloads/3453604025/ZSL - Zeepkasteel/ZSL - Zeepkasteel.zeeplevel",
+      "blocks": 551,
+      "author": "RubenBML",
+      "uuid": "28032025-152717967-RubenBML-053275935175-550",
+      "time": 51.49589,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
