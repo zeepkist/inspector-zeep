@@ -813,5 +813,32 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3454300942",
+    "hash": "e90249df684b3061f73d3924cea6e088710f1020352b013de4df247e0444e080",
+    "level": {
+      "name": "ZSL - The Wykablu Sand Frog",
+      "path": "./downloads/3454300942/ZSL - The Wykablu Sand Frog/ZSL - The Wykablu Sand Frog.zeeplevel",
+      "blocks": 806,
+      "author": "[FORK] A Broken Forklift",
+      "uuid": "29032025-111947755-[FORK] A Broken Forklift-551990763804-805",
+      "time": 44.53458,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
