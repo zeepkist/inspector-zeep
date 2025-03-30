@@ -840,5 +840,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3454741776",
+    "hash": "0bc7326582d39472f814036b5e782c389a79c3f0c70dad8979723a33a3fe9b51",
+    "level": {
+      "name": "ZSL - This was a bad idea, Owl",
+      "path": "./downloads/3454741776/ZSL - This was a bad idea, Owl/ZSL - This was a bad idea, Owl.zeeplevel",
+      "blocks": 71,
+      "author": "agix",
+      "uuid": "29032025-222330674-agix-174374651994-70",
+      "time": 44.535,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
