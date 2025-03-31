@@ -921,5 +921,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3455849751",
+    "hash": "89ff3d1ee4bee45c865117b20c388c23b7059fb85317c9fd179085fcacbc9d75",
+    "level": {
+      "name": "ZSL - Morti Gras",
+      "path": "./downloads/3455849751/ZSL - Morti Gras/ZSL - Morti Gras.zeeplevel",
+      "blocks": 526,
+      "author": "[bam]Mortishade",
+      "uuid": "31032025-231128081-[bam]Mortishade-265211094787-525",
+      "time": 46.02189,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
