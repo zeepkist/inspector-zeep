@@ -894,5 +894,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3455546140",
+    "hash": "f6ab2cefecb4a48e8528cb9d8594bfff390a3f256476bdda83ddd7b9a3f7dade",
+    "level": {
+      "name": "ZSL - 2Slow",
+      "path": "./downloads/3455546140/ZSL - 2Slow/ZSL - 2Slow.zeeplevel",
+      "blocks": 1286,
+      "author": "taigtasche",
+      "uuid": "31032025-123608885-taigtasche-428349159544-1285",
+      "time": 55.70373,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
