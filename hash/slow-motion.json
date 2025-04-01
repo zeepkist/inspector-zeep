@@ -948,5 +948,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3456229899",
+    "hash": "e0bfd02ef955295e97c54f70f54c38f90e3b186c06e78c97d7cb19a41dde4a75",
+    "level": {
+      "name": "ZSL - Stygian Facility",
+      "path": "./downloads/3456229899/ZSL - Stygian Facility/ZSL - Stygian Facility.zeeplevel",
+      "blocks": 380,
+      "author": "GearworkDragon",
+      "uuid": "01042025-103815385-GearworkDragon-845042738951-379",
+      "time": 49.1898,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
