@@ -951,15 +951,43 @@
   },
   {
     "workshopPath": "./downloads/3456229899",
-    "hash": "e0bfd02ef955295e97c54f70f54c38f90e3b186c06e78c97d7cb19a41dde4a75",
+    "hash": "c5fa0550a5a811935e40b59c48053377c098fbb016d8f4f546b6dfce307e83e2",
     "level": {
       "name": "ZSL - Stygian Facility",
       "path": "./downloads/3456229899/ZSL - Stygian Facility/ZSL - Stygian Facility.zeeplevel",
-      "blocks": 380,
+      "blocks": 386,
       "author": "GearworkDragon",
-      "uuid": "01042025-103815385-GearworkDragon-845042738951-379",
-      "time": 49.1898,
+      "uuid": "01042025-120819481-GearworkDragon-052199694328-385",
+      "time": 48.85996,
       "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3456282807",
+    "hash": "db172cfa27d6bdc934ae43d8deac20c172a5c8f2cacdadcfa87f17e1db4ec172",
+    "level": {
+      "name": "ZSL - Lo Grav Groove",
+      "path": "./downloads/3456282807/ZSL - Lo Grav Groove/ZSL - Lo Grav Groove.zeeplevel",
+      "blocks": 772,
+      "author": "groovy",
+      "uuid": "01042025-133550474-groovy-269752751063-771",
+      "time": 49.89489,
+      "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
     },
