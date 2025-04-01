@@ -1030,5 +1030,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3456403078",
+    "hash": "94e021ee8c94dfb9ac391881456c523f534262caa7be6199bb16e76185f00c18",
+    "level": {
+      "name": "ZSL - Lo Grav Groove",
+      "path": "./downloads/3456403078/ZSL - Lo Grav Groove/ZSL - Lo Grav Groove.zeeplevel",
+      "blocks": 783,
+      "author": "groovy",
+      "uuid": "01042025-173926188-groovy-416799149436-782",
+      "time": 54.1305,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
