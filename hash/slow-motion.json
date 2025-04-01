@@ -1003,5 +1003,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3456339438",
+    "hash": "d3cfb3252ce7245ef80fce5a71067510cea580e599aef64327677a729808e768",
+    "level": {
+      "name": "ZSL - Jungle Falls",
+      "path": "./downloads/3456339438/ZSL - Jungle Falls/ZSL - Jungle Falls.zeeplevel",
+      "blocks": 2122,
+      "author": "[ZET]MackCheesy",
+      "uuid": "01042025-122630410-[ZET]MackCheesy-861311814926-2121",
+      "time": 43.9157,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
