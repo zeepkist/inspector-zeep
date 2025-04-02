@@ -379,14 +379,14 @@
   },
   {
     "workshopPath": "./downloads/3446821777",
-    "hash": "929dbdf00bb02b293fca99af95461c8fa0268febb173d810cf160c58feca7826",
+    "hash": "f5388e1715211a4447c5ca2df2fbf99409a9df50efc7b0c62d65380a04974333",
     "level": {
       "name": "ZSL - Microspeed",
       "path": "./downloads/3446821777/ZSL - Microspeed/ZSL - Microspeed.zeeplevel",
-      "blocks": 490,
+      "blocks": 506,
       "author": "An Actual g00se",
-      "uuid": "17032025-172631130-An Actual g00se-309951614012-489",
-      "time": 41.85731,
+      "uuid": "01042025-165717174-An Actual g00se-083398153980-505",
+      "time": 40.53782,
       "checkpoints": 11,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -402,7 +402,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3450920917",
