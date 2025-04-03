@@ -1086,5 +1086,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3457438053",
+    "hash": "32635ea2c43000ee4433ad2372094b39b25566c7f1ec79b09cdfc9b509af39aa",
+    "level": {
+      "name": "ZSL - Mirrored Reality",
+      "path": "./downloads/3457438053/ZSL - Mirrored Reality/ZSL - Mirrored Reality.zeeplevel",
+      "blocks": 438,
+      "author": "ttv/Lilly the Bun | L3mmy",
+      "uuid": "03042025-173626682-ttv/Lilly the Bun | L3mmy-382957100207-437",
+      "time": 43.8888,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
