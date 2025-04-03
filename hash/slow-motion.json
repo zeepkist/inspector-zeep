@@ -1058,5 +1058,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3457269931",
+    "hash": "06311d8225f5bb88dfd843b63a3e8e3227d9b8fd15f596436cea3809f5b8348b",
+    "level": {
+      "name": "ZSL - Limited",
+      "path": "./downloads/3457269931/ZSL - Limited/ZSL - Limited.zeeplevel",
+      "blocks": 134,
+      "author": "RadAbsRad",
+      "uuid": "03042025-175252935-RadAbsRad-446734944787-133",
+      "time": 39.69347,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
