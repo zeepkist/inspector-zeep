@@ -407,14 +407,14 @@
   },
   {
     "workshopPath": "./downloads/3450920917",
-    "hash": "0096a881c8e709eb1a05264e6879f01eaa63cc8a1c1e63027050f02fa32a4b38",
+    "hash": "f8667e639c0770ea1809899e2c4ef65b9443b43868eab2b43cae49b62440824d",
     "level": {
       "name": "ZSL - Wine Vine Winding ",
       "path": "./downloads/3450920917/ZSL - Wine Vine Winding/ZSL - Wine Vine Winding .zeeplevel",
       "blocks": 1215,
       "author": "[TBD] Hate Hater",
-      "uuid": "24032025-001104065-[TBD] Hate Hater-275226817579-1214",
-      "time": 37.0999,
+      "uuid": "03042025-192352438-[TBD] Hate Hater-283645305437-1214",
+      "time": 38.65271,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -430,7 +430,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3451321324",
