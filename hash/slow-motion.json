@@ -1113,5 +1113,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3457494887",
+    "hash": "fe024146e6c179d1303eef7de710925a39a1ac6cec73fedbdce6e7d03f584155",
+    "level": {
+      "name": "ZSL - Look at that S car Go!!!",
+      "path": "./downloads/3457494887/ZSL - Look at that S car Go!!!/ZSL - Look at that S car Go!!!.zeeplevel",
+      "blocks": 402,
+      "author": "DeeDeeNaNaNa",
+      "uuid": "04042025-003949057-DeeDeeNaNaNa-413553429378-401",
+      "time": 47.86182,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
