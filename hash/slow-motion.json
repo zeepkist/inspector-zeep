@@ -1140,5 +1140,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3457617937",
+    "hash": "471d3c4fe3202d52786b0425c226e7ff4da9a712d2ca77d0b324583545a8c22c",
+    "level": {
+      "name": "ZSL - Bullet Time",
+      "path": "./downloads/3457617937/ZSL - Bullet Time/ZSL - Bullet Time.zeeplevel",
+      "blocks": 1417,
+      "author": "Cliff the Crafter",
+      "uuid": "04042025-000038419-Cliff the Crafter-377896776776-1416",
+      "time": 51.40979,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 1202
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
