@@ -1194,5 +1194,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3455110369",
+    "hash": "fe022c6881678d7900c4bf52318a166a4f2c03350f3278bd145e37b626eb238a",
+    "level": {
+      "name": "ZSL - Mount Uloir",
+      "path": "./downloads/3455110369/ZSL - Mount Uloir/ZSL - Mount Uloir.zeeplevel",
+      "blocks": 1263,
+      "author": "M4rv",
+      "uuid": "04042025-194723633-M4rv-232212823652-1262",
+      "time": 52.16609,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
