@@ -1167,5 +1167,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3457874695",
+    "hash": "b0fc4542eb767e74bc295606301c1f2a8d64e80dfe6e77365503c22c74c8de21",
+    "level": {
+      "name": "ZSL - Dragon Dungeon",
+      "path": "./downloads/3457874695/ZSL - Dragon Dungeon/ZSL - Dragon Dungeon.zeeplevel",
+      "blocks": 1098,
+      "author": "[CTR]GuAlexItar",
+      "uuid": "04042025-124422282-[CTR]GuAlexItar-776656317764-1097",
+      "time": 42.598,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
