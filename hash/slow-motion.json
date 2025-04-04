@@ -1221,5 +1221,60 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3458005109",
+    "hash": "38ec9476e0bc5d79217830a9ea10ef45323e000a3ffc748e5dff6e313ddb3298",
+    "level": {
+      "name": "Starwalk (under construction!)",
+      "path": "./downloads/3458005109/Starwalk (under construction!)/Starwalk (under construction!).zeeplevel",
+      "blocks": 111,
+      "author": "Azor",
+      "uuid": "04042025-221826233-Azor-197757414969-110",
+      "time": 74.51144,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": true,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 1743799057777
+  },
+  {
+    "workshopPath": "./downloads/3458001895",
+    "hash": "dc7ca5856f07ab94ed6a30ed6aec831e35569769bba377cf86d093b8fcfaf89f",
+    "level": {
+      "name": "ZSL - Umaoumi",
+      "path": "./downloads/3458001895/ZSL - Umaoumi/ZSL - Umaoumi.zeeplevel",
+      "blocks": 343,
+      "author": "Lexer",
+      "uuid": "04042025-140908221-Lexer-573130628612-342",
+      "time": 31.43,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
