@@ -1062,14 +1062,14 @@
   },
   {
     "workshopPath": "./downloads/3457269931",
-    "hash": "06311d8225f5bb88dfd843b63a3e8e3227d9b8fd15f596436cea3809f5b8348b",
+    "hash": "943a59046affb156385787b90747fa06e235186dbe717c3afbfd182cfecf64c5",
     "level": {
       "name": "ZSL - Limited",
       "path": "./downloads/3457269931/ZSL - Limited/ZSL - Limited.zeeplevel",
-      "blocks": 134,
+      "blocks": 135,
       "author": "RadAbsRad",
-      "uuid": "03042025-175252935-RadAbsRad-446734944787-133",
-      "time": 39.69347,
+      "uuid": "06042025-185600324-RadAbsRad-117271938642-134",
+      "time": 40.14748,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -1085,7 +1085,8 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "./downloads/3457438053",
@@ -1477,6 +1478,33 @@
       "author": "Murrl",
       "uuid": "06042025-182843695-Murrl-645342980126-639",
       "time": 36.45203,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3459330924",
+    "hash": "28cab5cdbdcd020dabff99bc75f8729539b81e9927f5237a3b0109e172e3a8f8",
+    "level": {
+      "name": "zsl - licking windows",
+      "path": "./downloads/3459330924/zsl - licking windows/zsl - licking windows.zeeplevel",
+      "blocks": 51,
+      "author": "[CRT]NathWalt",
+      "uuid": "06042025-175731884-[CRT]NathWalt-632687043109-50",
+      "time": 31.01463,
       "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
