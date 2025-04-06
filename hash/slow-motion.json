@@ -1384,5 +1384,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3459083919",
+    "hash": "a9938a466e0aa93c714793acd3bfec8937158bc99337a97371627e6bbde0194d",
+    "level": {
+      "name": "Starwalk (under construction!)",
+      "path": "./downloads/3459083919/Starwalk (under construction!)/Starwalk (under construction!).zeeplevel",
+      "blocks": 105,
+      "author": "Azor",
+      "uuid": "06042025-123329165-Azor-679970574765-104",
+      "time": 53.40715,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
