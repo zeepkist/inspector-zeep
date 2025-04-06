@@ -1411,5 +1411,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3459249521",
+    "hash": "986ef8377b0ab66c216410b7e7e2d8380f834c2ca77ac18de08650f76f08c98c",
+    "level": {
+      "name": "ZSL - Land's End",
+      "path": "./downloads/3459249521/ZSL - Land's End/ZSL - Land's End.zeeplevel",
+      "blocks": 668,
+      "author": "[TOG]Lazy_Echidna",
+      "uuid": "06042025-170033822-[TOG]Lazy_Echidna-568944892370-667",
+      "time": 44.11504,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
