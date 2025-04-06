@@ -1438,5 +1438,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3459281357",
+    "hash": "a27e314971375614a2b5df44cfb8f224a295b1323a0a0fff13f7844aaf55f6da",
+    "level": {
+      "name": "ZSL - Smoovlandia",
+      "path": "./downloads/3459281357/ZSL - Smoovlandia/ZSL - Smoovlandia.zeeplevel",
+      "blocks": 871,
+      "author": "St Nicholas",
+      "uuid": "06042025-084253804-St Nicholas-306163783623-870",
+      "time": 43.55776,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
