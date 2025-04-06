@@ -1303,5 +1303,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3456944546",
+    "hash": "d80b677ec2804bdbd8d1e3d24ef61e3e7a2ea300ae9da11b35497be94735ad06",
+    "level": {
+      "name": "ZSL - The Slow Gauntlet",
+      "path": "./downloads/3456944546/ZSL - The Slow Gauntlet/ZSL - The Slow Gauntlet.zeeplevel",
+      "blocks": 219,
+      "author": "TwoFace",
+      "uuid": "06042025-003941893-TwoFace-636276161469-218",
+      "time": 55.39354,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
