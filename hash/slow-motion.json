@@ -1276,5 +1276,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3458827285",
+    "hash": "f6f1306c4939e7ba239ca20a12ee955607037bbaf60981f561efa346e9adc7ae",
+    "level": {
+      "name": "ZSL - (slow burn) playing with fire",
+      "path": "./downloads/3458827285/ZSL - (slow burn) playing with fire/ZSL - (slow burn) playing with fire.zeeplevel",
+      "blocks": 1174,
+      "author": "[Err]ferinine",
+      "uuid": "05042025-200546433-[Err]ferinine-549627159996-1173",
+      "time": 47.50701,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
