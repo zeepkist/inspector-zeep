@@ -1330,5 +1330,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3459025928",
+    "hash": "44feba29d9c5ad61695b1d01d5389cbe6ecfad3750d89211b9abb62880b17fcc",
+    "level": {
+      "name": "ZSL - You have rancid ideas, Owl",
+      "path": "./downloads/3459025928/ZSL - You have rancid ideas, Owl/ZSL - You have rancid ideas, Owl.zeeplevel",
+      "blocks": 319,
+      "author": "agix + [CTR]OwlPlague",
+      "uuid": "06042025-014313352-agix-011882251639-318",
+      "time": 41.65656,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
