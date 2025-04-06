@@ -1,6 +1,7 @@
 import { exec } from 'node:child_process'
-import { rename } from 'node:fs/promises'
 import { promisify } from 'node:util'
+
+import { copy, remove } from 'fs-extra'
 
 import { APP_ID, DOWNLOAD_FOLDER, STEAMCMD_PATH } from './config/constants.js'
 import { event } from './event.js'
@@ -18,6 +19,11 @@ function* chunks(items: [string, Submission][]) {
   return []
 }
 
+const moveFile = async (source: string, destination: string) => {
+  await copy(source, destination, { overwrite: true })
+  await remove(source)
+}
+
 const download = async (query: string, workshopIds: string[]) => {
   const command = `steamcmd +login anonymous ${query} +quit`
 
@@ -26,10 +32,10 @@ const download = async (query: string, workshopIds: string[]) => {
     await execPromise(command)
 
     for (const workshopId of workshopIds) {
-      await rename(
-        `${STEAMCMD_PATH}/steamapps/workshop/content/${APP_ID}/${workshopId}`,
-        `${DOWNLOAD_FOLDER}/${workshopId}`
-      )
+      const sourcePath = `${STEAMCMD_PATH}/steamapps/workshop/content/${APP_ID}/${workshopId}`
+      const targetPath = `${DOWNLOAD_FOLDER}/${workshopId}`
+
+      await moveFile(sourcePath, targetPath)
 
       debug(`Downloaded ${workshopId}`, import.meta, true)
       event.emit('downloaded', workshopId)
