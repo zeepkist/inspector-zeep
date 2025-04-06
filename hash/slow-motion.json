@@ -1441,15 +1441,43 @@
   },
   {
     "workshopPath": "./downloads/3459281357",
-    "hash": "a27e314971375614a2b5df44cfb8f224a295b1323a0a0fff13f7844aaf55f6da",
+    "hash": "7bfc3f14003f6bcfdcd09f226f3b7615b8fa949f63a681c7468a79707282f561",
     "level": {
       "name": "ZSL - Smoovlandia",
       "path": "./downloads/3459281357/ZSL - Smoovlandia/ZSL - Smoovlandia.zeeplevel",
-      "blocks": 871,
+      "blocks": 872,
       "author": "St Nicholas",
-      "uuid": "06042025-084253804-St Nicholas-306163783623-870",
-      "time": 43.55776,
-      "checkpoints": 5,
+      "uuid": "06042025-092643055-St Nicholas-963154005660-871",
+      "time": 42.52975,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3459311169",
+    "hash": "a961c0f97aafa0f78f6979b4f0f1fc20e7f8eb1be3e3df20dc9317c54edcc718",
+    "level": {
+      "name": "ZSL - Petrov, Yelyena And Me",
+      "path": "./downloads/3459311169/ZSL - Petrov, Yelyena And Me/ZSL - Petrov, Yelyena And Me.zeeplevel",
+      "blocks": 640,
+      "author": "Murrl",
+      "uuid": "06042025-182843695-Murrl-645342980126-639",
+      "time": 36.45203,
+      "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
     },
