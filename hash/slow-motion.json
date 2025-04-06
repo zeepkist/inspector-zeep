@@ -1357,5 +1357,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3459064068",
+    "hash": "4e0b7c130c1297b40b57404dbceb1dfc46d1ec0aae1b65214f445240a9c2457e",
+    "level": {
+      "name": "ZSL - Enintään",
+      "path": "./downloads/3459064068/ZSL - Enintään/ZSL - Enintään.zeeplevel",
+      "blocks": 1051,
+      "author": "[bam]zivecef",
+      "uuid": "06042025-045354204-[bam]zivecef-071044245208-1050",
+      "time": 43.09066,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
