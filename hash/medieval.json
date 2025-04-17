@@ -1,0 +1,83 @@
+[
+  {
+    "workshopPath": "./downloads/3465603724",
+    "hash": "288fda495823b53e572dc31c72221c9c1c742466502a37e45561c6b40afafced",
+    "level": {
+      "name": "ZSL - Castle On the Water",
+      "path": "./downloads/3465603724/ZSL - Castle On the Water/ZSL - Castle On the Water.zeeplevel",
+      "blocks": 1986,
+      "author": "[CRT]Codewalt",
+      "uuid": "17042025-113151640-[CRT]Codewalt-234880972686-1985",
+      "time": 48.98794,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3465473071",
+    "hash": "a7dc5a5bbda17a8104ca0da2e7437a019e226f812895b8cbcf6bd52ff893830c",
+    "level": {
+      "name": "ZSL - The Mannerless Noble and The Wizard Revenge",
+      "path": "./downloads/3465473071/ZSL - The Mannerless Noble and The Wizard Revenge/ZSL - The Mannerless Noble and The Wizard Revenge.zeeplevel",
+      "blocks": 745,
+      "author": "Riccio97",
+      "uuid": "17042025-162356645-Riccio97-065007354760-744",
+      "time": 49.2446,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3464958256",
+    "hash": "0895b269b136dd950ec475d59b73e07da458df69f2b5ef2e8123f146fcc924c3",
+    "level": {
+      "name": "ZSL - Fight for a medieval castle",
+      "path": "./downloads/3464958256/ZSL - Fight for a medieval castle/ZSL - Fight for a medieval castle.zeeplevel",
+      "blocks": 1025,
+      "author": "Mima01a",
+      "uuid": "16042025-171951768-Mima01a-821880299336-1024",
+      "time": 46.89146,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  }
+]
