@@ -79,5 +79,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3465730920",
+    "hash": "1292e871d1b6643c294ac9fa07f01ca7f45e192a41580c4e6cb6591b004341ff",
+    "level": {
+      "name": "ZSL - Kingdom Valley - Lakeside",
+      "path": "./downloads/3465730920/ZSL - Kingdom Valley - Lakeside/ZSL - Kingdom Valley - Lakeside.zeeplevel",
+      "blocks": 691,
+      "author": "cyberpunkninja",
+      "uuid": "17042025-161010630-cyberpunkninja-285067333183-690",
+      "time": 47.27112,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
