@@ -82,14 +82,14 @@
   },
   {
     "workshopPath": "./downloads/3465730920",
-    "hash": "1292e871d1b6643c294ac9fa07f01ca7f45e192a41580c4e6cb6591b004341ff",
+    "hash": "59e16ceeab0022edef9c206a628ef35dcb590513be1c03dccd480616d784d9fe",
     "level": {
       "name": "ZSL - Kingdom Valley - Lakeside",
       "path": "./downloads/3465730920/ZSL - Kingdom Valley - Lakeside/ZSL - Kingdom Valley - Lakeside.zeeplevel",
       "blocks": 691,
       "author": "cyberpunkninja",
-      "uuid": "17042025-161010630-cyberpunkninja-285067333183-690",
-      "time": 47.27112,
+      "uuid": "17042025-215843495-cyberpunkninja-438445436207-690",
+      "time": 46.84824,
       "checkpoints": 3,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -105,6 +105,7 @@
       "startFinishProximity": 0,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
