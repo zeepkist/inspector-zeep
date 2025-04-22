@@ -107,5 +107,32 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3468382141",
+    "hash": "5989d40adaff6ad47b000acc329b4842a6b435bbdd44424f7e12d2f4922a69cf",
+    "level": {
+      "name": "ZSL - Quaint Hamlet",
+      "path": "./downloads/3468382141/ZSL - Quaint Hamlet/ZSL - Quaint Hamlet.zeeplevel",
+      "blocks": 3998,
+      "author": "BB_Benji",
+      "uuid": "21042025-230636563-BB_Benji-786788896533-3997",
+      "time": 47.66793,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 36
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
