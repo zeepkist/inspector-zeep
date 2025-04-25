@@ -134,5 +134,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3468010881",
+    "hash": "1a8210b5946bc23efe5ea9ed60277bdc79243c91e02e53c77290b228cf859ae8",
+    "level": {
+      "name": "ZSL - Skirmish",
+      "path": "./downloads/3468010881/ZSL - Skirmish/ZSL - Skirmish.zeeplevel",
+      "blocks": 221,
+      "author": "imagineaclevernamehere",
+      "uuid": "20042025-081900766-imagineaclevernamehere-774553716072-220",
+      "time": 52.69439,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
