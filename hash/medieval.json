@@ -161,5 +161,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3471013832",
+    "hash": "df9167c91e211a591201f075b98ee2d254623add9638355e1c7d207e5d285507",
+    "level": {
+      "name": "ZSL - Castle",
+      "path": "./downloads/3471013832/ZSL - Castle/ZSL - Castle.zeeplevel",
+      "blocks": 243,
+      "author": "Northwind",
+      "uuid": "26042025-211018294-Northwind-781320018977-242",
+      "time": 39.74315,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
