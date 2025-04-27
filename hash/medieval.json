@@ -215,5 +215,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3471679509",
+    "hash": "d28a34764fdca141bda8f01edd0e7e86d42966a99584e7c227ebeecca41ad34a",
+    "level": {
+      "name": "ZSL Space Catsle",
+      "path": "./downloads/3471679509/ZSL Space Catsle/ZSL Space Catsle.zeeplevel",
+      "blocks": 806,
+      "author": "Space_cat9999",
+      "uuid": "27042025-130807863-Space_cat9999-452604533972-805",
+      "time": 54.40582,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
