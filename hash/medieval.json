@@ -188,5 +188,32 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "./downloads/3471657591",
+    "hash": "377c3055f7b8862cd9757c63ce57feb19d7f8b9bbff7e258dc61c5b2e879d905",
+    "level": {
+      "name": "Castle raid",
+      "path": "./downloads/3471657591/Castle raid/Castle raid.zeeplevel",
+      "blocks": 1685,
+      "author": "[OCTO]Tetro the octo",
+      "uuid": "27042025-173454115-[OCTO]Tetro the octo-730282871773-1684",
+      "time": 52.68299,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
