@@ -1,9 +1,9 @@
-import { Collection, Message, ThreadChannel } from 'discord.js'
+import type { Collection, Message, ThreadChannel } from 'discord.js'
 
-import { debug } from './log.js'
+import { debug } from '../utils/log.js'
 
 async function* messagesIterator(channel: ThreadChannel) {
-  let before
+  let before: string | undefined
   let isDone = false
 
   while (!isDone) {

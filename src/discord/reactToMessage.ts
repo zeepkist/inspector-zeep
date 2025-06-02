@@ -1,6 +1,6 @@
-import { Message } from 'discord.js'
+import type { Message } from 'discord.js'
 
-import { error, info } from './log.js'
+import { error, info } from '../utils/index.js'
 
 const REACTION_IDS = {
   YES: '1080204636583104573',

@@ -1,4 +1,4 @@
-import { Client, ThreadChannel } from 'discord.js'
+import {type Client, ThreadChannel } from 'discord.js'
 
 import {
   DISCORD_DISCUSSION_CHANNEL_ID,
@@ -6,11 +6,11 @@ import {
   DISCORD_SUBMISSION_CHANNEL_ID,
   SILENT_MODE,
   FIVE_DAYS_AGO
-} from './config/constants.js'
-import { getChannelMessages } from './getChannelMessages.js'
-import { debug, error } from './log.js'
+} from '../config/index.js'
+import { getChannelMessages } from '../discord/index.js'
+import { debug, error } from './index.js'
 
-const setupChannel = (client: Client, channelId = ''): ThreadChannel | void => {
+const setupChannel = (client: Client, channelId = ''): ThreadChannel | undefined => {
   const channel = client.channels.cache.get(channelId)
   if (!channel || !(channel instanceof ThreadChannel)) {
     error(
@@ -32,14 +32,12 @@ export const setupClient = async (client: Client) => {
   const judgeChannel = setupChannel(client, DISCORD_JUDGE_CHANNEL_ID)
 
   if (!discussionChannel || !submissionChannel || !judgeChannel) {
-    // eslint-disable-next-line unicorn/no-process-exit
     process.exit(1)
   }
 
   // Exit early if the submission channel is locked (i.e. the event is over)
   if (submissionChannel.locked && !SILENT_MODE) {
     error(`Submission channel ${submissionChannel.name} is locked`, import.meta)
-    // eslint-disable-next-line unicorn/no-process-exit
     process.exit(0) // Exit with code 0 to prevent GitHub Actions from failing in-between events
   }
 

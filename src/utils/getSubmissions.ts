@@ -1,8 +1,8 @@
-import { Message, ThreadChannel } from 'discord.js'
+import type { Message, ThreadChannel } from 'discord.js'
 
-import { getChannelMessages } from './getChannelMessages.js'
-import { debug, warn } from './log.js'
-import { Submissions } from './types.js'
+import { debug, warn } from './index.js'
+import { getChannelMessages } from '../discord/index.js'
+import type { Submissions } from '../types/index.js'
 
 const getWorkshopId = (message: Message) => {
   const link = message.content.match(
@@ -29,7 +29,9 @@ export const getSubmissions = async (channel: ThreadChannel) => {
         import.meta
       )
       continue
-    } else if (!workshopId) {
+    }
+
+	if (!workshopId) {
       warn(
         `${displayMessageInfo(message)} does not contain a link`,
         import.meta

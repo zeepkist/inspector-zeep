@@ -2,13 +2,11 @@ import { createHash } from 'node:crypto'
 import { readFile, writeFile } from 'node:fs/promises'
 import { basename, extname, join } from 'node:path'
 
-import { User } from 'discord.js'
+import type { User } from 'discord.js'
 
-import { checkLevelIsValid } from './checkLevelIsValid.js'
-import { HASH_FOLDER, ZEEPKIST_THEME_NAME } from './config/constants.js'
-import { getLevel } from './getLevel.js'
-import { debug, info } from './log.js'
-import { CachedLevel, LevelValidity } from './types.js'
+import { HASH_FOLDER, ZEEPKIST_THEME_NAME } from '../config/index.js'
+import { debug, info, getLevel, checkLevelIsValid } from './index.js'
+import type { CachedLevel, LevelValidity } from '../types/index.js'
 
 interface Hash {
   workshopPath: string
@@ -61,16 +59,14 @@ export const createLevelHash = async (
   }
 
   const fileName = basename(level.path, extname(level.path))
-  const currentHash = hashLevel(level.level)
+  const currentHash = hashLevel(JSON.stringify(level.level))
 
   const previousLevel = hashes.find(hash => hash.workshopPath === workshopPath)
   const hasChanged = previousLevel
     ? previousLevel && currentHash !== previousLevel.hash
     : true
 
-  const isLevelInvalid =
-    !levelValidity.isValid ||
-    !levelValidity.validity.isStartFinishProximityValid
+  const isLevelInvalid = !levelValidity.isValid
 
   if (hasChanged) {
     info(`"${fileName}" has changed or is new`, import.meta)
@@ -127,11 +123,7 @@ export const createLevelHash = async (
     }
   } else if (previousLevel) {
     // Force-update existing invalid levels to contain validity information
-    if (
-      (!levelValidity.isValid ||
-        !levelValidity.validity.isStartFinishProximityValid) &&
-      !previousLevel.validity
-    ) {
+    if (!levelValidity.isValid && !previousLevel.validity) {
       const existingLevel = {
         ...previousLevel,
         isValid: levelValidity.isValid,
@@ -153,10 +145,6 @@ export const createLevelHash = async (
     isNew: !previousLevel,
     previousLevel: previousLevel?.level
   }
-}
-
-export const getLevelHash = (workshopId: string) => {
-  return hashes.find(hash => hash.workshopPath.split('/').at(-1) === workshopId)
 }
 
 export const saveLevelHashes = async () => {

@@ -1,4 +1,4 @@
-import { User } from 'discord.js'
+import type { User } from 'discord.js'
 
 import {
   BLOCK_LIMIT,
@@ -7,44 +7,39 @@ import {
   MAXIMUM_WIDTH,
   MINIMUM_CHECKPOINTS,
   MINIMUM_TIME,
-  START_FINISH_PROXIMITY,
   CHANGER_GATE_MODES_REQUIRED
-} from './config/requirements.js'
+} from '../config/index.js'
 import { getLevel } from './getLevel.js'
 import { debug, error } from './log.js'
-import type { ChangerGate, VerifiedLevel } from './types.js'
-
-const getDistanceInBlocks = (distance: number) => Math.ceil(distance / 16)
+import type { ChangerGate, VerifiedLevel, ZeepLevelBlock } from '../types/index.js'
 
 export const validateBlockLimit = (name: string, blocks: number) => {
   if (blocks > BLOCK_LIMIT) {
     error(`"${name}" has ${blocks} blocks`, import.meta)
     return false
-  } else {
-    debug(`"${name}" has ${blocks} blocks`, import.meta, true)
-    return true
   }
+
+	debug(`"${name}" has ${blocks} blocks`, import.meta, true)
+	return true
 }
 
 export const validateMinTime = (name: string, time: number) => {
   if (time < MINIMUM_TIME) {
     error(`"${name}" is ${time} seconds`, import.meta)
     return false
-  } else {
-    return true
   }
+    return true
 }
 
 export const validateMaxTime = (name: string, time: number) => {
   if (time > MAXIMUM_TIME) {
     error(`"${name}" is ${time} seconds`, import.meta)
     return false
-  } else {
+  }
     if (time > MINIMUM_TIME) {
       debug(`"${name}" is ${time} seconds`, import.meta, true)
     }
     return true
-  }
 }
 
 const validateCheckpointLimit = (name: string, checkpoints: number) => {
@@ -57,7 +52,7 @@ const validateCheckpointLimit = (name: string, checkpoints: number) => {
   return checkpoints < MINIMUM_CHECKPOINTS
 }
 
-const validateMaximumWidth = (name: string, lines: string[]) => {
+const validateMaximumWidth = (name: string, blocks: ZeepLevelBlock[]) => {
   // Skip validation if no width limit
   if (MAXIMUM_WIDTH === 0) return true
 
@@ -73,14 +68,9 @@ const validateMaximumWidth = (name: string, lines: string[]) => {
     z: Number.NEGATIVE_INFINITY
   }
 
-  // Remove header lines
-  lines.splice(0, 3)
-
-  for (const line of lines) {
-    // eslint-disable-next-line unicorn/no-unreadable-array-destructuring
-    const [blockId, x, y, z, , , , scaleX, scaleY, scaleZ] = line.split(',')
-
-    if (blockId === '0') continue
+  for (const block of blocks) {
+	const { x, y, z } = block.p
+	const { x: scaleX, y: scaleY, z: scaleZ } = block.s
 
     if (Number(x) < minimumPosition.x && Number(scaleX) <= 1) {
       minimumPosition.x =
@@ -130,75 +120,14 @@ const validateMaximumWidth = (name: string, lines: string[]) => {
   return true
 }
 
-const validateStartFinishProximity = (name: string, lines: string[]) => {
-  const startBlockIds = new Set([1, 1363])
-  const finishBlockIds = new Set([2, 1273, 1274, 1616])
-
-  const startBlock = lines.find(line =>
-    startBlockIds.has(Number(line.split(',')[0]))
-  )
-
-  const finishBlocks = lines.filter(line =>
-    finishBlockIds.has(Number(line.split(',')[0]))
-  )
-
-  const distanceFromStartToFinish = 16 * 3 // 3 blocks
-
-  if (!startBlock || finishBlocks.length === 0) {
-    return {
-      isStartFinishProximityValid: false,
-      startFinishProximity: 0
-    }
-  }
-
-  const [, startX, startY, startZ] = startBlock.split(',')
-
-  let minimumDistanceDetected = Number.POSITIVE_INFINITY
-
-  for (const finishBlock of finishBlocks) {
-    const [, finishX, finishY, finishZ] = finishBlock.split(',')
-
-    const distanceX = Math.abs(Number(startX) - Number(finishX))
-    const distanceY = Math.abs(Number(startY) - Number(finishY))
-    const distanceZ = Math.abs(Number(startZ) - Number(finishZ))
-    const distance = Math.sqrt(
-      Math.pow(distanceX, 2) + Math.pow(distanceY, 2) + Math.pow(distanceZ, 2)
-    )
-    const distanceInBlocks = getDistanceInBlocks(distance)
-
-    if (distance < distanceFromStartToFinish) {
-      return {
-        isStartFinishProximityValid: true,
-        startFinishProximity: distanceInBlocks
-      }
-    } else {
-      minimumDistanceDetected = Math.min(minimumDistanceDetected, distance)
-    }
-  }
-
-  const distanceInBlocks = getDistanceInBlocks(minimumDistanceDetected)
-
-  error(
-    `"${name}" start and finish are too far apart (${distanceInBlocks} blocks)`,
-    import.meta
-  )
-
-  return {
-    isStartFinishProximityValid: false,
-    startFinishProximity: distanceInBlocks
-  }
-}
-
-const validateFixedCheckpoints = (name: string, lines: string[]) => {
+const validateFixedCheckpoints = (name: string, blocks: ZeepLevelBlock[]) => {
   // console.debug('lines', lines)
-
-  const fixedCheckpointsFound = lines.filter(line =>
-    FIXED_CHECKPOINTS.some(checkpoint => line.startsWith(checkpoint))
+  const fixedCheckpointsFound = blocks.filter(block =>
+	FIXED_CHECKPOINTS.some(checkpoint => block.i === checkpoint)
   )
 
   const missingFixedCheckpoints = FIXED_CHECKPOINTS.filter(
-    checkpoint =>
-      !fixedCheckpointsFound.some(line => line.startsWith(checkpoint))
+	checkpoint => !fixedCheckpointsFound.some(block => block.i === checkpoint)
   )
 
   if (fixedCheckpointsFound.length !== FIXED_CHECKPOINTS.length) {
@@ -260,11 +189,6 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
       ? false
       : !validateMaximumWidth(level.name, level.blocks)
 
-  const { isStartFinishProximityValid, startFinishProximity } =
-    START_FINISH_PROXIMITY === 0
-      ? { isStartFinishProximityValid: true, startFinishProximity: 0 }
-      : validateStartFinishProximity(level.name, level.blocks)
-
   const areFixedCheckpointsValid = validateFixedCheckpoints(
     level.name,
     level.blocks
@@ -300,8 +224,6 @@ export const checkLevelIsValid = async (workshopPath: string, author: User) => {
       isOverTimeLimit,
       isUnderCheckpointLimit,
       isOverWidthLimit,
-      isStartFinishProximityValid,
-      startFinishProximity,
       areFixedCheckpointsValid,
       hasRequiredChangerGateModes
     }

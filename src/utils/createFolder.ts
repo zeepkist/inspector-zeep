@@ -2,7 +2,7 @@ import { mkdir, readdir, access } from 'node:fs/promises'
 
 import { rimraf } from 'rimraf'
 
-import { debug, error } from './log.js'
+import { debug, error } from './index.js'
 import { join } from 'node:path'
 
 interface NodeJSWithCodeError extends Error {
