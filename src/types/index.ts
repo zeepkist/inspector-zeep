@@ -4,62 +4,65 @@ export type Submission = [Message, User]
 export type Submissions = Map<string, Submission>
 
 export type ChangerGateBlockIdsByMode = {
-  blockIds: Set<number>
-  mode: string
-  emoji: string
+	blockIds: Set<number>
+	mode: string
+	emoji: string
 }
 
-export type ChangerGate = Omit<ChangerGateBlockIdsByMode, "blockIds">
-
+export type ChangerGate = Omit<ChangerGateBlockIdsByMode, 'blockIds'>
 
 export interface Level {
-  level: ZeepLevel
-  name: string
-  path: string
-  blocks: ZeepLevelBlock[]
-  author: ZeepLevelAuthor
-  uuid: string
-  time: number
-  checkpoints: number
-  changerGateModes: Set<ChangerGate>
-  logicBlocks: number
+	level: ZeepLevel
+	name: string
+	path: string
+	blocks: ZeepLevelBlock[]
+	author: ZeepLevelAuthor
+	uuid: string
+	time: number
+	checkpoints: number
+	changerGateModes: Set<ChangerGate>
+	logicBlocks: number
 }
 
 export interface CachedLevel extends Omit<Level, 'level' | 'blocks'> {
-  blocks: number
+	blocks: number
 }
 
 export interface VerifiedLevel {
-  workshopId: string
-  name: string
-  author: User
-  levelAuthors: ZeepLevelAuthor
-  time: number
-  blocks: number
-  checkpoints: number
-  changerGateModes: Set<ChangerGate>
-  logicBlocks: number
-  isValid: boolean
-  validity: LevelValidity
+	workshopId: string
+	name: string
+	author: User
+	levelAuthors: ZeepLevelAuthor
+	time: number
+	blocks: number
+	checkpoints: number
+	changerGateModes: Set<ChangerGate>
+	logicBlocks: number
+	isValid: boolean
+	validity: LevelValidity
 }
 
 export interface LevelValidity {
-  isOverBlockLimit: boolean
-  isUnderTimeLimit: boolean
-  isOverTimeLimit: boolean
-  isUnderCheckpointLimit: boolean
-  isOverWidthLimit: boolean
-  areFixedCheckpointsValid: boolean
-  hasRequiredChangerGateModes: boolean
+	isOverBlockLimit: boolean
+	isUnderTimeLimit: boolean
+	isOverTimeLimit: boolean
+	isUnderCheckpointLimit: boolean
+	isOverWidthLimit: boolean
+	areFixedCheckpointsValid: boolean
+	hasRequiredChangerGateModes: boolean
 }
 
-type NumberRange<Start extends number, End extends number, Acc extends number[] = []> =
-  Acc['length'] extends End
-    ? Acc[number]
-    : NumberRange<Start, End, [...Acc, Acc['length']]>;
+type NumberRange<
+	Start extends number,
+	End extends number,
+	Acc extends number[] = [],
+> = Acc['length'] extends End ? Acc[number] : NumberRange<Start, End, [...Acc, Acc['length']]>
 
-type BlockDataRangeKeys<Prefix extends string, Start extends number, End extends number> =
-	`${Prefix}${NumberRange<Start, End>}`;
+type BlockDataRangeKeys<
+	Prefix extends string,
+	Start extends number,
+	End extends number,
+> = `${Prefix}${NumberRange<Start, End>}`
 
 export interface ZeepLevelLevel {
 	name: string
@@ -102,13 +105,12 @@ export interface ZeepLevelBlockScale {
 
 export type ZeepLevelBlockDataProperties = {
 	[key in
-		BlockDataRangeKeys<'p', 0, 6> |
-		BlockDataRangeKeys<'a', 0, 2> |
-		BlockDataRangeKeys<'b', 0, 6> |
-		BlockDataRangeKeys<'o', 0, 6> |
-		BlockDataRangeKeys<'ch', 0, 6> |
-		BlockDataRangeKeys<'cl', 0, 4>
-	]?: number;
+		| BlockDataRangeKeys<'p', 0, 6>
+		| BlockDataRangeKeys<'a', 0, 2>
+		| BlockDataRangeKeys<'b', 0, 6>
+		| BlockDataRangeKeys<'o', 0, 6>
+		| BlockDataRangeKeys<'ch', 0, 6>
+		| BlockDataRangeKeys<'cl', 0, 4>]?: number
 }
 
 export interface ZeepLevelBlockData {

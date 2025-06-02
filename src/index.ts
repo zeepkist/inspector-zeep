@@ -5,11 +5,11 @@ import { sendPlaylist } from './discord/index.js'
 import {
 	createClient,
 	createFolder,
-	setupClient,
-	getSubmissions,
 	downloadSubmissions,
+	getSubmissions,
+	saveLevelHashes,
+	setupClient,
 	validateSubmissions,
-	saveLevelHashes
 } from './utils/index.js'
 
 const client = createClient()
@@ -29,14 +29,14 @@ client.on(Events.ClientReady, async () => {
 
 	await validateSubmissions({
 		submissions,
-		judgeChannel
+		judgeChannel,
 	})
 
 	if (!SILENT_MODE) {
 		await sendPlaylist(judgeChannel)
 	}
 
-    await saveLevelHashes()
+	await saveLevelHashes()
 
 	console.log('All submissions processed')
 

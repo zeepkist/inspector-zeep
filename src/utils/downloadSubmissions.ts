@@ -4,7 +4,7 @@ import { promisify } from 'node:util'
 import { copy, remove } from 'fs-extra'
 
 import { APP_ID, DOWNLOAD_FOLDER, STEAMCMD_PATH } from '../config/index.js'
-import type { Submissions, Submission } from '../types/index.js'
+import type { Submission, Submissions } from '../types/index.js'
 import { debug, error, warn } from './index.js'
 
 const execPromise = promisify(exec)
@@ -18,12 +18,9 @@ function* chunks(items: [string, Submission][]) {
 	}
 }
 
-const downloadBatch = async (
-	batch: [string, Submission][],
-	retryDepth = 0
-): Promise<void> => {
+const downloadBatch = async (batch: [string, Submission][], retryDepth = 0): Promise<void> => {
 	const workshopIds = batch.map(([id]) => id)
-	const query = workshopIds.map(id => `+workshop_download_item ${APP_ID} ${id}`).join(' ')
+	const query = workshopIds.map((id) => `+workshop_download_item ${APP_ID} ${id}`).join(' ')
 	const command = `steamcmd +login anonymous ${query} +quit`
 
 	try {
@@ -56,7 +53,10 @@ const downloadBatch = async (
 			}
 		}
 	} catch (err) {
-		error(`Batch download failed (batch size: ${batch.length}): ${(err as Error).message}`, import.meta)
+		error(
+			`Batch download failed (batch size: ${batch.length}): ${(err as Error).message}`,
+			import.meta,
+		)
 
 		if (batch.length === 1) {
 			const [workshopId] = batch[0]

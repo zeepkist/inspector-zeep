@@ -1,10 +1,10 @@
 import { join } from 'node:path'
 import type { ThreadChannel } from 'discord.js'
 
-import type { Submissions } from '../types/index.js'
 import { DOWNLOAD_FOLDER, SILENT_MODE } from '../config/index.js'
 import { reactToMessage, sendJudgeMessage } from '../discord/index.js'
-import { checkLevelIsValid, createLevelHash, addToPlaylist } from './index.js'
+import type { Submissions } from '../types/index.js'
+import { addToPlaylist, checkLevelIsValid, createLevelHash } from './index.js'
 
 interface ValidateSubmissions {
 	submissions: Submissions
@@ -17,10 +17,7 @@ export const validateSubmissions = async ({ submissions, judgeChannel }: Validat
 
 		const level = await checkLevelIsValid(workshopPath, user)
 
-		const { hasChanged, isNew, previousLevel } = await createLevelHash(
-			workshopPath,
-			user
-		)
+		const { hasChanged, isNew, previousLevel } = await createLevelHash(workshopPath, user)
 
 		if (!level) continue
 
@@ -29,7 +26,7 @@ export const validateSubmissions = async ({ submissions, judgeChannel }: Validat
 				channel: judgeChannel,
 				previousLevel,
 				level,
-				isNew
+				isNew,
 			})
 		}
 

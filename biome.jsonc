@@ -20,10 +20,11 @@
 	},
 	"javascript": {
 		"formatter": {
-			"quoteStyle": "single"
+			"quoteStyle": "single",
+			"semicolons": "asNeeded"
 		}
 	},
 	"files": {
-		"ignore": ["node_modules", "dist"]
+		"ignore": ["node_modules", "dist", "coverage", "hash"]
 	}
 }

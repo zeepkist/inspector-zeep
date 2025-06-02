@@ -10,39 +10,31 @@ type ErrorScope = 'error' | ImportMeta
 const addDecoration = (string: string) => `➤ ${string} »`
 
 const createKey = (key: string | ImportMeta) => {
-  if (typeof key === 'string') return addDecoration(key.toUpperCase())
+	if (typeof key === 'string') return addDecoration(key.toUpperCase())
 
-  return addDecoration(basename(fileURLToPath(key.url), '.ts'))
+	return addDecoration(basename(fileURLToPath(key.url), '.ts'))
 }
 
-export const info = (
-  message: string,
-  scope = 'info' as InfoScope,
-  isMuted = false
-) => {
-  const key = blue(createKey(scope))
+export const info = (message: string, scope = 'info' as InfoScope, isMuted = false) => {
+	const key = blue(createKey(scope))
 
-  console.log(`${key} ${isMuted ? gray(message) : message}`)
+	console.log(`${key} ${isMuted ? gray(message) : message}`)
 }
 
-export const debug = (
-  message: string,
-  scope = 'info' as InfoScope,
-  isMuted = false
-) => {
-  const key = gray(createKey(scope))
+export const debug = (message: string, scope = 'info' as InfoScope, isMuted = false) => {
+	const key = gray(createKey(scope))
 
-  console.log(`${key} ${isMuted ? gray(message) : message}`)
+	console.log(`${key} ${isMuted ? gray(message) : message}`)
 }
 
 export const warn = (message: string, scope = 'warn' as WarnScope) => {
-  const key = yellow(createKey(scope))
+	const key = yellow(createKey(scope))
 
-  console.warn(`${key} ${message}`)
+	console.warn(`${key} ${message}`)
 }
 
 export const error = (message: string, scope = 'error' as ErrorScope) => {
-  const key = red(createKey(scope))
+	const key = red(createKey(scope))
 
-  console.error(`${key} ${message}`)
+	console.error(`${key} ${message}`)
 }
