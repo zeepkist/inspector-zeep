@@ -1,0 +1,246 @@
+[
+  {
+    "workshopPath": "./downloads/3465603724",
+    "hash": "288fda495823b53e572dc31c72221c9c1c742466502a37e45561c6b40afafced",
+    "level": {
+      "name": "ZSL - Castle On the Water",
+      "path": "./downloads/3465603724/ZSL - Castle On the Water/ZSL - Castle On the Water.zeeplevel",
+      "blocks": 1986,
+      "author": "[CRT]Codewalt",
+      "uuid": "17042025-113151640-[CRT]Codewalt-234880972686-1985",
+      "time": 48.98794,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3465473071",
+    "hash": "a7dc5a5bbda17a8104ca0da2e7437a019e226f812895b8cbcf6bd52ff893830c",
+    "level": {
+      "name": "ZSL - The Mannerless Noble and The Wizard Revenge",
+      "path": "./downloads/3465473071/ZSL - The Mannerless Noble and The Wizard Revenge/ZSL - The Mannerless Noble and The Wizard Revenge.zeeplevel",
+      "blocks": 745,
+      "author": "Riccio97",
+      "uuid": "17042025-162356645-Riccio97-065007354760-744",
+      "time": 49.2446,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3464958256",
+    "hash": "0895b269b136dd950ec475d59b73e07da458df69f2b5ef2e8123f146fcc924c3",
+    "level": {
+      "name": "ZSL - Fight for a medieval castle",
+      "path": "./downloads/3464958256/ZSL - Fight for a medieval castle/ZSL - Fight for a medieval castle.zeeplevel",
+      "blocks": 1025,
+      "author": "Mima01a",
+      "uuid": "16042025-171951768-Mima01a-821880299336-1024",
+      "time": 46.89146,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3465730920",
+    "hash": "59e16ceeab0022edef9c206a628ef35dcb590513be1c03dccd480616d784d9fe",
+    "level": {
+      "name": "ZSL - Kingdom Valley - Lakeside",
+      "path": "./downloads/3465730920/ZSL - Kingdom Valley - Lakeside/ZSL - Kingdom Valley - Lakeside.zeeplevel",
+      "blocks": 691,
+      "author": "cyberpunkninja",
+      "uuid": "17042025-215843495-cyberpunkninja-438445436207-690",
+      "time": 46.84824,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "./downloads/3468382141",
+    "hash": "5989d40adaff6ad47b000acc329b4842a6b435bbdd44424f7e12d2f4922a69cf",
+    "level": {
+      "name": "ZSL - Quaint Hamlet",
+      "path": "./downloads/3468382141/ZSL - Quaint Hamlet/ZSL - Quaint Hamlet.zeeplevel",
+      "blocks": 3998,
+      "author": "BB_Benji",
+      "uuid": "21042025-230636563-BB_Benji-786788896533-3997",
+      "time": 47.66793,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 36
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3468010881",
+    "hash": "1a8210b5946bc23efe5ea9ed60277bdc79243c91e02e53c77290b228cf859ae8",
+    "level": {
+      "name": "ZSL - Skirmish",
+      "path": "./downloads/3468010881/ZSL - Skirmish/ZSL - Skirmish.zeeplevel",
+      "blocks": 221,
+      "author": "imagineaclevernamehere",
+      "uuid": "20042025-081900766-imagineaclevernamehere-774553716072-220",
+      "time": 52.69439,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3471013832",
+    "hash": "df9167c91e211a591201f075b98ee2d254623add9638355e1c7d207e5d285507",
+    "level": {
+      "name": "ZSL - Castle",
+      "path": "./downloads/3471013832/ZSL - Castle/ZSL - Castle.zeeplevel",
+      "blocks": 243,
+      "author": "Northwind",
+      "uuid": "26042025-211018294-Northwind-781320018977-242",
+      "time": 39.74315,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3471657591",
+    "hash": "377c3055f7b8862cd9757c63ce57feb19d7f8b9bbff7e258dc61c5b2e879d905",
+    "level": {
+      "name": "Castle raid",
+      "path": "./downloads/3471657591/Castle raid/Castle raid.zeeplevel",
+      "blocks": 1685,
+      "author": "[OCTO]Tetro the octo",
+      "uuid": "27042025-173454115-[OCTO]Tetro the octo-730282871773-1684",
+      "time": 52.68299,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "./downloads/3471679509",
+    "hash": "d28a34764fdca141bda8f01edd0e7e86d42966a99584e7c227ebeecca41ad34a",
+    "level": {
+      "name": "ZSL Space Catsle",
+      "path": "./downloads/3471679509/ZSL Space Catsle/ZSL Space Catsle.zeeplevel",
+      "blocks": 806,
+      "author": "Space_cat9999",
+      "uuid": "27042025-130807863-Space_cat9999-452604533972-805",
+      "time": 54.40582,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "isStartFinishProximityValid": true,
+      "startFinishProximity": 0,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  }
+]
