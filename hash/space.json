@@ -1,0 +1,1202 @@
+[
+  {
+    "workshopPath": "downloads/3491582682",
+    "hash": "5bbbc50b97fcffa628802ced0f713832c480eea4aa5bde97e0d3110d4113f29f",
+    "level": {
+      "name": "ZSL - Interstellar v3",
+      "path": "downloads/3491582682/ZSL - Interstellar v3/ZSL - Interstellar v3.zeeplevel",
+      "blocks": 518,
+      "author": {
+        "name": "[TTR]DragonShadow84290 and Tigerplaysonpc",
+        "StmID": 76561198070406020,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "Ugmx69Drr0i6gET_[TTR]DragonShadow84290 and Tigerplaysonpc",
+      "time": 44.9314346,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3491587832",
+    "hash": "af68ec83096b4b5005359aa73e6c0ed4ebff59522c3ca35eb6c9e4ef9469e9a4",
+    "level": {
+      "name": "ZSL - Spaced Out",
+      "path": "downloads/3491587832/ZSL - Spaced Out/ZSL - Spaced Out.zeeplevel",
+      "blocks": 77,
+      "author": {
+        "name": "MackCheesy",
+        "StmID": 76561198865432340,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "134dGHcpHU2sYBi_MackCheesy",
+      "time": 38.45324,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3491230704",
+    "hash": "ce15c59a8ca44fd7557893aa847bad8cbbb36bdc49beeaab368537a07842f53c",
+    "level": {
+      "name": "ZSL - Escape from the Zaak'ak v2",
+      "path": "downloads/3491230704/ZSL - Escape from the Zaak'ak v2/ZSL - Escape from the Zaak'ak v2.zeeplevel",
+      "blocks": 1171,
+      "author": {
+        "name": "knet56",
+        "StmID": 76561198289191940,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "oaxDa0gv7kq3-f5_knet56",
+      "time": 52.80316,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 20
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3491544119",
+    "hash": "827f42da795d6a1a193f2d34d810a5100fd0c50717425749d4c691ff024fbdaf",
+    "level": {
+      "name": "ZSL - Iridium",
+      "path": "downloads/3491544119/ZSL - Iridium/ZSL - Iridium.zeeplevel",
+      "blocks": 116,
+      "author": {
+        "name": "Northwind",
+        "StmID": 76561198160605000,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "vqC-v5dsJk6Kimw_Northwind",
+      "time": 42.1355629,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3491245173",
+    "hash": "870a5627eee7cb902f73c314e1da3ac3cbd5f294f6d3ac0e5fb1a02b124657e5",
+    "level": {
+      "name": "ZSL - Nugbase Foxtrot-9",
+      "path": "downloads/3491245173/ZSL - Nugbase Foxtrot-9/ZSL - Nugbase Foxtrot-9.zeeplevel",
+      "blocks": 1115,
+      "author": {
+        "name": "Lexer, Yolo & St Nic",
+        "StmID": 76561198047403250,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "I52r0U5eX0K_hPu_St Nicholas",
+      "time": 50.083,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3491221839",
+    "hash": "0df83a59d08f0a64146ee91ef80510b6f5e8b0c3fdc12cbed0d4317cdbbeef7d",
+    "level": {
+      "name": "ZSL - No Time For Caution",
+      "path": "downloads/3491221839/ZSL - No Time For Caution/ZSL - No Time For Caution.zeeplevel",
+      "blocks": 633,
+      "author": {
+        "name": "GoBigGoHotWheels",
+        "StmID": 76561199756332060,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "mAXC9SGBoE6Ivzp_GoBigGoHotWheels",
+      "time": 56.4800644,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3490930643",
+    "hash": "d61a10c5a2a3d3c51343c224fa2555b449ec467c7aed446fb0f04af1ae68f4dd",
+    "level": {
+      "name": "ZSL - Ethereal Archipelago",
+      "path": "downloads/3490930643/ZSL - Ethereal Archipelago/ZSL - Ethereal Archipelago.zeeplevel",
+      "blocks": 575,
+      "author": {
+        "name": "GearworkDragon",
+        "StmID": 76561199180150750,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "tTy0n36FjUu5r3d_GearworkDragon",
+      "time": 52.406498,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3490931818",
+    "hash": "ad16ed66da5e6515ccf0291b309e29f138b58d51dac2b913a1c1d7b6f30947c0",
+    "level": {
+      "name": "Zyphran Shockmire",
+      "path": "downloads/3490931818/Zyphran Shockmire/Zyphran Shockmire.zeeplevel",
+      "blocks": 2627,
+      "author": {
+        "name": "[KURK] Quickracer10",
+        "StmID": 76561198149636590,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "2wWrrVWEcUiGYvY_[KURK] Quickracer10",
+      "time": 43.291,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3490803550",
+    "hash": "01f5473ce6f6e48c238f823403f47e950043c9737d572a18aff19e29192e9153",
+    "level": {
+      "name": "ZSL - Beyond Eons",
+      "path": "downloads/3490803550/ZSL - Beyond Eons/ZSL - Beyond Eons.zeeplevel",
+      "blocks": 2574,
+      "author": {
+        "name": "Diabler & rtube",
+        "StmID": 76561197989028540,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "YHfkMoT6D0CX1l9_Diabler & rtube",
+      "time": 45.0812263,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 243
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3490399968",
+    "hash": "0a01c34580531b7cbf05fcbbba904ede07ad1816141fdb3d1005401f9f162ddc",
+    "level": {
+      "name": "ZSL - SNES Rainbow Road",
+      "path": "downloads/3490399968/ZSL - SNES Rainbow Road/ZSL - SNES Rainbow Road.zeeplevel",
+      "blocks": 2390,
+      "author": {
+        "name": "ShinyIan82",
+        "StmID": 76561199233891650,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "yMw8EszRTUyyNMq_ShinyIan82",
+      "time": 42.64948,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3490245733",
+    "hash": "2b95b50565dd26d3685f168669df9bfa856c1cb49a241d98204d85c1f1898c2b",
+    "level": {
+      "name": "ZSL - Interstellar ARK",
+      "path": "downloads/3490245733/ZSL - Interstellar ARK/ZSL - Interstellar ARK.zeeplevel",
+      "blocks": 1884,
+      "author": {
+        "name": "Metalted & RadAbsRad",
+        "StmID": 76561198932043310,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "mfLVl7rEX0iVcGp_[ZMS] Metalted",
+      "time": 47.5868645,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3489327530",
+    "hash": "fcf1161f2a02bd14ac57f109fc4a0db4e9b4fa09289a505a2d19502ce9540522",
+    "level": {
+      "name": "ZSL - Babylon Z",
+      "path": "downloads/3489327530/ZSL - Babylon Z/ZSL - Babylon Z.zeeplevel",
+      "blocks": 1357,
+      "author": {
+        "name": "[Err]ferinine",
+        "StmID": 76561198149810830,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "d0PDeSR-rEm797G_[Err]ferinine",
+      "time": 42.42284,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3489346409",
+    "hash": "1ad2573571e32756d64d39cf46c856d3fde9cbd4c7ef99260214d387ecb9c234",
+    "level": {
+      "name": "ZSL - ZK1778B",
+      "path": "downloads/3489346409/ZSL - ZK1778B/ZSL - ZK1778B.zeeplevel",
+      "blocks": 500,
+      "author": {
+        "name": "DeeDeeNaNaNa",
+        "StmID": 76561198314320060,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "960w0j89_k2N-NP_DeeDeeNaNaNa",
+      "time": 51.5014153,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3484860439",
+    "hash": "129c803590971702b8411f65a648d3fe1de7976abdb9d36b1aaed76257725853",
+    "level": {
+      "name": "ZSL - Crimsia",
+      "path": "downloads/3484860439/ZSL - Crimsia/ZSL - Crimsia.zeeplevel",
+      "blocks": 1028,
+      "author": {
+        "name": "VroomVroomer",
+        "StmID": 76561199101994270,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "EfSVo21H-0ibXD-_VroomVroomer",
+      "time": 27.0731487,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3488176305",
+    "hash": "01f1102b1eef0d85a19e44d3fc4519e2317101932a49936fdc3fbf448cdcb2e7",
+    "level": {
+      "name": "sa-turn",
+      "path": "downloads/3488176305/sa-turn/sa-turn.zeeplevel",
+      "blocks": 225,
+      "author": {
+        "name": "Playz",
+        "StmID": 76561199343591100,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "xb_qoHwYP06ViOB_Playz",
+      "time": 44.2466545,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3489107303",
+    "hash": "2eaf4c5a1d3739cf3993be1f6f082ec476840755d01cbd49e4937afe3ca3f028",
+    "level": {
+      "name": "ZSL - Shmercury",
+      "path": "downloads/3489107303/ZSL - Shmercury/ZSL - Shmercury.zeeplevel",
+      "blocks": 1220,
+      "author": {
+        "name": "groovy",
+        "StmID": 76561199282497310,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "PM09DSzG7Uu5KZp_groovy",
+      "time": 59.07409,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3482297512",
+    "hash": "f46962983c1a6e7e475dbdd2258c607db75650bc45169e4115ad917d1e306997",
+    "level": {
+      "name": "ZSL - So Say We All",
+      "path": "downloads/3482297512/ZSL - So Say We All/ZSL - So Say We All.zeeplevel",
+      "blocks": 3994,
+      "author": {
+        "name": "Weside",
+        "StmID": 76561198041670380,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "dZ2CR_GbL0KPnfy_Weside",
+      "time": 43.7026329,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 9
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3488481820",
+    "hash": "7283b9a4154c5d7c692eb37b669979d5b889c474e6f8236e85f5be508cf5a001",
+    "level": {
+      "name": "ZSL - Asteroid Field",
+      "path": "downloads/3488481820/ZSL - Asteroid Field/ZSL - Asteroid Field.zeeplevel",
+      "blocks": 82,
+      "author": {
+        "name": "acridbard",
+        "StmID": 76561198040632910,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "sPMIiYmlKUCTYZ2_acridbard",
+      "time": 45.9162064,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3488088100",
+    "hash": "96dbfd65b6ba3d1dc61b73bf3c032367f2a05f8c4f2a4eb593ab00d99a2847ab",
+    "level": {
+      "name": "ZSL - Pepper's Planet",
+      "path": "downloads/3488088100/ZSL - Pepper's Planet/ZSL - Pepper's Planet.zeeplevel",
+      "blocks": 1532,
+      "author": {
+        "name": "Wotterbytes",
+        "StmID": 76561198031026580,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "eOy8N1-qIU-GF_F_Wotterbytes",
+      "time": 42.05076,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3487667412",
+    "hash": "8dedf1afb0d83f812a344dc7fc62c0ccf28257afd65ee5f4003a069f73a1f7c5",
+    "level": {
+      "name": "ZSL - Station 39",
+      "path": "downloads/3487667412/ZSL - Station 39/ZSL - Station 39.zeeplevel",
+      "blocks": 523,
+      "author": {
+        "name": "[CSC] Shadynook",
+        "StmID": 76561197980151170,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "XbIeCMKG9Ue5GH5_[CSC] Shadynook",
+      "time": 42.1836929,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3487409123",
+    "hash": "4a16ad260f19a457742d3c5402396e2d43d4e0ab0e8edad7e07c916faad91f35",
+    "level": {
+      "name": "ZSL - The Crystals Call",
+      "path": "downloads/3487409123/ZSL - The Crystals Call/ZSL - The Crystals Call.zeeplevel",
+      "blocks": 895,
+      "author": {
+        "name": "mori_cinis",
+        "StmID": 76561198158497200,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "SZE33btJjE-rdF5_mori_cinis",
+      "time": 54.5723839,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3482398809",
+    "hash": "709665723e670e0858b6a0bedb1df07e5e3b89bcdf176cb8eec2f44c124fbfdd",
+    "level": {
+      "name": "ZSL - For The Empire",
+      "path": "downloads/3482398809/ZSL - For The Empire/ZSL - For The Empire.zeeplevel",
+      "blocks": 1297,
+      "author": {
+        "name": "CantFindTheSky",
+        "StmID": 76561198093513150,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "Iyi0TfRIE0Okk5K_CantFindTheSky",
+      "time": 47.5501938,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 12
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3487114460",
+    "hash": "8c48ed1080c8e51a9c87150f71f1436017e9f3f562a56c898e09a184d0b2ce2a",
+    "level": {
+      "name": "ZSL - Asteroid Outpost",
+      "path": "downloads/3487114460/ZSL - Asteroid Outpost/ZSL - Asteroid Outpost.zeeplevel",
+      "blocks": 1729,
+      "author": {
+        "name": "maxie12",
+        "StmID": 76561198046077550,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "L2q-HauIaEqzic__maxie12",
+      "time": 44.6017532,
+      "checkpoints": 13,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3486803492",
+    "hash": "e74c67d8ce6223ffe86d43bd656561b62931d2dece285e2a46c73d1c56fadeaf",
+    "level": {
+      "name": "ZSL - Cryosphere",
+      "path": "downloads/3486803492/ZSL - Cryosphere/ZSL - Cryosphere.zeeplevel",
+      "blocks": 407,
+      "author": {
+        "name": "lokja",
+        "StmID": 76561198964959440,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "C4JCwG6Vq0WYTao_lokja",
+      "time": 40.6666031,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3485518102",
+    "hash": "42d2050d74ef01baff725486f82a20e37a518029372a392851d68bf90709fde2",
+    "level": {
+      "name": "ZSL - Lunar System",
+      "path": "downloads/3485518102/ZSL - Lunar System/ZSL - Lunar System.zeeplevel",
+      "blocks": 1977,
+      "author": {
+        "name": "Space_cat9999",
+        "StmID": 76561199036536980,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "vZHYgWxmhkCEYIT_Space_cat9999",
+      "time": 38.7662,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3484613800",
+    "hash": "6cb5760c4f9ea1c94b42525a051cab18bbb4b4cf1441296c0451cd2608ecc817",
+    "level": {
+      "name": "ZSL - A New Hope",
+      "path": "downloads/3484613800/ZSL - A New Hope/ZSL - A New Hope.zeeplevel",
+      "blocks": 1477,
+      "author": {
+        "name": "[CRT]Codewalt",
+        "StmID": 76561198262438670,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "FQv9dirsm0Oe0Vo_[CRT]Codewalt",
+      "time": 50.5892143,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 19
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3484062612",
+    "hash": "c461691512f5614adc718fb840d0673127fb0ac35f09f9e6ec731bba21d1ba39",
+    "level": {
+      "name": "Exoplanet",
+      "path": "downloads/3484062612/Exoplanet/Exoplanet.zeeplevel",
+      "blocks": 692,
+      "author": {
+        "name": "Modern-X Studios",
+        "StmID": 76561198119721260,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "MVVF-c7kMU-OkHE_Modern-X Studios",
+      "time": 50.4669724,
+      "checkpoints": 11,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3483253001",
+    "hash": "0d0b130a5757a288ebe5ceab74057f2c4c5aac55a0de9b7bc0a0e071b78f6511",
+    "level": {
+      "name": "ZSL - Alcamoth Energized GP",
+      "path": "downloads/3483253001/ZSL - Alcamoth Energized GP/ZSL - Alcamoth Energized GP.zeeplevel",
+      "blocks": 1916,
+      "author": {
+        "name": "Riccio97",
+        "StmID": 76561198062811970,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "1V_dHkgazk-S4FO_Riccio97",
+      "time": 41.53734,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3481981678",
+    "hash": "632dead7872351e8354d5fcd10d561953815e3cbd2beccdfdbc8a376a4cb454f",
+    "level": {
+      "name": "Asteroid Racetrack",
+      "path": "downloads/3481981678/Asteroid Racetrack/Asteroid Racetrack.zeeplevel",
+      "blocks": 342,
+      "author": {
+        "name": "[20X]K410K3N",
+        "StmID": 76561198083300340,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "KHUYiShlvEu14Er_[20X]K410K3N",
+      "time": 58.6197,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3480713018",
+    "hash": "87c194fabcad9a44384a1017464ac307285e7f679274ad1ea476e7c4e3cee17e",
+    "level": {
+      "name": "zsl-Gravational Fling",
+      "path": "downloads/3480713018/zsl-Gravational Fling/zsl-Gravational Fling.zeeplevel",
+      "blocks": 133,
+      "author": {
+        "name": "Bynzyldyhydeditoximonothaixatide",
+        "StmID": 76561199825796860,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "1qDCAH_0Q0-021C_Bynzyldyhydeditoximonothaixatide",
+      "time": 46.63842,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3482457972",
+    "hash": "32271492f24968b5cbedfcadbfa8a5344e85031f188d69aea5b80aa8b753573d",
+    "level": {
+      "name": "ZSL - Asteribbon",
+      "path": "downloads/3482457972/ZSL - Asteribbon/ZSL - Asteribbon.zeeplevel",
+      "blocks": 168,
+      "author": {
+        "name": "[CSC] variableferret",
+        "StmID": 76561198157436740,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "FspuF-mtWEqeJLv_[CSC] variableferret",
+      "time": 41.9747963,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3482235814",
+    "hash": "5af01e9e88710b4de158787f889c975077635856aec5df3152b4a1a11b25821b",
+    "level": {
+      "name": "ZSL - Black Hole Sun",
+      "path": "downloads/3482235814/ZSL - Black Hole Sun/ZSL - Black Hole Sun.zeeplevel",
+      "blocks": 995,
+      "author": {
+        "name": "Kilandor",
+        "StmID": 76561197993793010,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "vyTtEqfEyUGnvla_Kilandor",
+      "time": 55.546196,
+      "checkpoints": 11,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3490245133",
+    "hash": "0785ff54a50496e29d6a1226d913ef962f28e13ce757a8620db85bd83439ff24",
+    "level": {
+      "name": "ZSL - Atmospheric",
+      "path": "downloads/3490245133/ZSL - Atmospheric/ZSL - Atmospheric.zeeplevel",
+      "blocks": 949,
+      "author": {
+        "StmID": 76561198050792750,
+        "collaborators": null,
+        "name": "justMaki",
+        "nameOverride": null
+      },
+      "uuid": "shA0X6fVeEammKp_justMaki",
+      "time": 49.285,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3480967086",
+    "hash": "c0765c2b6f23a35ffeaa5d7629a1b867c96ab73d4db280eacbaa200e44098450",
+    "level": {
+      "name": "ZSL - Mortispace",
+      "path": "downloads/3480967086/ZSL - Mortispace/ZSL - Mortispace.zeeplevel",
+      "blocks": 593,
+      "author": {
+        "name": "[CTR]Mortishade",
+        "StmID": 76561197991251760,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "8Q9tANGj4kKN3T0_[CTR]Mortishade",
+      "time": 42.21051,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3481478012",
+    "hash": "9041f22add633f3bd3897fb529323ffed9aefe2184d8c3085afef880e9b14225",
+    "level": {
+      "name": "ZSL - Lunar System",
+      "path": "downloads/3481478012/ZSL - Lunar System/ZSL - Lunar System.zeeplevel",
+      "blocks": 1199,
+      "author": {
+        "name": "Space_cat9999",
+        "StmID": 76561199036536980,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "2zO957rKy0GXNwT_Space_cat9999",
+      "time": 33.09008,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3481453789",
+    "hash": "e9af8414a06590c8f27ef55119983e4b6fbdca73d961bd1a3bf4e50c80a0f0cb",
+    "level": {
+      "name": "ZSL - Kalkön i Rymden ",
+      "path": "downloads/3481453789/ZSL - Kalkön i Rymden/ZSL - Kalkön i Rymden .zeeplevel",
+      "blocks": 694,
+      "author": {
+        "name": "[CSC]OLR94",
+        "StmID": 76561198314583070,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "WKV9VCix_UmB1pD_[CSC]OLR94",
+      "time": 37.433342,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3481310357",
+    "hash": "e733da65b7faf8a8b5caefe0ff1529e7a12e49b7b59371e072e556f2d2e7e7ca",
+    "level": {
+      "name": "Space flight ZSL",
+      "path": "downloads/3481310357/Space flight ZSL/Space flight ZSL.zeeplevel",
+      "blocks": 421,
+      "author": {
+        "name": "[OCTO]Tetro the octo",
+        "StmID": 76561199806838050,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "1NXCuUW5Mk6kgk0_[OCTO]Tetro the octo",
+      "time": 55.1401978,
+      "checkpoints": 14,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3481083780",
+    "hash": "9c8b4000ac045cfde72a3b96c3ba5914ae7125dd0ac58e5963170316617c072e",
+    "level": {
+      "name": "ZSL - Shattered Beltway",
+      "path": "downloads/3481083780/ZSL - Shattered Beltway/ZSL - Shattered Beltway.zeeplevel",
+      "blocks": 1259,
+      "author": {
+        "name": "b17bobby",
+        "StmID": 76561198171222110,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "l_7-I8CP9EWAbEo_b17bobby",
+      "time": 37.8856659,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3480533417",
+    "hash": "18724f7669a2a51f411dc8c55d60046d4fe529e0c8e10a537be83e94192aa8eb",
+    "level": {
+      "name": "ZSL - ZSaLien",
+      "path": "downloads/3480533417/ZSL - ZSaLien/ZSL - ZSaLien.zeeplevel",
+      "blocks": 939,
+      "author": {
+        "name": "[CSC]Tommygaming5132",
+        "StmID": 76561199187327000,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "flTS3FvzuESBVyi_[CSC]Tommygaming5132",
+      "time": 50.9722748,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3480440317",
+    "hash": "2d6a180e1db569167d3ac95c5d3cd2d89802d51bb464b0a854046baa906b09ce",
+    "level": {
+      "name": "ZSL - Going to the moon",
+      "path": "downloads/3480440317/ZSL - Going to the moon/ZSL - Going to the moon.zeeplevel",
+      "blocks": 77,
+      "author": {
+        "name": "Mima01a",
+        "StmID": 76561199347921780,
+        "collaborators": null,
+        "nameOverride": null
+      },
+      "uuid": "nCg_YUxcwEWLQzc_Mima01a",
+      "time": 46.4686623,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  }
+]
