@@ -9,35 +9,31 @@ A records and leaderboard bot for the [Zeepkist Discord server](https://discord.
 ## First-time Project Setup
 
 ```sh
-pnpm install
+bun install
 ```
 
-### Compile and Hot-Reload for Development
+### Run Service
 
 ```sh
-pnpm dev
+bun run start
 ```
 
-### Type-Check, Compile and Minify for Production
+
+### Lint with Biome
 
 ```sh
-pnpm build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
+bun run check # Only report linting errors
+bun run check:fix # Automatically resolve fixable errors
 ```
 
 ### Run Tests
 
 ```sh
-pnpm test
+bun run test
 ```
 
 ### Run Tests with Coverage
 
 ```sh
-pnpm coverage
+bun run coverage
 ```

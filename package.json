@@ -4,7 +4,6 @@
 	"scripts": {
 		"dev": "bun run --watch src/index.ts",
 		"start": "bun run src/index.ts",
-		"build": "tsc",
 		"check": "biome check",
 		"check:fix": "biome check --write ./",
 		"check:types": "tsc ./src/index.ts --noEmit",

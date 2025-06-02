@@ -31,6 +31,6 @@ jobs:
 
       - name: Create Release
         if: success() && github.ref == 'refs/heads/develop'
-        run: pnpm semantic-release
+        run: bun semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
