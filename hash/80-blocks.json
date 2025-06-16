@@ -149,5 +149,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3501262787",
+    "hash": "2e0700d8405bb6019c4317ff27e5a2920750559d9875172a35c88c400ae6b254",
+    "level": {
+      "name": "ZSL - Sunce Neba",
+      "path": "downloads/3501262787/ZSL - Sunce Neba/ZSL - Sunce Neba.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[CSC]OLR94",
+        "StmID": 76561198314583070,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Dfx0OXRl00-AmlK_[CSC]OLR94",
+      "time": 43.8746719,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
