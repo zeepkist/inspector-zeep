@@ -28,5 +28,36 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3500706456",
+    "hash": "2b1137833ba73f5165c39ea717a96eff6bed1fb8f242ed0d0d0eeba035d47f72",
+    "level": {
+      "name": "ZSL- Beachside Sunset",
+      "path": "downloads/3500706456/ZSL- Beachside Sunset/ZSL- Beachside Sunset.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "",
+        "StmID": 76561198811535400,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "uHSxt62kM0CNBI5_[CCC]cyberpunkninja",
+      "time": 31.1703777,
+      "checkpoints": 2,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": true,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 1750058611482
   }
 ]
