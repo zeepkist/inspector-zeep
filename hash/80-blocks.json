@@ -59,5 +59,35 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 1750058611482
+  },
+  {
+    "workshopPath": "downloads/3500784676",
+    "hash": "02b559d6cffba0a81e6dc4a83989ebfb5dd6d6b861d2ef008579d4637b63e1b7",
+    "level": {
+      "name": "ZSL - YAPM, yet another pipe map™",
+      "path": "downloads/3500784676/ZSL - YAPM, yet another pipe map™/ZSL - YAPM, yet another pipe map™.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "",
+        "StmID": 76561199806838050,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "IjdSnpNymUKapjj_[OCTO]Tetro the octo",
+      "time": 49.005188,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
