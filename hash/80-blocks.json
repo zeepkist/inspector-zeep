@@ -89,5 +89,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3501042585",
+    "hash": "e642a48e2af2852f509a546182e04f5f883bd10c6950cd93dde0b669d8fccd68",
+    "level": {
+      "name": "ZSL - Going for the first place!",
+      "path": "downloads/3501042585/ZSL - Going for the first place!/ZSL - Going for the first place!.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "Mima01a",
+        "StmID": 76561199347921780,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "gaMGD2p6dkmQaOT_Mima01a",
+      "time": 42.05269,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
