@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "workshopPath": "downloads/3500647823",
+    "hash": "5dba17a711af4cf966b1a5dd31e89107db26c8957ec6a8a285bc7d0d79885591",
+    "level": {
+      "name": "ZSL - Bobert",
+      "path": "downloads/3500647823/ZSL - Bobert/ZSL - Bobert.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "An Actual g00se",
+        "StmID": 76561199147780030,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "C7xdmrsz_06bfZS_[CSC] An Actual g00se",
+      "time": 36.4120331,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  }
+]
