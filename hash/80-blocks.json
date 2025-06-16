@@ -119,5 +119,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3501240770",
+    "hash": "5f17cf240b1f73c7e9890f729436c917cc0e0332a4d284fe691ba8ff23ce0cb2",
+    "level": {
+      "name": "ZSL - It's not easy being green",
+      "path": "downloads/3501240770/ZSL - It's not easy being green/ZSL - It's not easy being green.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[CSC]Tommygaming",
+        "StmID": 76561199187327000,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "tew_-HZAK0SmYmY_[CSC]Tommygaming",
+      "time": 35.8872948,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
