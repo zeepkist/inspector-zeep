@@ -1,4 +1,4 @@
-export const BLOCK_LIMIT = 4000 // 4000
+export const BLOCK_LIMIT = 80 // 4000
 export const MINIMUM_TIME = 20 // seconds
 export const MAXIMUM_TIME = 60 // seconds
 export const MINIMUM_CHECKPOINTS = 3
