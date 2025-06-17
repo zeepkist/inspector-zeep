@@ -179,5 +179,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3501421467",
+    "hash": "93bb953e3edfd0d33570a0cdb4959c3a88c028185d214ec83f0826f43793e6e9",
+    "level": {
+      "name": "ZSL - Smoothiewave",
+      "path": "downloads/3501421467/ZSL - Smoothiewave/ZSL - Smoothiewave.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "GoBigGoHotWheels",
+        "StmID": 76561199756332060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "zYm2hyeBYU-luGr_GoBigGoHotWheels",
+      "time": 33.40604,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
