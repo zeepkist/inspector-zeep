@@ -329,5 +329,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3502147155",
+    "hash": "0641c81d5cc400b9a5a44f590e28b94c3ba7796fe837d76cb14bb1a28d49430b",
+    "level": {
+      "name": "ZSL - Mortwistshade",
+      "path": "downloads/3502147155/ZSL - Mortwistshade/ZSL - Mortwistshade.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[CTR] Mortishade",
+        "StmID": 76561197991251760,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "CXYVAbNk2kiwLrS_[CTR]Mortishade",
+      "time": 43.68041,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
