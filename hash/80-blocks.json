@@ -299,5 +299,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3502130431",
+    "hash": "4c0dbd06ac77834d507fd2e8bd305d770ebc18e401740b36cf553e66a5e57741",
+    "level": {
+      "name": "ZSL - Regenboog Rally",
+      "path": "downloads/3502130431/ZSL - Regenboog Rally/ZSL - Regenboog Rally.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "RubenBML",
+        "StmID": 76561198045169740,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ES6Crj3GE0CkEoT_RubenBML",
+      "time": 42.8903122,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
