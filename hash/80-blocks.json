@@ -209,5 +209,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3501490444",
+    "hash": "8dca133d3c05cd8efa7d6dd45ede20579ae6c500ea2c01003186f1c7ffb68f74",
+    "level": {
+      "name": "ZSL - Podium Island",
+      "path": "downloads/3501490444/ZSL - Podium Island/ZSL - Podium Island.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "",
+        "StmID": 76561198262438670,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Kn8XhnwW0Ee_SUG_[CRT]Codewalt",
+      "time": 28.0924263,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
