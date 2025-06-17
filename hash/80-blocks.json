@@ -269,5 +269,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3501977905",
+    "hash": "0bf78f6c21979c130404561125b18893c22e83ced74c47e5242b91795c6a4870",
+    "level": {
+      "name": "ZSL - Empty Cargo",
+      "path": "downloads/3501977905/ZSL - Empty Cargo/ZSL - Empty Cargo.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "",
+        "StmID": 76561197980151170,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "SFUOngKJq0yOz9a_[CSC] Shadynook",
+      "time": 36.553875,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
