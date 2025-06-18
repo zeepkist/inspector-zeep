@@ -390,5 +390,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3502733780",
+    "hash": "d660125b51a2331d82fba9780fb2bab0305d06de39bebed053780cdd14ae2370",
+    "level": {
+      "name": "ZSL - Like Father Like Son",
+      "path": "downloads/3502733780/ZSL - Like Father Like Son/ZSL - Like Father Like Son.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[TTR] Tigerplaysonpc",
+        "StmID": 76561199583579400,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "yWPS3hN1_EyRZkE_[TTR] Tigerplaysonpc",
+      "time": 24.420702,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
