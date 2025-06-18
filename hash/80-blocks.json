@@ -421,5 +421,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3502928515",
+    "hash": "d094e0dfb535214a8bf461b48fa1579538f4b4d0391c738fd38db1c15bddd8cb",
+    "level": {
+      "name": "ZSL - Rock Candy",
+      "path": "downloads/3502928515/ZSL - Rock Candy/ZSL - Rock Candy.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "mori_cinis",
+        "StmID": 76561198158497200,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "dyq80jglVkqcaw3_mori_cinis",
+      "time": 34.61895,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
