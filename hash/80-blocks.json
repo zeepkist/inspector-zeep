@@ -359,5 +359,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3502282187",
+    "hash": "b6eebc523f47683e6c4c07adcafff673fc5ecf49284db9464afa705336c80e5d",
+    "level": {
+      "name": "ZSL - Magic Beanstalk",
+      "path": "downloads/3502282187/ZSL - Magic Beanstalk/ZSL - Magic Beanstalk.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "BB_Benji",
+        "StmID": 76561198428660620,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "sjoS9mFXp0q8-TB_BB_Benji",
+      "time": 34.37449,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
