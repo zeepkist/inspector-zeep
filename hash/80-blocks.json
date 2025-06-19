@@ -543,5 +543,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3502003818",
+    "hash": "e29f25dd64ed36eab1515321bcb1bd5a32bf9e86a3b0694ebfeb4dcafbfcc7b1",
+    "level": {
+      "name": "ZSL - Full Flavor",
+      "path": "downloads/3502003818/ZSL - Full Flavor/ZSL - Full Flavor.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "Wotterbytes (Tiago)",
+        "StmID": 76561198031026580,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "UCbCvSH31Uueio9_Wotterbytes",
+      "time": 54.756958,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
