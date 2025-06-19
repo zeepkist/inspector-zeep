@@ -451,5 +451,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3503216732",
+    "hash": "0af6cf3f22f7a349b4ccdaefa9ac48b0fef5a0bd2326d2a5a6e89df5e5be0424",
+    "level": {
+      "name": "ZSL - Surface Forest",
+      "path": "downloads/3503216732/ZSL - Surface Forest/ZSL - Surface Forest.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "OgelGames",
+        "StmID": 76561198934033800,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "TF_PoWqTEkWQdyY_OgelGames",
+      "time": 38.799263,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
