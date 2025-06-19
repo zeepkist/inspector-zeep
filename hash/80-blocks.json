@@ -62,10 +62,10 @@
   },
   {
     "workshopPath": "downloads/3500784676",
-    "hash": "d7d015996c681787dd42ebe6786700a9dfe790384dcb4adb6089fc1ec6d66361",
+    "hash": "98fddf79f1f87ad8bfbd9f3477c92e0f5424ada148a9bd841cbbca11324f21a5",
     "level": {
-      "name": "ZSL - YAPM, yet another pipe map™ V2",
-      "path": "downloads/3500784676/ZSL - YAPM, yet another pipe map™ V2/ZSL - YAPM, yet another pipe map™ V2.zeeplevel",
+      "name": "ZSL - YAPM, yet another pipe map™ V3 (Arder's edition)",
+      "path": "downloads/3500784676/ZSL - YAPM, yet another pipe map™ V3 (Arder's edition)/ZSL - YAPM, yet another pipe map™ V3 (Arder's edition).zeeplevel",
       "blocks": 80,
       "author": {
         "name": "Tetro the octo",
@@ -73,9 +73,9 @@
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "5bLYZFrH70e4Ypj_[OCTO]Tetro the octo",
-      "time": 48.5368538,
-      "checkpoints": 5,
+      "uuid": "5f_1n3-tnEeBFZd_[OCTO]Tetro the octo",
+      "time": 50.6408119,
+      "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
     },
