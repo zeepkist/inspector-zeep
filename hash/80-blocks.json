@@ -62,20 +62,20 @@
   },
   {
     "workshopPath": "downloads/3500784676",
-    "hash": "02b559d6cffba0a81e6dc4a83989ebfb5dd6d6b861d2ef008579d4637b63e1b7",
+    "hash": "d7d015996c681787dd42ebe6786700a9dfe790384dcb4adb6089fc1ec6d66361",
     "level": {
-      "name": "ZSL - YAPM, yet another pipe map™",
-      "path": "downloads/3500784676/ZSL - YAPM, yet another pipe map™/ZSL - YAPM, yet another pipe map™.zeeplevel",
+      "name": "ZSL - YAPM, yet another pipe map™ V2",
+      "path": "downloads/3500784676/ZSL - YAPM, yet another pipe map™ V2/ZSL - YAPM, yet another pipe map™ V2.zeeplevel",
       "blocks": 80,
       "author": {
-        "name": "",
+        "name": "Tetro the octo",
         "StmID": 76561199806838050,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "IjdSnpNymUKapjj_[OCTO]Tetro the octo",
-      "time": 49.005188,
-      "checkpoints": 4,
+      "uuid": "5bLYZFrH70e4Ypj_[OCTO]Tetro the octo",
+      "time": 48.5368538,
+      "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
     },
@@ -88,7 +88,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3501042585",
