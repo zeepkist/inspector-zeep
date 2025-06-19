@@ -483,5 +483,65 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3503620429",
+    "hash": "4773b4d2b09a89a8c346bbbfef585f3185671db1274e0c7f61b4f83b81943ce2",
+    "level": {
+      "name": "ZSL - Honey I Shrunk the Zeepkists",
+      "path": "downloads/3503620429/ZSL - Honey I Shrunk the Zeepkists/ZSL - Honey I Shrunk the Zeepkists.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "AydenExistsToo",
+        "StmID": 76561198814470420,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "eqpQ7YYV8kq01lD_AydenExistsToo",
+      "time": 59.92713,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3503612115",
+    "hash": "3d0a5cd40c84e6f5a407f83fe8498f2e810a6775b292139baa48119a3ca91268",
+    "level": {
+      "name": "ZSL - Let me Play Among the Stars",
+      "path": "downloads/3503612115/ZSL - Let me Play Among the Stars/ZSL - Let me Play Among the Stars.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[CCC] Shinikage221",
+        "StmID": 76561199093841300,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "r0aIQyLPeE-elUI_[CCC]Shinikage221",
+      "time": 46.2004356,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
