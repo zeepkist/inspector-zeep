@@ -576,7 +576,7 @@
   },
   {
     "workshopPath": "downloads/3503926560",
-    "hash": "3b350ade3320e240bf35371907540ab62f7d627d01d3d321fa138eb940916069",
+    "hash": "bbbc4633b37a3974ffa633dad4d1ca0474b1b93947d15a3d55dd53ce83031ed3",
     "level": {
       "name": "ZSL - Shady 80",
       "path": "downloads/3503926560/ZSL - Shady 80/ZSL - Shady 80.zeeplevel",
@@ -587,8 +587,8 @@
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "lGScdocHxkeeFRT_[OwO] AnIntenseMoist",
-      "time": 32.7500572,
+      "uuid": "Lfpcoh7i4Uueikh_[OwO] AnIntenseMoist",
+      "time": 32.7102242,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -602,7 +602,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3504187173",
