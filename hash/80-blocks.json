@@ -62,10 +62,10 @@
   },
   {
     "workshopPath": "downloads/3500784676",
-    "hash": "98fddf79f1f87ad8bfbd9f3477c92e0f5424ada148a9bd841cbbca11324f21a5",
+    "hash": "1fc1b8c94c9724638e460398556bd4522b6fcf8252e0a5be1dc31d4890d65551",
     "level": {
-      "name": "ZSL - YAPM, yet another pipe map™ V3 (Arder's edition)",
-      "path": "downloads/3500784676/ZSL - YAPM, yet another pipe map™ V3 (Arder's edition)/ZSL - YAPM, yet another pipe map™ V3 (Arder's edition).zeeplevel",
+      "name": "ZSL - YAPM, yet another pipe map™ V4 (small tweaks edition)",
+      "path": "downloads/3500784676/ZSL - YAPM, yet another pipe map™ V4 (small tweaks edition)/ZSL - YAPM, yet another pipe map™ V4 (small tweaks edition).zeeplevel",
       "blocks": 80,
       "author": {
         "name": "Tetro the octo",
@@ -73,8 +73,8 @@
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "5f_1n3-tnEeBFZd_[OCTO]Tetro the octo",
-      "time": 50.6408119,
+      "uuid": "AV0GBO6UK0GyQQz_[OCTO]Tetro the octo",
+      "time": 50.7670555,
       "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -590,6 +590,36 @@
       "uuid": "lGScdocHxkeeFRT_[OwO] AnIntenseMoist",
       "time": 32.7500572,
       "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3504187173",
+    "hash": "2ed211f32f9594def95ea5693cbc54e55f2d039676a631a9f3b6cd6b594dc848",
+    "level": {
+      "name": "ZSL - Surface Forest",
+      "path": "downloads/3504187173/ZSL - Surface Forest/ZSL - Surface Forest.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "OgelGames",
+        "StmID": 76561198934033800,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "nviE_aS0q0etJHM_OgelGames",
+      "time": 38.5344238,
+      "checkpoints": 3,
       "changerGateModes": {},
       "logicBlocks": 0
     },
