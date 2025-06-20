@@ -633,5 +633,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3504309024",
+    "hash": "b6daaf33e0ddd544f00d416dff978290155d2e9e3992eef43f03adfd7f8024be",
+    "level": {
+      "name": "ZSL - Push It To The Limit!",
+      "path": "downloads/3504309024/ZSL - Push It To The Limit!/ZSL - Push It To The Limit!.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "Diabler",
+        "StmID": 76561197989028540,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "9kJphEfcikeKm3-_Diabler",
+      "time": 45.6333427,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
