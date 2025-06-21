@@ -724,5 +724,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3505406895",
+    "hash": "b6bd73b729089ac46ac9a33fd6b62efe5b48fa77a3718e0997347a69410036c9",
+    "level": {
+      "name": "ZSL - Ochenta",
+      "path": "downloads/3505406895/ZSL - Ochenta/ZSL - Ochenta.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "NworBic",
+        "StmID": 76561198047749090,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "VlKpq90ewESmPBA_NworBic",
+      "time": 40.0532,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
