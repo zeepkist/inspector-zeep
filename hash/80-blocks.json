@@ -754,5 +754,156 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3502003264",
+    "hash": "d6c04a74b436275e4542c03a4e9714c8e70eaf4dacbd5e526747728432591ebe",
+    "level": {
+      "name": "ZSL - 1980",
+      "path": "downloads/3502003264/ZSL - 1980/ZSL - 1980.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "PlusMicron",
+        "StmID": 76561199186342060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "nZGLIPw9yUai9Tr_PlusMicron",
+      "time": 36.07418,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3501907498",
+    "hash": "89f45f60f40a2704e841a6508b6956acbcc75371f0c04815a8df59b97c90fce9",
+    "level": {
+      "name": "ZSL - Cloudtop Paradise",
+      "path": "downloads/3501907498/ZSL - Cloudtop Paradise/ZSL - Cloudtop Paradise.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[ZET]Ploddip",
+        "StmID": 76561199378866300,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "jA5-_o5nhEuECoU_[ZET]Ploddip",
+      "time": 33.4745522,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3501688152",
+    "hash": "463a8c9524c6e83377e6821ffb0b85e3b0fed74b947d8689d68f0dbd49dc50af",
+    "level": {
+      "name": "Sandworm 1,1",
+      "path": "downloads/3501688152/Sandworm 1,1/Sandworm 1,1.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "K410K3N",
+        "StmID": 76561198083300340,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "73_nylCoOkqNcFv_[20X]K410K3N",
+      "time": 52.03683,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3501577450",
+    "hash": "d8587560b42090ced658bcd3fbc20a28c14ae82f375101352230a88debf53546",
+    "level": {
+      "name": "ZSL - Evening Ride",
+      "path": "downloads/3501577450/ZSL - Evening Ride/ZSL - Evening Ride.zeeplevel",
+      "blocks": 78,
+      "author": {
+        "name": "das_Bananenbrot",
+        "StmID": 76561199590591250,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "TS11zL6PLkmPj2l_Das_Bananenbrot",
+      "time": 34.70751,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3501037331",
+    "hash": "02216b2e7dea1c38496d15d250a763846049e43b6087eb91bc2e24fa727abdb9",
+    "level": {
+      "name": "zsl 80 blocos",
+      "path": "downloads/3501037331/zsl 80 blocos/zsl 80 blocos.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "",
+        "StmID": 76561199002720580,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "QjYkWgGGuk-4Skh_vortex",
+      "time": 23.7117138,
+      "checkpoints": 0,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": true,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 1750540972040
   }
 ]
