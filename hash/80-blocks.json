@@ -694,5 +694,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3504721057",
+    "hash": "90484bc014522ba366abcc4bd2de552ea6ea4a547f64a88cabb0e7069638a5bf",
+    "level": {
+      "name": "ZSL - 80 Deserts",
+      "path": "downloads/3504721057/ZSL - 80 Deserts/ZSL - 80 Deserts.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "Waffle",
+        "StmID": 76561199445022450,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "OMxuW-uMbUCdmlZ_MrCrime",
+      "time": 42.9968147,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
