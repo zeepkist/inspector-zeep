@@ -664,5 +664,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3504605248",
+    "hash": "bdcab6e42ea5141e778f25d81d1168ba5caf9a019e17d57763dea4e3bb47b6aa",
+    "level": {
+      "name": "Bridge to Nowhere",
+      "path": "downloads/3504605248/Bridge to Nowhere/Bridge to Nowhere.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "ShinyIan82",
+        "StmID": 76561199233891650,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "8SIhr-bkAki-RbU_ShinyIan82",
+      "time": 49.37908,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
