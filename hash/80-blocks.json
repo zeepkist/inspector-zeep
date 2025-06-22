@@ -905,5 +905,35 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 1750540972040
+  },
+  {
+    "workshopPath": "downloads/3505549753",
+    "hash": "f0d4611502597a93af2d1621994dd3d5b95d0fcacac7496d38cf81e420ee3959",
+    "level": {
+      "name": "ZSL - 80-ish Blocks, Somewhere Around There",
+      "path": "downloads/3505549753/ZSL - 80-ish Blocks, Somewhere Around There/ZSL - 80-ish Blocks, Somewhere Around There.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "DeathStroke405",
+        "StmID": 76561198024629940,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "NSlDo7l2zEOYco0_[MB]-MB- Deathstroke405",
+      "time": 58.2929,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
