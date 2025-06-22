@@ -62,10 +62,10 @@
   },
   {
     "workshopPath": "downloads/3500784676",
-    "hash": "1fc1b8c94c9724638e460398556bd4522b6fcf8252e0a5be1dc31d4890d65551",
+    "hash": "96c5993ec0a4a5264851f37bed573350d6baaae9eb02ff2e996290e1790e3f7d",
     "level": {
-      "name": "ZSL - YAPM, yet another pipe map™ V4 (small tweaks edition)",
-      "path": "downloads/3500784676/ZSL - YAPM, yet another pipe map™ V4 (small tweaks edition)/ZSL - YAPM, yet another pipe map™ V4 (small tweaks edition).zeeplevel",
+      "name": "ZSL - YAPM, yet another pipe map™ V5 (paint edition)",
+      "path": "downloads/3500784676/ZSL - YAPM, yet another pipe map™ V5 (paint edition)/ZSL - YAPM, yet another pipe map™ V5 (paint edition).zeeplevel",
       "blocks": 80,
       "author": {
         "name": "Tetro the octo",
@@ -73,8 +73,8 @@
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "AV0GBO6UK0GyQQz_[OCTO]Tetro the octo",
-      "time": 50.7670555,
+      "uuid": "K-KPoguawEe0Xcb_[OCTO]Tetro the octo",
+      "time": 50.2237358,
       "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -922,6 +922,36 @@
       "uuid": "NSlDo7l2zEOYco0_[MB]-MB- Deathstroke405",
       "time": 58.2929,
       "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3506035174",
+    "hash": "91014137b6f18da4e885a541ac5274c1e5b5e017ba1e0198eae00c3bf6dd6554",
+    "level": {
+      "name": "ZSL - Smoothiewave",
+      "path": "downloads/3506035174/ZSL - Smoothiewave/ZSL - Smoothiewave.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "GoBigGoHotWheels",
+        "StmID": 76561199756332060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "wvMFV1X-QU6f72o_GoBigGoHotWheels",
+      "time": 33.4602623,
+      "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
     },
