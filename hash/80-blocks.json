@@ -965,5 +965,65 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3506186004",
+    "hash": "f3bce013441aef70f2384ade8954065ffc4280b96d86c6c1d0e0239e302cdd44",
+    "level": {
+      "name": "zsl-paradise islands",
+      "path": "downloads/3506186004/zsl-paradise islands/zsl-paradise islands.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "vortex",
+        "StmID": 76561199002720580,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "57NwyjMAgkS_iD5_vortex",
+      "time": 21.4560242,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3506037519",
+    "hash": "98b5fa72cb8c1d420667f5426e43e80058a7257f7f4dd940a6c61f552396f447",
+    "level": {
+      "name": "ZSL NoreVL - Wallride Cave",
+      "path": "downloads/3506037519/ZSL NoreVL - Wallride Cave/ZSL NoreVL - Wallride Cave.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "NoreVL",
+        "StmID": 76561199190396500,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "HFK82jihb0Orqu-_NoreVL",
+      "time": 33.84284,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
