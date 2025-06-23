@@ -1026,5 +1026,65 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3506495566",
+    "hash": "63b233d549f2436772bef6982ee9d9070df3808be6668c718ab1f3f5cc3cf58d",
+    "level": {
+      "name": " 80 YEARS AGO WW2",
+      "path": "downloads/3506495566/ 80 YEARS AGO WW2/ 80 YEARS AGO WW2.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "k.macdonell",
+        "StmID": 76561199452397220,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "8-CGXNUbg0qCNp1_k macdonell",
+      "time": 34.2295723,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3506941509",
+    "hash": "41e52281c3ba46a4bdf39107a2fe19877e4a0f9eb7477f3108d0225b41767819",
+    "level": {
+      "name": "zsl-paradise islands",
+      "path": "downloads/3506941509/zsl-paradise islands/zsl-paradise islands.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "vortex",
+        "StmID": 76561199002720580,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "SnHo-JEzLku31Z1_vortex",
+      "time": 30.0804939,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
