@@ -1116,5 +1116,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3507142262",
+    "hash": "1e165323900b2702a6ef5b4d769956e976b20723ad0710828aae985c4c27752f",
+    "level": {
+      "name": "ZSL - Tapt lys",
+      "path": "downloads/3507142262/ZSL - Tapt lys/ZSL - Tapt lys.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[XTR] [VK] NATHAN",
+        "StmID": 76561198870312430,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "LKoiuczniUy33Sj_[XTR] [VK] NATHAN",
+      "time": 29.865633,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
