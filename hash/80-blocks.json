@@ -1086,5 +1086,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3507721876",
+    "hash": "1e3ad60c42a32ecde31698680473f32ce40027ed9b86f11c7a9fce0c3f084c7c",
+    "level": {
+      "name": "ZSL - Shimmer",
+      "path": "downloads/3507721876/ZSL - Shimmer/ZSL - Shimmer.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "RadAbsRad",
+        "StmID": 76561198840040580,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "G8rX74BodkSPw3U_[Meow]RadAbsRad",
+      "time": 41.74911,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
