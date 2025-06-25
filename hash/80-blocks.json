@@ -1207,5 +1207,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3508620662",
+    "hash": "c6e60b3061a50911e4c408747ae8bc3abc629914387c1a2e5f7ef1e7d5b81c0e",
+    "level": {
+      "name": "ZSL - Eightypelago",
+      "path": "downloads/3508620662/ZSL - Eightypelago/ZSL - Eightypelago.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "StmID": 76561198050792750,
+        "collaborators": "",
+        "name": "justMaki",
+        "nameOverride": ""
+      },
+      "uuid": "BrNEx2GprECysCq_justMaki",
+      "time": 42.3088547,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
