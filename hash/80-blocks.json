@@ -1149,7 +1149,7 @@
   },
   {
     "workshopPath": "downloads/3508460439",
-    "hash": "26b52b27d46bc2766326326e985b8aabd941bb880df73c37300a3dfdee7d85d4",
+    "hash": "b3f5072be6ed50c421912823b14f88a392b0bd47681ece02f031e4816e97e099",
     "level": {
       "name": "ZSL - Bazaar",
       "path": "downloads/3508460439/ZSL - Bazaar/ZSL - Bazaar.zeeplevel",
@@ -1160,7 +1160,7 @@
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "tE6SJKIiGUmAs7-_RoundNzt",
+      "uuid": "yxOd5t_ZLk2AIWO_RoundNzt",
       "time": 34.41574,
       "checkpoints": 5,
       "changerGateModes": {},
@@ -1175,7 +1175,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3508539995",
