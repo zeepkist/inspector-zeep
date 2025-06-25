@@ -1146,5 +1146,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3508460439",
+    "hash": "26b52b27d46bc2766326326e985b8aabd941bb880df73c37300a3dfdee7d85d4",
+    "level": {
+      "name": "ZSL - Bazaar",
+      "path": "downloads/3508460439/ZSL - Bazaar/ZSL - Bazaar.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "RoundNzt",
+        "StmID": 76561198896246340,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "tE6SJKIiGUmAs7-_RoundNzt",
+      "time": 34.41574,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
