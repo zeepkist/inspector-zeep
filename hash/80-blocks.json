@@ -1176,5 +1176,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3508539995",
+    "hash": "cb21dc04e8c8007d7030c2efabbe6bb1762431ce2bd1186e69020bd6438cba41",
+    "level": {
+      "name": "ZSL - Silver Spiral",
+      "path": "downloads/3508539995/ZSL - Silver Spiral/ZSL - Silver Spiral.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "b17bobby",
+        "StmID": 76561198171222110,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "V6FFThXNwUCw8H1_b17bobby",
+      "time": 46.78311,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
