@@ -1237,5 +1237,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3508660477",
+    "hash": "4ce36583b8ebae8521eba32de91cecd78f9a2d80c2d8d6db4c978e9affdbd4d0",
+    "level": {
+      "name": "ZSL - Lamp Pass",
+      "path": "downloads/3508660477/ZSL - Lamp Pass/ZSL - Lamp Pass.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[CTR]Lamp",
+        "StmID": 76561198169339330,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "iA844NWmtkSSdNC_[CTR]Lamp",
+      "time": 34.25762,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
