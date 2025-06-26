@@ -1149,7 +1149,7 @@
   },
   {
     "workshopPath": "downloads/3508460439",
-    "hash": "b3f5072be6ed50c421912823b14f88a392b0bd47681ece02f031e4816e97e099",
+    "hash": "0cbab098e93c41df065837e1a220f3255322ae2271dec2a64d7c24ed50889751",
     "level": {
       "name": "ZSL - Bazaar",
       "path": "downloads/3508460439/ZSL - Bazaar/ZSL - Bazaar.zeeplevel",
@@ -1160,8 +1160,8 @@
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "yxOd5t_ZLk2AIWO_RoundNzt",
-      "time": 34.41574,
+      "uuid": "bQ7s2azaFUa-LBW_RoundNzt",
+      "time": 34.31177,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -1254,6 +1254,36 @@
       "uuid": "iA844NWmtkSSdNC_[CTR]Lamp",
       "time": 34.25762,
       "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3508753965",
+    "hash": "a5b6c89b2d786e25a8e4f97835353d96b4e5c2c77bad78064c6547b48c456bd6",
+    "level": {
+      "name": "ZSL - Scrimblo",
+      "path": "downloads/3508753965/ZSL - Scrimblo/ZSL - Scrimblo.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[CSC] variableferret",
+        "StmID": 76561198157436740,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "oyaUhZKWMkOoo_A_[CSC] variableferret",
+      "time": 43.6089134,
+      "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
     },
