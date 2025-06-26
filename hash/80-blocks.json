@@ -1327,5 +1327,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3508564037",
+    "hash": "5fff2a50cde2b2b9015eb26489fd9bd7b137cacf9a27907097f07da705bd7986",
+    "level": {
+      "name": "ZSL - Slalom Descent",
+      "path": "downloads/3508564037/ZSL - Slalom Descent/ZSL - Slalom Descent.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "",
+        "StmID": 76561198046077550,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Oyb9aNSgoUqGYPC_maxie12",
+      "time": 32.4122276,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
