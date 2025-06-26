@@ -1330,18 +1330,18 @@
   },
   {
     "workshopPath": "downloads/3508564037",
-    "hash": "5fff2a50cde2b2b9015eb26489fd9bd7b137cacf9a27907097f07da705bd7986",
+    "hash": "e1bb4b2c10e4b566cf83e05e5848907d1b294a043dc9cef471f23006d67b5a4b",
     "level": {
       "name": "ZSL - Slalom Descent",
       "path": "downloads/3508564037/ZSL - Slalom Descent/ZSL - Slalom Descent.zeeplevel",
       "blocks": 80,
       "author": {
-        "name": "",
+        "name": "Maxie12",
         "StmID": 76561198046077550,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "Oyb9aNSgoUqGYPC_maxie12",
+      "uuid": "3vzbGQQ5BUiZFdN_maxie12",
       "time": 32.4122276,
       "checkpoints": 9,
       "changerGateModes": {},
@@ -1356,6 +1356,7 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
