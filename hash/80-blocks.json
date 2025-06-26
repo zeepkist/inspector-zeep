@@ -1297,5 +1297,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3509228049",
+    "hash": "255b28027b02ab1d7aaedeb1757b195cf662fe1a1529d72717c951de9b2e6f11",
+    "level": {
+      "name": "ZSL - Sunny Day",
+      "path": "downloads/3509228049/ZSL - Sunny Day/ZSL - Sunny Day.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[CSC]Mokster",
+        "StmID": 76561197979087520,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "oYcEi3acVky-jXL_[CSC]Mokster",
+      "time": 45.6242371,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
