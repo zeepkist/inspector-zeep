@@ -1358,5 +1358,35 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "downloads/3509889982",
+    "hash": "22126c966a9d8b992ca874d16ac4aafc699d77fef9f758a9b590c2da6297cd14",
+    "level": {
+      "name": "ZSL - Noodling",
+      "path": "downloads/3509889982/ZSL - Noodling/ZSL - Noodling.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "groovy",
+        "StmID": 76561199282497310,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Om5_sPswt0yK9G-_groovy",
+      "time": 57.15848,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
