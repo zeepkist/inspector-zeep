@@ -1389,5 +1389,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3510444808",
+    "hash": "1a7af723df609f1299cd386a567d2fac8804466369e581f44687c7a8e6d6ff95",
+    "level": {
+      "name": "ZSL - Space Tubes",
+      "path": "downloads/3510444808/ZSL - Space Tubes/ZSL - Space Tubes.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "Miklæn",
+        "StmID": 76561198054267170,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "mFp71M4Ei06FRBs_Miklæn",
+      "time": 59.15875,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
