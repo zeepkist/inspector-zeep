@@ -1419,5 +1419,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3510280088",
+    "hash": "0d1e43bcd61170b8b07829672369e152a31201ce5a0ec36d026f5cf1bc3dfb5e",
+    "level": {
+      "name": "ZSL - Cape Zist",
+      "path": "downloads/3510280088/ZSL - Cape Zist/ZSL - Cape Zist.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[CTR]Mμ",
+        "StmID": 76561198041494030,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "LkHGreg7JES4NIY_[CTR]Mμ",
+      "time": 52.84822,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
