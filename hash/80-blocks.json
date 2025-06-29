@@ -1449,5 +1449,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3511687805",
+    "hash": "08e3ca503b3de132bfc9881cdb4f7552e57663d2c9bde4ca8b4d941f6e792878",
+    "level": {
+      "name": "ZSL - 80 in Limbo",
+      "path": "downloads/3511687805/ZSL - 80 in Limbo/ZSL - 80 in Limbo.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[TOG]Lazy_Echidna",
+        "StmID": 76561198008859140,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "zRyK-yYsn0atYQT_[TOG]Lazy_Echidna",
+      "time": 53.27666,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
