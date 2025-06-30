@@ -2,6 +2,7 @@ import type { User } from 'discord.js'
 
 import {
 	BLOCK_LIMIT,
+	BLOCK_LIMIT_MIN,
 	CHANGER_GATE_MODES_REQUIRED,
 	FIXED_CHECKPOINTS,
 	MAXIMUM_TIME,
@@ -14,7 +15,7 @@ import { getLevel } from './getLevel.js'
 import { debug, error } from './log.js'
 
 export const validateBlockLimit = (name: string, blocks: number) => {
-	if (blocks > BLOCK_LIMIT) {
+	if (blocks > BLOCK_LIMIT || blocks < BLOCK_LIMIT_MIN) {
 		error(`"${name}" has ${blocks} blocks`, import.meta)
 		return false
 	}
