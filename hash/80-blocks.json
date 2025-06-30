@@ -847,36 +847,6 @@
     "invalidatedAt": 0
   },
   {
-    "workshopPath": "downloads/3501577450",
-    "hash": "d8587560b42090ced658bcd3fbc20a28c14ae82f375101352230a88debf53546",
-    "level": {
-      "name": "ZSL - Evening Ride",
-      "path": "downloads/3501577450/ZSL - Evening Ride/ZSL - Evening Ride.zeeplevel",
-      "blocks": 78,
-      "author": {
-        "name": "das_Bananenbrot",
-        "StmID": 76561199590591250,
-        "collaborators": "",
-        "nameOverride": ""
-      },
-      "uuid": "TS11zL6PLkmPj2l_Das_Bananenbrot",
-      "time": 34.70751,
-      "checkpoints": 4,
-      "changerGateModes": {},
-      "logicBlocks": 0
-    },
-    "isValid": true,
-    "validity": {
-      "isOverBlockLimit": false,
-      "isUnderTimeLimit": false,
-      "isOverTimeLimit": false,
-      "isUnderCheckpointLimit": false,
-      "isOverWidthLimit": false,
-      "areFixedCheckpointsValid": true,
-      "hasRequiredChangerGateModes": true
-    }
-  },
-  {
     "workshopPath": "downloads/3501037331",
     "hash": "02216b2e7dea1c38496d15d250a763846049e43b6087eb91bc2e24fa727abdb9",
     "level": {
