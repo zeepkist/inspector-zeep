@@ -1480,5 +1480,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3502281952",
+    "hash": "54cb3bcdb5e951bf11854f6b01c90e0a8fbb5cdcf6d3b111b86ee6232b699cf0",
+    "level": {
+      "name": "ZSL - Branch 80",
+      "path": "downloads/3502281952/ZSL - Branch 80/ZSL - Branch 80.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "CantFindTheSky",
+        "StmID": 76561198093513150,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "qESKNnoWV06x0iB_CantFindTheSky",
+      "time": 42.0761337,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
