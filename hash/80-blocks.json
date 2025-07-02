@@ -1571,5 +1571,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3514238038",
+    "hash": "c5440871506405288532197fb9b991ded006348c791057169b34ec69008fe6d0",
+    "level": {
+      "name": "ZSL - Please Mind the Line",
+      "path": "downloads/3514238038/ZSL - Please Mind the Line/ZSL - Please Mind the Line.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "Modern-X Studios",
+        "StmID": 76561198119721260,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "6DYraAWj_UGief3_Modern-X Studios",
+      "time": 49.2833252,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
