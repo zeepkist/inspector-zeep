@@ -1601,5 +1601,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3514242455",
+    "hash": "a19d9d760e5dbc427353955b6a2c4a4c570e0a0a41fffba325db217a09b9fce2",
+    "level": {
+      "name": "ZSL - Abstract",
+      "path": "downloads/3514242455/ZSL - Abstract/ZSL - Abstract.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "GearworkDragon",
+        "StmID": 76561199180150750,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "yEIGCfTP_UihDjV_GearworkDragon",
+      "time": 44.90541,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
