@@ -1631,5 +1631,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3515285113",
+    "hash": "ca0e2d52ccce0d5c29dd4618f1bdb77517fa38c9b83b3b5fcf54aac038480474",
+    "level": {
+      "name": "ZSL - Tetraform T1B",
+      "path": "downloads/3515285113/ZSL - Tetraform T1B/ZSL - Tetraform T1B.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "Form",
+        "StmID": 76561198052262770,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "cVLELwzOqk-a34e_Form",
+      "time": 26.2387257,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
