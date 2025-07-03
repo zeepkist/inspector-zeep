@@ -1721,5 +1721,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3515864444",
+    "hash": "b03e6432d3fa683aa1d27d61d5b0310bd956474273f44a2ad545432b18a443b8",
+    "level": {
+      "name": "ZSL - Mystic Place",
+      "path": "downloads/3515864444/ZSL - Mystic Place/ZSL - Mystic Place.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "ping",
+        "StmID": 76561199109206780,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "g0gWujkpjkKidlw_ping",
+      "time": 31.4860649,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
