@@ -1661,5 +1661,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3515641535",
+    "hash": "573766bcfeaca185ec16eb99959fc481e1300db3be4e402bed5eb16ea841dc10",
+    "level": {
+      "name": "ZSL - Zeepbakje",
+      "path": "downloads/3515641535/ZSL - Zeepbakje/ZSL - Zeepbakje.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "Hellmet",
+        "StmID": 76561198093160300,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Gz-H4Ddc4U-ziEU_Hellmet",
+      "time": 45.9280472,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
