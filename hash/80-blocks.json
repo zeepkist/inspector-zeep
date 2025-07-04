@@ -1781,5 +1781,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3515979061",
+    "hash": "24238a6eef22b7f381371bc95bb6488b9d8f4836fe6befa7db1a8b8b24c4f8ba",
+    "level": {
+      "name": "ZSL - Sunsitter",
+      "path": "downloads/3515979061/ZSL - Sunsitter/ZSL - Sunsitter.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "Linzi",
+        "StmID": 76561198205579860,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "974YtGOaq0ahHzH_Linzi",
+      "time": 40.49,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
