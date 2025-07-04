@@ -1751,5 +1751,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3515871063",
+    "hash": "3ddcfd88d9a942ca4dabd6df046b505e0531fa9afd9b6093f90d6639611cbedc",
+    "level": {
+      "name": "ZSL - Molten Core",
+      "path": "downloads/3515871063/ZSL - Molten Core/ZSL - Molten Core.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "Kernkob",
+        "StmID": 76561199024808940,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "XE0F-zEQSkqHdK9_Kernkob",
+      "time": 35.69964,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
