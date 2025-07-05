@@ -1812,5 +1812,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3516949673",
+    "hash": "e77078645261d1034726e398f19aa7f67cf2763b5f4b69778bd5baa254c7ee0b",
+    "level": {
+      "name": "ZSL - Emeralyst",
+      "path": "downloads/3516949673/ZSL - Emeralyst/ZSL - Emeralyst.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "Lexer",
+        "StmID": 76561198851912260,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "8OEKOka1Vkqx0DL_Lexer",
+      "time": 38.14176,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
