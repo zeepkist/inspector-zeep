@@ -1842,5 +1842,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3517047784",
+    "hash": "186316f7151efbca8ebf89d7dfac930233bbedb966bf68019710e44567a1c5da",
+    "level": {
+      "name": "ZSL - Mountainous",
+      "path": "downloads/3517047784/ZSL - Mountainous/ZSL - Mountainous.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "Northwind",
+        "StmID": 76561198160605000,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "vjDZIxcQz0OYQBI_Northwind",
+      "time": 43.9706955,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
