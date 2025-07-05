@@ -1872,5 +1872,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3516772033",
+    "hash": "66c25abe7390dc6b0bd2506c02e2bcba41a8ce99e2832b94ad4baabd7efb1142",
+    "level": {
+      "name": "ZSL - Evening Ride",
+      "path": "downloads/3516772033/ZSL - Evening Ride/ZSL - Evening Ride.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "das_Bananenbrot",
+        "StmID": 76561199590591250,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "yaHowVvIxkGsa3f_Das_Bananenbrot",
+      "time": 33.49614,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
