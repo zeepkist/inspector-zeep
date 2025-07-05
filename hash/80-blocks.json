@@ -1785,7 +1785,7 @@
   },
   {
     "workshopPath": "downloads/3515979061",
-    "hash": "24238a6eef22b7f381371bc95bb6488b9d8f4836fe6befa7db1a8b8b24c4f8ba",
+    "hash": "5620b83e4e182307514d5193a46344b5aa24339682a44e884252ee51dd47a013",
     "level": {
       "name": "ZSL - Sunsitter",
       "path": "downloads/3515979061/ZSL - Sunsitter/ZSL - Sunsitter.zeeplevel",
@@ -1796,7 +1796,7 @@
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "974YtGOaq0ahHzH_Linzi",
+      "uuid": "Widnv_94PEakBI0_Linzi",
       "time": 40.49,
       "checkpoints": 4,
       "changerGateModes": {},
@@ -1811,7 +1811,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3516949673",
