@@ -1453,26 +1453,26 @@
   },
   {
     "workshopPath": "downloads/3502281952",
-    "hash": "1222d48eee23c9a459a8e7651425be9a297b9eaab61d1b9335fe6f7fd5a817c6",
+    "hash": "c9c0ff98be170a40e92fd62d70a6d32a5ff25a8f25324845026d7d92bb038925",
     "level": {
-      "name": "ZSL - Branch 80 changes",
-      "path": "downloads/3502281952/ZSL - Branch 80 changes/ZSL - Branch 80 changes.zeeplevel",
-      "blocks": 77,
+      "name": "ZSL - Branch 80",
+      "path": "downloads/3502281952/ZSL - Branch 80/ZSL - Branch 80.zeeplevel",
+      "blocks": 80,
       "author": {
         "name": "CantFindTheSky",
         "StmID": 76561198093513150,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "8uMoMq_TPEiRJDq_CantFindTheSky",
-      "time": 42.8750725,
+      "uuid": "8W4GJFxcSEGzF5h_CantFindTheSky",
+      "time": 42.7095566,
       "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
     },
-    "isValid": false,
+    "isValid": true,
     "validity": {
-      "isOverBlockLimit": true,
+      "isOverBlockLimit": false,
       "isUnderTimeLimit": false,
       "isOverTimeLimit": false,
       "isUnderCheckpointLimit": false,
@@ -1480,7 +1480,7 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     },
-    "invalidatedAt": 1751688034410
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3501577450",
