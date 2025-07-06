@@ -2023,5 +2023,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3516446472",
+    "hash": "82e0e17892e68c86efda820b4447b2aa5f696b3e86b886ee22964e9ad61b2923",
+    "level": {
+      "name": "ZSL - only EEEEEEEE pieces",
+      "path": "downloads/3516446472/ZSL - only EEEEEEEE pieces/ZSL - only EEEEEEEE pieces.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[BAKA]LittleHetzy",
+        "StmID": 76561198286325860,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "XOODDc1VYk-s9dU_[EVE]LittleHetzy",
+      "time": 35.0407448,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
