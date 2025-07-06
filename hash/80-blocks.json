@@ -1903,5 +1903,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3517800964",
+    "hash": "3399eccd637ae330fe2f8cd3de6c00df4274b93249d8bfcd3a09b4b7f6f00e6e",
+    "level": {
+      "name": "ZSL - Amethyst caves",
+      "path": "downloads/3517800964/ZSL - Amethyst caves/ZSL - Amethyst caves.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "L3mmy",
+        "StmID": 76561198451895680,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "1ojgQfDyDESSTgR_[Goob] L3mmy",
+      "time": 31.401495,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
