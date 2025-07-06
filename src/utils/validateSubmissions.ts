@@ -13,7 +13,7 @@ interface ValidateSubmissions {
 
 export const validateSubmissions = async ({ submissions, judgeChannel }: ValidateSubmissions) => {
 	for await (const [workshopId, [message, user]] of submissions.entries()) {
-		const workshopPath = join(DOWNLOAD_FOLDER, workshopId)
+		const workshopPath = join(DOWNLOAD_FOLDER, workshopId).replace(/\\/g, '/')
 
 		const level = await checkLevelIsValid(workshopPath, user)
 
