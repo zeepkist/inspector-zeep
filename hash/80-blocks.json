@@ -2083,5 +2083,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3518249447",
+    "hash": "f3429db9850fc853ab781f7be06ef3977fc7cbad0d42011afaf2d27a4c641ec1",
+    "level": {
+      "name": "ZSL - Extinction-Oil",
+      "path": "downloads/3518249447/ZSL - Extinction-Oil/ZSL - Extinction-Oil.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[Dino] DinoDeano",
+        "StmID": 76561199385621740,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ro4Qlu1S6k-Ix6l_[Dino] DinoDeano",
+      "time": 35.29497,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
