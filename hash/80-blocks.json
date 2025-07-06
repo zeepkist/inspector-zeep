@@ -1933,5 +1933,95 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3517979388",
+    "hash": "9007871f5a222bad7abadd395505627f593a775c9c751956a554222a6cd3e983",
+    "level": {
+      "name": "ZSL - Ochenta",
+      "path": "downloads/3517979388/ZSL - Ochenta/ZSL - Ochenta.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "NworBic",
+        "StmID": 76561198047749090,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "KsLp9jLg60mLHoF_NworBic",
+      "time": 40.44324,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3502837641",
+    "hash": "bbd17295d89bdac97e0348ef309cd99367bba5b83c1c8a096408a133a36335c8",
+    "level": {
+      "name": "CF - 02",
+      "path": "downloads/3502837641/CF - 02/CF - 02.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "Cartfart13",
+        "StmID": 76561198077353810,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ezxqQnBiqUaSXJV_Cartfart13",
+      "time": 20.159977,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3517969626",
+    "hash": "981fcb9480bec315ec8c8cd6cd6cabea65c1cd12d0088902a77c69fa51af319e",
+    "level": {
+      "name": "ZSL - One 80 Track",
+      "path": "downloads/3517969626/ZSL - One 80 Track/ZSL - One 80 Track.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "r3mx4u",
+        "StmID": 76561199629269680,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "W-JIKIN-l0WMRtL_r3mx4u",
+      "time": 49.4245148,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
