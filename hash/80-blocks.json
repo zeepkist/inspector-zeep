@@ -2053,5 +2053,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3518185430",
+    "hash": "d46dabee68090a3911fe99961acb07ec2c7cf20d1521f1f54a177f19deae5970",
+    "level": {
+      "name": "ZSl- ill-Logic-al",
+      "path": "downloads/3518185430/ZSl- ill-Logic-al/ZSl- ill-Logic-al.zeeplevel",
+      "blocks": 80,
+      "author": {
+        "name": "[Err]ferinine",
+        "StmID": 76561198149810830,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "a2hXdQm4dECaao6_[Err]ferinine",
+      "time": 43.93761,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 6
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
