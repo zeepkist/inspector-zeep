@@ -28,5 +28,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3519589328",
+    "hash": "76c84ff0b60049715e57ad93c56a2c6e7959febe80248ee9832f0c54c0baca21",
+    "level": {
+      "name": "ZSL - sahra' mahjura",
+      "path": "downloads/3519589328/ZSL - sahra' mahjura/ZSL - sahra' mahjura.zeeplevel",
+      "blocks": 1376,
+      "author": {
+        "name": "[CSC]Tommygaming",
+        "StmID": 76561199187327000,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "bSa0C6S9JE261kU_[CSC]Tommygaming",
+      "time": 41.31333,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
