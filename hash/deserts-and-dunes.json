@@ -1,0 +1,32 @@
+[
+  {
+    "workshopPath": "downloads/3519245781",
+    "hash": "5222607209626add7a43bda68fe138b5bd55c287d47dd96dd17359db9ee74ab3",
+    "level": {
+      "name": "ZSL - Stranded in the desert",
+      "path": "downloads/3519245781/ZSL - Stranded in the desert/ZSL - Stranded in the desert.zeeplevel",
+      "blocks": 108,
+      "author": {
+        "name": "Mima01a",
+        "StmID": 76561199347921780,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ifl5RMJs-0ut1rY_Mima01a",
+      "time": 38.5974579,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  }
+]
