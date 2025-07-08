@@ -62,19 +62,19 @@
   },
   {
     "workshopPath": "downloads/3519415051",
-    "hash": "64ba92338d39fee37bab07c48c92fc48448b9257daf7adeb52b7971bb5f07a6e",
+    "hash": "37c542b14c52510318ebaf11c7d0675c3f67310509112fa2cddccc75f32ccc18",
     "level": {
-      "name": "another sandworm 8D",
-      "path": "downloads/3519415051/another sandworm 8D/another sandworm 8D.zeeplevel",
-      "blocks": 2222,
+      "name": "another sandworm 8D 1,1",
+      "path": "downloads/3519415051/another sandworm 8D 1,1/another sandworm 8D 1,1.zeeplevel",
+      "blocks": 2202,
       "author": {
         "name": "[20X]K410K3N",
         "StmID": 76561198083300340,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "nP_lEJk-80WHJBm_[20X]K410K3N",
-      "time": 44.9311943,
+      "uuid": "DcNLqaqhJUKQHzb_[20X]K410K3N",
+      "time": 43.1628151,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -88,6 +88,7 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
