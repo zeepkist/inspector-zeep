@@ -90,5 +90,35 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "downloads/3520646977",
+    "hash": "0330916d32016be825b0ac673f04ee7a640513e710b48229795f697131a777c3",
+    "level": {
+      "name": "zsl oasis paradise 2",
+      "path": "downloads/3520646977/zsl oasis paradise 2/zsl oasis paradise 2.zeeplevel",
+      "blocks": 1734,
+      "author": {
+        "name": "vortex",
+        "StmID": 76561199002720580,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "fzsGiOOcH0WByGF_vortex",
+      "time": 38.48922,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
