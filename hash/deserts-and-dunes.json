@@ -120,5 +120,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3521545336",
+    "hash": "3f05ba3e2401ffe395d7cdfa007f7b0b8d867cbd82af7da68d73d17c97d8ca65",
+    "level": {
+      "name": "ZSL - Windrider",
+      "path": "downloads/3521545336/ZSL - Windrider/ZSL - Windrider.zeeplevel",
+      "blocks": 323,
+      "author": {
+        "name": "[CSC] variableferret",
+        "StmID": 76561198157436740,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "jJLZxDVQfUGBzhD_[CSC] variableferret",
+      "time": 43.182,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
