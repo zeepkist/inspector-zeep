@@ -150,5 +150,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3522573807",
+    "hash": "f37d627b4926ff24d0575b8bdd900bcbd8658031863889c092e4c272a602bf13",
+    "level": {
+      "name": "ZSL - Ysai",
+      "path": "downloads/3522573807/ZSL - Ysai/ZSL - Ysai.zeeplevel",
+      "blocks": 1764,
+      "author": {
+        "name": "JobW",
+        "StmID": 76561198125435420,
+        "collaborators": "Maki",
+        "nameOverride": ""
+      },
+      "uuid": "YY8wTJwtJ0eWclf_JobW",
+      "time": 50.975174,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
