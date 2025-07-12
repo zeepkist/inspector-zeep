@@ -181,5 +181,35 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "downloads/3523427212",
+    "hash": "9500cc53af18318abb0f9df1f261ebb2dfeec2bf5b7cfa5ae087ad0a97304efe",
+    "level": {
+      "name": "ZSL - Dessert",
+      "path": "downloads/3523427212/ZSL - Dessert/ZSL - Dessert.zeeplevel",
+      "blocks": 142,
+      "author": {
+        "name": "Northwind",
+        "StmID": 76561198160605000,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "x5Dr0KJkUEC4s5s_Northwind",
+      "time": 44.1240425,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
