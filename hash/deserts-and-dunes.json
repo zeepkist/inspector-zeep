@@ -153,19 +153,19 @@
   },
   {
     "workshopPath": "downloads/3522573807",
-    "hash": "f37d627b4926ff24d0575b8bdd900bcbd8658031863889c092e4c272a602bf13",
+    "hash": "cf9e94d81acd5d39d21863aa50e610465733376abd4d8a613f29728b46e231c1",
     "level": {
       "name": "ZSL - Ysai",
       "path": "downloads/3522573807/ZSL - Ysai/ZSL - Ysai.zeeplevel",
-      "blocks": 1764,
+      "blocks": 1780,
       "author": {
         "name": "JobW",
         "StmID": 76561198125435420,
         "collaborators": "Maki",
         "nameOverride": ""
       },
-      "uuid": "YY8wTJwtJ0eWclf_JobW",
-      "time": 50.975174,
+      "uuid": "quC8XxEOEkmCrOx_JobW",
+      "time": 50.97534,
       "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -179,6 +179,7 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
