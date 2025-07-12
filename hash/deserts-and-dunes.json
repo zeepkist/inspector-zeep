@@ -211,5 +211,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3523583041",
+    "hash": "09260f5ce1072a99f5492d2796b145fe90e1e7bbc278a5af092583ca6152fc92",
+    "level": {
+      "name": "ZSL - ULTRAGREED",
+      "path": "downloads/3523583041/ZSL - ULTRAGREED/ZSL - ULTRAGREED.zeeplevel",
+      "blocks": 917,
+      "author": {
+        "name": "sulleyhoughton",
+        "StmID": 76561199360882850,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Vnkc5FIMpkSNSFJ_sulleyhoughton",
+      "time": 54.6572075,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
