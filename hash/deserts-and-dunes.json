@@ -241,5 +241,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3523969742",
+    "hash": "b6f5241265a3142defe2aa08c1119fa48fe10605c9227f3ec7b96b97e72cbdaa",
+    "level": {
+      "name": "zsl - Faraway ",
+      "path": "downloads/3523969742/zsl - Faraway/zsl - Faraway .zeeplevel",
+      "blocks": 2481,
+      "author": {
+        "name": "Space_cat9999",
+        "StmID": 76561199036536980,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "OG40QPBAzUGzhlX_Space_cat9999",
+      "time": 39.3927841,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
