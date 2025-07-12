@@ -271,5 +271,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3524022824",
+    "hash": "8bfce1374831ef0933213303eeec908f76c2028f306a2a46b77eb3a92d63fc0c",
+    "level": {
+      "name": "ZSL - Pueblo Nuevo",
+      "path": "downloads/3524022824/ZSL - Pueblo Nuevo/ZSL - Pueblo Nuevo.zeeplevel",
+      "blocks": 1501,
+      "author": {
+        "name": "[CSC] Shadynook",
+        "StmID": 76561197980151170,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "vgKZGlOAAUuIUDJ_[CSC] Shadynook",
+      "time": 40.58733,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
