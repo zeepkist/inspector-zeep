@@ -301,5 +301,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3525007401",
+    "hash": "216890ce8d63e45dd44bb305f8bba22c01683c8e6a9cb583ac0ae79e87d94feb",
+    "level": {
+      "name": "ZSL - Polar Desert",
+      "path": "downloads/3525007401/ZSL - Polar Desert/ZSL - Polar Desert.zeeplevel",
+      "blocks": 495,
+      "author": {
+        "name": "Piniut LEGIT",
+        "StmID": 76561198406512880,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "638-wV0WNEWbzlB_Piniut LEGIT",
+      "time": 59.1528358,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
