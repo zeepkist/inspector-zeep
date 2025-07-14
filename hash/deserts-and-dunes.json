@@ -361,5 +361,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3525670631",
+    "hash": "fe3a2a95505780d9e98fc96f53c838a37b4b1aec7ad780a1752a8faed8081734",
+    "level": {
+      "name": "ZSL- Dessert Run",
+      "path": "downloads/3525670631/ZSL- Dessert Run/ZSL- Dessert Run.zeeplevel",
+      "blocks": 393,
+      "author": {
+        "name": "[ZET] Wheelie",
+        "StmID": 76561199218214540,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "RoAk4fiKnEeZIz3_[ZET] Wheelie",
+      "time": 24.9590836,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
