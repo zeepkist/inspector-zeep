@@ -331,5 +331,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3525329649",
+    "hash": "c641e00225bf9784732d8d1ad39fbddf37c7d5ecb17726dfa04f50b997d78270",
+    "level": {
+      "name": "ZSL - Desserts on Dunes",
+      "path": "downloads/3525329649/ZSL - Desserts on Dunes/ZSL - Desserts on Dunes.zeeplevel",
+      "blocks": 1307,
+      "author": {
+        "name": "GoBigGoHotWheels",
+        "StmID": 76561199756332060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "xgBy8HRRo06c0hr_GoBigGoHotWheels",
+      "time": 50.76371,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
