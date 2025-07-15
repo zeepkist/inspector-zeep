@@ -391,5 +391,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3526831837",
+    "hash": "7df863a535c72118d48e119c31fdd4a25d18de73ac5fa5031d0428ff127cafa2",
+    "level": {
+      "name": "ZSL - Powered Pyramid",
+      "path": "downloads/3526831837/ZSL - Powered Pyramid/ZSL - Powered Pyramid.zeeplevel",
+      "blocks": 1199,
+      "author": {
+        "name": "Modern-X Studios",
+        "StmID": 76561198119721260,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "aARcsJ6G9ky5kLn_Modern-X Studios",
+      "time": 54.5147629,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
