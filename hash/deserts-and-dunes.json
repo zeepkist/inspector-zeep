@@ -421,5 +421,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3526587645",
+    "hash": "7307b6819e70466f6f29027c396360a287f623edc7e6e89e536b01daac46bd24",
+    "level": {
+      "name": "ZSL - Badlands 2",
+      "path": "downloads/3526587645/ZSL - Badlands 2/ZSL - Badlands 2.zeeplevel",
+      "blocks": 271,
+      "author": {
+        "name": "[KRL]Xexend",
+        "StmID": 76561199651799020,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "bY1qpP-TWEyYY6V_[KRL]Xexend",
+      "time": 33.19953,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
