@@ -481,5 +481,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3526955547",
+    "hash": "6e6b1923313dc57402aab46ae9b810df913f9366fc457099632fb0bf6307f90f",
+    "level": {
+      "name": "ZSL - An Oasis To Remember",
+      "path": "downloads/3526955547/ZSL - An Oasis To Remember/ZSL - An Oasis To Remember.zeeplevel",
+      "blocks": 1251,
+      "author": {
+        "name": "[CRT]Codewalt",
+        "StmID": 76561198262438670,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "up1idCFhH0Wghna_[CRT]Codewalt",
+      "time": 56.925293,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
