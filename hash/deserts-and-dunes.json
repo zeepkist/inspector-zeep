@@ -451,5 +451,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3526924032",
+    "hash": "b4e2612e6926fd831c47aa4ab92d434b9bc2c91e6790569eed945a6daef488cc",
+    "level": {
+      "name": "ZSL - Dakar Rally",
+      "path": "downloads/3526924032/ZSL - Dakar Rally/ZSL - Dakar Rally.zeeplevel",
+      "blocks": 1886,
+      "author": {
+        "name": "b17bobby",
+        "StmID": 76561198171222110,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "RdX_wYP-40K8ych_b17bobby",
+      "time": 44.6742134,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
