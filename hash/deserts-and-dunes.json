@@ -511,5 +511,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3527259363",
+    "hash": "d25b57110ab14ea7fcfa2e3b8e5f2b2888776dcbc4af087495521fc7dcb952a2",
+    "level": {
+      "name": "ZSL - Sweet Des(s)ert",
+      "path": "downloads/3527259363/ZSL - Sweet Des(s)ert/ZSL - Sweet Des(s)ert.zeeplevel",
+      "blocks": 707,
+      "author": {
+        "name": "Riccio97",
+        "StmID": 76561198062811970,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "kv5QSkrMl0WYUnu_Riccio97",
+      "time": 49.05074,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
