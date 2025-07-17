@@ -541,5 +541,65 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3526065314",
+    "hash": "08be2489d58e0bf23842a0f528120b742a64f3113d78e69256a47f56f5707ea7",
+    "level": {
+      "name": "ZSL - Mojaveshade",
+      "path": "downloads/3526065314/ZSL - Mojaveshade/ZSL - Mojaveshade.zeeplevel",
+      "blocks": 478,
+      "author": {
+        "name": "[CTR]Mortishade",
+        "StmID": 76561197991251760,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Qp6kVm2b-Uu57tz_[CTR]Mortishade",
+      "time": 44.7567558,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3527598502",
+    "hash": "199a31b3628fc13f1514a2baf24c30a31988818edab68cd6730752b456041949",
+    "level": {
+      "name": "ZSL - Pharaoh's Prosperity",
+      "path": "downloads/3527598502/ZSL - Pharaoh's Prosperity/ZSL - Pharaoh's Prosperity.zeeplevel",
+      "blocks": 2011,
+      "author": {
+        "name": "mori_cinis",
+        "StmID": 76561198158497200,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "SeCtjMXf7UuNTIL_mori_cinis",
+      "time": 36.5148849,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
