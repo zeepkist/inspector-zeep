@@ -632,5 +632,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3528431955",
+    "hash": "13129b60c8b5af225dec5afd14e448e8dc9bba1017a073a8ebbe0e40464b840f",
+    "level": {
+      "name": "ZSL - Oasis Under the Pyramid",
+      "path": "downloads/3528431955/ZSL - Oasis Under the Pyramid/ZSL - Oasis Under the Pyramid.zeeplevel",
+      "blocks": 541,
+      "author": {
+        "name": "Half-Qilin",
+        "StmID": 76561198338813000,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "1mUadVHUkEexaZh_Half-Qilin",
+      "time": 43.12101,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
