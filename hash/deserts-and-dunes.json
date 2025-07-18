@@ -484,20 +484,20 @@
   },
   {
     "workshopPath": "downloads/3526955547",
-    "hash": "6e6b1923313dc57402aab46ae9b810df913f9366fc457099632fb0bf6307f90f",
+    "hash": "17a05b360453aedd8f26fa64fc9f89bca63820e680c62c0598e84b9096adce17",
     "level": {
       "name": "ZSL - An Oasis To Remember",
       "path": "downloads/3526955547/ZSL - An Oasis To Remember/ZSL - An Oasis To Remember.zeeplevel",
-      "blocks": 1251,
+      "blocks": 1326,
       "author": {
         "name": "[CRT]Codewalt",
         "StmID": 76561198262438670,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "up1idCFhH0Wghna_[CRT]Codewalt",
-      "time": 56.925293,
-      "checkpoints": 8,
+      "uuid": "wN0bsGKOuUeVapa_[CRT]Codewalt",
+      "time": 58.3831956,
+      "checkpoints": 9,
       "changerGateModes": {},
       "logicBlocks": 0
     },
@@ -510,7 +510,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3527259363",
