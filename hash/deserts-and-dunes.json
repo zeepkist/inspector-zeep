@@ -693,5 +693,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3530075506",
+    "hash": "524bd01610ae1131cc3f977bfbf92b6709fc585b5a181aa7d3fe056c0770441d",
+    "level": {
+      "name": "ZSL - Adobe Sunset",
+      "path": "downloads/3530075506/ZSL - Adobe Sunset/ZSL - Adobe Sunset.zeeplevel",
+      "blocks": 1059,
+      "author": {
+        "name": "St Nicholas",
+        "StmID": 76561198047403250,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "tvKdCpDUEEeZsAr_St Nicholas",
+      "time": 47.084568,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
