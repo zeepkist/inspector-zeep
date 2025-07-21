@@ -723,5 +723,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3530859485",
+    "hash": "9fe649f9dc2f69c6ccb340891054e93bd110de4c34c69302e86edf6eb204d7ed",
+    "level": {
+      "name": "ZSL - Mirage",
+      "path": "downloads/3530859485/ZSL - Mirage/ZSL - Mirage.zeeplevel",
+      "blocks": 897,
+      "author": {
+        "name": "Kernkob",
+        "StmID": 76561199024808940,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "p1QBpUbI0U6KqAr_Kernkob",
+      "time": 38.47086,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 16
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
