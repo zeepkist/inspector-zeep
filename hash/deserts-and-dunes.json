@@ -62,19 +62,19 @@
   },
   {
     "workshopPath": "downloads/3519415051",
-    "hash": "9031218674db9b4e3a553380bd9dee1fd25ece6ff058c32342a2caf908c21dcc",
+    "hash": "973d2f7b7c6b292e0b1da9210e3cc7e086f5655f4400e826c0e43a9a66d39e74",
     "level": {
-      "name": "ZSL - another sandworm ",
-      "path": "downloads/3519415051/ZSL - another sandworm/ZSL - another sandworm .zeeplevel",
-      "blocks": 2202,
+      "name": "ZSL - another sandworm 8D",
+      "path": "downloads/3519415051/ZSL - another sandworm 8D/ZSL - another sandworm 8D.zeeplevel",
+      "blocks": 2281,
       "author": {
         "name": "[20X]K410K3N",
         "StmID": 76561198083300340,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "bbmXwYeTIk20sa-_[20X]K410K3N",
-      "time": 43.7910347,
+      "uuid": "6_aU1S-riUi1VrW_[20X]K410K3N",
+      "time": 42.3445129,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
