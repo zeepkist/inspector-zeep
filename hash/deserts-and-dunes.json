@@ -753,5 +753,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3531642198",
+    "hash": "30d491db5080630e18b2341dbd8151b66303f8fa9b876a737fcd483822f5ed6d",
+    "level": {
+      "name": "ZSL - Crazy Dunes",
+      "path": "downloads/3531642198/ZSL - Crazy Dunes/ZSL - Crazy Dunes.zeeplevel",
+      "blocks": 415,
+      "author": {
+        "name": "MrCrim",
+        "StmID": 76561199445022450,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "E1gCaP8hrkuwAuV_MrCrime",
+      "time": 59.94403,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
