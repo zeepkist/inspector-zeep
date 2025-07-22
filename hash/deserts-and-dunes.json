@@ -783,5 +783,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3531950083",
+    "hash": "f7e2b74e55a1dc6aafa3472aabe66304112c5b204286e2c808779c6237acdb92",
+    "level": {
+      "name": "ZSL - Atreides",
+      "path": "downloads/3531950083/ZSL - Atreides/ZSL - Atreides.zeeplevel",
+      "blocks": 1756,
+      "author": {
+        "name": "[Meow]rtube",
+        "StmID": 76561199208124080,
+        "collaborators": "",
+        "nameOverride": "rartube"
+      },
+      "uuid": "BWOd3MR-UUSW_tr_rtube",
+      "time": 46.554,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 120
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
