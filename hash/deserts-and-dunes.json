@@ -696,19 +696,19 @@
   },
   {
     "workshopPath": "downloads/3530075506",
-    "hash": "524bd01610ae1131cc3f977bfbf92b6709fc585b5a181aa7d3fe056c0770441d",
+    "hash": "20e5931e078b49c47d73a72edfecf11dc5ebd9adf0676bf652057e261e15c473",
     "level": {
       "name": "ZSL - Adobe Sunset",
       "path": "downloads/3530075506/ZSL - Adobe Sunset/ZSL - Adobe Sunset.zeeplevel",
-      "blocks": 1059,
+      "blocks": 1091,
       "author": {
         "name": "St Nicholas",
         "StmID": 76561198047403250,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "tvKdCpDUEEeZsAr_St Nicholas",
-      "time": 47.084568,
+      "uuid": "8QRQVzhNCEqetuP_St Nicholas",
+      "time": 47.0812035,
       "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -722,7 +722,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3530859485",
@@ -802,6 +803,36 @@
       "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 120
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3532278544",
+    "hash": "60f693a925a25e4f2225557aa7d5b6c36debf1ee34ca376bc53d4add26172a6b",
+    "level": {
+      "name": "ZSL - Day at the Yacht Club",
+      "path": "downloads/3532278544/ZSL - Day at the Yacht Club/ZSL - Day at the Yacht Club.zeeplevel",
+      "blocks": 3341,
+      "author": {
+        "name": "CantFindTheSky",
+        "StmID": 76561198093513150,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "YISaCJTciEq5FXc_CantFindTheSky",
+      "time": 42.4110832,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
     },
     "isValid": true,
     "validity": {
