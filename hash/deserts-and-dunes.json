@@ -844,5 +844,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3532667651",
+    "hash": "d9bb7227b4c7434841d5b02bd33f49250b35018bd7c5f0a9cff3ddaa83465977",
+    "level": {
+      "name": "ZSL - Giizer",
+      "path": "downloads/3532667651/ZSL - Giizer/ZSL - Giizer.zeeplevel",
+      "blocks": 182,
+      "author": {
+        "name": "imagineaclevernamehere",
+        "StmID": 76561198201628180,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "BC615LGvHUuWowl_imagineaclevernamehere",
+      "time": 54.4850731,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
