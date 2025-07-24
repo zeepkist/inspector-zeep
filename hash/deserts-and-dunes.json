@@ -905,5 +905,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3533934970",
+    "hash": "fc2efa90702cc09d7bce847d80085adfd2a61610c3d423238bad4d569682b518",
+    "level": {
+      "name": "ZSL - Sandy Decent",
+      "path": "downloads/3533934970/ZSL - Sandy Decent/ZSL - Sandy Decent.zeeplevel",
+      "blocks": 461,
+      "author": {
+        "name": "[CSC]OLR94",
+        "StmID": 76561198314583070,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "9trOG6yX_02HclA_[CSC]OLR94",
+      "time": 46.8472,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
