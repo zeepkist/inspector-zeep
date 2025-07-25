@@ -817,7 +817,7 @@
   },
   {
     "workshopPath": "downloads/3532278544",
-    "hash": "e5d0402c47326818002433844c6c8b176d1470fe06e456d7db89ea3920e152f2",
+    "hash": "0623e1c957a396da06b0b26a5c52d3edbc2af9e3251c8e429c22ca8e04ef8837",
     "level": {
       "name": "ZSL - Day at the Yacht Club",
       "path": "downloads/3532278544/ZSL - Day at the Yacht Club/ZSL - Day at the Yacht Club.zeeplevel",
@@ -828,8 +828,8 @@
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "O4wnSnq4MUqOpyT_CantFindTheSky",
-      "time": 41.537674,
+      "uuid": "15EinlHqXEuY3j1_CantFindTheSky",
+      "time": 40.6747055,
       "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 0
