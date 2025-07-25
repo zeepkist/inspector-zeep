@@ -935,5 +935,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3534040890",
+    "hash": "217606dee037d0aadfe64b0faed8eeed2a6e13ba2ab130350131b8cf448ffae5",
+    "level": {
+      "name": "ZSL- Buried Memories",
+      "path": "downloads/3534040890/ZSL- Buried Memories/ZSL- Buried Memories.zeeplevel",
+      "blocks": 1968,
+      "author": {
+        "name": "DragonShadow84290",
+        "StmID": 76561198070406020,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "842JEU51GEWM2ZH_[TTR]DragonShadow84290",
+      "time": 54.6164131,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
