@@ -995,5 +995,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3534453714",
+    "hash": "a82a27b8374ace2175ea60979597f383c3880c701651986caf78509d895526d7",
+    "level": {
+      "name": "ZSL - Darude's Desert Descent",
+      "path": "downloads/3534453714/ZSL - Darude's Desert Descent/ZSL - Darude's Desert Descent.zeeplevel",
+      "blocks": 413,
+      "author": {
+        "name": "[CTR] PoopSheriff",
+        "StmID": 76561198871908510,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "UF6IsTH17kS7G8d_[CTR] PoopSheriff",
+      "time": 45.53585,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
