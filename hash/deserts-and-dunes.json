@@ -727,19 +727,19 @@
   },
   {
     "workshopPath": "downloads/3530859485",
-    "hash": "9fe649f9dc2f69c6ccb340891054e93bd110de4c34c69302e86edf6eb204d7ed",
+    "hash": "035d9fecd2912443e8f59d5c4d37748b94bfb6bfb939c9c8f6c3608c1ee1ff49",
     "level": {
       "name": "ZSL - Mirage",
       "path": "downloads/3530859485/ZSL - Mirage/ZSL - Mirage.zeeplevel",
-      "blocks": 897,
+      "blocks": 876,
       "author": {
         "name": "Kernkob",
         "StmID": 76561199024808940,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "p1QBpUbI0U6KqAr_Kernkob",
-      "time": 38.47086,
+      "uuid": "OBwdEjIk1Um8oXT_Kernkob",
+      "time": 35.52336,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 16
@@ -753,7 +753,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3531642198",
