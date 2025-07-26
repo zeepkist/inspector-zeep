@@ -1026,5 +1026,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3535126682",
+    "hash": "2f42c27ad24bb3b8c1891cc517a56198256a83b88d34ad69487dd2bef669287f",
+    "level": {
+      "name": "ZSL - Yellow Desert Scream",
+      "path": "downloads/3535126682/ZSL - Yellow Desert Scream/ZSL - Yellow Desert Scream.zeeplevel",
+      "blocks": 537,
+      "author": {
+        "name": "groovy",
+        "StmID": 76561199282497310,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "laWRgx2TEUmjzZY_groovy",
+      "time": 59.5263939,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
