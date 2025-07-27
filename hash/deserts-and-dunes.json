@@ -1177,5 +1177,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3535982804",
+    "hash": "8719fc439793af12780b8fa8810336a5907887bf37b8d46f6a76f70bf5bd1a41",
+    "level": {
+      "name": "ZSL - Aiadest",
+      "path": "downloads/3535982804/ZSL - Aiadest/ZSL - Aiadest.zeeplevel",
+      "blocks": 1037,
+      "author": {
+        "name": "zivecef",
+        "StmID": 76561198965056660,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "CcXkCYUJ00OdMcw_zivecef",
+      "time": 44.3765526,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
