@@ -1146,5 +1146,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3535831640",
+    "hash": "3e9804133703fd523104842539c75427528e258716299927cbb4142d1a7ea6e0",
+    "level": {
+      "name": "ZSL - Aliens Ate My Papyrus ",
+      "path": "downloads/3535831640/ZSL - Aliens Ate My Papyrus/ZSL - Aliens Ate My Papyrus .zeeplevel",
+      "blocks": 2786,
+      "author": {
+        "name": "[GANS] Not That Guy",
+        "StmID": 76561198081686670,
+        "collaborators": "Diabler",
+        "nameOverride": ""
+      },
+      "uuid": "0CbVZncoukKZuqd_[GANS] Not That Guy",
+      "time": 47.2215042,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
