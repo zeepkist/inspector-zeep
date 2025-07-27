@@ -1207,5 +1207,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3536006825",
+    "hash": "1cb0a4cdbd779ce3fce22d237f27490353d3a65141ca41c49a76015859856608",
+    "level": {
+      "name": "ZSL - Humphrey's Oasis",
+      "path": "downloads/3536006825/ZSL - Humphrey's Oasis/ZSL - Humphrey's Oasis.zeeplevel",
+      "blocks": 723,
+      "author": {
+        "name": "DeeDeeNaNaNa",
+        "StmID": 76561198314320060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "HFDyRbO3U0WeS8u_[CSC] DeeDeeNaNaNa",
+      "time": 41.2925873,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
