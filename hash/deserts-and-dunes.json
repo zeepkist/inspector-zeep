@@ -969,19 +969,19 @@
   },
   {
     "workshopPath": "downloads/3533650295",
-    "hash": "97d6929b474d4cd12fb548584579ce061469c005eedf329769d26f902d7e3ab0",
+    "hash": "74a8819a53cf5a736065e054bc0f47869380313a5f00d77a152b6a1fde0aba13",
     "level": {
       "name": "ZSL - Toward the Oasis",
       "path": "downloads/3533650295/ZSL - Toward the Oasis/ZSL - Toward the Oasis.zeeplevel",
-      "blocks": 803,
+      "blocks": 817,
       "author": {
         "name": "Redstony",
         "StmID": 76561198430273420,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "1n_mEIuQkEi03CR_[TILT]Redstony",
-      "time": 38.74797,
+      "uuid": "S3JN7CXjYEi93UM_[TILT]Redstony",
+      "time": 45.8209953,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -995,7 +995,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3534453714",
