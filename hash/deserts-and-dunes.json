@@ -1116,5 +1116,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3535651761",
+    "hash": "96e9b4b8fe80c2ba14b14b643f5010a62c99f93d0ec6d0558fa72787ba5701f5",
+    "level": {
+      "name": "ZSL - Dunes",
+      "path": "downloads/3535651761/ZSL - Dunes/ZSL - Dunes.zeeplevel",
+      "blocks": 388,
+      "author": {
+        "name": "schmxrg",
+        "StmID": 76561198052077390,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "LW-uNu0BHUCirsN_schmxrg",
+      "time": 39.0599937,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
