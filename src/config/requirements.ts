@@ -1,6 +1,6 @@
-export const BLOCK_LIMIT = 4000 // 4000
+export const BLOCK_LIMIT = 3000 // 3000
 export const BLOCK_LIMIT_MIN = 0 // 0
-export const MINIMUM_TIME = 20 // seconds
+export const MINIMUM_TIME = 25 // seconds
 export const MAXIMUM_TIME = 60 // seconds
 export const MINIMUM_CHECKPOINTS = 3
 // eslint-disable-next-line @typescript-eslint/no-inferrable-types
