@@ -539,5 +539,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3568765463",
+    "hash": "e9f0537a15dd9df1a81e41f95dacc4dc16787f5dc6e8013b081926571d89565f",
+    "level": {
+      "name": "ZSL - Mrey Gap",
+      "path": "downloads/3568765463/ZSL - Mrey Gap/ZSL - Mrey Gap.zeeplevel",
+      "blocks": 231,
+      "author": {
+        "name": "ping",
+        "StmID": 76561199109206780,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "QcCqVCQdSUKW67j_[pong]ping",
+      "time": 40.10544,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
