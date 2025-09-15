@@ -31,7 +31,7 @@
   },
   {
     "workshopPath": "downloads/3565306030",
-    "hash": "a97f1cc9e05dca86f9372fd47fb73c50d3f3680d116a58393d916313da289a9c",
+    "hash": "f49ac8767355295cad27878e6e7263d9eb47ac439e37c4a3393244c2e362834c",
     "level": {
       "name": "ZSL - Zeepler's School of Wizardry",
       "path": "downloads/3565306030/ZSL - Zeepler's School of Wizardry/ZSL - Zeepler's School of Wizardry.zeeplevel",
@@ -42,8 +42,8 @@
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "XSmyHcYLekCDvQi_mori_cinis",
-      "time": 50.0917931,
+      "uuid": "IteOTZnnkUyLx5l_mori_cinis",
+      "time": 49.54088,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -57,7 +57,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3565070425",
