@@ -452,19 +452,19 @@
   },
   {
     "workshopPath": "downloads/3561899890",
-    "hash": "3f2c3e7ca78c8f8b1ac99361a6797ffba5567188dcd73edfb6abfde6426397a1",
+    "hash": "f286e00f1162ea8ca984765bee7744b74e33dbabbe086992414241d3bd8afed6",
     "level": {
       "name": "ZSL - Slime crevasse",
       "path": "downloads/3561899890/ZSL - Slime crevasse/ZSL - Slime crevasse.zeeplevel",
-      "blocks": 995,
+      "blocks": 998,
       "author": {
         "name": "[CSC]Tommygaming",
         "StmID": 76561199187327000,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "Dj6vk2S-MEWAimn_[CSC]Tommygaming",
-      "time": 44.6486435,
+      "uuid": "uuwdA9sbP0SoQH6_[CSC]Tommygaming",
+      "time": 44.5295868,
       "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -478,7 +478,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3561406572",
@@ -555,6 +556,36 @@
       },
       "uuid": "QcCqVCQdSUKW67j_[pong]ping",
       "time": 40.10544,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3568837686",
+    "hash": "3a6c82b6dbedeee2c3784464b15f2cc2f59754a88ba84493913eadbd1f2b64b2",
+    "level": {
+      "name": "ZSL - Mrey Gap",
+      "path": "downloads/3568837686/ZSL - Mrey Gap/ZSL - Mrey Gap.zeeplevel",
+      "blocks": 130,
+      "author": {
+        "name": "ping",
+        "StmID": 76561199109206780,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ZkzhlYvCd06VFKR_[pong]ping",
+      "time": 45.2131348,
       "checkpoints": 3,
       "changerGateModes": {},
       "logicBlocks": 0
