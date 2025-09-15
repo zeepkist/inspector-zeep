@@ -660,5 +660,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3568969570",
+    "hash": "be8fe528b8fcae84b4406fb99e495b4028a99a8b891c09582c91944d654a838f",
+    "level": {
+      "name": "ZSL - Zeepkist Mine",
+      "path": "downloads/3568969570/ZSL - Zeepkist Mine/ZSL - Zeepkist Mine.zeeplevel",
+      "blocks": 1263,
+      "author": {
+        "name": "GoBigGoHotWheels",
+        "StmID": 76561199756332060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Zdvngu_Fk0-7yFy_GoBigGoHotWheels",
+      "time": 57.9253769,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
