@@ -600,5 +600,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3568851632",
+    "hash": "12f8a73769c9009275169f8c64b7bb32262551e074c20c896bd9aedbaa327c48",
+    "level": {
+      "name": "ZSL - Restless",
+      "path": "downloads/3568851632/ZSL - Restless/ZSL - Restless.zeeplevel",
+      "blocks": 436,
+      "author": {
+        "name": "[Meow]RadAbsRad",
+        "StmID": 76561198840040580,
+        "collaborators": "",
+        "nameOverride": "RadAbsRad"
+      },
+      "uuid": "-bSk9xTMbU6jm0D_RadAbsRad",
+      "time": 47.40296,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
