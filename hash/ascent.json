@@ -690,5 +690,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3568985001",
+    "hash": "a947cf596b32466eaad4f63193abacf671ae991c437fbf00bf2f0f4d73cbb41b",
+    "level": {
+      "name": "ZSL - Monocromatic Ascent",
+      "path": "downloads/3568985001/ZSL - Monocromatic Ascent/ZSL - Monocromatic Ascent.zeeplevel",
+      "blocks": 57,
+      "author": {
+        "name": "Topgear266",
+        "StmID": 76561198311256180,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "wBDtrTIVV0KRi8g_Topgear266",
+      "time": 45.2052155,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
