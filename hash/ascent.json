@@ -362,20 +362,20 @@
   },
   {
     "workshopPath": "downloads/3562844330",
-    "hash": "9763e67258fe71f3ab8356d5f91de2134cb25a6e7ace8d3e0f7d0cda3de9dc31",
+    "hash": "7108635fac090b76893aad82f2d3e27048e13fe6a86d43c6a5c304958433960d",
     "level": {
       "name": "ZSL - Creature Cove",
       "path": "downloads/3562844330/ZSL - Creature Cove/ZSL - Creature Cove.zeeplevel",
-      "blocks": 511,
+      "blocks": 512,
       "author": {
         "name": "[CSC] variableferret",
         "StmID": 76561198157436740,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "SCIgYSi9B0G3U5Z_[CSC] variableferret",
+      "uuid": "y507w06k1USBb87_[CSC] variableferret",
       "time": 41.22578,
-      "checkpoints": 3,
+      "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
     },
@@ -388,7 +388,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3562261299",
