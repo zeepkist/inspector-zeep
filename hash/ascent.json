@@ -723,7 +723,7 @@
   },
   {
     "workshopPath": "downloads/3569061024",
-    "hash": "980a8dad67569b36e720034e0fc132fad9e2ed5aa9bd1b61648aade848d2339c",
+    "hash": "00a0522dbbcf5f59c6a5ee3a476a9ca48891c724153379de5713c6a54e8ed6fc",
     "level": {
       "name": "ZSL - Neon Highrise",
       "path": "downloads/3569061024/ZSL - Neon Highrise/ZSL - Neon Highrise.zeeplevel",
@@ -734,8 +734,8 @@
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "3CBRjXJMP0-eHf-_IronDragon111000",
-      "time": 47.80949,
+      "uuid": "NPeK68mxXEqOqbi_IronDragon111000",
+      "time": 47.2823143,
       "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -749,6 +749,7 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
