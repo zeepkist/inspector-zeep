@@ -752,5 +752,35 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "downloads/3570224014",
+    "hash": "c8150b4bfcf63820201aca2366eb5f35ef67b1b162a50e9bdc7c96aad10e54f0",
+    "level": {
+      "name": "ZSL - Mortascent",
+      "path": "downloads/3570224014/ZSL - Mortascent/ZSL - Mortascent.zeeplevel",
+      "blocks": 292,
+      "author": {
+        "name": "[CTR]Mortishade",
+        "StmID": 76561197991251760,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "HOdbAhP_xUumRsJ_[CTR]Mortishade",
+      "time": 52.4831619,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
