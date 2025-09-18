@@ -812,5 +812,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3570372017",
+    "hash": "46b335ac954450ef7f7c0a6ea026517928a5022e0e61219072ae6999be69371d",
+    "level": {
+      "name": "ZSL - Perch Point",
+      "path": "downloads/3570372017/ZSL - Perch Point/ZSL - Perch Point.zeeplevel",
+      "blocks": 120,
+      "author": {
+        "name": "imagineaclevernamehere",
+        "StmID": 76561198201628180,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Pkr5EV7Yt0iUk4i_imagineaclevernamehere",
+      "time": 36.88867,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
