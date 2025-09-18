@@ -755,22 +755,22 @@
   },
   {
     "workshopPath": "downloads/3570224014",
-    "hash": "c8150b4bfcf63820201aca2366eb5f35ef67b1b162a50e9bdc7c96aad10e54f0",
+    "hash": "5f3bd8b2572328fcb01983a2caa56e96b330d749b5eb71c5a1ab83f47672b9e3",
     "level": {
       "name": "ZSL - Mortascent",
       "path": "downloads/3570224014/ZSL - Mortascent/ZSL - Mortascent.zeeplevel",
-      "blocks": 292,
+      "blocks": 303,
       "author": {
         "name": "[CTR]Mortishade",
         "StmID": 76561197991251760,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "HOdbAhP_xUumRsJ_[CTR]Mortishade",
-      "time": 52.4831619,
+      "uuid": "wi4xgvy6Y0GwrNb_[CTR]Mortishade",
+      "time": 51.6636543,
       "checkpoints": 7,
       "changerGateModes": {},
-      "logicBlocks": 0
+      "logicBlocks": 1
     },
     "isValid": true,
     "validity": {
@@ -781,7 +781,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3570295559",
