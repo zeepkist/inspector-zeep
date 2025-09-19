@@ -31,19 +31,19 @@
   },
   {
     "workshopPath": "downloads/3565306030",
-    "hash": "f49ac8767355295cad27878e6e7263d9eb47ac439e37c4a3393244c2e362834c",
+    "hash": "a78e97d3e8d8187b5b8136cf36572ac6702e475c1fa7c723db75e4c9cafda3e7",
     "level": {
       "name": "ZSL - Zeepler's School of Wizardry",
       "path": "downloads/3565306030/ZSL - Zeepler's School of Wizardry/ZSL - Zeepler's School of Wizardry.zeeplevel",
-      "blocks": 2998,
+      "blocks": 2997,
       "author": {
         "name": "mori_cinis",
         "StmID": 76561198158497200,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "IteOTZnnkUyLx5l_mori_cinis",
-      "time": 49.54088,
+      "uuid": "1CW7SAKckkeM29b_mori_cinis",
+      "time": 48.84896,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
