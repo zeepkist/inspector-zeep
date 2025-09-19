@@ -963,5 +963,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3571073965",
+    "hash": "3b326039732e984b8cd59b32495f543569183e5c81ad014e0857355f068943b7",
+    "level": {
+      "name": "zsl ascension",
+      "path": "downloads/3571073965/zsl ascension/zsl ascension.zeeplevel",
+      "blocks": 2712,
+      "author": {
+        "name": "[MIG1] vortex",
+        "StmID": 76561199002720580,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "2R-UP2T3Qk6Zuqa_[MIG1] vortex",
+      "time": 44.4633255,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
