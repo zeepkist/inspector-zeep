@@ -873,5 +873,95 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3570559729",
+    "hash": "f8a9163d5c14dbe25ddecde0974f21efcddac7f714c0785348ee8fa41ccfeb04",
+    "level": {
+      "name": "ZSL - Emerald Archipelago",
+      "path": "downloads/3570559729/ZSL - Emerald Archipelago/ZSL - Emerald Archipelago.zeeplevel",
+      "blocks": 1364,
+      "author": {
+        "name": "[ZET]Ploddip",
+        "StmID": 76561199378866300,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "WUwTzCmCckuoHM5_[ZET]Ploddip",
+      "time": 45.72372,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3570514626",
+    "hash": "c479131572018824351a80d4020824c6b7492c3d7bd6e2c3315a73b65c72bd5f",
+    "level": {
+      "name": "ZSL - Ascension to Heaven",
+      "path": "downloads/3570514626/ZSL - Ascension to Heaven/ZSL - Ascension to Heaven.zeeplevel",
+      "blocks": 75,
+      "author": {
+        "name": "[KRL]Xexend",
+        "StmID": 76561199651799020,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "oRv50XtuJUiziMz_[KRL]Xexend",
+      "time": 52.3134232,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3571008430",
+    "hash": "3ac87477a944eebaaff228dbefde054eed10ad768b84191d319865edeffd083a",
+    "level": {
+      "name": "ZSL - Climb up this mountain",
+      "path": "downloads/3571008430/ZSL - Climb up this mountain/ZSL - Climb up this mountain.zeeplevel",
+      "blocks": 402,
+      "author": {
+        "name": "Mima01a",
+        "StmID": 76561199347921780,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "gsGlr_hoL0mjnzN_Mima01a",
+      "time": 55.63027,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
