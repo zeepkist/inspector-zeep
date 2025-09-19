@@ -843,5 +843,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3570805996",
+    "hash": "6ba445b5a4061b8d11502528b5353b0cd1a0a285083b141919cbc0a913d78411",
+    "level": {
+      "name": "ZSL - The High Ground",
+      "path": "downloads/3570805996/ZSL - The High Ground/ZSL - The High Ground.zeeplevel",
+      "blocks": 2246,
+      "author": {
+        "name": "[TOG]ioi8",
+        "StmID": 76561198013828580,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ip7B8BnaIEyp2mP_[TOG]ioi8",
+      "time": 45.67826,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 79
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
