@@ -1053,5 +1053,65 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3571808518",
+    "hash": "3588e5462806bc474eff79ec652a45a486f3dfbee0dcce90fcd495a0df43ac89",
+    "level": {
+      "name": "ZSL- Dragon Ascent Island V2",
+      "path": "downloads/3571808518/ZSL- Dragon Ascent Island V2/ZSL- Dragon Ascent Island V2.zeeplevel",
+      "blocks": 1090,
+      "author": {
+        "name": "[TTR]DragonShadow84290",
+        "StmID": 76561198070406020,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "kZTQiBxa7kqNmI5_[TTR]DragonShadow84290",
+      "time": 48.6885071,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3571800597",
+    "hash": "731337d395a3bcafde0eb7214d302466c90960e0eeaefb7237562b2cb6e06f0d",
+    "level": {
+      "name": "ZSL - Space Cadet",
+      "path": "downloads/3571800597/ZSL - Space Cadet/ZSL - Space Cadet.zeeplevel",
+      "blocks": 2018,
+      "author": {
+        "name": "Diabler",
+        "StmID": 76561197989028540,
+        "collaborators": "Metalted",
+        "nameOverride": ""
+      },
+      "uuid": "ivnnOMtWi068Jrl_Diabler",
+      "time": 57.188942,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 41
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
