@@ -1023,5 +1023,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3571729208",
+    "hash": "114346b9d3033dea0b3017ebcc3f4e9b138f5272a69ce50360c9cce1f421c936",
+    "level": {
+      "name": "ZSL - Uppies Please",
+      "path": "downloads/3571729208/ZSL - Uppies Please/ZSL - Uppies Please.zeeplevel",
+      "blocks": 1234,
+      "author": {
+        "name": "ZOMAN",
+        "StmID": 76561199126724670,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "sBwZXJG-gESbDkg_ZOMAN",
+      "time": 35.8254128,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
