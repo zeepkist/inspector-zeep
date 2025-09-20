@@ -993,5 +993,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3571219010",
+    "hash": "67b1042e1a9781d9c33ddda25e4f53d9b3f7662e490677d88c3f3ad9cae6f50b",
+    "level": {
+      "name": "ZSL- Dragon Ascent Island V2",
+      "path": "downloads/3571219010/ZSL- Dragon Ascent Island V2/ZSL- Dragon Ascent Island V2.zeeplevel",
+      "blocks": 1087,
+      "author": {
+        "name": "[TTR]DragonShadow84290",
+        "StmID": 76561198070406020,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Lf_CUsCGXkuM975_[TTR]DragonShadow84290",
+      "time": 48.350132,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
