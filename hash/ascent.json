@@ -1113,5 +1113,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3571957396",
+    "hash": "d618631a21220f55d78c6212a9c29eb59c0b42b8b696f59b3af2ddd04be5bd70",
+    "level": {
+      "name": "ZSL - BMX descent",
+      "path": "downloads/3571957396/ZSL - BMX descent/ZSL - BMX descent.zeeplevel",
+      "blocks": 636,
+      "author": {
+        "name": "[Err]ferinine",
+        "StmID": 76561198093513150,
+        "collaborators": "CantFindTheSky",
+        "nameOverride": ""
+      },
+      "uuid": "JweaHdoMBUOPN8L_[CSC]CantFindTheSky",
+      "time": 40.1346436,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
