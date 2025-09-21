@@ -1173,5 +1173,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3572114658",
+    "hash": "0a8567620dd1d1b3e46ebbd944b2dfc52866e3c03d46479b0deea8b5a1dcbfbb",
+    "level": {
+      "name": "ZSL - Uptwist and uproot",
+      "path": "downloads/3572114658/ZSL - Uptwist and uproot/ZSL - Uptwist and uproot.zeeplevel",
+      "blocks": 219,
+      "author": {
+        "name": "[OCTO]Tetro the octo",
+        "StmID": 76561199806838050,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "oo0vsmuCqUSTmxp_[OCTO]Tetro the octo",
+      "time": 47.6254654,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
