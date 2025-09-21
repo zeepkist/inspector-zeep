@@ -1234,5 +1234,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3572345456",
+    "hash": "b5ab32ae348483a4f69e1a6e90d11298e3463bf4eb790f6d65ea793795752305",
+    "level": {
+      "name": "ZSL - Shore",
+      "path": "downloads/3572345456/ZSL - Shore/ZSL - Shore.zeeplevel",
+      "blocks": 995,
+      "author": {
+        "name": "justMaki",
+        "StmID": 76561198050792750,
+        "collaborators": "St. Nicholas",
+        "nameOverride": ""
+      },
+      "uuid": "d0gOrCz8Fkyhs8T_justMaki",
+      "time": 42.60502,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
