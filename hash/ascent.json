@@ -1264,5 +1264,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3572367464",
+    "hash": "391b48c75049b00b4b719a79c3b28e044140034d98d9cdc78cc7543d6c42773d",
+    "level": {
+      "name": "ZSL - Up Wind",
+      "path": "downloads/3572367464/ZSL - Up Wind/ZSL - Up Wind.zeeplevel",
+      "blocks": 272,
+      "author": {
+        "name": "[CSC] DeeDeeNaNaNa",
+        "StmID": 76561198314320060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "PhEHXj1e-EOJJuE_[CSC] DeeDeeNaNaNa",
+      "time": 44.49859,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
