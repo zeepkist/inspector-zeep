@@ -1143,5 +1143,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3571994165",
+    "hash": "7abdbb6711691c92abe2e42685b4effb6bb6455101b8942c51cc728d36e85558",
+    "level": {
+      "name": "ZSL - Lifting Winds",
+      "path": "downloads/3571994165/ZSL - Lifting Winds/ZSL - Lifting Winds.zeeplevel",
+      "blocks": 1914,
+      "author": {
+        "name": "r3mx4u",
+        "StmID": 76561199629269680,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ay_J9_YRUk2ZHj3_r3mx4u",
+      "time": 52.083477,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
