@@ -1203,5 +1203,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3572150204",
+    "hash": "e3ba889ffd2e1f97e26ac528772fbf25ee80310727ccfb60c48bc0f7c7921307",
+    "level": {
+      "name": "ZSL - A Snowball's Chance",
+      "path": "downloads/3572150204/ZSL - A Snowball's Chance/ZSL - A Snowball's Chance.zeeplevel",
+      "blocks": 2076,
+      "author": {
+        "name": "Hellmet",
+        "StmID": 76561198093160300,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "NueqK1EASUm86s-_Hellmet",
+      "time": 54.02409,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 93
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
