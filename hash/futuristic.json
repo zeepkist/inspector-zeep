@@ -29,5 +29,35 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "downloads/3577147016",
+    "hash": "c4bd0e43bfe0c785f52632d9ede7cf2da3d47de37233381d1b640e47677bbf3d",
+    "level": {
+      "name": "ZSL - Visiting a city form the future",
+      "path": "downloads/3577147016/ZSL - Visiting a city form the future/ZSL - Visiting a city form the future.zeeplevel",
+      "blocks": 246,
+      "author": {
+        "name": "Mima01a",
+        "StmID": 76561199347921780,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "bGXy_ctU_k-_0mH_Mima01a",
+      "time": 46.60373,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
