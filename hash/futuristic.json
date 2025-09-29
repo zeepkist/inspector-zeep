@@ -1,19 +1,19 @@
 [
   {
     "workshopPath": "downloads/3576607301",
-    "hash": "275e777626c68ce539aa195b1d7ece2939970552fa457faf8c362a8c248b287f",
+    "hash": "19323a5ad22cd64e076506539eb8e341b46f64fd0f1cd3490a0c343b1c5b8db9",
     "level": {
-      "name": "ZSL - Futurum",
-      "path": "downloads/3576607301/ZSL - Futurum/ZSL - Futurum.zeeplevel",
-      "blocks": 2309,
+      "name": "ZSL - Futurum 1,1",
+      "path": "downloads/3576607301/ZSL - Futurum 1,1/ZSL - Futurum 1,1.zeeplevel",
+      "blocks": 2314,
       "author": {
         "name": "[20X]K410K3N",
         "StmID": 76561198083300340,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "0DmwkD0iOUeKPCd_[20X]K410K3N",
-      "time": 42.52664,
+      "uuid": "bMOG2s9j4U-x3p0_[20X]K410K3N",
+      "time": 43.38021,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -27,6 +27,7 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
