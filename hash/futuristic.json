@@ -59,5 +59,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3579953460",
+    "hash": "3022c16697ae297d3eb5bfe43932e051a1a7bb3d1f43e822002dd97d0f062f12",
+    "level": {
+      "name": "ZSL - Solarpunk Stroll",
+      "path": "downloads/3579953460/ZSL - Solarpunk Stroll/ZSL - Solarpunk Stroll.zeeplevel",
+      "blocks": 2828,
+      "author": {
+        "name": "mori_cinis",
+        "StmID": 76561198158497200,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "GJk9pduHSEO5Wfp_mori_cinis",
+      "time": 44.5987244,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
