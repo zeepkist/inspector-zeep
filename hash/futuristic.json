@@ -119,5 +119,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3580973192",
+    "hash": "c8054a7895c8d20b6077bdee2f84a510d0987709bdf35230ae2142909602ec09",
+    "level": {
+      "name": "ZSL - Oppidum Cyberneticum",
+      "path": "downloads/3580973192/ZSL - Oppidum Cyberneticum/ZSL - Oppidum Cyberneticum.zeeplevel",
+      "blocks": 99,
+      "author": {
+        "name": "[TTR] Tigerplaysonpc",
+        "StmID": 76561199583579400,
+        "collaborators": "sf.is.a.bbt",
+        "nameOverride": ""
+      },
+      "uuid": "ecsLuuMUYkSozEQ_[TTR] Tigerplaysonpc",
+      "time": 45.047142,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
