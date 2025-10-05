@@ -149,5 +149,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3581075580",
+    "hash": "58ea7bf26506aea8a4571ed0bc3efc7c4cf803fff2ee61ed47dd97e5f3aea1c1",
+    "level": {
+      "name": "ZSL - Orbit Shopping District",
+      "path": "downloads/3581075580/ZSL - Orbit Shopping District/ZSL - Orbit Shopping District.zeeplevel",
+      "blocks": 2048,
+      "author": {
+        "name": "[CSC] Shadynook",
+        "StmID": 76561197980151170,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "YJ9_I9Xw6k2SDUw_[CSC] Shadynook",
+      "time": 40.38097,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
