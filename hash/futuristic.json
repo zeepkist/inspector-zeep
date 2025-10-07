@@ -212,19 +212,19 @@
   },
   {
     "workshopPath": "downloads/3582077581",
-    "hash": "c46fc405e253dd60f6a9a42c95827d4e2eadd98337bc5805af51b2b4b6fe2157",
+    "hash": "747ec18c986bc340fe55d169b451549fd026c5ad4bee95bdc1c5151910e2cc83",
     "level": {
       "name": "ZSL - Futureshade",
       "path": "downloads/3582077581/ZSL - Futureshade/ZSL - Futureshade.zeeplevel",
-      "blocks": 1236,
+      "blocks": 1254,
       "author": {
         "name": "[CTR]Mortishade",
         "StmID": 76561197991251760,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "w-I0y2hi9U-Bt5X_[CTR]Mortishade",
-      "time": 43.6672859,
+      "uuid": "HaMWJzF_ekyvRjC_[CTR]Mortishade",
+      "time": 43.3891373,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -238,6 +238,7 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
