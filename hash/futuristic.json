@@ -240,5 +240,35 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "downloads/3583086066",
+    "hash": "d40daeb413f85f9056f21062f0ba49157b727e1df793c2246c37c50b7a5f0040",
+    "level": {
+      "name": "ZSL - Otherworldly",
+      "path": "downloads/3583086066/ZSL - Otherworldly/ZSL - Otherworldly.zeeplevel",
+      "blocks": 2998,
+      "author": {
+        "name": "[CSC] redal",
+        "StmID": 76561198181691230,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "-KoXhPY6mEK3DyV_[CSC] redal",
+      "time": 36.3160973,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
