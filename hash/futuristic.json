@@ -270,5 +270,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3583867663",
+    "hash": "4535c6a24122fa7d4801ac69ae4cc99131c107cbee610a4d557c823474306ba1",
+    "level": {
+      "name": "ZSL - EZ-07",
+      "path": "downloads/3583867663/ZSL - EZ-07/ZSL - EZ-07.zeeplevel",
+      "blocks": 396,
+      "author": {
+        "name": "[CSC] DeeDeeNaNaNa",
+        "StmID": 76561198314320060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "u9_g3QE4QEqw1Q2_[CSC] DeeDeeNaNaNa",
+      "time": 46.830204,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
