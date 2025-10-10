@@ -152,7 +152,7 @@
   },
   {
     "workshopPath": "downloads/3581075580",
-    "hash": "58ea7bf26506aea8a4571ed0bc3efc7c4cf803fff2ee61ed47dd97e5f3aea1c1",
+    "hash": "87f26ba3b9394413ef9beccfebccbd7b11a0a019dbf524c87d1e9c8cfb33685a",
     "level": {
       "name": "ZSL - Orbit Shopping District",
       "path": "downloads/3581075580/ZSL - Orbit Shopping District/ZSL - Orbit Shopping District.zeeplevel",
@@ -163,8 +163,8 @@
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "YJ9_I9Xw6k2SDUw_[CSC] Shadynook",
-      "time": 40.38097,
+      "uuid": "Dw2_u9hZikWLhU-_[CSC] Shadynook",
+      "time": 40.35757,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -178,7 +178,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3581804758",
@@ -287,6 +288,36 @@
       "uuid": "u9_g3QE4QEqw1Q2_[CSC] DeeDeeNaNaNa",
       "time": 46.830204,
       "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3583935919",
+    "hash": "c548c2b4b8e4c55c093705652f8feac1b677e3232bfb29bf31aad2e140ad653b",
+    "level": {
+      "name": "ZSL - 3025",
+      "path": "downloads/3583935919/ZSL - 3025/ZSL - 3025.zeeplevel",
+      "blocks": 591,
+      "author": {
+        "name": "[CSC] variableferret",
+        "StmID": 76561198157436740,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "eRwH-WGvRUWgTfp_[CSC] variableferret",
+      "time": 43.6896667,
+      "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
     },
