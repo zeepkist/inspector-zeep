@@ -331,5 +331,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3583968393",
+    "hash": "4fe6264b8e3e415664d055b93f96b6b7f0131b021a1a397ccd068cff3c3c10b6",
+    "level": {
+      "name": "ZSL - Attack Of The Omicronians",
+      "path": "downloads/3583968393/ZSL - Attack Of The Omicronians/ZSL - Attack Of The Omicronians.zeeplevel",
+      "blocks": 2600,
+      "author": {
+        "name": "[CRT]Codewalt",
+        "StmID": 76561198262438670,
+        "collaborators": "ioi8",
+        "nameOverride": "Codewalt X ioi8"
+      },
+      "uuid": "AeN3gDCrLU61QZu_[CRT]Codewalt",
+      "time": 39.8711548,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 43
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
