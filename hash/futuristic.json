@@ -361,5 +361,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3584861959",
+    "hash": "c015cac52871343ccfef780c8ed45b94c2dcb5101ac03bffd5f9336684335fd6",
+    "level": {
+      "name": "ZSL - Oceanview Point",
+      "path": "downloads/3584861959/ZSL - Oceanview Point/ZSL - Oceanview Point.zeeplevel",
+      "blocks": 660,
+      "author": {
+        "name": "WotterBytes",
+        "StmID": 76561198031026580,
+        "collaborators": "",
+        "nameOverride": "WotterBytes (Aurora)"
+      },
+      "uuid": "EsJIYVoUokCwzre_WotterBytes",
+      "time": 40.6240158,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
