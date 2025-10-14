@@ -422,5 +422,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3587121230",
+    "hash": "b5ffa38abf11682f5db1687d5a2d1edd216c8a37ea39184c241267ca45db2090",
+    "level": {
+      "name": "ZSL - Back To The Drift",
+      "path": "downloads/3587121230/ZSL - Back To The Drift/ZSL - Back To The Drift.zeeplevel",
+      "blocks": 2999,
+      "author": {
+        "name": "Diabler",
+        "StmID": 76561197989028540,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "bObM9mxBc064-xh_Diabler",
+      "time": 36.59707,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 21
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
