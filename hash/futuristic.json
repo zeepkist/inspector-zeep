@@ -452,5 +452,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3587945199",
+    "hash": "4ad8e1fcbc4140c9697ffddd6ae84372cb60ad8dcfedde041138ec513c2e2fec",
+    "level": {
+      "name": "ZSL - Blue Haze Industries",
+      "path": "downloads/3587945199/ZSL - Blue Haze Industries/ZSL - Blue Haze Industries.zeeplevel",
+      "blocks": 2371,
+      "author": {
+        "name": "[TOG]Lazy_Echidna",
+        "StmID": 76561198008859140,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "P_lVZkY6Gku4WAg_[TOG]Lazy_Echidna",
+      "time": 48.49919,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 7
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
