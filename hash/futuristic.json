@@ -482,5 +482,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3588925734",
+    "hash": "37e1ba66dff9bfd7ce4c01c7bc3b698e4c4791167d596d85fc77ad968ec18957",
+    "level": {
+      "name": "ZSL - Retro Future Metro",
+      "path": "downloads/3588925734/ZSL - Retro Future Metro/ZSL - Retro Future Metro.zeeplevel",
+      "blocks": 868,
+      "author": {
+        "name": "groovy",
+        "StmID": 76561199282497310,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "-MipgEaOo0GdHRP_groovy",
+      "time": 57.8640175,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
