@@ -542,5 +542,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3588294857",
+    "hash": "c30f728f00c934a61e4168f1acb33482fcfa16a997554345e33da047cf37bc81",
+    "level": {
+      "name": "ZSL - Cyber Capital",
+      "path": "downloads/3588294857/ZSL - Cyber Capital/ZSL - Cyber Capital.zeeplevel",
+      "blocks": 873,
+      "author": {
+        "name": "[ZET]Ploddip",
+        "StmID": 76561199378866300,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ahQzreF0bECqfPz_[ZET]Ploddip",
+      "time": 43.84013,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
