@@ -512,5 +512,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3589075397",
+    "hash": "2db0939be30fd74642f5c3df43b440c2077e2502d356769d0e895d5fd7518e9f",
+    "level": {
+      "name": "ZSL - Aftermath",
+      "path": "downloads/3589075397/ZSL - Aftermath/ZSL - Aftermath.zeeplevel",
+      "blocks": 958,
+      "author": {
+        "name": "RadAbsRad",
+        "StmID": 76561198851912260,
+        "collaborators": "",
+        "nameOverride": "RadAbsRad & Lexer"
+      },
+      "uuid": "m5hQn7PirEyNthV_Lexer",
+      "time": 41.49851,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
