@@ -605,18 +605,18 @@
   },
   {
     "workshopPath": "downloads/3589212610",
-    "hash": "2a06646f84e78faf193f696adeefbca82a0a246af6042c9547afa3daa156ae66",
+    "hash": "fe92bc2b9d85829f2eca65f1964c4bb1815ee52daf835cd1fc54917f3d6d8bc3",
     "level": {
       "name": "ZSL - Mine An Arsenal",
       "path": "downloads/3589212610/ZSL - Mine An Arsenal/ZSL - Mine An Arsenal.zeeplevel",
-      "blocks": 1727,
+      "blocks": 1732,
       "author": {
         "name": "[CSC]CantFindTheSky",
         "StmID": 76561198093513150,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "ZcRYcHaxCUq9EHb_[CSC]CantFindTheSky",
+      "uuid": "NuA6kEBpk0-UT7w_[CSC]CantFindTheSky",
       "time": 44.34741,
       "checkpoints": 5,
       "changerGateModes": {},
@@ -631,7 +631,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3589546608",
