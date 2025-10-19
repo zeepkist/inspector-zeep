@@ -753,5 +753,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3587955442",
+    "hash": "29427527a88f8fc58459f7496bcdf3d1a03597f6002380d77bb6052ff8a51002",
+    "level": {
+      "name": "ZSL - Azure",
+      "path": "downloads/3587955442/ZSL - Azure/ZSL - Azure.zeeplevel",
+      "blocks": 436,
+      "author": {
+        "name": "Northwind",
+        "StmID": 76561198160605000,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "oMhuUVNNu0aFCqM_Northwind",
+      "time": 54.9326324,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
