@@ -693,5 +693,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3589851944",
+    "hash": "d258aa737b5b88831cee4f95a0584a885b3353c22fa7411fb8165d83c279550e",
+    "level": {
+      "name": "ZSL - Blaklime City",
+      "path": "downloads/3589851944/ZSL - Blaklime City/ZSL - Blaklime City.zeeplevel",
+      "blocks": 653,
+      "author": {
+        "name": "[CSC]Mokster",
+        "StmID": 76561197979087520,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "vBy0DvfSq0axS0Y_[CSC]Mokster",
+      "time": 41.11236,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
