@@ -813,5 +813,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3590007681",
+    "hash": "4a2165f077b3b8f221415ff42b92cac244280be5e4985f1aaf688c159c80a98b",
+    "level": {
+      "name": "ZSL - ZK-129",
+      "path": "downloads/3590007681/ZSL - ZK-129/ZSL - ZK-129.zeeplevel",
+      "blocks": 2537,
+      "author": {
+        "name": "zivecef",
+        "StmID": 76561198041494030,
+        "collaborators": "[CTR]Mμ",
+        "nameOverride": ""
+      },
+      "uuid": "rDfajBw2gUKwGma_[CTR]Mμ",
+      "time": 58.56129,
+      "checkpoints": 13,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
