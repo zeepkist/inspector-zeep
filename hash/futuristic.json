@@ -783,5 +783,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3589949156",
+    "hash": "c50023b7ac9d57139e88dd9d120826f763cd84db88e89ea5f65b5fa6969175c2",
+    "level": {
+      "name": "ZSL - Relay",
+      "path": "downloads/3589949156/ZSL - Relay/ZSL - Relay.zeeplevel",
+      "blocks": 2216,
+      "author": {
+        "name": "justMaki",
+        "StmID": 76561198050792750,
+        "collaborators": "Tommygaming",
+        "nameOverride": ""
+      },
+      "uuid": "asgvD9meqEaHXVi_justMaki",
+      "time": 42.5734673,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
