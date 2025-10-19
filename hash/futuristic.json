@@ -723,5 +723,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3589898635",
+    "hash": "65690afe34ea7254ed478dd0dcaa682b647b8b99ba2e6af3699e291d6628093f",
+    "level": {
+      "name": "ZSL - A glimpse of whats to come",
+      "path": "downloads/3589898635/ZSL - A glimpse of whats to come/ZSL - A glimpse of whats to come.zeeplevel",
+      "blocks": 2979,
+      "author": {
+        "name": "[KURK] Quickracer10",
+        "StmID": 76561198149636590,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "0qLSvt4ZRUyIC-g_[KURK] Quickracer10",
+      "time": 40.3068848,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
