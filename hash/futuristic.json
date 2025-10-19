@@ -663,5 +663,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3589808046",
+    "hash": "ba6f9b4f06afeebcf001be79a1811dfef0298758d552d002c699eeda9ddedf58",
+    "level": {
+      "name": "ZSL - Unidentified Floating Objects",
+      "path": "downloads/3589808046/ZSL - Unidentified Floating Objects/ZSL - Unidentified Floating Objects.zeeplevel",
+      "blocks": 246,
+      "author": {
+        "name": "OgelGames",
+        "StmID": 76561198934033800,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "yQzJnzr7sUuPcFI_OgelGames",
+      "time": 46.65929,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
