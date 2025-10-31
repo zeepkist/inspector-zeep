@@ -1,18 +1,18 @@
 [
   {
     "workshopPath": "downloads/3596665887",
-    "hash": "89e77e385589da181e0df02ac45f9d1057d175b1112f2d9530858c5f820d19b2",
+    "hash": "e7c4e52a2e75c643a56e600d2d0170ddea083c3754c035c797c3ecf5d410082f",
     "level": {
       "name": "ZSL - FormulA-12",
       "path": "downloads/3596665887/ZSL - FormulA-12/ZSL - FormulA-12.zeeplevel",
       "blocks": 1227,
       "author": {
-        "name": "PlayerName",
+        "name": "CantFindTheSky",
         "StmID": 76561198093513150,
         "collaborators": "",
         "nameOverride": "CantFindTheSky"
       },
-      "uuid": "bTiyUaoMBka_2Ei_[CSC]CantFindTheSky",
+      "uuid": "BrSPq-Pinky7-Pa_[CSC]CantFindTheSky",
       "time": 45.3920479,
       "checkpoints": 6,
       "changerGateModes": {},
@@ -27,7 +27,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3596524110",
@@ -466,6 +467,36 @@
       "uuid": "NpeBfKNYjkemLAX_[TOG]Lazy_Echidna",
       "time": 51.3377762,
       "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3596776428",
+    "hash": "d67af2e99ba650c0aa95f7dba87b001d6ff8262e77cc8ecc6cbda61de12f0d67",
+    "level": {
+      "name": "Dg-A-01-Cavernous",
+      "path": "downloads/3596776428/Dg-A-01-Cavernous/Dg-A-01-Cavernous.zeeplevel",
+      "blocks": 864,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561199481595550,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "PVzPt4irxUCRoPr_[T-T] DgGamez",
+      "time": 41.48313,
+      "checkpoints": 3,
       "changerGateModes": {},
       "logicBlocks": 0
     },
