@@ -62,10 +62,10 @@
   },
   {
     "workshopPath": "downloads/3596456065",
-    "hash": "58d9d0bb4589866ba8b9c9686058adb39850e6ea018bcae48e59aadfacc27bc4",
+    "hash": "d17aa7c359fbd8e35129a28188ab7b821da77b8eb21fb7de2dd6acfd250bdab4",
     "level": {
-      "name": "ZSL - level machine broke",
-      "path": "downloads/3596456065/ZSL - level machine broke/ZSL - level machine broke.zeeplevel",
+      "name": "ZSL - The A-05 level machine broke",
+      "path": "downloads/3596456065/ZSL - The A-05 level machine broke/ZSL - The A-05 level machine broke.zeeplevel",
       "blocks": 314,
       "author": {
         "name": "PlayerName",
@@ -73,8 +73,8 @@
         "collaborators": "",
         "nameOverride": "Tetro the octo"
       },
-      "uuid": "YewlcziIH0inZv1_[OCTO]Tetro the octo",
-      "time": 36.9115,
+      "uuid": "guk9SBDJhk2x3s4_[OCTO]Tetro the octo",
+      "time": 36.70582,
       "checkpoints": 3,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -88,7 +88,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3596351960",
