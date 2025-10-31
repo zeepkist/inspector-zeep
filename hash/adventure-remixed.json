@@ -511,5 +511,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3596896970",
+    "hash": "44069f5c53769aea618e1569edc6c5fa15dcfb68359699fa48a898b217215fd8",
+    "level": {
+      "name": "ZSL - EuropA-12XXX",
+      "path": "downloads/3596896970/ZSL - EuropA-12XXX/ZSL - EuropA-12XXX.zeeplevel",
+      "blocks": 687,
+      "author": {
+        "name": "Diabler",
+        "StmID": 76561197989028540,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "pgxB2WIotkCAXb0_Diabler",
+      "time": 39.8094826,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 28
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
