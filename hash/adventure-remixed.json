@@ -571,5 +571,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3597056287",
+    "hash": "0c5761d722c12e3b3de372cf43d1032e419473f92acb44e027f791f86ef4d8fc",
+    "level": {
+      "name": "ZSL - Advencher Mode 03",
+      "path": "downloads/3597056287/ZSL - Advencher Mode 03/ZSL - Advencher Mode 03.zeeplevel",
+      "blocks": 150,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198169339330,
+        "collaborators": "",
+        "nameOverride": "[CTR]Lamp"
+      },
+      "uuid": "-6cTfubmhk6UDZl_[CTR]Lamp",
+      "time": 49.74738,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
