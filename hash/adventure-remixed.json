@@ -1,0 +1,483 @@
+[
+  {
+    "workshopPath": "downloads/3596665887",
+    "hash": "89e77e385589da181e0df02ac45f9d1057d175b1112f2d9530858c5f820d19b2",
+    "level": {
+      "name": "ZSL - FormulA-12",
+      "path": "downloads/3596665887/ZSL - FormulA-12/ZSL - FormulA-12.zeeplevel",
+      "blocks": 1227,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198093513150,
+        "collaborators": "",
+        "nameOverride": "CantFindTheSky"
+      },
+      "uuid": "bTiyUaoMBka_2Ei_[CSC]CantFindTheSky",
+      "time": 45.3920479,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3596524110",
+    "hash": "e34f482948fb148789651db5d57e4c59380cc3c5776c7a6f35b46cee09d52514",
+    "level": {
+      "name": "ZSL - A-12 but a ferret stole it",
+      "path": "downloads/3596524110/ZSL - A-12 but a ferret stole it/ZSL - A-12 but a ferret stole it.zeeplevel",
+      "blocks": 364,
+      "author": {
+        "name": "[CSC] variableferret",
+        "StmID": 76561198157436740,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ZAKFChhBnkywnB4_[CSC] variableferret",
+      "time": 47.3105621,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3596456065",
+    "hash": "58d9d0bb4589866ba8b9c9686058adb39850e6ea018bcae48e59aadfacc27bc4",
+    "level": {
+      "name": "ZSL - level machine broke",
+      "path": "downloads/3596456065/ZSL - level machine broke/ZSL - level machine broke.zeeplevel",
+      "blocks": 314,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561199806838050,
+        "collaborators": "",
+        "nameOverride": "Tetro the octo"
+      },
+      "uuid": "YewlcziIH0inZv1_[OCTO]Tetro the octo",
+      "time": 36.9115,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3596351960",
+    "hash": "9bbaae4755a5d6cd11916fdcc7280b99189c52c178c2d4f16827c98f0da41ef6",
+    "level": {
+      "name": "ZSL -  A02 reverse and in mint space",
+      "path": "downloads/3596351960/ZSL -  A02 reverse and in mint space/ZSL -  A02 reverse and in mint space.zeeplevel",
+      "blocks": 326,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561199233334030,
+        "collaborators": "",
+        "nameOverride": "sm0na aka Smonolith"
+      },
+      "uuid": "C3_yOOKaJkuZwnG_Smona",
+      "time": 25.29556,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3596327628",
+    "hash": "53331e6fa21a161c1dd80ef826411215378cae0f08c592e999882234bf92c30b",
+    "level": {
+      "name": "ZSL - Crashed on the A10",
+      "path": "downloads/3596327628/ZSL - Crashed on the A10/ZSL - Crashed on the A10.zeeplevel",
+      "blocks": 622,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561199347921780,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "QkdMX4hmsEiJDs7_Mima01a",
+      "time": 57.79781,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3596229691",
+    "hash": "4415f8bcdbdabddf02ffab4efd36ecf191e9b52be6d2f141f9803bcc17939e69",
+    "level": {
+      "name": "ZSL - Somone Fixed A-01",
+      "path": "downloads/3596229691/ZSL - Somone Fixed A-01/ZSL - Somone Fixed A-01.zeeplevel",
+      "blocks": 1213,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198013828580,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "y6h5AQeO-kqOnxv_[TOG]ioi8",
+      "time": 37.82816,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3596156614",
+    "hash": "c1299a042e0fe074382ded50b194a8b9d6755ad2162110743433135d3305884d",
+    "level": {
+      "name": "ZSL - TT-06",
+      "path": "downloads/3596156614/ZSL - TT-06/ZSL - TT-06.zeeplevel",
+      "blocks": 1365,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561199187327000,
+        "collaborators": "",
+        "nameOverride": "[TTR] Tigerplaysonpc & [CSC] Tommygaming"
+      },
+      "uuid": "lzvOXa_kWkmej65_[CSC]Tommygaming",
+      "time": 42.1699448,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3596593847",
+    "hash": "6f7646da71b92366d67f1b31decba289a3c47360017e646b519d145d39decdd0",
+    "level": {
+      "name": "ZSL - Artificial Sweetener (Formual A03)",
+      "path": "downloads/3596593847/ZSL - Artificial Sweetener (Formual A03)/ZSL - Artificial Sweetener (Formual A03).zeeplevel",
+      "blocks": 1010,
+      "author": {
+        "name": "agix",
+        "StmID": 76561198974231700,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Am3bHr8m20WGtym_agix",
+      "time": 58.91918,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3596015561",
+    "hash": "fe33ac781a0aacb9a40f24fb18c5b036c71bdd75ecf5031e923139d466693ce8",
+    "level": {
+      "name": "ZSL - VolcA-03",
+      "path": "downloads/3596015561/ZSL - VolcA-03/ZSL - VolcA-03.zeeplevel",
+      "blocks": 699,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198262438670,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "uGQ5Ivh0SkiiRC6_[CRT]Codewalt",
+      "time": 59.14401,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3595858619",
+    "hash": "08aae7c5c35a4fa4880b70f8a00febb442dc08aa2fe1c6fa35d1f2d120166226",
+    "level": {
+      "name": "ZSL - A-01 - Paradise",
+      "path": "downloads/3595858619/ZSL - A-01 - Paradise/ZSL - A-01 - Paradise.zeeplevel",
+      "blocks": 2342,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198083300340,
+        "collaborators": "",
+        "nameOverride": "K410K3N"
+      },
+      "uuid": "dn7-IwZ5S0qXweE_[20x]K410K3N",
+      "time": 45.07218,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3595591399",
+    "hash": "f23c79bc34076bb870d1e3e8f5c431d3b66ec1d59cef7ddba67cc0b02ca1c0bd",
+    "level": {
+      "name": "ZSL - A-16 Woodlands",
+      "path": "downloads/3595591399/ZSL - A-16 Woodlands/ZSL - A-16 Woodlands.zeeplevel",
+      "blocks": 1560,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198181691230,
+        "collaborators": "",
+        "nameOverride": "[CSC] redal"
+      },
+      "uuid": "4Eo9S_T6q0ux82h_[CSC] redal",
+      "time": 34.7164726,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3595580086",
+    "hash": "5d36ceb8ce5a09e07c46d95f67a5e137eb4dd51ee17b1570febc0260e8fabc5d",
+    "level": {
+      "name": "A-13 But It's Better",
+      "path": "downloads/3595580086/A-13 But It's Better/A-13 But It's Better.zeeplevel",
+      "blocks": 160,
+      "author": {
+        "name": "OgelGames",
+        "StmID": 76561198934033800,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "RrcUbofmtEGclbL_OgelGames",
+      "time": 48.8428574,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3595509085",
+    "hash": "09af5c6078eb0b486cc08495dbbfdc67f29e0083dcf4d044fe73f3f8efc2f175",
+    "level": {
+      "name": "Dg-A-01-Cavernous",
+      "path": "downloads/3595509085/Dg-A-01-Cavernous/Dg-A-01-Cavernous.zeeplevel",
+      "blocks": 863,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561199481595550,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "7j4MWRp5zkqMcN3_[T-T] DgGamez",
+      "time": 37.0237732,
+      "checkpoints": 2,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": true,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 1761918664433
+  },
+  {
+    "workshopPath": "downloads/3595457805",
+    "hash": "2fcda5f0a72ba646f0d8860eb5eba558929bb56869c2119342809966f0bb9dfc",
+    "level": {
+      "name": "ZSL - Imp05ipal Skip",
+      "path": "downloads/3595457805/ZSL - Imp05ipal Skip/ZSL - Imp05ipal Skip.zeeplevel",
+      "blocks": 248,
+      "author": {
+        "name": "[CSC] DeeDeeNaNaNa",
+        "StmID": 76561198314320060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "pvBaDMX1FEWYB4Q_[CSC] DeeDeeNaNaNa",
+      "time": 40.88909,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3595438051",
+    "hash": "d74086a9efc20206f454ba0ed96f127cd4accb08fd961a6dfecae284b65d4b1e",
+    "level": {
+      "name": "ZSL - sector A-13",
+      "path": "downloads/3595438051/ZSL - sector A-13/ZSL - sector A-13.zeeplevel",
+      "blocks": 654,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561199208124080,
+        "collaborators": "",
+        "nameOverride": "rtube"
+      },
+      "uuid": "8woPNDsF00Ou7KE_rtube",
+      "time": 51.0480843,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3595196340",
+    "hash": "c006b14204fb31c507034f64f04f444d9d0a0b7e3fea873213b31f07402a25a3",
+    "level": {
+      "name": "ZSL - A-10 There Should Have Been Tubes",
+      "path": "downloads/3595196340/ZSL - A-10 There Should Have Been Tubes/ZSL - A-10 There Should Have Been Tubes.zeeplevel",
+      "blocks": 581,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198008859140,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "NpeBfKNYjkemLAX_[TOG]Lazy_Echidna",
+      "time": 51.3377762,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  }
+]
