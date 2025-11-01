@@ -661,5 +661,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3597665536",
+    "hash": "52ed3dfc7282f7271c784ef0d2082678d7b03d7021b2de20dc7e3dd95f34fc25",
+    "level": {
+      "name": "ZSL - A-05 wr pace",
+      "path": "downloads/3597665536/ZSL - A-05 wr pace/ZSL - A-05 wr pace.zeeplevel",
+      "blocks": 195,
+      "author": {
+        "name": "[CTR]Mμ",
+        "StmID": 76561198041494030,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "oW_FghtvV0y3Zfu_[CTR]Mμ",
+      "time": 49.9378281,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
