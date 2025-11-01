@@ -601,5 +601,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3597325042",
+    "hash": "a91b976fca26c661a4077aa1a550db20158f9c0994a171ae9581ef71c09edae4",
+    "level": {
+      "name": "ZSL - Artificial Sweetener (Formula A03)",
+      "path": "downloads/3597325042/ZSL - Artificial Sweetener (Formula A03)/ZSL - Artificial Sweetener (Formula A03).zeeplevel",
+      "blocks": 1017,
+      "author": {
+        "name": "agix",
+        "StmID": 76561198974231700,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "e1bpD7p0HUa0pXr_agix",
+      "time": 58.91918,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
