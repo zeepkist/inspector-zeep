@@ -751,5 +751,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3598381944",
+    "hash": "8257391a9e5fd1ebfbebb4d2f93aa5dc4460ffcdcbc3b788c3cf48d057eeab8d",
+    "level": {
+      "name": "ZSL - A-yteen(18) Island",
+      "path": "downloads/3598381944/ZSL - A-yteen(18) Island/ZSL - A-yteen(18) Island.zeeplevel",
+      "blocks": 637,
+      "author": {
+        "name": "justMaki",
+        "StmID": 76561198050792750,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "GYY-VH9P602jyzZ_[BAP]justMaki",
+      "time": 34.77901,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
