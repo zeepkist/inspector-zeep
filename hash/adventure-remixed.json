@@ -721,5 +721,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3597548911",
+    "hash": "1aee1963030f4238ee64fd30ccac8bfd3548640065a603f716a1154c150e4b1d",
+    "level": {
+      "name": "ZSL - A-14, frozen",
+      "path": "downloads/3597548911/ZSL - A-14, frozen/ZSL - A-14, frozen.zeeplevel",
+      "blocks": 915,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198201628180,
+        "collaborators": "",
+        "nameOverride": "imagineaclevernamehere"
+      },
+      "uuid": "It1MSnX8eky0Uxx_imagineaclevernamehere",
+      "time": 48.1737633,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
