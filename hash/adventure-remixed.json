@@ -691,5 +691,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3597826247",
+    "hash": "ca05c4a512ea3c1e6ee8f8567eeb6e4de7c56391fdd01d3482fe5bc3ff89daa2",
+    "level": {
+      "name": "ZSL - A07 B-Side",
+      "path": "downloads/3597826247/ZSL - A07 B-Side/ZSL - A07 B-Side.zeeplevel",
+      "blocks": 1200,
+      "author": {
+        "name": "PlusMicron",
+        "StmID": 76561199186342060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "BuyG7OWcSEyz7aZ_PlusMicron",
+      "time": 51.4803543,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
