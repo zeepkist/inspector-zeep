@@ -811,5 +811,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3598577046",
+    "hash": "bf1567c212c40b9fc24a3116a52d65aae0f0f37e48976ec01d6097229c0b71e3",
+    "level": {
+      "name": "ZSL - Undergr09ve",
+      "path": "downloads/3598577046/ZSL - Undergr09ve/ZSL - Undergr09ve.zeeplevel",
+      "blocks": 459,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561198031919230,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "5atkg-MEPUOSepS_Akane",
+      "time": 45.03202,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
