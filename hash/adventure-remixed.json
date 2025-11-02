@@ -781,5 +781,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3598424671",
+    "hash": "2c8ba2d8223b99e7fa2119cd02c5d5f2a856d87d744fcbe230c091e5820451b9",
+    "level": {
+      "name": "ZSL - CoRoT-13",
+      "path": "downloads/3598424671/ZSL - CoRoT-13/ZSL - CoRoT-13.zeeplevel",
+      "blocks": 1067,
+      "author": {
+        "name": "RoundNzt",
+        "StmID": 76561198896246340,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "xsRvW_ig8EKe1IE_RoundNzt",
+      "time": 45.9038773,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
