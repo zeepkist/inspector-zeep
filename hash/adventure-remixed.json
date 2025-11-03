@@ -544,18 +544,18 @@
   },
   {
     "workshopPath": "downloads/3596607195",
-    "hash": "0b80ee60842d629706aef2204edb0b1279f9a54548f7456659de6a3696f36887",
+    "hash": "3d23d1b444456ee4089c7361c5800fc9227268ac81a44963f45a91856dccf1a5",
     "level": {
       "name": "ZSL - Advenchershade 01",
       "path": "downloads/3596607195/ZSL - Advenchershade 01/ZSL - Advenchershade 01.zeeplevel",
       "blocks": 607,
       "author": {
-        "name": "PlayerName",
+        "name": "[CTR]Mortishade",
         "StmID": 76561197991251760,
         "collaborators": "",
-        "nameOverride": "[CTR]Mortishade"
+        "nameOverride": ""
       },
-      "uuid": "Fj74YUOPhE20QAc_[CTR]Mortishade",
+      "uuid": "-W2rr26F0UeM7Ih_[CTR]Mortishade",
       "time": 41.16416,
       "checkpoints": 4,
       "changerGateModes": {},
@@ -570,7 +570,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3597056287",
