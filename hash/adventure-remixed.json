@@ -842,5 +842,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3599020313",
+    "hash": "c92a5a3d34fbc5ab9aafbeee32c885db5d6b1ae73ede2b6b454a58faf07b50a9",
+    "level": {
+      "name": "ZSL - A-08 wafdsm",
+      "path": "downloads/3599020313/ZSL - A-08 wafdsm/ZSL - A-08 wafdsm.zeeplevel",
+      "blocks": 404,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198125435420,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "9gxCrKC1CUWJ4Ej_JobW",
+      "time": 42.0195961,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
