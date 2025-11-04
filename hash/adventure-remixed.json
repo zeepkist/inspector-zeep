@@ -934,5 +934,35 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 1762278043403
+  },
+  {
+    "workshopPath": "downloads/3599819718",
+    "hash": "f94d7953a255f118504bcb71095676133beed3b8f87128730fa3ae8641c6fa2e",
+    "level": {
+      "name": "ZSL - A-17 Remix - A Soap's Day Afternoon",
+      "path": "downloads/3599819718/ZSL - A-17 Remix - A Soap's Day Afternoon/ZSL - A-17 Remix - A Soap's Day Afternoon.zeeplevel",
+      "blocks": 310,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561199093841300,
+        "collaborators": "",
+        "nameOverride": "[CCC]Shinikage221"
+      },
+      "uuid": "o8Wq7j-jQkuqn9x_[CCC]Shinikage221",
+      "time": 39.31457,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
