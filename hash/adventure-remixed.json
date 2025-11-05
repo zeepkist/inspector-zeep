@@ -964,5 +964,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3599948910",
+    "hash": "a72cb94ec2ea0b8e92a82d021980faf900b93ba4136dbfa74375b89b94873124",
+    "level": {
+      "name": "ZSL - 13ave the future behind",
+      "path": "downloads/3599948910/ZSL - 13ave the future behind/ZSL - 13ave the future behind.zeeplevel",
+      "blocks": 1950,
+      "author": {
+        "name": "mori_cinis",
+        "StmID": 76561198158497200,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "o_xeZlYVC0KV2g7_mori_cinis",
+      "time": 54.03016,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
