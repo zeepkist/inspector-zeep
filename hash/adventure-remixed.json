@@ -273,18 +273,18 @@
   },
   {
     "workshopPath": "downloads/3595858619",
-    "hash": "08aae7c5c35a4fa4880b70f8a00febb442dc08aa2fe1c6fa35d1f2d120166226",
+    "hash": "9d8234c5864d28e66e16d8b6d2833b24d3550c72eca7aaeccc4f55e26540a352",
     "level": {
       "name": "ZSL - A-01 - Paradise",
       "path": "downloads/3595858619/ZSL - A-01 - Paradise/ZSL - A-01 - Paradise.zeeplevel",
       "blocks": 2342,
       "author": {
-        "name": "PlayerName",
+        "name": "K410K3N",
         "StmID": 76561198083300340,
         "collaborators": "",
         "nameOverride": "K410K3N"
       },
-      "uuid": "dn7-IwZ5S0qXweE_[20x]K410K3N",
+      "uuid": "yWP_gmtu7EujfAX_[20x]K410K3N",
       "time": 45.07218,
       "checkpoints": 4,
       "changerGateModes": {},
@@ -299,7 +299,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3595591399",
