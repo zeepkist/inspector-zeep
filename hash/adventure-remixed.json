@@ -1056,5 +1056,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3600799565",
+    "hash": "6a5e15d50fb9f33108ce86f283abdffc41761ef11deb811064f09c0e55981537",
+    "level": {
+      "name": "ZSL A-13 RUNOFF",
+      "path": "downloads/3600799565/ZSL A-13 RUNOFF/ZSL A-13 RUNOFF.zeeplevel",
+      "blocks": 1685,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561199134331550,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "KE0CNyVrwEmn7u2_λ SwiftEvolta",
+      "time": 46.9209862,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
