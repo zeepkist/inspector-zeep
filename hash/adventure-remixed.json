@@ -1026,5 +1026,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3600643794",
+    "hash": "d4f1728c2d0a3e30ae62acc8d3c9ba2634e0a64eb3945a04f88ec0d75f91691f",
+    "level": {
+      "name": "ZSL - Lexel 08",
+      "path": "downloads/3600643794/ZSL - Lexel 08/ZSL - Lexel 08.zeeplevel",
+      "blocks": 291,
+      "author": {
+        "name": "Lexer",
+        "StmID": 76561198851912260,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "KK2ON_ydyki06dD_[BAP] Lexer",
+      "time": 45.8799934,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
