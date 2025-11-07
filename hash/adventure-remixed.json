@@ -1116,5 +1116,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3601390940",
+    "hash": "eac0d902b88f224ef73e7a1ef15eb297ebd0d4250917b0ce9461648420cad050",
+    "level": {
+      "name": "ZSL - A-18° Fahrenheit",
+      "path": "downloads/3601390940/ZSL - A-18° Fahrenheit/ZSL - A-18° Fahrenheit.zeeplevel",
+      "blocks": 776,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561197980151170,
+        "collaborators": "",
+        "nameOverride": "[CSC] Shadynook"
+      },
+      "uuid": "Pp31rCFpg0uZB0c_[CSC] Shadynook",
+      "time": 54.63336,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
