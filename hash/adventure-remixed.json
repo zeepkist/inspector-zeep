@@ -1086,5 +1086,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3601346067",
+    "hash": "5817cd6f33f62f4cae4ebba88390bfac75b95b356874a1e28b33e43890a0e69c",
+    "level": {
+      "name": "ZSL - A-07 Remastered",
+      "path": "downloads/3601346067/ZSL - A-07 Remastered/ZSL - A-07 Remastered.zeeplevel",
+      "blocks": 140,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198160605000,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "sGtF-s7JU0uiHvI_Northwind",
+      "time": 40.0465965,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
