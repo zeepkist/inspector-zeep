@@ -1146,5 +1146,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3602215714",
+    "hash": "95d0005974ebc0a28e9bb7d648cddf38c6994cdd5595dcf2a606874fa6c395db",
+    "level": {
+      "name": "ZSL-Bonsai-03",
+      "path": "downloads/3602215714/ZSL-Bonsai-03/ZSL-Bonsai-03.zeeplevel",
+      "blocks": 980,
+      "author": {
+        "name": "Space_cat9999",
+        "StmID": 76561199036536980,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "j022v3aSnkimjrO_Space_cat9999",
+      "time": 50.16573,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
