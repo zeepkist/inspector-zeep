@@ -1266,5 +1266,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3602962959",
+    "hash": "e3c39bf1805b7207dc71fc69d44ab112aec46f080989ac0e7e3bf7d621ec88b1",
+    "level": {
+      "name": "ZSL-WAAAGH-08",
+      "path": "downloads/3602962959/ZSL-WAAAGH-08/ZSL-WAAAGH-08.zeeplevel",
+      "blocks": 1944,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198129913300,
+        "collaborators": "",
+        "nameOverride": "Sahne mit Bohnen"
+      },
+      "uuid": "M-oCAPXDjki_9GZ_[CSC] Sahne mit Bohnen",
+      "time": 47.566803,
+      "checkpoints": 12,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
