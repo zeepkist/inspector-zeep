@@ -1176,5 +1176,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3602279940",
+    "hash": "4c110303f568412e0dadd0a851fbd21df8aa8f48302232de44f9e22d2e1420f0",
+    "level": {
+      "name": "ZSL - A-2nd Epitaph",
+      "path": "downloads/3602279940/ZSL - A-2nd Epitaph/ZSL - A-2nd Epitaph.zeeplevel",
+      "blocks": 1126,
+      "author": {
+        "name": "Diabler",
+        "StmID": 76561198104372260,
+        "collaborators": "",
+        "nameOverride": "Jakie"
+      },
+      "uuid": "_wlU4HvTzkyoszu_Jakie",
+      "time": 26.140974,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
