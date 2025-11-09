@@ -1236,5 +1236,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3602914608",
+    "hash": "73b5c484dcc703ebda2f2e0a63f9b6d63504a9ff4443d7a5a52de7eb9d693af2",
+    "level": {
+      "name": "ZSL - Warmer and Extended A-15",
+      "path": "downloads/3602914608/ZSL - Warmer and Extended A-15/ZSL - Warmer and Extended A-15.zeeplevel",
+      "blocks": 848,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561197979087520,
+        "collaborators": "",
+        "nameOverride": "[CSS]Mokster"
+      },
+      "uuid": "UDWSbR3t6EOSJQR_[CSC]Mokster",
+      "time": 46.6233,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
