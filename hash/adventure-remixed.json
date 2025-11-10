@@ -273,20 +273,20 @@
   },
   {
     "workshopPath": "downloads/3595858619",
-    "hash": "9d8234c5864d28e66e16d8b6d2833b24d3550c72eca7aaeccc4f55e26540a352",
+    "hash": "ac54e69e36408822b39cb4015ab492d47c7c0504e6c4b935df928a6df54acfc1",
     "level": {
       "name": "ZSL - A-01 - Paradise",
       "path": "downloads/3595858619/ZSL - A-01 - Paradise/ZSL - A-01 - Paradise.zeeplevel",
-      "blocks": 2342,
+      "blocks": 2344,
       "author": {
         "name": "K410K3N",
         "StmID": 76561198083300340,
         "collaborators": "",
         "nameOverride": "K410K3N"
       },
-      "uuid": "yWP_gmtu7EujfAX_[20x]K410K3N",
-      "time": 45.07218,
-      "checkpoints": 4,
+      "uuid": "Ph_D0uA0UkuLwlV_[20x]K410K3N",
+      "time": 45.36889,
+      "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
     },
