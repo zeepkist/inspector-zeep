@@ -1327,5 +1327,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3596988275",
+    "hash": "b9981bc4de64f2b79b7bbf9ebefd4b91dfd8e416ecd42b4c80f28a90f69aaa2e",
+    "level": {
+      "name": "ZSL - A-07 Sanddown",
+      "path": "downloads/3596988275/ZSL - A-07 Sanddown/ZSL - A-07 Sanddown.zeeplevel",
+      "blocks": 2985,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198315900260,
+        "collaborators": "",
+        "nameOverride": "Ruckooe"
+      },
+      "uuid": "-M0Q56q7pEOGGIQ_[FOOL]Ruckooe",
+      "time": 48.9428368,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
