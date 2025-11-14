@@ -1358,5 +1358,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3605333954",
+    "hash": "68920156320d5f78065944735d9cd89a1c3c7e793c0e080cd08baa76fd39f200",
+    "level": {
+      "name": "ZSL - A-11 (Remix)",
+      "path": "downloads/3605333954/ZSL - A-11 (Remix)/ZSL - A-11 (Remix).zeeplevel",
+      "blocks": 1836,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198093160300,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ympK9A6o3UyWZAZ_Hellmet",
+      "time": 44.6502151,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
