@@ -1388,5 +1388,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3605961199",
+    "hash": "71fc6ae75ff763173032bbe32c8301200561074512f40e326d224b8519a7ce42",
+    "level": {
+      "name": "ZSL- A-06 remix Dragon island",
+      "path": "downloads/3605961199/ZSL- A-06 remix Dragon island/ZSL- A-06 remix Dragon island.zeeplevel",
+      "blocks": 1415,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198070406020,
+        "collaborators": "",
+        "nameOverride": "[TTR]DragonShadow84290"
+      },
+      "uuid": "uU-lNvg97UWHqIG_[TTR]DragonShadow84290",
+      "time": 49.2096176,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
