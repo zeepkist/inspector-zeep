@@ -1478,5 +1478,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3606328698",
+    "hash": "0695f44e0448a432546869a0862e609fe22b615d3ec7f1c765cd0b90c9ee3e14",
+    "level": {
+      "name": "ZSL - A-07 Wintry Mix",
+      "path": "downloads/3606328698/ZSL - A-07 Wintry Mix/ZSL - A-07 Wintry Mix.zeeplevel",
+      "blocks": 925,
+      "author": {
+        "name": "groovy",
+        "StmID": 76561199282497310,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ua-G1EtqxE2Ubth_groovy",
+      "time": 58.41139,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
