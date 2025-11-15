@@ -1448,5 +1448,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3606239439",
+    "hash": "a813b54bbea02eabd77b3e50862b9ebd92fe8ddc4d31bb3a8aaebebf1c19d856",
+    "level": {
+      "name": "ZSL - A-03 Remix - Cherry Mountain",
+      "path": "downloads/3606239439/ZSL - A-03 Remix - Cherry Mountain/ZSL - A-03 Remix - Cherry Mountain.zeeplevel",
+      "blocks": 1346,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198357638670,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "WY4YSHl0s02IpI9_[BAP]Murrl",
+      "time": 56.2449875,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
