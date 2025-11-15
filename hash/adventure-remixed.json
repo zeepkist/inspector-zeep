@@ -1508,5 +1508,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3606375689",
+    "hash": "a1e0ef305336dd0b10902e9139fe7266f56169fbe414055f81b1ff91be74f0c3",
+    "level": {
+      "name": "ZSL - a01 multiverse",
+      "path": "downloads/3606375689/ZSL - a01 multiverse/ZSL - a01 multiverse.zeeplevel",
+      "blocks": 2972,
+      "author": {
+        "name": "Lemo",
+        "StmID": 76561198986849940,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "lVi5rjAcR02BoLV_Lemo",
+      "time": 52.9615059,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
