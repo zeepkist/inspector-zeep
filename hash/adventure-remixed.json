@@ -1418,5 +1418,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3605983190",
+    "hash": "0a7b4cfe80c0b2663d4aa2b7074a72aec16ea7877be159cca9306cc89d9ceb2c",
+    "level": {
+      "name": "ZSL - Error 405",
+      "path": "downloads/3605983190/ZSL - Error 405/ZSL - Error 405.zeeplevel",
+      "blocks": 2183,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561199380118930,
+        "collaborators": "",
+        "nameOverride": "[GGG]LKat & [GGG]Victor"
+      },
+      "uuid": "oaOu8JDuT0asZV8_[GGG]Victor",
+      "time": 37.38408,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
