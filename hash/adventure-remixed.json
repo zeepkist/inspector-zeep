@@ -1599,5 +1599,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3606730086",
+    "hash": "c3df10aeaff98229a75d21803da58dbbe462f01a8af21b5d5b9b6fbea166514e",
+    "level": {
+      "name": "ZSL- Flipping A-01",
+      "path": "downloads/3606730086/ZSL- Flipping A-01/ZSL- Flipping A-01.zeeplevel",
+      "blocks": 772,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561198162390620,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "McidAgxYq0KoZjr_[CLWN]DryDoc",
+      "time": 55.6736031,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
