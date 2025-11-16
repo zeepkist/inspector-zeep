@@ -819,19 +819,19 @@
   },
   {
     "workshopPath": "downloads/3598577046",
-    "hash": "bf1567c212c40b9fc24a3116a52d65aae0f0f37e48976ec01d6097229c0b71e3",
+    "hash": "7cfa439588c5242db90da52a12af51e3d43881f9b08c4086050ad12996487133",
     "level": {
       "name": "ZSL - Undergr09ve",
       "path": "downloads/3598577046/ZSL - Undergr09ve/ZSL - Undergr09ve.zeeplevel",
-      "blocks": 459,
+      "blocks": 470,
       "author": {
         "name": "Akane",
         "StmID": 76561198031919230,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "5atkg-MEPUOSepS_Akane",
-      "time": 45.03202,
+      "uuid": "Nm8PF7Nr3k2moQo_Akane",
+      "time": 44.3505554,
       "checkpoints": 10,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -845,7 +845,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3599020313",
