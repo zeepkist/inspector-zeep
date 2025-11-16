@@ -1361,7 +1361,7 @@
   },
   {
     "workshopPath": "downloads/3605333954",
-    "hash": "68920156320d5f78065944735d9cd89a1c3c7e793c0e080cd08baa76fd39f200",
+    "hash": "224d2f265532a8eecba64cc1ea88742c5049c0fcd86289b5e344aeadbcfa45fc",
     "level": {
       "name": "ZSL - A-11 (Remix)",
       "path": "downloads/3605333954/ZSL - A-11 (Remix)/ZSL - A-11 (Remix).zeeplevel",
@@ -1370,9 +1370,9 @@
         "name": "PlayerName",
         "StmID": 76561198093160300,
         "collaborators": "",
-        "nameOverride": ""
+        "nameOverride": "Hellmet"
       },
-      "uuid": "ympK9A6o3UyWZAZ_Hellmet",
+      "uuid": "9-Hap_G_9k6g8lv_Hellmet",
       "time": 44.6502151,
       "checkpoints": 6,
       "changerGateModes": {},
@@ -1387,7 +1387,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3605961199",
@@ -1527,6 +1528,66 @@
       "checkpoints": 3,
       "changerGateModes": {},
       "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3606586746",
+    "hash": "40926df9e54e2e89a92e8ece191c5bacb4256c5c2347f713ff40f0f0466a56e3",
+    "level": {
+      "name": "ZSL - No Cheese 4 You",
+      "path": "downloads/3606586746/ZSL - No Cheese 4 You/ZSL - No Cheese 4 You.zeeplevel",
+      "blocks": 421,
+      "author": {
+        "name": "PlayerName",
+        "StmID": 76561199756332060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "CzK0K9SPDkK5PEv_GoBigGoHotWheels",
+      "time": 44.5689774,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3599529511",
+    "hash": "6dacdd90f396f9d90b0b6c4cef991a2804c05e05fb8740b760eafe1d039e7989",
+    "level": {
+      "name": "ZSL - A08 Mountain",
+      "path": "downloads/3599529511/ZSL - A08 Mountain/ZSL - A08 Mountain.zeeplevel",
+      "blocks": 1401,
+      "author": {
+        "name": "[bonk]schmxrg",
+        "StmID": 76561198052077390,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "rxLclHT-gU6UeHv_[bonk]schmxrg",
+      "time": 48.47691,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 68
     },
     "isValid": true,
     "validity": {
