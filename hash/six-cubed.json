@@ -388,5 +388,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3619455296",
+    "hash": "9c61d1cb7f69f8f7844882a9af1af6bcd4b0795a9b3db3943e54a11d85f27d1f",
+    "level": {
+      "name": "ZSL - Cube Maintenance",
+      "path": "downloads/3619455296/ZSL - Cube Maintenance/ZSL - Cube Maintenance.zeeplevel",
+      "blocks": 195,
+      "author": {
+        "name": "maxie12",
+        "StmID": 76561198046077550,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "lD-X5dnqU0i8xMy_maxie12",
+      "time": 36.3299332,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
