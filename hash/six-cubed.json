@@ -358,5 +358,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3619288420",
+    "hash": "8a9621007dd504523aae1ab5d4926272ac0addf92cae2ff798305482ff726244",
+    "level": {
+      "name": "ZSL - Sharkbait",
+      "path": "downloads/3619288420/ZSL - Sharkbait/ZSL - Sharkbait.zeeplevel",
+      "blocks": 1180,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561198158497200,
+        "collaborators": "",
+        "nameOverride": "nori_cinis"
+      },
+      "uuid": "ybAw5Dj4X0aPbfV_mori_cinis",
+      "time": 48.6987457,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
