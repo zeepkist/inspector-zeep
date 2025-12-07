@@ -6,7 +6,6 @@ on:
 
 env:
   FORCE_COLOR: true
-  NODE_VERSION: 24
 
 jobs:
   setup:
@@ -16,6 +15,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v6
+
+      # For semantic-release Node version check only
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: lts/*
 
       - name: Set up Bun
         uses: oven-sh/setup-bun@v2
