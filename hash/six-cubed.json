@@ -452,5 +452,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3620366039",
+    "hash": "a7748eaa9d1e849c79bf9c5e6bf2f0cf84945828d6d1e8472afe6996b75816eb",
+    "level": {
+      "name": "ZSL - 6x Chilly Cube",
+      "path": "downloads/3620366039/ZSL - 6x Chilly Cube/ZSL - 6x Chilly Cube.zeeplevel",
+      "blocks": 694,
+      "author": {
+        "name": "[CSC]OLR94",
+        "StmID": 76561198314583070,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "dE8xpZJo0keZPk7_[CSC]OLR94",
+      "time": 47.94603,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
