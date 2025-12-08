@@ -361,7 +361,7 @@
   },
   {
     "workshopPath": "downloads/3619288420",
-    "hash": "8a9621007dd504523aae1ab5d4926272ac0addf92cae2ff798305482ff726244",
+    "hash": "20450b79115b937f0c1a6b5a1553f1b5f9a7695f27304fee4142c843c683f789",
     "level": {
       "name": "ZSL - Sharkbait",
       "path": "downloads/3619288420/ZSL - Sharkbait/ZSL - Sharkbait.zeeplevel",
@@ -370,9 +370,9 @@
         "name": "Akane",
         "StmID": 76561198158497200,
         "collaborators": "",
-        "nameOverride": "nori_cinis"
+        "nameOverride": "mori_cinis"
       },
-      "uuid": "ybAw5Dj4X0aPbfV_mori_cinis",
+      "uuid": "D_Qu_o6DUkefDyC_mori_cinis",
       "time": 48.6987457,
       "checkpoints": 9,
       "changerGateModes": {},
@@ -387,7 +387,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3619455296",
