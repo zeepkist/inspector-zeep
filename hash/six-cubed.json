@@ -482,5 +482,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3620386701",
+    "hash": "3f76359144dd1bb7c38ca18f62208fe834f480002a662bf36150bc32cf5f47a7",
+    "level": {
+      "name": "ZSL - Goldfish Gathering",
+      "path": "downloads/3620386701/ZSL - Goldfish Gathering/ZSL - Goldfish Gathering.zeeplevel",
+      "blocks": 773,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561198428660620,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ISF-gcsOwkG9Caf_BB_Benji",
+      "time": 35.2608757,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
