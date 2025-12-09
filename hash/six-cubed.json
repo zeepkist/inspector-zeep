@@ -573,5 +573,65 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 1765275554405
+  },
+  {
+    "workshopPath": "downloads/3620935477",
+    "hash": "d8ddae65b3a0b909b01499b8e5e8bb51b1f9b9983c951cd262ad2c08e04d4d6d",
+    "level": {
+      "name": "ZSL - Bless you",
+      "path": "downloads/3620935477/ZSL - Bless you/ZSL - Bless you.zeeplevel",
+      "blocks": 173,
+      "author": {
+        "name": "JobW",
+        "StmID": 76561198125435420,
+        "collaborators": "",
+        "nameOverride": "JobW"
+      },
+      "uuid": "UhTcZAAyU0eQLnV_JobW",
+      "time": 36.1917763,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3619807804",
+    "hash": "7da9929c33d9f345bcdb6332cca436b9a443f51022fcf177139127c7922767f8",
+    "level": {
+      "name": "ZSL - Ice Tubes",
+      "path": "downloads/3619807804/ZSL - Ice Tubes/ZSL - Ice Tubes.zeeplevel",
+      "blocks": 74,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561198839088080,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "56nVLASh_EOZdet_LimoniteLemon",
+      "time": 55.623188,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
