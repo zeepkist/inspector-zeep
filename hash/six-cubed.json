@@ -512,5 +512,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3620536800",
+    "hash": "c0381ea07f51530bf265f0a04300cf470753c0923519d9496d6f6c520a2c9a11",
+    "level": {
+      "name": "ZSL - Wintyrhearth",
+      "path": "downloads/3620536800/ZSL - Wintyrhearth/ZSL - Wintyrhearth.zeeplevel",
+      "blocks": 674,
+      "author": {
+        "name": "IronDragon & Jakie",
+        "StmID": 76561198103955120,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ypNNpLyf2kWCgiF_IronDragon111000",
+      "time": 36.3696747,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
