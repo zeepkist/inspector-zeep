@@ -542,5 +542,36 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3620660033",
+    "hash": "818b9f3b20406e8bd6ff5158ea97357d514ae5e2ecaa766a211721adb6506598",
+    "level": {
+      "name": "ZSL - Structure 6",
+      "path": "downloads/3620660033/ZSL - Structure 6/ZSL - Structure 6.zeeplevel",
+      "blocks": 344,
+      "author": {
+        "name": "felix",
+        "StmID": 76561197996506220,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "_T0ZfwmKjkWbqhU_felix",
+      "time": 41.249588,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": true,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 1765275554405
   }
 ]
