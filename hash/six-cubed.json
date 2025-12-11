@@ -693,5 +693,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3622013948",
+    "hash": "6c0d889379e21d314f3d00463e13944783bbfe146211075b7af0eb404710a4fe",
+    "level": {
+      "name": "ZSL - Prepare to Die",
+      "path": "downloads/3622013948/ZSL - Prepare to Die/ZSL - Prepare to Die.zeeplevel",
+      "blocks": 99,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561199093841300,
+        "collaborators": "",
+        "nameOverride": "[CCC]Shinikage221"
+      },
+      "uuid": "DfTQ8mhaVUGFC5y_[CCC]Shinikage221",
+      "time": 32.86677,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
