@@ -663,5 +663,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3621980969",
+    "hash": "312702697c37d3b25f0ea276bdd4caae335bd91a3f77f37da669035f2e31c20a",
+    "level": {
+      "name": "ZSL - Nature in a Box",
+      "path": "downloads/3621980969/ZSL - Nature in a Box/ZSL - Nature in a Box.zeeplevel",
+      "blocks": 2138,
+      "author": {
+        "name": "[CSC] redal",
+        "StmID": 76561198181691230,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "VVfvLxlrskCCuHH_[CSC] redal",
+      "time": 34.8150177,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
