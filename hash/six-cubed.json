@@ -754,5 +754,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3623142143",
+    "hash": "7a5d144e014d722c96e05d5eed202956eb0f6d3387b66638e568c07802bcfdc0",
+    "level": {
+      "name": "ZSL - Gradual",
+      "path": "downloads/3623142143/ZSL - Gradual/ZSL - Gradual.zeeplevel",
+      "blocks": 382,
+      "author": {
+        "name": "[CSC] Shadynook",
+        "StmID": 76561197980151170,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "vjkEDwDMUUeRxNV_[CSC] Shadynook",
+      "time": 42.6084061,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
