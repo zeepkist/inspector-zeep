@@ -724,5 +724,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3622754915",
+    "hash": "dbca64e44d79d1753e7c607c2d9b649f0f0d4dd41525072794b5f08e480df9f4",
+    "level": {
+      "name": "ZSL - Tube Infinity Cube (6x6)",
+      "path": "downloads/3622754915/ZSL - Tube Infinity Cube (6x6)/ZSL - Tube Infinity Cube (6x6).zeeplevel",
+      "blocks": 120,
+      "author": {
+        "name": "mythorchid",
+        "StmID": 76561197964495220,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "oCkmnDkR0EaVMZr_mythorchid",
+      "time": 35.01508,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
