@@ -784,5 +784,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3623491121",
+    "hash": "3c787087425cf583d64ac49ea17358b52be92df91ef9eb6d027164b0af8f0000",
+    "level": {
+      "name": "ZSL - Tricky Tubes",
+      "path": "downloads/3623491121/ZSL - Tricky Tubes/ZSL - Tricky Tubes.zeeplevel",
+      "blocks": 79,
+      "author": {
+        "name": "Liammac01",
+        "StmID": 76561198439078430,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "zsvmpVE6VE-BlGk_Liammac01",
+      "time": 55.76382,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
