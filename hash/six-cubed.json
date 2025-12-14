@@ -815,5 +815,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3623873358",
+    "hash": "07757d6615004d42ff656f36724c041c90e45c18ec64cfa64cae9db398b6e11f",
+    "level": {
+      "name": "ZSL - The Stunt Box",
+      "path": "downloads/3623873358/ZSL - The Stunt Box/ZSL - The Stunt Box.zeeplevel",
+      "blocks": 103,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561198031026580,
+        "collaborators": "",
+        "nameOverride": "WotterBytes (Europa)"
+      },
+      "uuid": "TvnD1QViP0-1Jvc_WotterBytes",
+      "time": 38.9715233,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
