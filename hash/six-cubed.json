@@ -905,5 +905,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3624679305",
+    "hash": "dbe270906de2c75d69a0e9382610f0fe34e5490a8befda3f325fb3ff2b788007",
+    "level": {
+      "name": "ZSL - Ritual",
+      "path": "downloads/3624679305/ZSL - Ritual/ZSL - Ritual.zeeplevel",
+      "blocks": 254,
+      "author": {
+        "name": "Lexer",
+        "StmID": 76561198851912260,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "6cb1GFgzvE--RTc_Lexer",
+      "time": 29.5763931,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
