@@ -845,5 +845,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3624450395",
+    "hash": "8576db6eed98c7acf1832133e1f9a881764f6af192b9ba7d09c938ba4ae6fca7",
+    "level": {
+      "name": "ZSL - RainbowCube",
+      "path": "downloads/3624450395/ZSL - RainbowCube/ZSL - RainbowCube.zeeplevel",
+      "blocks": 401,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561198235774450,
+        "collaborators": "",
+        "nameOverride": "BleibStehmon"
+      },
+      "uuid": "BCwOXimQ4E6mHHj_BleibStehmon",
+      "time": 40.05947,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
