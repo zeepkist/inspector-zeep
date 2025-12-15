@@ -935,5 +935,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3624716759",
+    "hash": "85c44008fb585aee383b69aae53f923a6db7abb15957956af6d7d2cc0238f24b",
+    "level": {
+      "name": "ZSL - FunGus Cube Adventure",
+      "path": "downloads/3624716759/ZSL - FunGus Cube Adventure/ZSL - FunGus Cube Adventure.zeeplevel",
+      "blocks": 972,
+      "author": {
+        "name": "Diabler",
+        "StmID": 76561197989028540,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "bZiuMOJzeUWpGIG_Diabler",
+      "time": 42.7601967,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
