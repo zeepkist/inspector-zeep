@@ -965,5 +965,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3624780193",
+    "hash": "5a63c5e3a29239ade9c4658bf70ce029e78752ddc2b11ac76814c1559f591837",
+    "level": {
+      "name": "ZSL - Underground rave",
+      "path": "downloads/3624780193/ZSL - Underground rave/ZSL - Underground rave.zeeplevel",
+      "blocks": 552,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561198008859140,
+        "collaborators": "",
+        "nameOverride": "[TOG] LAZY_ECHIDNA"
+      },
+      "uuid": "U9nc-0SKIESFuCt_[TOG]Lazy_Echidna",
+      "time": 47.7464333,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
