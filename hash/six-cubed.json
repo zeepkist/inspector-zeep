@@ -995,5 +995,36 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3625063453",
+    "hash": "b1438bbf7279d4c85f702b2177d56363c106c4b81e01b2ec4bd9734e817f0514",
+    "level": {
+      "name": " ZSL - globe",
+      "path": "downloads/3625063453/ ZSL - globe/ ZSL - globe.zeeplevel",
+      "blocks": 765,
+      "author": {
+        "name": "brrryy",
+        "StmID": 76561199129302750,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "NgNI5TsjRU-Rjf-_brrryy",
+      "time": 44.99004,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": true,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 1765902159284
   }
 ]
