@@ -999,33 +999,33 @@
   },
   {
     "workshopPath": "downloads/3625063453",
-    "hash": "b1438bbf7279d4c85f702b2177d56363c106c4b81e01b2ec4bd9734e817f0514",
+    "hash": "afe2e1adcc0aaa9569cde865dfc4efe4261ca69189e2c171d5d3cff266ad5360",
     "level": {
-      "name": " ZSL - globe",
-      "path": "downloads/3625063453/ ZSL - globe/ ZSL - globe.zeeplevel",
-      "blocks": 765,
+      "name": "ZSL - globe",
+      "path": "downloads/3625063453/ZSL - globe/ZSL - globe.zeeplevel",
+      "blocks": 764,
       "author": {
         "name": "brrryy",
         "StmID": 76561199129302750,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "NgNI5TsjRU-Rjf-_brrryy",
-      "time": 44.99004,
+      "uuid": "H7-lCcmDY0miEAj_brrryy",
+      "time": 44.983654,
       "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 0
     },
-    "isValid": false,
+    "isValid": true,
     "validity": {
       "isOverBlockLimit": false,
       "isUnderTimeLimit": false,
       "isOverTimeLimit": false,
       "isUnderCheckpointLimit": false,
-      "isOverWidthLimit": true,
+      "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     },
-    "invalidatedAt": 1765902159284
+    "invalidatedAt": 0
   }
 ]
