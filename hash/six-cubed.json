@@ -303,7 +303,7 @@
   },
   {
     "workshopPath": "downloads/3617788023",
-    "hash": "07dd8da4f6e5391af54a22e83f9f83193a249ffad90c1cd7f263c5465fa5ede0",
+    "hash": "a087945f30669c99c9d34d5730ee154ed8599e7e17ba550961853f18ed0827b8",
     "level": {
       "name": "ZSL - Cube to the power of 6",
       "path": "downloads/3617788023/ZSL - Cube to the power of 6/ZSL - Cube to the power of 6.zeeplevel",
@@ -312,9 +312,9 @@
         "name": "Akane",
         "StmID": 76561199347921780,
         "collaborators": "",
-        "nameOverride": ""
+        "nameOverride": "Mima01a"
       },
-      "uuid": "1sCIx5gaaEKjYiG_Mima01a",
+      "uuid": "eU2RVvNcJEOTHKA_Mima01a",
       "time": 28.6353931,
       "checkpoints": 10,
       "changerGateModes": {},
@@ -329,7 +329,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3617447643",
