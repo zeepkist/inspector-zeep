@@ -1028,5 +1028,65 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "downloads/3621026234",
+    "hash": "6716bf0ec47a5abb1184902acc42a716f399428883af9bdae05130655c2a5032",
+    "level": {
+      "name": "ZSL - Scarlet Scamper",
+      "path": "downloads/3621026234/ZSL - Scarlet Scamper/ZSL - Scarlet Scamper.zeeplevel",
+      "blocks": 195,
+      "author": {
+        "name": "[ZET]Ploddip",
+        "StmID": 76561199378866300,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "YHblH6xgZ06UAYt_[ZET]Ploddip",
+      "time": 32.9182968,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3620932376",
+    "hash": "8c7c900a52361f4547d6c8f42de4b24f01e8570267b44efc6174f1cc3efc2ae6",
+    "level": {
+      "name": "ZSL - Jade soul",
+      "path": "downloads/3620932376/ZSL - Jade soul/ZSL - Jade soul.zeeplevel",
+      "blocks": 2904,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561198315900260,
+        "collaborators": "",
+        "nameOverride": "Ruckooe"
+      },
+      "uuid": "3djAPMeyr06k1VT_[FOOL] Ruckooe",
+      "time": 41.80951,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
