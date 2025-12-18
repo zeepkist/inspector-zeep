@@ -1088,5 +1088,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3626267211",
+    "hash": "fc364f62e31c8032677dd4b0209f66d74b3e29c511cac8e763764eb4d0296b5a",
+    "level": {
+      "name": "Zsl - This is a metal box",
+      "path": "downloads/3626267211/Zsl - This is a metal box/Zsl - This is a metal box.zeeplevel",
+      "blocks": 188,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561198040976720,
+        "collaborators": "",
+        "nameOverride": "ttv/lilly_the_bun"
+      },
+      "uuid": "ZXr9aDmWfUm0FbJ_[bnuy]ttv/Lilly the Bun",
+      "time": 28.38982,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
