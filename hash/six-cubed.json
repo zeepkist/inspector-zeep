@@ -1118,5 +1118,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3626330903",
+    "hash": "f9a0457b1488ff71d94eefa5bbccc1dc15edef30b440fee2e1b2680b1a24179c",
+    "level": {
+      "name": "ZSL - Sewer Run",
+      "path": "downloads/3626330903/ZSL - Sewer Run/ZSL - Sewer Run.zeeplevel",
+      "blocks": 262,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561198326183340,
+        "collaborators": "",
+        "nameOverride": "archerman64"
+      },
+      "uuid": "muA-H-LrTE2jwbo_archerman64",
+      "time": 39.73088,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
