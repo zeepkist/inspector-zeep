@@ -1151,19 +1151,19 @@
   },
   {
     "workshopPath": "downloads/3626568716",
-    "hash": "8e13f7c1883c3759e42f39aca8fe9b3a16f92321a3a91ffba770586583480549",
+    "hash": "f310fe410ae21e77f04de2c7aab43ccbd22999bd0ced59063e0081bd050ba99a",
     "level": {
       "name": "ZSL - RubeSix CUBEd",
       "path": "downloads/3626568716/ZSL - RubeSix CUBEd/ZSL - RubeSix CUBEd.zeeplevel",
-      "blocks": 359,
+      "blocks": 1007,
       "author": {
         "name": "[ERR]ferinine",
         "StmID": 76561198149810830,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "zNiKTYwaV0itszj_[ERR]ferinine",
-      "time": 35.4521675,
+      "uuid": "1zYRj-ri3ki6dAs_[ERR]ferinine",
+      "time": 35.4482536,
       "checkpoints": 6,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -1177,6 +1177,7 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
