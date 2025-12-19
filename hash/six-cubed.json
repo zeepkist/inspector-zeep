@@ -1179,5 +1179,35 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "downloads/3626620063",
+    "hash": "13d2c0023f910f3f69cdb066e7bfd4410f4f6be2690e9195cd222807528f9d6e",
+    "level": {
+      "name": "ZSL - Butterfly Effect",
+      "path": "downloads/3626620063/ZSL - Butterfly Effect/ZSL - Butterfly Effect.zeeplevel",
+      "blocks": 975,
+      "author": {
+        "name": "[BAP]Murrl",
+        "StmID": 76561198357638670,
+        "collaborators": "",
+        "nameOverride": "Sterben and Murrl"
+      },
+      "uuid": "E9BoOCU4ckWPhiK_[BAP]Murrl",
+      "time": 41.7705345,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
