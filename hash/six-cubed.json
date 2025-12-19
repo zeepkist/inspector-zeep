@@ -1148,5 +1148,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3626568716",
+    "hash": "8e13f7c1883c3759e42f39aca8fe9b3a16f92321a3a91ffba770586583480549",
+    "level": {
+      "name": "ZSL - RubeSix CUBEd",
+      "path": "downloads/3626568716/ZSL - RubeSix CUBEd/ZSL - RubeSix CUBEd.zeeplevel",
+      "blocks": 359,
+      "author": {
+        "name": "[ERR]ferinine",
+        "StmID": 76561198149810830,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "zNiKTYwaV0itszj_[ERR]ferinine",
+      "time": 35.4521675,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
