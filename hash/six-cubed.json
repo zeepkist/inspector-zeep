@@ -1209,5 +1209,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3626701552",
+    "hash": "d755990cdbb20cf3b2a17ceeb8bf7147e613d0945f22936d99e34976d87da9d1",
+    "level": {
+      "name": "ZSL - Lightshow",
+      "path": "downloads/3626701552/ZSL - Lightshow/ZSL - Lightshow.zeeplevel",
+      "blocks": 296,
+      "author": {
+        "name": "justMaki",
+        "StmID": 76561198050792750,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "piwCyMsuIkSKrjy_justMaki",
+      "time": 42.8279839,
+      "checkpoints": 11,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
