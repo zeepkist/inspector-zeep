@@ -1000,19 +1000,19 @@
   },
   {
     "workshopPath": "downloads/3625063453",
-    "hash": "afe2e1adcc0aaa9569cde865dfc4efe4261ca69189e2c171d5d3cff266ad5360",
+    "hash": "6fafdc141e832d32dd0aef2f7922889fd81fed0bcaa03e6c78b315f6ada00aaf",
     "level": {
       "name": "ZSL - globe",
       "path": "downloads/3625063453/ZSL - globe/ZSL - globe.zeeplevel",
-      "blocks": 764,
+      "blocks": 758,
       "author": {
         "name": "brrryy",
         "StmID": 76561199129302750,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "H7-lCcmDY0miEAj_brrryy",
-      "time": 44.983654,
+      "uuid": "cagXt6jyakmnsEr_brrryy",
+      "time": 45.56639,
       "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 0
