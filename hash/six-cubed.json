@@ -1239,5 +1239,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3628349262",
+    "hash": "1a427d1441ec7ddc56dbfd377b44a97a45140997ae8d2efac411ce76c962809f",
+    "level": {
+      "name": "ZSL - Overlook",
+      "path": "downloads/3628349262/ZSL - Overlook/ZSL - Overlook.zeeplevel",
+      "blocks": 148,
+      "author": {
+        "name": "St Nicholas",
+        "StmID": 76561198047403250,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "xi4g-w6dhECxwN0_St Nicholas",
+      "time": 34.0746078,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
