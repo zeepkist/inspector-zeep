@@ -1269,5 +1269,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3628635090",
+    "hash": "9a9714d010bbf76be5d0fa08eca638412284e07482579b763a97ce998b6e22e0",
+    "level": {
+      "name": "ZSL - Six Layers Deep",
+      "path": "downloads/3628635090/ZSL - Six Layers Deep/ZSL - Six Layers Deep.zeeplevel",
+      "blocks": 1271,
+      "author": {
+        "name": "[CSC]CantFindTheSky",
+        "StmID": 76561198093513150,
+        "collaborators": "",
+        "nameOverride": "CantFindTheSky & agix & An Actual g00se"
+      },
+      "uuid": "q5azpz_JWEeUs84_[CSC]CantFindTheSky",
+      "time": 44.5789757,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
