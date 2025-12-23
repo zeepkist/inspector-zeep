@@ -1299,5 +1299,36 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3629408214",
+    "hash": "5a1eebae5b7881d940e20e896c6bb7bbb6d16c8b5e35cd2ed6e04c8211554a46",
+    "level": {
+      "name": "zsl - bjenk4",
+      "path": "downloads/3629408214/zsl - bjenk4/zsl - bjenk4.zeeplevel",
+      "blocks": 126,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561198211007020,
+        "collaborators": "",
+        "nameOverride": "Bjenk4"
+      },
+      "uuid": "i9BebmANxkG2oW__bjenk4",
+      "time": 0,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": false,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": true,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": true,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    },
+    "invalidatedAt": 1766468881737
   }
 ]
