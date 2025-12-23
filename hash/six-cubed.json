@@ -1272,18 +1272,18 @@
   },
   {
     "workshopPath": "downloads/3628635090",
-    "hash": "9a9714d010bbf76be5d0fa08eca638412284e07482579b763a97ce998b6e22e0",
+    "hash": "f0bd6eb984f165ac72627d108b3d294966a45f08a7bfc5c698fcbea73132155f",
     "level": {
       "name": "ZSL - Six Layers Deep",
       "path": "downloads/3628635090/ZSL - Six Layers Deep/ZSL - Six Layers Deep.zeeplevel",
-      "blocks": 1271,
+      "blocks": 1261,
       "author": {
         "name": "[CSC]CantFindTheSky",
         "StmID": 76561198093513150,
         "collaborators": "",
         "nameOverride": "CantFindTheSky & agix & An Actual g00se"
       },
-      "uuid": "q5azpz_JWEeUs84_[CSC]CantFindTheSky",
+      "uuid": "dLadEL0KFECObTr_[CSC]CantFindTheSky",
       "time": 44.5789757,
       "checkpoints": 5,
       "changerGateModes": {},
@@ -1298,7 +1298,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3629408214",
