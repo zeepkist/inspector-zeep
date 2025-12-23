@@ -1331,5 +1331,35 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 1766483224804
+  },
+  {
+    "workshopPath": "downloads/3629644467",
+    "hash": "62e75ba29c2d5ea8425776fbd2f877cdc02b2d80219a9516a81178811b6e8318",
+    "level": {
+      "name": "ZSL - Puzzled",
+      "path": "downloads/3629644467/ZSL - Puzzled/ZSL - Puzzled.zeeplevel",
+      "blocks": 87,
+      "author": {
+        "name": "GoBigGoHotWheels",
+        "StmID": 76561199756332060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "F9dec71QEUWA_1I_GoBigGoHotWheels",
+      "time": 28.6664028,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
