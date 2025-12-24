@@ -1361,5 +1361,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3630466414",
+    "hash": "d64f5f5b814cc9149afb7eac663f66fad7f84fe3a0e71fdf35cf5f1dbff4ef38",
+    "level": {
+      "name": "ZSL - (Frosty Caverns)²",
+      "path": "downloads/3630466414/ZSL - (Frosty Caverns)²/ZSL - (Frosty Caverns)².zeeplevel",
+      "blocks": 786,
+      "author": {
+        "name": "Rusty",
+        "StmID": 76561198252416590,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "vroolt-bC0CTfOT_Rusty",
+      "time": 41.787693,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
