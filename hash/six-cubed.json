@@ -1303,34 +1303,34 @@
   },
   {
     "workshopPath": "downloads/3629408214",
-    "hash": "a4b71a1df9d841026bb3f933f2ec223180c04e35b48b6689e4ed60fb90db1992",
+    "hash": "1faf07d253abd2a824e2b94c23a50e6f32eb694adfc505a845dff927f9e407de",
     "level": {
       "name": "zsl - bjenk4",
       "path": "downloads/3629408214/zsl - bjenk4/zsl - bjenk4.zeeplevel",
-      "blocks": 517,
+      "blocks": 516,
       "author": {
         "name": "Akane",
         "StmID": 76561198211007020,
         "collaborators": "",
         "nameOverride": "Bjenk4"
       },
-      "uuid": "eYOodY90E0O3Ttk_bjenk4",
+      "uuid": "KVIyR84870SCp1w_bjenk4",
       "time": 43.94533,
       "checkpoints": 3,
       "changerGateModes": {},
       "logicBlocks": 0
     },
-    "isValid": false,
+    "isValid": true,
     "validity": {
       "isOverBlockLimit": false,
       "isUnderTimeLimit": false,
       "isOverTimeLimit": false,
       "isUnderCheckpointLimit": false,
-      "isOverWidthLimit": true,
+      "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     },
-    "invalidatedAt": 1766533259650
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3629644467",
