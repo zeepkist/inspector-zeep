@@ -1391,5 +1391,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3631137746",
+    "hash": "f25e895f30fe029a3baef61a86cc5bec3ffc370ae4d7cea4330e7e5bd663880b",
+    "level": {
+      "name": "ZSL - Mish Mash",
+      "path": "downloads/3631137746/ZSL - Mish Mash/ZSL - Mish Mash.zeeplevel",
+      "blocks": 306,
+      "author": {
+        "name": "[CSC]Mokster",
+        "StmID": 76561197979087520,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "NRdUyHbjwkSurmM_[CSC]Mokster",
+      "time": 32.43937,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
