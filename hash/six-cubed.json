@@ -1421,5 +1421,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3631830758",
+    "hash": "9f772d0760f2d4eae9a42d3628a4f9bd413daa46f2c908d69eae2b8703b2b583",
+    "level": {
+      "name": "ZSL - GreenKnot",
+      "path": "downloads/3631830758/ZSL - GreenKnot/ZSL - GreenKnot.zeeplevel",
+      "blocks": 100,
+      "author": {
+        "name": "1uk3",
+        "StmID": 76561198017867940,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "MnVqw6G8F0-93PC_1uk3",
+      "time": 31.25235,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
