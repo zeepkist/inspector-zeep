@@ -1451,5 +1451,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3632050814",
+    "hash": "293957e97c761a406da4a1408eb37cf25610548dafc4d580d400e7f92cde76fe",
+    "level": {
+      "name": "ZSL - Estro",
+      "path": "downloads/3632050814/ZSL - Estro/ZSL - Estro.zeeplevel",
+      "blocks": 399,
+      "author": {
+        "name": "Khord",
+        "StmID": 76561198115077070,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "PKklUsTd9UuIZbm_Khord",
+      "time": 26.6208954,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
