@@ -1481,5 +1481,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3632658056",
+    "hash": "33b980f9535f92016c112137a4aa4440b89819200dfec97548374450f0ac3d83",
+    "level": {
+      "name": "ZSL - Zirconia",
+      "path": "downloads/3632658056/ZSL - Zirconia/ZSL - Zirconia.zeeplevel",
+      "blocks": 68,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561198201628180,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "QsQn1FEiz0SJrIX_imagineaclevernamehere",
+      "time": 46.6168175,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
