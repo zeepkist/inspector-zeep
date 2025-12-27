@@ -1511,5 +1511,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3632894232",
+    "hash": "932c2c7904033a1320c5dc77628190e11e3c2090025a2ad248e08d82890b8b84",
+    "level": {
+      "name": "ZSL - Velocicube",
+      "path": "downloads/3632894232/ZSL - Velocicube/ZSL - Velocicube.zeeplevel",
+      "blocks": 200,
+      "author": {
+        "name": "[CTR]Striking Vyper",
+        "StmID": 76561198017668940,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "MisZQNvD50Sn9FG_[CTR]Striking Vyper",
+      "time": 38.9440231,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
