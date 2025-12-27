@@ -1541,5 +1541,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3622857956",
+    "hash": "4aef7625dbbfd58e4bc6ea7cb539be0a2093f300e08d5257ec54b209a6e870fe",
+    "level": {
+      "name": "ZSL - Morti666",
+      "path": "downloads/3622857956/ZSL - Morti666/ZSL - Morti666.zeeplevel",
+      "blocks": 213,
+      "author": {
+        "name": "[CTR]Mortishade",
+        "StmID": 76561197991251760,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "AWvgyAFzWk6jRTA_[CTR]Mortishade",
+      "time": 37.684082,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
