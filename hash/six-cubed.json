@@ -1691,5 +1691,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3633470260",
+    "hash": "f093e20e3854f60330faf11eb8c8c588b04694e70b5a7de220ef7927042cb2db",
+    "level": {
+      "name": "ZSL - I S E Cube",
+      "path": "downloads/3633470260/ZSL - I S E Cube/ZSL - I S E Cube.zeeplevel",
+      "blocks": 425,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561199629269680,
+        "collaborators": "",
+        "nameOverride": "Sticker"
+      },
+      "uuid": "t8IYwMP2hkq9Hp1_Sticker",
+      "time": 42.2769432,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
