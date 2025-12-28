@@ -1601,5 +1601,65 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3633144425",
+    "hash": "3408d18905db4d1f1a9e2276f6e7ea68b8bb9c98bd242df02dbf6678bb1c75f2",
+    "level": {
+      "name": "Cubeathia",
+      "path": "downloads/3633144425/Cubeathia/Cubeathia.zeeplevel",
+      "blocks": 177,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561198865432340,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "D_G4YHImJ0mivij_MackCheesy",
+      "time": 32.63568,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3633097375",
+    "hash": "cda08fee6c1b14eb6bf61a49c971af1a23f42f003b287d0f3ba7a60352af3fdd",
+    "level": {
+      "name": "ZSL - Velocicube",
+      "path": "downloads/3633097375/ZSL - Velocicube/ZSL - Velocicube.zeeplevel",
+      "blocks": 200,
+      "author": {
+        "name": "[CTR]Striking Vyper",
+        "StmID": 76561198017668940,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "hB0idWz-6kS_iOW_[CTR]Striking Vyper",
+      "time": 38.8371964,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
