@@ -1571,5 +1571,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3631570359",
+    "hash": "c2770281d0178c5437dabbc5cb6930a68284f9c046ba7e4413822dc3d72f5ca0",
+    "level": {
+      "name": "ZSL - Boxed In",
+      "path": "downloads/3631570359/ZSL - Boxed In/ZSL - Boxed In.zeeplevel",
+      "blocks": 2225,
+      "author": {
+        "name": "Akane",
+        "StmID": 76561199733601760,
+        "collaborators": "[GGG]LKat",
+        "nameOverride": "[GGG]Victor & [GGG]LKat"
+      },
+      "uuid": "rEsoa2JunUWxGT2_[MMM]LKat",
+      "time": 27.3820686,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
