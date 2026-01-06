@@ -1,0 +1,92 @@
+[
+  {
+    "workshopPath": "downloads/3640863147",
+    "hash": "7a7b5e1ef847c21d7c64676e6e03458be67f1f441fcbf006acced583cc085e32",
+    "level": {
+      "name": "ZSL - Time travel to ancient times",
+      "path": "downloads/3640863147/ZSL - Time travel to ancient times/ZSL - Time travel to ancient times.zeeplevel",
+      "blocks": 1248,
+      "author": {
+        "name": "Mima01a",
+        "StmID": 76561199347921780,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Sj5-98qYR06zeNd_Mima01a",
+      "time": 49.9805145,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3640808516",
+    "hash": "841665e6f0fb9aeeb5df035b03e0d762da74206210575e25bbc37bf5546ae9a6",
+    "level": {
+      "name": "ZSL - something ancient",
+      "path": "downloads/3640808516/ZSL - something ancient/ZSL - something ancient.zeeplevel",
+      "blocks": 2488,
+      "author": {
+        "name": "[20x]K410K3N",
+        "StmID": 76561198083300340,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "jZcypYIzGU-D1JK_[20x]K410K3N",
+      "time": 46.4910927,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3640744298",
+    "hash": "2631847b60afa087a37addde308122e302e6eb9f11da240333c5158ea8edf38f",
+    "level": {
+      "name": "ZSL - Kalimera",
+      "path": "downloads/3640744298/ZSL - Kalimera/ZSL - Kalimera.zeeplevel",
+      "blocks": 1563,
+      "author": {
+        "name": "BB_Benji",
+        "StmID": 76561198428660620,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "70KW7tOErE2VBim_BB_Benji",
+      "time": 49.3454,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  }
+]
