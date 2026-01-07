@@ -31,19 +31,19 @@
   },
   {
     "workshopPath": "downloads/3640808516",
-    "hash": "841665e6f0fb9aeeb5df035b03e0d762da74206210575e25bbc37bf5546ae9a6",
+    "hash": "25f9b73b4d8c9517e3a4d4a99af98b0756741bad62ddda38f48580b883a79f64",
     "level": {
       "name": "ZSL - something ancient",
       "path": "downloads/3640808516/ZSL - something ancient/ZSL - something ancient.zeeplevel",
-      "blocks": 2488,
+      "blocks": 2509,
       "author": {
         "name": "[20x]K410K3N",
         "StmID": 76561198083300340,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "jZcypYIzGU-D1JK_[20x]K410K3N",
-      "time": 46.4910927,
+      "uuid": "tLuOvPfS50Slez6_[20x]K410K3N",
+      "time": 46.64651,
       "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -57,7 +57,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3640744298",
