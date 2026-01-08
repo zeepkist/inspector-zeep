@@ -119,5 +119,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3642297317",
+    "hash": "30df046de793586ad5858b8945053a5ea2dd64ecc92ebc768e9095db6845799e",
+    "level": {
+      "name": "ZSL - Valley of the Zeeps",
+      "path": "downloads/3642297317/ZSL - Valley of the Zeeps/ZSL - Valley of the Zeeps.zeeplevel",
+      "blocks": 387,
+      "author": {
+        "name": "mori_cinis",
+        "StmID": 76561198158497200,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "hgmp7Y-Z0E-2qJg_mori_cinis",
+      "time": 40.0005,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
