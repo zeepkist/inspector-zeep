@@ -122,18 +122,18 @@
   },
   {
     "workshopPath": "downloads/3642297317",
-    "hash": "30df046de793586ad5858b8945053a5ea2dd64ecc92ebc768e9095db6845799e",
+    "hash": "857212010a9b57711d5bb12b4572d5e62daf60a0c2427bac3f6840f8bc472a82",
     "level": {
       "name": "ZSL - Valley of the Zeeps",
       "path": "downloads/3642297317/ZSL - Valley of the Zeeps/ZSL - Valley of the Zeeps.zeeplevel",
-      "blocks": 387,
+      "blocks": 390,
       "author": {
         "name": "mori_cinis",
         "StmID": 76561198158497200,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "hgmp7Y-Z0E-2qJg_mori_cinis",
+      "uuid": "o_pf6Gb-BkKTC7R_mori_cinis",
       "time": 40.0005,
       "checkpoints": 10,
       "changerGateModes": {},
@@ -148,6 +148,7 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   }
 ]
