@@ -180,5 +180,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3642997135",
+    "hash": "afa64ee24713ac937eb966d794539b21098a70f4b4c0b4260df2329f3a7944cb",
+    "level": {
+      "name": "ZSL- Circus Maximus Chariot Run",
+      "path": "downloads/3642997135/ZSL- Circus Maximus Chariot Run/ZSL- Circus Maximus Chariot Run.zeeplevel",
+      "blocks": 1997,
+      "author": {
+        "name": "b17bobby",
+        "StmID": 76561198171222110,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "RBhLnR0ut0KVmxY_b17bobby",
+      "time": 44.9401855,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
