@@ -150,5 +150,35 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "downloads/3642459173",
+    "hash": "88adda6d9b5e909144370fd375404fff2017b15f4266ce7bff96fa38c4f0bd78",
+    "level": {
+      "name": "ZSL - Ancient Aztec",
+      "path": "downloads/3642459173/ZSL - Ancient Aztec/ZSL - Ancient Aztec.zeeplevel",
+      "blocks": 500,
+      "author": {
+        "name": "[TTR]MetalCJ",
+        "StmID": 76561199602234420,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "UTHulfpdoUuAOoE_[TTR]MetalCJ",
+      "time": 45.06646,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
