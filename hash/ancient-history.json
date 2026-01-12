@@ -211,5 +211,35 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "downloads/3644813934",
+    "hash": "7d3e117c75380a803afa2b8cc19a292c66db7cd744b40097b9270199e7a0c8c8",
+    "level": {
+      "name": "ZSL - Journey To The Temple Of Zeep",
+      "path": "downloads/3644813934/ZSL - Journey To The Temple Of Zeep/ZSL - Journey To The Temple Of Zeep.zeeplevel",
+      "blocks": 2541,
+      "author": {
+        "name": "[CRT]Codewalt",
+        "StmID": 76561198262438670,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "LTghMiboQ0yPXqL_[CRT]Codewalt",
+      "time": 53.409874,
+      "checkpoints": 11,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
