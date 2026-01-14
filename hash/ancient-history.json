@@ -241,5 +241,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3646645647",
+    "hash": "eaff4c5f1d27b5acea416726d538860bca836c7e5e416cc423f0b6a6a78563cd",
+    "level": {
+      "name": "ZSL - Vallum Aelium",
+      "path": "downloads/3646645647/ZSL - Vallum Aelium/ZSL - Vallum Aelium.zeeplevel",
+      "blocks": 1713,
+      "author": {
+        "name": "[CSC] DeeDeeNaNaNa",
+        "StmID": 76561198314320060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "tlePd37lQkm5wcZ_[CSC] DeeDeeNaNaNa",
+      "time": 43.783577,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
