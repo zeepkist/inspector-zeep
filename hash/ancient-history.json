@@ -271,5 +271,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3646642799",
+    "hash": "36a44eaf51791b504861c6e9198c03a5f12f7b70d8942ceac74fa1860c814534",
+    "level": {
+      "name": "ZSL - Petrashade",
+      "path": "downloads/3646642799/ZSL - Petrashade/ZSL - Petrashade.zeeplevel",
+      "blocks": 1421,
+      "author": {
+        "name": "[bam]Mortishade",
+        "StmID": 76561197991251760,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "z9NwwyZYx0ygcun_[CTR]Mortishade",
+      "time": 44.96439,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
