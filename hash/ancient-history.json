@@ -301,5 +301,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3646920451",
+    "hash": "651eb005678800cc75f215f5c529661db8d2ef02e19bb90efdc2ecd688941f4a",
+    "level": {
+      "name": "ZSL - Emperor Yannic's Wall",
+      "path": "downloads/3646920451/ZSL - Emperor Yannic's Wall/ZSL - Emperor Yannic's Wall.zeeplevel",
+      "blocks": 3000,
+      "author": {
+        "name": "[CSC]CantFindTheSky",
+        "StmID": 76561199187327000,
+        "collaborators": "[CSC]Tommygaming",
+        "nameOverride": ""
+      },
+      "uuid": "-WvR-vybU0e3SDl_[CSC]Tommygaming",
+      "time": 52.23878,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
