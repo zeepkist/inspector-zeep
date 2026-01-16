@@ -361,5 +361,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3647643189",
+    "hash": "526959a4823bb0c54416910626c50d245bc1b9110e3ae0217609a4cf5c752749",
+    "level": {
+      "name": "ZSL - Ancient Construction",
+      "path": "downloads/3647643189/ZSL - Ancient Construction/ZSL - Ancient Construction.zeeplevel",
+      "blocks": 449,
+      "author": {
+        "name": "[CSC] variableferret",
+        "StmID": 76561198157436740,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "xxUED_1e0ky0L1v_[CSC] variableferret",
+      "time": 41.86204,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
