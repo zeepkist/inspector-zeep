@@ -393,5 +393,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3648376867",
+    "hash": "ca732d0f86fcbed7c27760e1d1db9dd5c1fdd18b4e2f6de85d36e3f6658fb635",
+    "level": {
+      "name": "ZSL - Mount Picchu",
+      "path": "downloads/3648376867/ZSL - Mount Picchu/ZSL - Mount Picchu.zeeplevel",
+      "blocks": 1948,
+      "author": {
+        "name": "Maou, Maki, Last",
+        "StmID": 76561198050792750,
+        "collaborators": "",
+        "nameOverride": "Maou, Maki, Last"
+      },
+      "uuid": "5jxKNzHInkqUobU_justMaki",
+      "time": 53.0837173,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
