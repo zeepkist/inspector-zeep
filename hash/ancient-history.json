@@ -454,5 +454,35 @@
       "hasRequiredChangerGateModes": true
     },
     "invalidatedAt": 0
+  },
+  {
+    "workshopPath": "downloads/3649177592",
+    "hash": "44519aec0997cd09fcb89868973b9181b3b465239b06b2a63cf8894c1b4ac3e6",
+    "level": {
+      "name": "ZSL - Ancient Traveler",
+      "path": "downloads/3649177592/ZSL - Ancient Traveler/ZSL - Ancient Traveler.zeeplevel",
+      "blocks": 1373,
+      "author": {
+        "name": "1uk3",
+        "StmID": 76561198017867940,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "0GCio62IG0ul5ao_1uk3",
+      "time": 59.615757,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
