@@ -423,5 +423,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3649015437",
+    "hash": "4e6138bbdb86329cba6d527ee54d174cb1cd5092d0d14996dbf7a144f3d362ac",
+    "level": {
+      "name": "ZSL - Ziggurat Racers",
+      "path": "downloads/3649015437/ZSL - Ziggurat Racers/ZSL - Ziggurat Racers.zeeplevel",
+      "blocks": 529,
+      "author": {
+        "name": "WotterBytes",
+        "StmID": 76561198031026580,
+        "collaborators": "",
+        "nameOverride": "WotterBytes (Aurora)"
+      },
+      "uuid": "tT2LZwvKBEac6K7_WotterBytes",
+      "time": 48.15886,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 3
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
