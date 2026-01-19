@@ -484,5 +484,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3649985565",
+    "hash": "6d655477530465d926ea39f75dccb9fa9cc602f0e6f2bab410b4f69937383965",
+    "level": {
+      "name": "ZSL - Mount Zlympus",
+      "path": "downloads/3649985565/ZSL - Mount Zlympus/ZSL - Mount Zlympus.zeeplevel",
+      "blocks": 1124,
+      "author": {
+        "name": "_Mackey_",
+        "StmID": 76561198086401090,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Cwbr7sipnEWIV3Y__Mackey_",
+      "time": 53.8785362,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 63
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
