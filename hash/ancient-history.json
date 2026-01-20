@@ -514,5 +514,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3650192218",
+    "hash": "0b80643c10bb9dace06b434f2dc8246b787a12b4955a75f176ab7ffffc7aaaa0",
+    "level": {
+      "name": "ZSL - Ancient Grease",
+      "path": "downloads/3650192218/ZSL - Ancient Grease/ZSL - Ancient Grease.zeeplevel",
+      "blocks": 2382,
+      "author": {
+        "name": "[CSC] Shadynook",
+        "StmID": 76561197980151170,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "JFZoGwmyX0u1cGl_[CSC] Shadynook",
+      "time": 44.65977,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
