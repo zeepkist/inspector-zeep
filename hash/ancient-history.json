@@ -544,5 +544,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3650494654",
+    "hash": "d3a2c5c091e1a2af1941f9705b39d68d4e0e41b19f36a7f10fd602e11c4c51d4",
+    "level": {
+      "name": "ZSL - The Dracaenae's Revenge",
+      "path": "downloads/3650494654/ZSL - The Dracaenae's Revenge/ZSL - The Dracaenae's Revenge.zeeplevel",
+      "blocks": 497,
+      "author": {
+        "name": "[TTR] Tigerplaysonpc",
+        "StmID": 76561199583579400,
+        "collaborators": "[TTR] Dragonshadow842",
+        "nameOverride": ""
+      },
+      "uuid": "b13Q6mLA8U-yjOn_[TTR] Tigerplaysonpc",
+      "time": 32.0790024,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
