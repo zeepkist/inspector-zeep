@@ -574,5 +574,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3651076192",
+    "hash": "e4241b21e31937a355449ddbf8d784472459e5dd24c074ceb39836be6d7ce798",
+    "level": {
+      "name": "ZSL - Trojan Cat",
+      "path": "downloads/3651076192/ZSL - Trojan Cat/ZSL - Trojan Cat.zeeplevel",
+      "blocks": 1721,
+      "author": {
+        "name": "[CSC]OLR94",
+        "StmID": 76561198314583070,
+        "collaborators": "[CSC]Sahne mit Bohnen",
+        "nameOverride": ""
+      },
+      "uuid": "awsEyY5lqUOe62m_[CSC]OLR94",
+      "time": 39.2182846,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
