@@ -634,5 +634,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3652515090",
+    "hash": "525acabc884df56b0b0df4676e295e64b9ddf1775c9c00dadb6b6c334275d44c",
+    "level": {
+      "name": "ZSL - Desert Treasure",
+      "path": "downloads/3652515090/ZSL - Desert Treasure/ZSL - Desert Treasure.zeeplevel",
+      "blocks": 925,
+      "author": {
+        "name": "[CTR]GuAlexItar",
+        "StmID": 76561197979087520,
+        "collaborators": "[CSC] Mokster",
+        "nameOverride": ""
+      },
+      "uuid": "VlupxCIonEmF4s9_[CSC]Mokster",
+      "time": 44.6766853,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
