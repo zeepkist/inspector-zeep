@@ -604,5 +604,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3652486458",
+    "hash": "940a96e91c6eb6bf8d95af75b786c33ad343042d96cbf25b276f2627f003d13a",
+    "level": {
+      "name": "ZSL - Babylon",
+      "path": "downloads/3652486458/ZSL - Babylon/ZSL - Babylon.zeeplevel",
+      "blocks": 2348,
+      "author": {
+        "name": "Diabler",
+        "StmID": 76561197989028540,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "hr7NC2EEukWvp_d_Diabler",
+      "time": 57.62063,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
