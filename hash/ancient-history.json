@@ -725,5 +725,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3653221610",
+    "hash": "30beecfc8ca53eae3aa1f3c4f5b04c19d61c24b019dd7da26a038719e44682ba",
+    "level": {
+      "name": "ZSL - Dessert Heat",
+      "path": "downloads/3653221610/ZSL - Dessert Heat/ZSL - Dessert Heat.zeeplevel",
+      "blocks": 380,
+      "author": {
+        "name": "GoBigGoHotWheels",
+        "StmID": 76561199756332060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "7GD577_-kEStn3V_GoBigGoHotWheels",
+      "time": 53.5348969,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
