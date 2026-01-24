@@ -755,5 +755,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3653256727",
+    "hash": "613401aed2a60f211d8ad83e41409f50d9119fa65f82c5fa97d2295e7c5b1647",
+    "level": {
+      "name": "ZSL - Assault on Rhodes",
+      "path": "downloads/3653256727/ZSL - Assault on Rhodes/ZSL - Assault on Rhodes.zeeplevel",
+      "blocks": 1121,
+      "author": {
+        "name": "[TTV]incredulouspotato",
+        "StmID": 76561199523936140,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "-xf1Jz2wh0KG3IT_[TTV]incredulouspotato",
+      "time": 48.3192558,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
