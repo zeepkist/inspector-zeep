@@ -637,18 +637,18 @@
   },
   {
     "workshopPath": "downloads/3652515090",
-    "hash": "4d6c11f24d8672f5da9d1f3ac7347ce0bc67d826bf96f974cb8549e689baac3f",
+    "hash": "d3c6945b800a680656bf8305c79c389ae20b79c736250e6937d5bc8df9f0a668",
     "level": {
       "name": "ZSL - Desert Treasure",
       "path": "downloads/3652515090/ZSL - Desert Treasure/ZSL - Desert Treasure.zeeplevel",
-      "blocks": 1029,
+      "blocks": 1031,
       "author": {
         "name": "[CTR]GuAlexItar",
         "StmID": 76561197979087520,
         "collaborators": "[CSC] Mokster",
         "nameOverride": ""
       },
-      "uuid": "POU2QE9v3E6DZmF_[CSC]Mokster",
+      "uuid": "gisxQQH_Bk6tQR6_[CSC]Mokster",
       "time": 44.6766853,
       "checkpoints": 6,
       "changerGateModes": {},
