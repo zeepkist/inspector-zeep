@@ -664,5 +664,65 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3652838569",
+    "hash": "444c88bf8924d134262ff24788ff64381af689d96bf9e327536c41e903378f8d",
+    "level": {
+      "name": "ZSL - Fighting With Giants",
+      "path": "downloads/3652838569/ZSL - Fighting With Giants/ZSL - Fighting With Giants.zeeplevel",
+      "blocks": 2329,
+      "author": {
+        "name": "ferinine",
+        "StmID": 76561198149810830,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "VzU1ufTtXkqZOJ1_[ERR]ferinine",
+      "time": 49.73635,
+      "checkpoints": 12,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3652831955",
+    "hash": "5904cf8a5bfd0d22c80b973e2d7dc6737733c1c519bdfff059374e01b2cddc97",
+    "level": {
+      "name": "ZSL - Hero's Gauntlet",
+      "path": "downloads/3652831955/ZSL - Hero's Gauntlet/ZSL - Hero's Gauntlet.zeeplevel",
+      "blocks": 1056,
+      "author": {
+        "name": "Noxitu",
+        "StmID": 76561198126038300,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "mgm3OZE-aEKh-Ch_Noxitu",
+      "time": 41.1156,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
