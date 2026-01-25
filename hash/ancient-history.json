@@ -785,5 +785,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3653464453",
+    "hash": "c316b6f205830930fcd4dd0f71611fe0c5329fa8c7c038ec0403a428a47017f1",
+    "level": {
+      "name": "ZSL - Iron Age Farmstead",
+      "path": "downloads/3653464453/ZSL - Iron Age Farmstead/ZSL - Iron Age Farmstead.zeeplevel",
+      "blocks": 2975,
+      "author": {
+        "name": "[TOG]Lazy_Echidna",
+        "StmID": 76561198008859140,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "LqpeYl3nPU2sMEJ_[TOG]Lazy_Echidna",
+      "time": 27.798254,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
