@@ -815,5 +815,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3653703410",
+    "hash": "a3d6d883c62d12b58fa3312fac9e3001ecfda4fdcb84022fc11bc7cdc2793af5",
+    "level": {
+      "name": "ZSL - Stonehenge 3",
+      "path": "downloads/3653703410/ZSL - Stonehenge 3/ZSL - Stonehenge 3.zeeplevel",
+      "blocks": 328,
+      "author": {
+        "name": "St Nicholas",
+        "StmID": 76561198047403250,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "1ap5sE4A6UO63UQ_St Nicholas",
+      "time": 47.3509331,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
