@@ -875,5 +875,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3653840918",
+    "hash": "c5b4834c27b8cb42ce854e046ab87905c89be190bbaec6ef7e9dca7edf20f826",
+    "level": {
+      "name": "ZSL - The Fall of Troy",
+      "path": "downloads/3653840918/ZSL - The Fall of Troy/ZSL - The Fall of Troy.zeeplevel",
+      "blocks": 2907,
+      "author": {
+        "name": "[MMM]LKat",
+        "StmID": 76561199733601760,
+        "collaborators": "[MMM]Victor & [MMM]Milk Man",
+        "nameOverride": ""
+      },
+      "uuid": "2lGfcl92oEOcqCR_[MMM]LKat",
+      "time": 41.711937,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
