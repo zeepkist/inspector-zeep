@@ -845,5 +845,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3653747850",
+    "hash": "8e9b6b77caa65daca31a04fddb3492dac2636e960ae9b30783c43b2da3ec1b1e",
+    "level": {
+      "name": "ZSL - Teyuna",
+      "path": "downloads/3653747850/ZSL - Teyuna/ZSL - Teyuna.zeeplevel",
+      "blocks": 1641,
+      "author": {
+        "name": "[CSC]AndMe17",
+        "StmID": 76561198067925400,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "nxvuxiH9Gk6QBYA_[CSC]AndMe17",
+      "time": 42.63706,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
