@@ -1,0 +1,332 @@
+[
+  {
+    "workshopPath": "downloads/3663354633",
+    "hash": "1cbd4d4395be42c9f359022837b75c17be5da02f5b21353f119a357ddc6a2a97",
+    "level": {
+      "name": "ZSL - Mesashade",
+      "path": "downloads/3663354633/ZSL - Mesashade/ZSL - Mesashade.zeeplevel",
+      "blocks": 1282,
+      "author": {
+        "name": "[CTR]Mortishade",
+        "StmID": 76561197991251760,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "5pU5uv6JV0eQnV-_[CTR]Mortishade",
+      "time": 44.0002556,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3663215301",
+    "hash": "8f784ce46485676602e300b5ff41e47d2a31eb9325e6ba442ef8fb5832b57236",
+    "level": {
+      "name": "ZSL - I am speed with caffeine",
+      "path": "downloads/3663215301/ZSL - I am speed with caffeine/ZSL - I am speed with caffeine.zeeplevel",
+      "blocks": 921,
+      "author": {
+        "name": "[TOG]ioi8",
+        "StmID": 76561198013828580,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "-npwwLXLskuq3K4_[TOG]ioi8",
+      "time": 44.2483521,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3662425114",
+    "hash": "20f19aa70ce21d2daff90f0d580401481c5cdd844cc28fc4d41c211d05056cc1",
+    "level": {
+      "name": "ZSL - Manic Dash",
+      "path": "downloads/3662425114/ZSL - Manic Dash/ZSL - Manic Dash.zeeplevel",
+      "blocks": 443,
+      "author": {
+        "name": "[CSC] variableferret",
+        "StmID": 76561198157436740,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Euqw5a7JVU-z_Ek_[CSC] variableferret",
+      "time": 44.9979477,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3662150007",
+    "hash": "f82e3c763b8b1b67a1d17d1cdaff2f94f330e1cb8f8b7444e229497a1b7e214e",
+    "level": {
+      "name": "ZSL - Mania Valley",
+      "path": "downloads/3662150007/ZSL - Mania Valley/ZSL - Mania Valley.zeeplevel",
+      "blocks": 1593,
+      "author": {
+        "name": "[CSC] Shadynook",
+        "StmID": 76561197980151170,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "kz7znYOv4U6Ez6A_[CSC] Shadynook",
+      "time": 43.76049,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3662096455",
+    "hash": "6e3c5f25e4c90fd530fae7f360d88afb1fa1cc64b08987925bbae40a029b3f2a",
+    "level": {
+      "name": "ZSL - Sphere ",
+      "path": "downloads/3662096455/ZSL - Sphere/ZSL - Sphere .zeeplevel",
+      "blocks": 225,
+      "author": {
+        "name": "[TTR]MetalCJ",
+        "StmID": 76561199602234420,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "k1qoWwhGNU-AE42_[TTR]MetalCJ",
+      "time": 51.17344,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3662037626",
+    "hash": "db90ac5d58789642a8272d5532757d1f4c409a3134228b930dd03032afe4210b",
+    "level": {
+      "name": "ZSL - Fallen Symphony",
+      "path": "downloads/3662037626/ZSL - Fallen Symphony/ZSL - Fallen Symphony.zeeplevel",
+      "blocks": 818,
+      "author": {
+        "name": "null/plexus",
+        "StmID": 76561198104372260,
+        "collaborators": "zivecef",
+        "nameOverride": ""
+      },
+      "uuid": "KbUKxV_s20mC1MO_null/plexus",
+      "time": 47.50955,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3661801028",
+    "hash": "1662f6284746a54f1bb638738ac9e18eac1938429a8c89f65a3f773571d7455d",
+    "level": {
+      "name": "ZSL - Go very fast!",
+      "path": "downloads/3661801028/ZSL - Go very fast!/ZSL - Go very fast!.zeeplevel",
+      "blocks": 853,
+      "author": {
+        "name": "Mima01a",
+        "StmID": 76561199347921780,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "1s2Vy_tBLUmymUg_Mima01a",
+      "time": 45.46471,
+      "checkpoints": 12,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3661508763",
+    "hash": "24fab951b5558c71e1ba8771fa3bb5ee322de9a350e70a7dccdc9b68c9b43053",
+    "level": {
+      "name": "ZSL - Altitude",
+      "path": "downloads/3661508763/ZSL - Altitude/ZSL - Altitude.zeeplevel",
+      "blocks": 721,
+      "author": {
+        "name": "[CRT]Codewalt",
+        "StmID": 76561198262438670,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Evk21m4DPU-uF7n_[CRT]Codewalt",
+      "time": 38.84637,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3660673567",
+    "hash": "a56bf5b05955b1dc68833941694a578f1ad48251f22d498f9b8409b429a87e2f",
+    "level": {
+      "name": "ZSL - Groovin' & Speedin'",
+      "path": "downloads/3660673567/ZSL - Groovin' & Speedin'/ZSL - Groovin' & Speedin'.zeeplevel",
+      "blocks": 136,
+      "author": {
+        "name": "[CCC]Shinikage221",
+        "StmID": 76561199093841300,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "DcgFa-qB7k2atPo_[CCC]Shinikage221",
+      "time": 26.9103718,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3659460687",
+    "hash": "2e1f79c7b71df54abe96a6f349df0a9f1df082e81c9800925a7fd5b305c10e17",
+    "level": {
+      "name": "ZSL - Breakneck Vector",
+      "path": "downloads/3659460687/ZSL - Breakneck Vector/ZSL - Breakneck Vector.zeeplevel",
+      "blocks": 950,
+      "author": {
+        "name": "[CSC]Tommygaming",
+        "StmID": 76561199187327000,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "Yn_YOZI5LEu7b2J_[CSC]Tommygaming",
+      "time": 49.28916,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3659354247",
+    "hash": "34f6df71304a9277a9f08d003d2ec126e1beba18f64e213b37a81deba29c6b1b",
+    "level": {
+      "name": "ZSL - Speedocta",
+      "path": "downloads/3659354247/ZSL - Speedocta/ZSL - Speedocta.zeeplevel",
+      "blocks": 714,
+      "author": {
+        "name": "[20x]K410K3N",
+        "StmID": 76561198083300340,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "bfkzen5h5Ei5FiI_[20x]K410K3N",
+      "time": 42.4148865,
+      "checkpoints": 10,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  }
+]
