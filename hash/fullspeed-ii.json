@@ -328,5 +328,65 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3664533950",
+    "hash": "0ba0bc6cff28a991c72719f23cf5a55f5056d0b8962387396f6ce4e03105a649",
+    "level": {
+      "name": "ZSL - A Colorful Valley",
+      "path": "downloads/3664533950/ZSL - A Colorful Valley/ZSL - A Colorful Valley.zeeplevel",
+      "blocks": 956,
+      "author": {
+        "name": "Noxitu",
+        "StmID": 76561198126038300,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "C5HSmxw_iUaUTxm_Noxitu",
+      "time": 54.943367,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3664509966",
+    "hash": "bfbc1e0fdcb08b6b1b3e6b40b170d332d152d7a6ef353f35692b1532f9024d52",
+    "level": {
+      "name": "ZSL - Pomegranate",
+      "path": "downloads/3664509966/ZSL - Pomegranate/ZSL - Pomegranate.zeeplevel",
+      "blocks": 1689,
+      "author": {
+        "name": "PlusMicron",
+        "StmID": 76561199186342060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "g4KGyW2khUSe84k_PlusMicron",
+      "time": 43.03357,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
