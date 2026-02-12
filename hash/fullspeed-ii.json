@@ -510,5 +510,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3664367807",
+    "hash": "9e47ade2f4a7b893be28d02e8b6c723d1f65d7e31df11c59aad05e5edf8fd0a2",
+    "level": {
+      "name": "ZSL - Transmutation Test Track",
+      "path": "downloads/3664367807/ZSL - Transmutation Test Track/ZSL - Transmutation Test Track.zeeplevel",
+      "blocks": 491,
+      "author": {
+        "name": "mori_cinis",
+        "StmID": 76561198158497200,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "uPN0y02sKUa4WVk_mori_cinis",
+      "time": 44.87873,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
