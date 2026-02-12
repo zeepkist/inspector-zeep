@@ -420,5 +420,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3664995207",
+    "hash": "568d5dbf4bbd49b4c33616dcd89a68fc9435f1c715934070dbace6a3fb8e8cc4",
+    "level": {
+      "name": "Dastardly Desert",
+      "path": "downloads/3664995207/Dastardly Desert/Dastardly Desert.zeeplevel",
+      "blocks": 877,
+      "author": {
+        "name": "Modern-X Studios",
+        "StmID": 76561198119721260,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "1Js1DTfeq0qthk4_Modern-X Studios",
+      "time": 54.95562,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
