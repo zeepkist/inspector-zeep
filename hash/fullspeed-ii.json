@@ -389,5 +389,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3664621634",
+    "hash": "2eb2a8b699a4f2c63787b8cb7e284f185f5f3549d1ca39614b594c9a466dacf3",
+    "level": {
+      "name": "ZSL - I am speed with caffeine",
+      "path": "downloads/3664621634/ZSL - I am speed with caffeine/ZSL - I am speed with caffeine.zeeplevel",
+      "blocks": 1062,
+      "author": {
+        "name": "[TOG]ioi8",
+        "StmID": 76561198013828580,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "cjiY_Iw8dEyCGxt_[TOG]ioi8",
+      "time": 43.8085251,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
