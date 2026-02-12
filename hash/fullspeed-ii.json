@@ -480,5 +480,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3665019542",
+    "hash": "14411647e472e3a777890c82f5f7ee16de4b7a369a591276a8e9800d8583ac11",
+    "level": {
+      "name": "ZSL - At the edge of time",
+      "path": "downloads/3665019542/ZSL - At the edge of time/ZSL - At the edge of time.zeeplevel",
+      "blocks": 989,
+      "author": {
+        "name": "[CSC] Sahne mit Bohnen",
+        "StmID": 76561198129913300,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "rMoVUZx840ORIRS_[CSC] Sahne mit Bohnen",
+      "time": 48.63164,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 4
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
