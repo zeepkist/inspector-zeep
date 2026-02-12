@@ -450,5 +450,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3665023493",
+    "hash": "a27d7856b25cc2b9a424cf839ee50ad011409680bdf79f62645baa9463afb615",
+    "level": {
+      "name": "ZSL - Lost and Mistaken",
+      "path": "downloads/3665023493/ZSL - Lost and Mistaken/ZSL - Lost and Mistaken.zeeplevel",
+      "blocks": 2000,
+      "author": {
+        "name": "justMaki",
+        "StmID": 76561198050792750,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "59od9W8mjU64vWN_justMaki",
+      "time": 54.312088,
+      "checkpoints": 11,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
