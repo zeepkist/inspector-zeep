@@ -571,5 +571,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3665346280",
+    "hash": "6566a47a774494d95720b41647881c5c52f824195cd80349f628c37af9bafa2c",
+    "level": {
+      "name": "Zsl - Light = Speed",
+      "path": "downloads/3665346280/Zsl - Light = Speed/Zsl - Light = Speed.zeeplevel",
+      "blocks": 382,
+      "author": {
+        "name": "[ERR]ferinine",
+        "StmID": 76561198149810830,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "UKRfZ4jmd0Ct1hm_[ERR]ferinine",
+      "time": 46.7538948,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 40
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
