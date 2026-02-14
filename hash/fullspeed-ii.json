@@ -631,5 +631,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3666345528",
+    "hash": "c4d04d6fb20c9b31001ef7f4de479982172491a8c202510fdf4016154b5242ae",
+    "level": {
+      "name": "ZSL - The Night",
+      "path": "downloads/3666345528/ZSL - The Night/ZSL - The Night.zeeplevel",
+      "blocks": 125,
+      "author": {
+        "name": "[Dino] Rex",
+        "StmID": 76561199818782990,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ga50Ra20W0OLQVF_[Dino] Rex",
+      "time": 44.7130165,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
