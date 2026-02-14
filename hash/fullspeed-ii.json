@@ -601,5 +601,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3665980419",
+    "hash": "9d5cdf2db342e5c86f01b589781b87173ba1772a1fe3547797f615678961825c",
+    "level": {
+      "name": "ZSL - Full Speed Forest",
+      "path": "downloads/3665980419/ZSL - Full Speed Forest/ZSL - Full Speed Forest.zeeplevel",
+      "blocks": 1860,
+      "author": {
+        "name": "[CSC] redal",
+        "StmID": 76561198181691230,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "3zkiLAxH5U-LnCu_[CSC] redal",
+      "time": 36.923275,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
