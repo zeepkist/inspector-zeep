@@ -661,5 +661,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3667161921",
+    "hash": "571f35c4e5a80e8bacc9883b446ea600cbe0316baab97c1c9d29d62653093a47",
+    "level": {
+      "name": "ZSL - We're getting there",
+      "path": "downloads/3667161921/ZSL - We're getting there/ZSL - We're getting there.zeeplevel",
+      "blocks": 2989,
+      "author": {
+        "name": "[CSC] DeeDeeNaNaNa",
+        "StmID": 76561198314320060,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "9iPJpYrzL0qflQE_[CSC] DeeDeeNaNaNa",
+      "time": 50.75022,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
