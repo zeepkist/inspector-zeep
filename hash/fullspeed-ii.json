@@ -691,5 +691,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3667359163",
+    "hash": "dab07455860d6a7fc2df6c0df7912e7a4c0f5ac21c03349d773a5de8c2df6f1c",
+    "level": {
+      "name": "ZSL - Cadence",
+      "path": "downloads/3667359163/ZSL - Cadence/ZSL - Cadence.zeeplevel",
+      "blocks": 1137,
+      "author": {
+        "name": "St Nicholas",
+        "StmID": 76561198047403250,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "KP-kn2imukC6wb-_St Nicholas",
+      "time": 56.5641365,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
