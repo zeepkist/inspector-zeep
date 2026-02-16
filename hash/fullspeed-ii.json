@@ -721,5 +721,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3667477416",
+    "hash": "d2a4565bb49260285235b3f21e071012d1a049c431db7358458264c492f35e0d",
+    "level": {
+      "name": "ZSL - Space Warrior 2 ",
+      "path": "downloads/3667477416/ZSL - Space Warrior 2/ZSL - Space Warrior 2 .zeeplevel",
+      "blocks": 496,
+      "author": {
+        "name": "[CSC]OLR94",
+        "StmID": 76561198314583070,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "QLOn0SwQ6EuVuJE_[CSC]OLR94",
+      "time": 48.23881,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
