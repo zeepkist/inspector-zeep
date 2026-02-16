@@ -752,5 +752,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3667680588",
+    "hash": "0db59beab6d3c8b23953e24a7c52868fc87aead91000324753c8bd4d29580237",
+    "level": {
+      "name": "ZSL - Forgotten Factory Frenzy",
+      "path": "downloads/3667680588/ZSL - Forgotten Factory Frenzy/ZSL - Forgotten Factory Frenzy.zeeplevel",
+      "blocks": 1069,
+      "author": {
+        "name": "Hockmu",
+        "StmID": 76561198419470640,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "rmUHEVZwGU2MwvS_Hockmu",
+      "time": 43.51358,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
