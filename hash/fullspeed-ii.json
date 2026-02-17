@@ -813,5 +813,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3668221781",
+    "hash": "e0d68dd1647ebe407f9f0a5bff31da50120d2aceeb74ba98a881c2ede845525d",
+    "level": {
+      "name": "ZSL - RetroWeave",
+      "path": "downloads/3668221781/ZSL - RetroWeave/ZSL - RetroWeave.zeeplevel",
+      "blocks": 887,
+      "author": {
+        "name": "archerman64",
+        "StmID": 76561198326183340,
+        "collaborators": "",
+        "nameOverride": "archerman64"
+      },
+      "uuid": "1yqRgKLAA0m2uxs_archerman64",
+      "time": 43.3484154,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
