@@ -843,5 +843,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3668689263",
+    "hash": "70a107cccbe385ff51dc941aad1e115c4f94b098661cbcf255d52c29df59e2bb",
+    "level": {
+      "name": "ZSL - Head First Into The Valley",
+      "path": "downloads/3668689263/ZSL - Head First Into The Valley/ZSL - Head First Into The Valley.zeeplevel",
+      "blocks": 543,
+      "author": {
+        "name": "[CSC]CantFindTheSky",
+        "StmID": 76561198093513150,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "j1F6KVyfR0uXO-e_[CSC]CantFindTheSky",
+      "time": 47.50775,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
