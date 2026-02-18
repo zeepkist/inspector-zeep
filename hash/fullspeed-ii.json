@@ -873,5 +873,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3668804608",
+    "hash": "92521123f994a05f8a2786ab1891afaf50f6f4b1e9a118f638272861635ce163",
+    "level": {
+      "name": "ZSL - lilith",
+      "path": "downloads/3668804608/ZSL - lilith/ZSL - lilith.zeeplevel",
+      "blocks": 1822,
+      "author": {
+        "name": "brrryy",
+        "StmID": 76561199129302750,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "8f-XImT8gEGb00o_brrryy",
+      "time": 40.1214371,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
