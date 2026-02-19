@@ -574,19 +574,19 @@
   },
   {
     "workshopPath": "downloads/3665346280",
-    "hash": "0584b53087e486a7e88a0df78992cdceb2ee90bf0c97623d072b5330f2bda37d",
+    "hash": "c7c7223b16d81e48685b4dc54e7ff393ba28094318078bb08bb3d7900c93ac0d",
     "level": {
       "name": "Zsl - Light = Speed",
       "path": "downloads/3665346280/Zsl - Light = Speed/Zsl - Light = Speed.zeeplevel",
-      "blocks": 421,
+      "blocks": 409,
       "author": {
         "name": "[ERR]ferinine",
         "StmID": 76561198149810830,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "Ef_RX8RiCEKzYJT_[ERR]ferinine",
-      "time": 45.5879555,
+      "uuid": "1MhOBgCEQ0SoYum_[ERR]ferinine",
+      "time": 44.95245,
       "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 50
@@ -891,6 +891,36 @@
       "uuid": "8f-XImT8gEGb00o_brrryy",
       "time": 40.1214371,
       "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3669179590",
+    "hash": "e6a43f2ff7f354fd67262e812cfed07fe70a4c933c79b1dd2320d25b13b533b1",
+    "level": {
+      "name": "ZSL - Running Through Redwoods",
+      "path": "downloads/3669179590/ZSL - Running Through Redwoods/ZSL - Running Through Redwoods.zeeplevel",
+      "blocks": 1380,
+      "author": {
+        "name": "[heyo]Mr. Hubub",
+        "StmID": 76561199051019900,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "5OBP4hy4H0-pJIc_[heyo]Mr  Hubub",
+      "time": 35.3491058,
+      "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
     },
