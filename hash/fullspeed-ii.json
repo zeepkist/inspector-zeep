@@ -574,22 +574,22 @@
   },
   {
     "workshopPath": "downloads/3665346280",
-    "hash": "6566a47a774494d95720b41647881c5c52f824195cd80349f628c37af9bafa2c",
+    "hash": "0584b53087e486a7e88a0df78992cdceb2ee90bf0c97623d072b5330f2bda37d",
     "level": {
       "name": "Zsl - Light = Speed",
       "path": "downloads/3665346280/Zsl - Light = Speed/Zsl - Light = Speed.zeeplevel",
-      "blocks": 382,
+      "blocks": 421,
       "author": {
         "name": "[ERR]ferinine",
         "StmID": 76561198149810830,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "UKRfZ4jmd0Ct1hm_[ERR]ferinine",
-      "time": 46.7538948,
+      "uuid": "Ef_RX8RiCEKzYJT_[ERR]ferinine",
+      "time": 45.5879555,
       "checkpoints": 7,
       "changerGateModes": {},
-      "logicBlocks": 40
+      "logicBlocks": 50
     },
     "isValid": true,
     "validity": {
@@ -600,7 +600,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3665980419",
