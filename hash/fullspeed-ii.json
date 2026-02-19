@@ -1028,5 +1028,65 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3669574213",
+    "hash": "f4ff1617aeef462386e368eab977f34d7af6fc6ff41bc9bc144e4b2d9a13b341",
+    "level": {
+      "name": "ZSL - Sonic Bloom",
+      "path": "downloads/3669574213/ZSL - Sonic Bloom/ZSL - Sonic Bloom.zeeplevel",
+      "blocks": 1090,
+      "author": {
+        "name": "[CSC]Mokster",
+        "StmID": 76561197979087520,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "2ujCNR9kC0-BwjI_[CSC]Mokster",
+      "time": 40.8601952,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3669569308",
+    "hash": "ed49e5a4773d2dcb8b2f7352dc4333dcabff96c8a8441909e353adf3a0b266e8",
+    "level": {
+      "name": "ZSL - Red Wool Rampage",
+      "path": "downloads/3669569308/ZSL - Red Wool Rampage/ZSL - Red Wool Rampage.zeeplevel",
+      "blocks": 2725,
+      "author": {
+        "name": "Diabler",
+        "StmID": 76561197989028540,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "HE18Tg-hYEyGv7H_Diabler",
+      "time": 42.5432739,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
