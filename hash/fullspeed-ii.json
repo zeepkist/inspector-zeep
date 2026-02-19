@@ -998,5 +998,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3669498349",
+    "hash": "bbd9b52cd78a02131455c36555607441254503ff134f4be360074dcd3fb263cc",
+    "level": {
+      "name": "ZSL- Zeep-Zero AX v2",
+      "path": "downloads/3669498349/ZSL- Zeep-Zero AX v2/ZSL- Zeep-Zero AX v2.zeeplevel",
+      "blocks": 2431,
+      "author": {
+        "name": "DragonShadow84290",
+        "StmID": 76561198070406020,
+        "collaborators": "Agent_Lynx",
+        "nameOverride": ""
+      },
+      "uuid": "NDLA-m95w0qPSKQ_[TTR]DragonShadow84290",
+      "time": 55.33615371,
+      "checkpoints": 8,
+      "changerGateModes": {},
+      "logicBlocks": 2
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
