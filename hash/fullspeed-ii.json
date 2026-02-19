@@ -965,5 +965,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3669312791",
+    "hash": "4803729cb39a5e1c6bf98884fbacb6080cc2d5361b291bb22fb2121594d1a78f",
+    "level": {
+      "name": "ZSL - WhatIsThis",
+      "path": "downloads/3669312791/ZSL - WhatIsThis/ZSL - WhatIsThis.zeeplevel",
+      "blocks": 212,
+      "author": {
+        "name": "ping",
+        "StmID": 76561199109206780,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "8wb2j7nij0O5n9H_ping",
+      "time": 38.20389,
+      "checkpoints": 5,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
