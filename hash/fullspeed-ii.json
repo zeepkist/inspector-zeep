@@ -727,19 +727,19 @@
   },
   {
     "workshopPath": "downloads/3667477416",
-    "hash": "d2a4565bb49260285235b3f21e071012d1a049c431db7358458264c492f35e0d",
+    "hash": "a00a9b57bab69be163513efd961c0ffedde41deff90de6d55832321f47f433eb",
     "level": {
       "name": "ZSL - Space Warrior 2 ",
       "path": "downloads/3667477416/ZSL - Space Warrior 2/ZSL - Space Warrior 2 .zeeplevel",
-      "blocks": 496,
+      "blocks": 495,
       "author": {
         "name": "[CSC]OLR94",
         "StmID": 76561198314583070,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "QLOn0SwQ6EuVuJE_[CSC]OLR94",
-      "time": 48.23881,
+      "uuid": "-bY7bylClEi7OqY_[CSC]OLR94",
+      "time": 47.55041,
       "checkpoints": 8,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -753,7 +753,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3667680588",
@@ -921,6 +922,36 @@
       "uuid": "5OBP4hy4H0-pJIc_[heyo]Mr  Hubub",
       "time": 35.3491058,
       "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3669211724",
+    "hash": "af1730f72c0d12d1a381b82ffc87228dd3b829eafafad0ac9867c78075b3750c",
+    "level": {
+      "name": "ZSL - Nightshade",
+      "path": "downloads/3669211724/ZSL - Nightshade/ZSL - Nightshade.zeeplevel",
+      "blocks": 423,
+      "author": {
+        "name": "Kernkob",
+        "StmID": 76561199024808940,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "0Jrf38InAkKnK6w_Kernkob",
+      "time": 39.74131,
+      "checkpoints": 8,
       "changerGateModes": {},
       "logicBlocks": 0
     },
