@@ -576,19 +576,19 @@
   },
   {
     "workshopPath": "downloads/3665346280",
-    "hash": "c7c7223b16d81e48685b4dc54e7ff393ba28094318078bb08bb3d7900c93ac0d",
+    "hash": "8e8437dcb60b8735adb42663af100c1bede0cefb91f73caca60a10866d57950f",
     "level": {
       "name": "Zsl - Light = Speed",
       "path": "downloads/3665346280/Zsl - Light = Speed/Zsl - Light = Speed.zeeplevel",
-      "blocks": 409,
+      "blocks": 403,
       "author": {
         "name": "[ERR]ferinine",
         "StmID": 76561198149810830,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "1MhOBgCEQ0SoYum_[ERR]ferinine",
-      "time": 44.95245,
+      "uuid": "O_ZcikzgCUuHq___[ERR]ferinine",
+      "time": 44.42776,
       "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 50
@@ -941,20 +941,20 @@
   },
   {
     "workshopPath": "downloads/3669211724",
-    "hash": "af1730f72c0d12d1a381b82ffc87228dd3b829eafafad0ac9867c78075b3750c",
+    "hash": "d398dcf5b1051b57fd69f117fbecb136fe13782622d5e0ffe9b230ca1537b546",
     "level": {
       "name": "ZSL - Nightshade",
       "path": "downloads/3669211724/ZSL - Nightshade/ZSL - Nightshade.zeeplevel",
-      "blocks": 423,
+      "blocks": 426,
       "author": {
         "name": "Kernkob",
         "StmID": 76561199024808940,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "0Jrf38InAkKnK6w_Kernkob",
-      "time": 39.74131,
-      "checkpoints": 8,
+      "uuid": "ygDD1yMdvEOxHRK_Kernkob",
+      "time": 39.3125038,
+      "checkpoints": 9,
       "changerGateModes": {},
       "logicBlocks": 0
     },
@@ -967,7 +967,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3669312791",
