@@ -1119,5 +1119,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3670029279",
+    "hash": "30c936906f480189a86cc85e20121a829a095861ef30f1dec4cac90b9acbfec3",
+    "level": {
+      "name": "ZSL - Kick Startin' Mah Hart",
+      "path": "downloads/3670029279/ZSL - Kick Startin' Mah Hart/ZSL - Kick Startin' Mah Hart.zeeplevel",
+      "blocks": 234,
+      "author": {
+        "name": "_Mackey_",
+        "StmID": 76561198086401090,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "ZL-mW-r3vEeM9X2__Mackey_",
+      "time": 44.29894,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 1
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
