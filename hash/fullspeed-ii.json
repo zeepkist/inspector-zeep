@@ -911,19 +911,19 @@
   },
   {
     "workshopPath": "downloads/3669179590",
-    "hash": "e6a43f2ff7f354fd67262e812cfed07fe70a4c933c79b1dd2320d25b13b533b1",
+    "hash": "c9ba08fa458df206404a7f60368db0698b796dcf6dec134d22de56ceedab2dcb",
     "level": {
       "name": "ZSL - Running Through Redwoods",
       "path": "downloads/3669179590/ZSL - Running Through Redwoods/ZSL - Running Through Redwoods.zeeplevel",
-      "blocks": 1380,
+      "blocks": 1122,
       "author": {
         "name": "[heyo]Mr. Hubub",
         "StmID": 76561199051019900,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "5OBP4hy4H0-pJIc_[heyo]Mr  Hubub",
-      "time": 35.3491058,
+      "uuid": "rVQ2mwEYJUCN2SC_[heyo]Mr  Hubub",
+      "time": 35.3201332,
       "checkpoints": 4,
       "changerGateModes": {},
       "logicBlocks": 0
@@ -937,7 +937,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3669211724",
