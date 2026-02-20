@@ -1089,5 +1089,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3669894825",
+    "hash": "35d957772001d64ca0b91e0e06b5d95ed6b56013534ebf771c828096b9e03e11",
+    "level": {
+      "name": "ZSL - Glider Skip!",
+      "path": "downloads/3669894825/ZSL - Glider Skip!/ZSL - Glider Skip!.zeeplevel",
+      "blocks": 718,
+      "author": {
+        "name": "[CSC]CantFindTheSky",
+        "StmID": 76561198093513150,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "3amgKPlRWkyGIpp_[CSC]CantFindTheSky",
+      "time": 47.84983,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 5
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
