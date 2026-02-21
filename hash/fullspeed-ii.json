@@ -1210,5 +1210,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3670616313",
+    "hash": "cb26b823ac615bcd9bac122224d50e1cb336df1a51741bd5e8d27f42ad182b9d",
+    "level": {
+      "name": "ZSL - Joyride",
+      "path": "downloads/3670616313/ZSL - Joyride/ZSL - Joyride.zeeplevel",
+      "blocks": 259,
+      "author": {
+        "name": "Lexer",
+        "StmID": 76561198851912260,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "s01BiI99CUmL6o__Lexer",
+      "time": 48.4259872,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
