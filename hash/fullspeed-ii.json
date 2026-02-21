@@ -1240,5 +1240,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3670675498",
+    "hash": "a65a4aa2ae003829386ab2f335ffb28bada4849f6b0d64d47c066faf06c22bb7",
+    "level": {
+      "name": "ZSL - UpsideDown",
+      "path": "downloads/3670675498/ZSL - UpsideDown/ZSL - UpsideDown.zeeplevel",
+      "blocks": 213,
+      "author": {
+        "name": "BleibStehmon",
+        "StmID": 76561198235774450,
+        "collaborators": "",
+        "nameOverride": "ZSL - UpsideDown"
+      },
+      "uuid": "dA5DSADrjEy0ViY_BleibStehmon",
+      "time": 51.620182,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
