@@ -1180,5 +1180,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3670497555",
+    "hash": "5ffaa6b10aab896ba04b144be51776208a747cfcc1e1be4b167519544b086b81",
+    "level": {
+      "name": "ZSL - I know there is a fast line here but i can't find it",
+      "path": "downloads/3670497555/ZSL - I know there is a fast line here but i can't find it/ZSL - I know there is a fast line here but i can't find it.zeeplevel",
+      "blocks": 443,
+      "author": {
+        "name": "[TOG]Lazy_Echidna",
+        "StmID": 76561198008859140,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "y-YVhITyK0G3AUy_[TOG]Lazy_Echidna",
+      "time": 48.0205421,
+      "checkpoints": 4,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
