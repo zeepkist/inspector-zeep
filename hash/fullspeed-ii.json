@@ -1150,5 +1150,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3670403717",
+    "hash": "b1c074a2dd9d2e5c034844de803b45d3d79858bc4e90ab45371c544b349328de",
+    "level": {
+      "name": "ZSL - Aerotaro",
+      "path": "downloads/3670403717/ZSL - Aerotaro/ZSL - Aerotaro.zeeplevel",
+      "blocks": 1472,
+      "author": {
+        "name": "felix",
+        "StmID": 76561197996506220,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "RSy9w0wsOUmlZZu_felix",
+      "time": 39.82737,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
