@@ -1361,5 +1361,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3671459992",
+    "hash": "983401854889a7a7d09ed152b6214cf2fc8dd32310863987721df115908819fa",
+    "level": {
+      "name": "ZSL - Eye of the Storm - Pink Party",
+      "path": "downloads/3671459992/ZSL - Eye of the Storm - Pink Party/ZSL - Eye of the Storm - Pink Party.zeeplevel",
+      "blocks": 926,
+      "author": {
+        "name": "GuillaumePN",
+        "StmID": 76561199472626750,
+        "collaborators": "dudeeitsraymond & IncredulousPotato",
+        "nameOverride": ""
+      },
+      "uuid": "3mu-wy7T-EeP_Iu_GuillaumePN",
+      "time": 50.682,
+      "checkpoints": 7,
+      "changerGateModes": {},
+      "logicBlocks": 12
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
