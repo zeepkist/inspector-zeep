@@ -1391,5 +1391,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3671528486",
+    "hash": "1e00e4bd61a5f8d7dc93c707c11c2cf5e9506979926fcec2d6bd66e6a4435058",
+    "level": {
+      "name": "ZSL - AquArc",
+      "path": "downloads/3671528486/ZSL - AquArc/ZSL - AquArc.zeeplevel",
+      "blocks": 182,
+      "author": {
+        "name": "[MMM]Victor",
+        "StmID": 76561199733601760,
+        "collaborators": "[MMM]LKat",
+        "nameOverride": ""
+      },
+      "uuid": "7xWb9CNrW0i04Kn_[MMM]LKat",
+      "time": 45.70015,
+      "checkpoints": 9,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
