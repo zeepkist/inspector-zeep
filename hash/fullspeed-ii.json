@@ -1331,5 +1331,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3671195805",
+    "hash": "ed96ef44dfcebcb43f8e24178a850db8241f45de58c514457b1b6ab115dcf537",
+    "level": {
+      "name": "ZSL - The Nightmare Before Zeepkist",
+      "path": "downloads/3671195805/ZSL - The Nightmare Before Zeepkist/ZSL - The Nightmare Before Zeepkist.zeeplevel",
+      "blocks": 1336,
+      "author": {
+        "name": "Hellmet",
+        "StmID": 76561198093160300,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "JlThRjpgL02UDDd_Hellmet",
+      "time": 56.09501,
+      "checkpoints": 18,
+      "changerGateModes": {},
+      "logicBlocks": 13
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
