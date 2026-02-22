@@ -1093,19 +1093,19 @@
   },
   {
     "workshopPath": "downloads/3669894825",
-    "hash": "35d957772001d64ca0b91e0e06b5d95ed6b56013534ebf771c828096b9e03e11",
+    "hash": "0eb7024b8aa38ffb40ab5bbba612e11fc5b22eac052c0e681607c4731855720b",
     "level": {
       "name": "ZSL - Glider Skip!",
       "path": "downloads/3669894825/ZSL - Glider Skip!/ZSL - Glider Skip!.zeeplevel",
-      "blocks": 718,
+      "blocks": 721,
       "author": {
         "name": "[CSC]CantFindTheSky",
         "StmID": 76561198093513150,
         "collaborators": "",
         "nameOverride": ""
       },
-      "uuid": "3amgKPlRWkyGIpp_[CSC]CantFindTheSky",
-      "time": 47.84983,
+      "uuid": "1KzMKgis2UGgp-T_[CSC]CantFindTheSky",
+      "time": 46.96768,
       "checkpoints": 7,
       "changerGateModes": {},
       "logicBlocks": 5
@@ -1119,7 +1119,8 @@
       "isOverWidthLimit": false,
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
-    }
+    },
+    "invalidatedAt": 0
   },
   {
     "workshopPath": "downloads/3670029279",
@@ -1257,6 +1258,66 @@
       "uuid": "dA5DSADrjEy0ViY_BleibStehmon",
       "time": 51.620182,
       "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3671110902",
+    "hash": "5c1aa17cd28a0a6ba01d3701382e4052c7a464855dd74434d7e2a36c28f18ffe",
+    "level": {
+      "name": "ZSL - Gonzales Pass",
+      "path": "downloads/3671110902/ZSL - Gonzales Pass/ZSL - Gonzales Pass.zeeplevel",
+      "blocks": 540,
+      "author": {
+        "name": "NworBic",
+        "StmID": 76561198047749090,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "fuyAXPg8ekS1JzD_NworBic",
+      "time": 41.9230957,
+      "checkpoints": 6,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
+  },
+  {
+    "workshopPath": "downloads/3671095186",
+    "hash": "304ce20b203dd5e1dcb395f49ec28a47d8d1b414812f641c48eda9305353eb12",
+    "level": {
+      "name": "ZSL - Emergence Zone",
+      "path": "downloads/3671095186/ZSL - Emergence Zone/ZSL - Emergence Zone.zeeplevel",
+      "blocks": 2996,
+      "author": {
+        "name": "BB_Benji",
+        "StmID": 76561198428660620,
+        "collaborators": "",
+        "nameOverride": ""
+      },
+      "uuid": "izJY5hnoP0e77CR_BB_Benji",
+      "time": 39.8169022,
+      "checkpoints": 5,
       "changerGateModes": {},
       "logicBlocks": 0
     },
