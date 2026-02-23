@@ -1421,5 +1421,35 @@
       "areFixedCheckpointsValid": true,
       "hasRequiredChangerGateModes": true
     }
+  },
+  {
+    "workshopPath": "downloads/3668425994",
+    "hash": "2747710253fa00cf234a334ab4f482922a50b65ac4900381a49e59405f21031b",
+    "level": {
+      "name": "ZSL - Garnet Oculus",
+      "path": "downloads/3668425994/ZSL - Garnet Oculus/ZSL - Garnet Oculus.zeeplevel",
+      "blocks": 1765,
+      "author": {
+        "name": "[FOOL] Ruckooe",
+        "StmID": 76561198315900260,
+        "collaborators": "",
+        "nameOverride": "Ruckooe"
+      },
+      "uuid": "YdW55UaDw0aG_y-_[FOOL] Ruckooe",
+      "time": 58.31592,
+      "checkpoints": 3,
+      "changerGateModes": {},
+      "logicBlocks": 0
+    },
+    "isValid": true,
+    "validity": {
+      "isOverBlockLimit": false,
+      "isUnderTimeLimit": false,
+      "isOverTimeLimit": false,
+      "isUnderCheckpointLimit": false,
+      "isOverWidthLimit": false,
+      "areFixedCheckpointsValid": true,
+      "hasRequiredChangerGateModes": true
+    }
   }
 ]
