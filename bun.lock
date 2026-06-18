@@ -10,7 +10,7 @@
         "rimraf": "^6.0.0",
       },
       "devDependencies": {
-        "@ava/typescript": "^6.0.0",
+        "@ava/typescript": "^7.0.0",
         "@biomejs/biome": "^1.9.4",
         "@semantic-release/changelog": "^6.0.3",
         "@semantic-release/commit-analyzer": "^13.0.0",
@@ -34,7 +34,7 @@
 
     "@actions/io": ["@actions/io@3.0.2", "", {}, "sha512-nRBchcMM+QK1pdjO7/idu86rbJI5YHUKCvKs0KxnSYbVe3F51UfGxuZX4Qy/fWlp6l7gWFwIkrOzN+oUK03kfw=="],
 
-    "@ava/typescript": ["@ava/typescript@6.0.0", "", { "dependencies": { "escape-string-regexp": "^5.0.0", "execa": "^9.6.0" } }, "sha512-+8oDYc4J5cCaWZh1VUbyc+cegGplJO9FqHpqR4LVAVx8fRLVRaYlC4yyA6cqHJ1vWP23Ff/ECS5U68Zz6OLZlg=="],
+    "@ava/typescript": ["@ava/typescript@7.0.0", "", { "dependencies": { "escape-string-regexp": "^5.0.0", "execa": "^9.6.1" } }, "sha512-0ktzq4/9ya2QoAuVWzl3McpLV9W//Tj+oMonQ4ucgm5l6tQ46aaju/rJL9kzeY5MkG6wzXvFt/MmaLqf9uNC9w=="],
 
     "@babel/code-frame": ["@babel/code-frame@7.29.0", "", { "dependencies": { "@babel/helper-validator-identifier": "^7.28.5", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-9NhCeYjq9+3uxgdtp20LSiJXJvN0FeCtNGpJxuMFZ1Kv3cWUNb6DOhJwUvcVCzKGR66cw4njwM6hrJLqgOwbcw=="],
 
